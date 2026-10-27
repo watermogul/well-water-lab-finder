@@ -23,18 +23,18 @@ eleventyComputed:
 {% set mainLabs = d.labs | groupFilter('main') %}
 {% set pubLabs = d.labs | groupFilter('public') %}
 {% set limLabs = d.labs | groupFilter('limited') %}
-<h2>{% if stkey == 'new-york' %}Westchester County registered labs{% elif stkey == 'maryland' %}Commercial labs certified for bacteria and chemistry{% else %}Labs{% endif %} ({{ mainLabs.length }})</h2>
-{% for l in mainLabs %}{{ labCard(l, stkey) }}{% endfor %}
+<h2>{% if s.main_heading %}{{ s.main_heading }}{% elif stkey == 'new-york' %}Westchester County registered labs{% elif stkey == 'maryland' %}Commercial labs certified for bacteria and chemistry{% else %}Labs{% endif %} ({{ mainLabs.length }})</h2>
+{% for l in mainLabs %}{{ labCard(l, stkey, s.chips_label) }}{% endfor %}
 {% if pubLabs.length %}
-<details><summary>Water-utility, government and health-agency labs on the same list ({{ pubLabs.length }})</summary>
-<p class="small">These are usually run by a water system or agency for its own sampling. The source does not say whether they take homeowner samples. Call first.</p>
-{% for l in pubLabs %}{{ labCard(l, stkey) }}{% endfor %}
+<details><summary>{{ s.public_heading or 'Water-utility, government and health-agency labs on the same list' }} ({{ pubLabs.length }})</summary>
+<p class="small">{{ s.public_note or 'These are usually run by a water system or agency for its own sampling. The source does not say whether they take homeowner samples. Call first.' }}</p>
+{% for l in pubLabs %}{{ labCard(l, stkey, s.chips_label) }}{% endfor %}
 </details>
 {% endif %}
 {% if limLabs.length %}
-<details><summary>{% if stkey == 'maryland' %}Commercial labs certified for bacteria only or chemistry only{% else %}Labs accredited for only one test category{% endif %} ({{ limLabs.length }})</summary>
+<details><summary>{% if s.limited_heading %}{{ s.limited_heading }}{% elif stkey == 'maryland' %}Commercial labs certified for bacteria only or chemistry only{% else %}Labs accredited for only one test category{% endif %} ({{ limLabs.length }})</summary>
 {% if s.limited_note %}<p class="small">{{ s.limited_note }}</p>{% else %}<p class="small">Each of these is accredited for a single category in the DEP reports (for example bacteria only, or radon and uranium only), or is a bottler or industrial lab. They are shown for completeness. Most are probably not set up for homeowners.</p>{% endif %}
-{% for l in limLabs %}{{ labCard(l, stkey) }}{% endfor %}
+{% for l in limLabs %}{{ labCard(l, stkey, s.chips_label) }}{% endfor %}
 </details>
 {% endif %}
 <h2>Official sources for {{ s.name }}</h2>

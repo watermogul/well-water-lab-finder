@@ -7,6 +7,7 @@
     "build": "eleventy",
     "serve": "eleventy --serve",
     "check": "node scripts/check.mjs",
+    "data:more": "python3 scripts/build_va.py && python3 scripts/build_wi.py && python3 scripts/build_tn.py && python3 scripts/build_wv.py && python3 scripts/build_mn.py && python3 scripts/build_me.py && python3 scripts/build_vt.py && python3 scripts/build_ct.py && python3 scripts/build_mi.py && python3 scripts/build_ri.py",
     "data": "python3 scripts/build_pa.py && python3 scripts/build_data.py && python3 scripts/build_md.py"
   },
   "devDependencies": {

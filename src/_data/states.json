@@ -1,127 +1,500 @@
 {
-  "pennsylvania": {
-    "name": "Pennsylvania",
-    "abbr": "PA",
-    "title": "Pennsylvania drinking-water labs for private wells (PA DEP-accredited)",
-    "description": "Labs on Pennsylvania DEP's drinking-water accreditation reports that cover coliform bacteria, nitrate, pH, TDS, lead, arsenic or radon, with source and verification date on every listing.",
-    "intro": [
-      "Pennsylvania DEP's private-well testing page says to always use a state-certified laboratory that conducts drinking water tests. DEP publishes its accreditation results as two PDF reports, one for chemistry and one for microbiology. This page merges them by DEP lab ID and keeps the labs with a Pennsylvania address.",
-      "Penn State's Agricultural Analytical Services Laboratory is on the list. It runs a mail-in kit program for homeowners and publishes its fees, which are on our cost guide."
-    ],
-    "caveats": [
-      "The DEP reports we used are dated June 11, 2024 (chemistry) and June 13, 2024 (microbiology). Accreditation can change after that date. DEP's own page links these as its current reports, but check with DEP or the lab before you pay for a test.",
-      "The reports list what each lab is accredited to test in drinking water. They do not say whether a lab accepts samples from the public. Water-utility and agency labs are usually testing their own supply, so we list them separately. Call before sending a sample.",
-      "We did not enumerate prices for Pennsylvania labs other than Penn State, because none were verified."
-    ],
-    "resources": [
-      {"label": "PA DEP: private well water testing", "url": "https://www.pa.gov/agencies/dep/residents/my-water/private-wells/water-testing"},
-      {"label": "Penn State AASL drinking water testing and fees", "url": "https://agsci.psu.edu/aasl/water-testing/drinking-water-testing"}
-    ]
-  },
-  "ohio": {
-    "name": "Ohio",
-    "abbr": "OH",
-    "title": "Ohio labs certified for drinking-water analysis (Ohio EPA list)",
-    "description": "Ohio-based labs on Ohio EPA's October 2026 list of laboratories certified or accepted to test drinking water for microbiology and chemistry, with source and verification date on every listing.",
-    "intro": [
-      "Ohio EPA publishes a combined list of laboratories certified or accepted to run drinking-water analyses. We took the Ohio-address labs on that list that are approved for microbiology (total coliform and E. coli) or chemistry.",
-      "In Ohio's list, \"Standard Chemistry\" and \"Trace Metals\" are Ohio EPA's own category names. We show them as written and have not expanded them into a list of individual analytes."
-    ],
-    "caveats": [
-      "Ohio EPA titles this list \"Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water\". It is a compliance list for public water systems. It does not say which labs take samples from homeowners with private wells. Every lab here needs a phone call first.",
-      "Labs whose names show they are a water utility, county health district or other public agency are in a separate group. They often serve their own system or jurisdiction.",
-      "We left out labs on the list with an out-of-state address and labs listed only for specialty tests such as PFAS, cyanotoxins or Cryptosporidium. Ohio's list is dated October 2026."
-    ],
-    "resources": [
-      {"label": "Ohio EPA combined certified-lab list (PDF)", "url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf"},
-      {"label": "EPA: certification programs and certified laboratories, by state", "url": "https://www.epa.gov/dwlabcert/contact-information-certification-programs-and-certified-laboratories-drinking-water"}
-    ]
-  },
-  "new-hampshire": {
-    "name": "New Hampshire",
-    "abbr": "NH",
-    "title": "New Hampshire NHELAP-accredited labs for private wells",
-    "description": "The labs NHDES lists as NHELAP-accredited and serving New Hampshire private-well users, plus the state public health lab, with source and verification date on every listing.",
-    "intro": [
-      "NHDES recommends that private-well users use a lab accredited by the New Hampshire Environmental Laboratory Accreditation Program (NHELAP). Its \"Water Testing Guidance for Private Well Users\" (April 2026 version) includes a table of such labs that serve private-well users, which is where these listings come from.",
-      "NHDES says to test for bacteria, nitrate and nitrite every year, and to test the rest of its list every 3–5 years. The list is on our what-to-test guide."
-    ],
-    "caveats": [
-      "The lab table inside NHDES's April 2026 PDF carries its own footnote: \"Lab list updated 9/20/2024\". NHDES points to its Accredited Laboratory Search for current data.",
-      "The PDF's table text is jumbled when read by machine, especially the drop-off column. We cross-checked names and street addresses and kept only what we could read cleanly. Confirm drop-off locations and tests on each lab's website.",
-      "We did not record which analytes each NH lab is accredited for. Use NHDES's search tool for that."
-    ],
-    "resources": [
-      {"label": "NHDES: Water Testing Guidance for Private Well Users (PDF)", "url": "https://www.des.nh.gov/sites/g/files/ehbemt341/files/documents/labs-private-wells.pdf"},
-      {"label": "NHDES Accredited Laboratory Search", "url": "https://www4.des.state.nh.us/certifiedlabs/certified-method.aspx"},
-      {"label": "NH Public Health Laboratories: Water Analysis Laboratory Program", "url": "https://www.dhhs.nh.gov/programs-services/environmental-health-and-you/water-analysis-laboratory-program"}
-    ]
-  },
-  "new-york": {
-    "name": "New York",
-    "abbr": "NY",
-    "title": "New York: finding an ELAP-certified lab for your well (Westchester list included)",
-    "description": "How to find a New York ELAP-certified drinking-water lab for a private well, plus the ten labs registered with Westchester County's private-well testing program.",
-    "intro": [
-      "New York certifies environmental labs through the Department of Health's Environmental Laboratory Approval Program (ELAP) at the Wadsworth Center. Its public search tool is the authoritative way to find a lab approved for drinking water.",
-      "The search tool is an interactive form with no downloadable list, so we have not tried to reproduce a statewide directory. What we can list from a published source is Westchester County's list of ELAP-certified labs registered for its private-well testing law."
-    ],
-    "caveats": [
-      "This page does not cover New York statewide. Only the Westchester County labs below are listed, and the county's PDF prints no date (the file name says 2025).",
-      "Several labs on the Westchester list are in Connecticut or Pennsylvania. They are still ELAP-certified according to the county.",
-      "We did not verify which tests each lab runs, or what it charges. Ask the lab, and confirm its current ELAP scope in the state search.",
-      "Other New York counties publish their own lists. We have not verified them yet."
-    ],
-    "resources": [
-      {"label": "NYS ELAP: search accredited environmental laboratories", "url": "https://healthapps.health.ny.gov/pubdoh/applinks/wc/elappublicweb/"},
-      {"label": "NYS DOH Wadsworth Center: ELAP", "url": "https://wadsworth.org/regulatory/elap"},
-      {"label": "Westchester County DOH: private-well lab list (PDF)", "url": "https://health.westchestercountyny.gov/images/stories/PDF/List_of_Labs_for_Private_Well_2025.pdf"}
-    ]
-  },
-  "maryland": {
-    "name": "Maryland",
-    "abbr": "MD",
-    "title": "Maryland state-certified drinking-water labs for private wells (MDE list)",
-    "description": "Maryland-based labs on MDE's October 1, 2026 list of certified drinking-water laboratories, with each lab's approved test groups in plain English and the source and verification date on every listing.",
-    "intro": [
-      "The Maryland Department of the Environment (MDE) says households with private wells should have their water tested periodically by a state-certified laboratory that conducts a drinking water test. MDE recommends sampling at least once a year for total coliform bacteria, nitrates, total dissolved solids and pH, and again any time the water's odor, taste or appearance changes.",
-      "MDE's Laboratory Certification Program publishes one list of every certified drinking-water lab, with its address, phone number and approved tests. Its latest revision is dated October 1, 2026. This page shows the labs in the list's \"In State Labs\" section and turns MDE's test codes (\"Micro 4\", \"Inorganics 1\" and so on) into plain names using MDE's own list of approved contaminants.",
-      "We put commercial labs certified for both bacteria and at least one chemistry group first. A well owner's basic annual test needs both. Labs certified only for bacteria, or only for chemistry, are in a separate group further down."
-    ],
-    "caveats": [
-      "MDE's list is the certification list for public water system compliance testing. It does not say which labs take samples from homeowners. Call the lab before you collect a sample.",
-      "Total dissolved solids and pH, two of MDE's four recommended annual tests, are not certification categories on MDE's approved-contaminant list. The list therefore can't tell you who runs them. Ask the lab.",
-      "MDE notes that evaluation of certified labs is ongoing and the list may change before its next website update. For private and real-estate testing, MDE also recommends using a certified sampler.",
-      "MDE's list also names 53 out-of-state labs, mostly large commercial labs in neighboring and distant states. We have not listed them here; see the MDE PDF if you live near a state line.",
-      "We did not verify prices, turnaround times or websites for any Maryland lab, so none are shown."
-    ],
-    "limited_note": "Each of these commercial labs is certified on MDE's list for bacteria only or for chemistry only. You may need a second lab, or the lab may send part of the work elsewhere. Ask first.",
-    "test_label": "Approved by MDE for:",
-    "resources": [
-      {
-        "label": "MDE: Maryland's Certified Drinking Water Laboratories (PDF, latest revisions 10/1/2026)",
-        "url": "https://mde.maryland.gov/programs/water/water_supply/Documents/Maryland-Certified-DW-Labs.pdf"
-      },
-      {
-        "label": "MDE: list of approved contaminants and test-code groups (PDF, revised 10/10/2024)",
-        "url": "https://mde.maryland.gov/programs/water/water_supply/Documents/MD%20Approved%20Parameter%20List.pdf"
-      },
-      {
-        "label": "MDE: Water Supply Laboratory Certification program",
-        "url": "https://mde.maryland.gov/programs/water/water_supply/pages/wsp-labcert.aspx"
-      },
-      {
-        "label": "MDE: Be Well Wise (private well guidance)",
-        "url": "https://mde.maryland.gov/programs/Water/Water_Supply/Pages/Be_Well_Wise.aspx"
-      },
-      {
-        "label": "MDE: current certified water samplers (PDF)",
-        "url": "https://mde.maryland.gov/programs/water/water_supply/Documents/Current-Certified-Water-Samplers.pdf"
-      },
-      {
-        "label": "University of Maryland Extension: certified water testing labs that serve homeowners (last updated 2019)",
-        "url": "https://www.extension.umd.edu/programs/environment-natural-resources/program-areas/wells-septic-systems-and-water-quality/water-quality-and-testing/certified-water-testing-labs"
-      }
-    ]
-  }
+ "pennsylvania": {
+  "name": "Pennsylvania",
+  "abbr": "PA",
+  "title": "Pennsylvania drinking-water labs for private wells (PA DEP-accredited)",
+  "description": "Labs on Pennsylvania DEP's drinking-water accreditation reports that cover coliform bacteria, nitrate, pH, TDS, lead, arsenic or radon, with source and verification date on every listing.",
+  "intro": [
+   "Pennsylvania DEP's private-well testing page says to always use a state-certified laboratory that conducts drinking water tests. DEP publishes its accreditation results as two PDF reports, one for chemistry and one for microbiology. This page merges them by DEP lab ID and keeps the labs with a Pennsylvania address.",
+   "Penn State's Agricultural Analytical Services Laboratory is on the list. It runs a mail-in kit program for homeowners and publishes its fees, which are on our cost guide."
+  ],
+  "caveats": [
+   "The DEP reports we used are dated June 11, 2024 (chemistry) and June 13, 2024 (microbiology). Accreditation can change after that date. DEP's own page links these as its current reports, but check with DEP or the lab before you pay for a test.",
+   "The reports list what each lab is accredited to test in drinking water. They do not say whether a lab accepts samples from the public. Water-utility and agency labs are usually testing their own supply, so we list them separately. Call before sending a sample.",
+   "We did not enumerate prices for Pennsylvania labs other than Penn State, because none were verified."
+  ],
+  "resources": [
+   {
+    "label": "PA DEP: private well water testing",
+    "url": "https://www.pa.gov/agencies/dep/residents/my-water/private-wells/water-testing"
+   },
+   {
+    "label": "Penn State AASL drinking water testing and fees",
+    "url": "https://agsci.psu.edu/aasl/water-testing/drinking-water-testing"
+   }
+  ]
+ },
+ "ohio": {
+  "name": "Ohio",
+  "abbr": "OH",
+  "title": "Ohio labs certified for drinking-water analysis (Ohio EPA list)",
+  "description": "Ohio-based labs on Ohio EPA's October 2026 list of laboratories certified or accepted to test drinking water for microbiology and chemistry, with source and verification date on every listing.",
+  "intro": [
+   "Ohio EPA publishes a combined list of laboratories certified or accepted to run drinking-water analyses. We took the Ohio-address labs on that list that are approved for microbiology (total coliform and E. coli) or chemistry.",
+   "In Ohio's list, \"Standard Chemistry\" and \"Trace Metals\" are Ohio EPA's own category names. We show them as written and have not expanded them into a list of individual analytes."
+  ],
+  "caveats": [
+   "Ohio EPA titles this list \"Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water\". It is a compliance list for public water systems. It does not say which labs take samples from homeowners with private wells. Every lab here needs a phone call first.",
+   "Labs whose names show they are a water utility, county health district or other public agency are in a separate group. They often serve their own system or jurisdiction.",
+   "We left out labs on the list with an out-of-state address and labs listed only for specialty tests such as PFAS, cyanotoxins or Cryptosporidium. Ohio's list is dated October 2026."
+  ],
+  "resources": [
+   {
+    "label": "Ohio EPA combined certified-lab list (PDF)",
+    "url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf"
+   },
+   {
+    "label": "EPA: certification programs and certified laboratories, by state",
+    "url": "https://www.epa.gov/dwlabcert/contact-information-certification-programs-and-certified-laboratories-drinking-water"
+   }
+  ]
+ },
+ "new-hampshire": {
+  "name": "New Hampshire",
+  "abbr": "NH",
+  "title": "New Hampshire NHELAP-accredited labs for private wells",
+  "description": "The labs NHDES lists as NHELAP-accredited and serving New Hampshire private-well users, plus the state public health lab, with source and verification date on every listing.",
+  "intro": [
+   "NHDES recommends that private-well users use a lab accredited by the New Hampshire Environmental Laboratory Accreditation Program (NHELAP). Its \"Water Testing Guidance for Private Well Users\" (April 2026 version) includes a table of such labs that serve private-well users, which is where these listings come from.",
+   "NHDES says to test for bacteria, nitrate and nitrite every year, and to test the rest of its list every 3–5 years. The list is on our what-to-test guide."
+  ],
+  "caveats": [
+   "The lab table inside NHDES's April 2026 PDF carries its own footnote: \"Lab list updated 9/20/2024\". NHDES points to its Accredited Laboratory Search for current data.",
+   "The PDF's table text is jumbled when read by machine, especially the drop-off column. We cross-checked names and street addresses and kept only what we could read cleanly. Confirm drop-off locations and tests on each lab's website.",
+   "We did not record which analytes each NH lab is accredited for. Use NHDES's search tool for that."
+  ],
+  "resources": [
+   {
+    "label": "NHDES: Water Testing Guidance for Private Well Users (PDF)",
+    "url": "https://www.des.nh.gov/sites/g/files/ehbemt341/files/documents/labs-private-wells.pdf"
+   },
+   {
+    "label": "NHDES Accredited Laboratory Search",
+    "url": "https://www4.des.state.nh.us/certifiedlabs/certified-method.aspx"
+   },
+   {
+    "label": "NH Public Health Laboratories: Water Analysis Laboratory Program",
+    "url": "https://www.dhhs.nh.gov/programs-services/environmental-health-and-you/water-analysis-laboratory-program"
+   }
+  ]
+ },
+ "new-york": {
+  "name": "New York",
+  "abbr": "NY",
+  "title": "New York: finding an ELAP-certified lab for your well (Westchester list included)",
+  "description": "How to find a New York ELAP-certified drinking-water lab for a private well, plus the ten labs registered with Westchester County's private-well testing program.",
+  "intro": [
+   "New York certifies environmental labs through the Department of Health's Environmental Laboratory Approval Program (ELAP) at the Wadsworth Center. Its public search tool is the authoritative way to find a lab approved for drinking water.",
+   "The search tool is an interactive form with no downloadable list, so we have not tried to reproduce a statewide directory. What we can list from a published source is Westchester County's list of ELAP-certified labs registered for its private-well testing law."
+  ],
+  "caveats": [
+   "This page does not cover New York statewide. Only the Westchester County labs below are listed, and the county's PDF prints no date (the file name says 2025).",
+   "Several labs on the Westchester list are in Connecticut or Pennsylvania. They are still ELAP-certified according to the county.",
+   "We did not verify which tests each lab runs, or what it charges. Ask the lab, and confirm its current ELAP scope in the state search.",
+   "Other New York counties publish their own lists. We have not verified them yet."
+  ],
+  "resources": [
+   {
+    "label": "NYS ELAP: search accredited environmental laboratories",
+    "url": "https://healthapps.health.ny.gov/pubdoh/applinks/wc/elappublicweb/"
+   },
+   {
+    "label": "NYS DOH Wadsworth Center: ELAP",
+    "url": "https://wadsworth.org/regulatory/elap"
+   },
+   {
+    "label": "Westchester County DOH: private-well lab list (PDF)",
+    "url": "https://health.westchestercountyny.gov/images/stories/PDF/List_of_Labs_for_Private_Well_2025.pdf"
+   }
+  ]
+ },
+ "maryland": {
+  "name": "Maryland",
+  "abbr": "MD",
+  "title": "Maryland state-certified drinking-water labs for private wells (MDE list)",
+  "description": "Maryland-based labs on MDE's October 1, 2026 list of certified drinking-water laboratories, with each lab's approved test groups in plain English and the source and verification date on every listing.",
+  "intro": [
+   "The Maryland Department of the Environment (MDE) says households with private wells should have their water tested periodically by a state-certified laboratory that conducts a drinking water test. MDE recommends sampling at least once a year for total coliform bacteria, nitrates, total dissolved solids and pH, and again any time the water's odor, taste or appearance changes.",
+   "MDE's Laboratory Certification Program publishes one list of every certified drinking-water lab, with its address, phone number and approved tests. Its latest revision is dated October 1, 2026. This page shows the labs in the list's \"In State Labs\" section and turns MDE's test codes (\"Micro 4\", \"Inorganics 1\" and so on) into plain names using MDE's own list of approved contaminants.",
+   "We put commercial labs certified for both bacteria and at least one chemistry group first. A well owner's basic annual test needs both. Labs certified only for bacteria, or only for chemistry, are in a separate group further down."
+  ],
+  "caveats": [
+   "MDE's list is the certification list for public water system compliance testing. It does not say which labs take samples from homeowners. Call the lab before you collect a sample.",
+   "Total dissolved solids and pH, two of MDE's four recommended annual tests, are not certification categories on MDE's approved-contaminant list. The list therefore can't tell you who runs them. Ask the lab.",
+   "MDE notes that evaluation of certified labs is ongoing and the list may change before its next website update. For private and real-estate testing, MDE also recommends using a certified sampler.",
+   "MDE's list also names 53 out-of-state labs, mostly large commercial labs in neighboring and distant states. We have not listed them here; see the MDE PDF if you live near a state line.",
+   "We did not verify prices, turnaround times or websites for any Maryland lab, so none are shown."
+  ],
+  "limited_note": "Each of these commercial labs is certified on MDE's list for bacteria only or for chemistry only. You may need a second lab, or the lab may send part of the work elsewhere. Ask first.",
+  "test_label": "Approved by MDE for:",
+  "resources": [
+   {
+    "label": "MDE: Maryland's Certified Drinking Water Laboratories (PDF, latest revisions 10/1/2026)",
+    "url": "https://mde.maryland.gov/programs/water/water_supply/Documents/Maryland-Certified-DW-Labs.pdf"
+   },
+   {
+    "label": "MDE: list of approved contaminants and test-code groups (PDF, revised 10/10/2024)",
+    "url": "https://mde.maryland.gov/programs/water/water_supply/Documents/MD%20Approved%20Parameter%20List.pdf"
+   },
+   {
+    "label": "MDE: Water Supply Laboratory Certification program",
+    "url": "https://mde.maryland.gov/programs/water/water_supply/pages/wsp-labcert.aspx"
+   },
+   {
+    "label": "MDE: Be Well Wise (private well guidance)",
+    "url": "https://mde.maryland.gov/programs/Water/Water_Supply/Pages/Be_Well_Wise.aspx"
+   },
+   {
+    "label": "MDE: current certified water samplers (PDF)",
+    "url": "https://mde.maryland.gov/programs/water/water_supply/Documents/Current-Certified-Water-Samplers.pdf"
+   },
+   {
+    "label": "University of Maryland Extension: certified water testing labs that serve homeowners (last updated 2019)",
+    "url": "https://www.extension.umd.edu/programs/environment-natural-resources/program-areas/wells-septic-systems-and-water-quality/water-quality-and-testing/certified-water-testing-labs"
+   }
+  ]
+ },
+ "virginia": {
+  "title": "Virginia state-certified drinking-water labs for private wells (DCLS list)",
+  "description": "Virginia-based labs on the Division of Consolidated Laboratory Services list of certified/accredited drinking-water labs (current as of Aug. 1, 2026), with the well-test analytes each is certified for and the source on every listing.",
+  "intro": [
+   "Virginia's Division of Consolidated Laboratory Services (DCLS) accredits and certifies the labs that may run drinking-water compliance tests. DCLS publishes the list as an Excel file with each lab's address, phone number (where printed), certificate expiration date and every analyte and method it is approved for. The version used here is marked \"Current as of 8/1/2026\".",
+   "This page shows the labs located in Virginia (82 of the 147 labs on the file) and pulls out the analytes a private-well owner usually cares about: coliform bacteria and E. coli, nitrate and nitrite, arsenic, lead and copper, and so on. Labs located outside Virginia are on DCLS's file too; we left them out to keep the page about in-state labs.",
+   "Labs approved for both bacteria and at least one chemistry analyte, and not run by a water utility or government agency, are listed first. That is the combination a basic well test needs."
+  ],
+  "caveats": [
+   "This is the certification list for public water system compliance testing. It does not say which labs accept samples from homeowners, and it does not list prices. Call the lab first.",
+   "We sorted labs into groups by name: a lab whose name looks like a water authority, utility, city, town, county or agency is shown in the utility/agency group. That is our judgment from the name, not a field in the DCLS file.",
+   "Only the analytes we recognised as common well tests are shown on each card. Many labs are approved for dozens more; the DCLS file is the full record.",
+   "A phone number is shown only where the DCLS file prints one. Some labs have none listed.",
+   "65 labs located outside Virginia (mostly large commercial labs in neighbouring and distant states) are on the DCLS file but not shown here.",
+   "We did not verify prices, turnaround times or websites for any lab on this page, so none are shown."
+  ],
+  "main_heading": "Virginia labs certified for bacteria and well-water chemistry",
+  "public_heading": "Water-authority, utility, city, county and agency labs on the same list",
+  "public_note": "These labs look from their names like they are run by a water system or agency for its own sampling. DCLS does not say whether they take homeowner samples. Call first.",
+  "limited_heading": "Labs approved for bacteria only, chemistry only, or specialty tests",
+  "limited_note": "Each of these is approved for only one kind of well test (for example bacteria only, or lead only) or for specialty analytes. You may need a second lab for a full panel.",
+  "chips_label": "Well-test analytes on the DCLS list for this lab:",
+  "resources": [
+   {
+    "label": "DCLS: Drinking Water Laboratories with certification detail (Excel, current as of 8/1/2026)",
+    "url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx"
+   },
+   {
+    "label": "DCLS: Find a Lab (accredited and certified laboratory lists)",
+    "url": "https://dgs.virginia.gov/division-of-consolidated-laboratory-services/certification-accreditation/find-a-lab/"
+   },
+   {
+    "label": "Virginia Department of Health: private well program",
+    "url": "https://www.vdh.virginia.gov/environmental-health/onsite-water-programs/private-well-program/"
+   }
+  ],
+  "name": "Virginia",
+  "abbr": "VA"
+ },
+ "wisconsin": {
+  "title": "Wisconsin state-certified drinking-water labs for private wells (DNR lists)",
+  "description": "Wisconsin labs on the DNR lists of certified drinking-water chemistry labs (Sept. 28, 2026) and coliform-bacteria labs, with lab type, phone numbers where printed and the source on every listing.",
+  "intro": [
+   "Wisconsin's Department of Natural Resources (DNR) certifies drinking-water labs and publishes two lists that matter for well owners: an Excel file of labs certified for drinking-water chemistry (dated Sept. 28, 2026 in the file name), and a web page of labs certified for coliform bacteria testing. DNR labels the chemistry file for homeowners and public water systems alike, and it names each lab's type: commercial, public health, municipal and so on.",
+   "We joined the two lists on DNR's facility ID. Labs located in Wisconsin that appear on both lists, and are not municipal, industrial or water-system labs, are shown first. Labs on only one list are in a second group.",
+   "The bacteria page prints a street address and phone number; the chemistry file prints only city, county and phone. Where a lab is only on the chemistry file we show the city and say so."
+  ],
+  "caveats": [
+   "These are the DNR's certification lists for drinking-water compliance and homeowner testing. They do not say which labs will take a sample from a homeowner, and they do not list prices. Call the lab first.",
+   "Groups follow DNR's lab-type field where the chemistry file has one. Labs that appear only on the bacteria page have no type field, so we judged those from the name: water utilities, wastewater plants, villages, cities and state agencies go in the municipal group, while county health departments and universities go in the single-list group.",
+   "Only the analytes we recognised as common well tests are shown as chips. The DNR file lists every method and analyte; the Excel file is the full record.",
+   "Wisconsin's list also names labs in other states (for example Illinois, Michigan, Minnesota and Indiana). We left out the 18 out-of-state labs.",
+   "The bacteria page is a live DNR web page with no revision date, so its source date is the day we retrieved it.",
+   "We did not verify prices, turnaround times or websites for any lab on this page, so none are shown."
+  ],
+  "main_heading": "Wisconsin labs certified for chemistry and coliform bacteria",
+  "public_heading": "Municipal, water-system, industrial and agency labs",
+  "public_note": "DNR types these as municipal, water-system or industrial labs, or they look like one from the name. They usually test for their own system. Call first.",
+  "limited_heading": "Labs on only one DNR list (chemistry only or bacteria only)",
+  "limited_note": "These labs appear on only one of the two DNR lists (most are on the bacteria page only), so you may need a second lab for a full well test. Many are county health departments, which often run just a basic bacteria test.",
+  "chips_label": "Well-test analytes on the DNR lists for this lab:",
+  "resources": [
+   {
+    "label": "Wisconsin DNR: certified drinking-water lab lists (chemistry Excel, Sept. 28, 2026)",
+    "url": "https://dnr.wisconsin.gov/sites/default/files/topic/LabCert/DWLabs092826.xlsx"
+   },
+   {
+    "label": "Wisconsin DNR: labs certified for coliform bacteria (Drinking Water System Portal)",
+    "url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab"
+   },
+   {
+    "label": "Wisconsin DNR: certified lab lists page",
+    "url": "https://dnr.wisconsin.gov/topic/labCert/certified-lab-lists"
+   },
+   {
+    "label": "Wisconsin DNR: wells",
+    "url": "https://dnr.wisconsin.gov/topic/Wells"
+   }
+  ],
+  "name": "Wisconsin",
+  "abbr": "WI"
+ },
+ "tennessee": {
+  "title": "Tennessee state-certified drinking-water labs (TDEC commercial lab list)",
+  "description": "Tennessee-based commercial labs certified by TDEC for drinking-water chemistry and bacteria (list dated Oct. 6, 2026), with certified analysis groups, expiration dates and the source on every listing.",
+  "intro": [
+   "The Tennessee Department of Environment and Conservation (TDEC) certifies labs for drinking-water analysis and publishes a list of commercial laboratories. The list in use here is dated October 6, 2026, and splits labs into \"In State\" and \"Out of State\". Each entry shows the lab's address, phone number, lab ID, the expiration dates of its chemistry and bacteriology certifications, and the contaminant groups it is certified for.",
+   "This page shows the in-state labs whose certifications were still unexpired on October 27, 2026. A lab with both a current chemistry certification (including inorganics and trace metals) and a current bacteriology certification (enzyme-substrate or membrane-filter coliform testing) is shown first."
+  ],
+  "caveats": [
+   "TDEC states that this list is for determining whether samples count for compliance with maximum contaminant levels. It does not say which labs accept samples from homeowners and does not list prices. Call the lab first.",
+   "TDEC notes that a lab may not be approved for every parameter within a group. For example, \"Inorganics/Trace Metals\" does not mean every metal. Ask the lab for the exact analytes.",
+   "The PDF prints two dates: 10/2/2026 in the header of page 1 and 10/06/2026 in each page footer. We use the footer date (10/06/2026) as the list date.",
+   "We used only TDEC's commercial-laboratories list. Labs on that list that are located outside Tennessee (26) and labs whose certifications had all expired as of Oct. 27, 2026 (0) are left out.",
+   "The TDEC contact-person names printed on the list are not reproduced here.",
+   "We did not verify prices, turnaround times or websites for any lab on this page, so none are shown."
+  ],
+  "main_heading": "Tennessee labs certified for both chemistry and bacteria",
+  "limited_heading": "Labs certified for bacteria only, chemistry only, or specialty tests",
+  "limited_note": "Each of these is certified for only part of a basic well test (for example bacteria only, or radiochemistry only) or has one certification that has expired. You may need a second lab for a full panel.",
+  "chips_label": "TDEC-certified groups for this lab:",
+  "resources": [
+   {
+    "label": "TDEC: Laboratories certified for drinking-water analyses, commercial labs (PDF, 10/06/2026)",
+    "url": "https://www.tn.gov/content/dam/tn/environment/water/drinking-water-unit/wr_wq_dw_certified-commercial-labs.pdf"
+   },
+   {
+    "label": "TDEC: Drinking-water laboratory certification program",
+    "url": "https://www.tn.gov/environment/program-areas/wr-water-resources/water-quality/drinking-water-redirect/lab-certification-program.html"
+   }
+  ],
+  "name": "Tennessee",
+  "abbr": "TN"
+ },
+ "west-virginia": {
+  "title": "West Virginia certified drinking-water labs (Office of Laboratory Services list)",
+  "description": "Labs on West Virginia Office of Laboratory Services certified-parameter list for drinking water (printed Aug. 20, 2026): in-state coliform labs, the state chemistry lab, and out-of-state chemistry labs, with the source on every listing.",
+  "intro": [
+   "West Virginia's Office of Laboratory Services (part of DHHR) certifies drinking-water labs under 64CSR3 and publishes a \"Laboratory Certified Parameter List\": one certificate per lab, with address, issue and expiration dates, and every analyte and method the lab is certified for. The copy used here was printed August 20, 2026; every certificate on it expires January 31, 2027.",
+   "Almost every in-state lab on the list is certified for coliform bacteria only (certificate numbers ending in M). The only in-state lab certified for chemistry on the list is the state's own Office of Laboratory Services in Charleston. The chemistry labs the list shows are mostly out-of-state commercial labs (certificate numbers ending in C), so we show those too, with their location in the address."
+  ],
+  "caveats": [
+   "This is a compliance-certification list. It does not say which labs accept samples from homeowners and does not list prices. Call the lab first, and ask about shipping if it is out of state.",
+   "In-state labs whose names look like a water company, utility or agency are shown in the utility/agency group. That is our judgment from the name. They usually test for their own system.",
+   "The list has no phone numbers, so none are shown. Check the lab's own website or call directory information.",
+   "For out-of-state labs, 'Certified' is as printed on the WV list for drinking water compliance. Several of them are certified only for narrow groups (for example PFAS, radionuclides or disinfection byproducts); the analyte chips show what the WV list shows. Entries printed as 'Not Certified' were left out.",
+   "We did not verify prices, turnaround times or websites for any lab on this page, so none are shown."
+  ],
+  "main_heading": "West Virginia coliform-bacteria labs and the state chemistry lab",
+  "public_heading": "Water-company, utility and agency labs on the same list",
+  "public_note": "These labs look from their names like they belong to a water company, utility or state agency and test mainly for their own system. Call first.",
+  "limited_heading": "Out-of-state labs certified by West Virginia (mostly chemistry)",
+  "limited_note": "These labs are located outside West Virginia (two in Virginia are certified for coliform bacteria; the rest for chemistry) but hold a West Virginia drinking-water certification for the analyte groups shown. Many cover only specialty groups. Ask each lab which test packages and shipping options it has for homeowners.",
+  "chips_label": "Certified analytes shown on the WV list for this lab:",
+  "resources": [
+   {
+    "label": "WV Office of Laboratory Services: Laboratory Certified Parameter List (PDF, printed 8/20/2026)",
+    "url": "https://dhhr.wv.gov/ols/labs/Documents/Environmental%20Chemistry/waterqualitylabs%20%282026%29%20-%20Updated%20List%20%288-20-26%29.pdf"
+   },
+   {
+    "label": "WV Office of Laboratory Services: drinking-water laboratory certification program",
+    "url": "https://dhhr.wv.gov/ols/regulatory/Pages/WaterLabCertification.aspx"
+   }
+  ],
+  "name": "West Virginia",
+  "abbr": "WV"
+ },
+ "minnesota": {
+  "title": "Minnesota accredited labs that accept private-well water samples (MDH list)",
+  "description": "The 25 labs on the Minnesota Department of Health list of accredited labs accepting drinking-water samples from private well users (October 2026), with the tests each offers, subcontracting notes and the source on every listing.",
+  "intro": [
+   "The Minnesota Department of Health (MDH) publishes a map and table of accredited labs that accept drinking-water samples from private well owners. The October 2026 edition lists 25 labs across the state. Unlike most state lists, this one is specifically for homeowners: every lab on it takes samples from private well users.",
+   "The table covers five tests MDH recommends for well water: total coliform bacteria, nitrate (as N), arsenic, lead and manganese. An asterisk on the MDH list means the lab subcontracts that test to another accredited lab; we show that as \"(subcontracted)\". A blank on the MDH list means the lab is not listed for that test."
+  ],
+  "caveats": [
+   "MDH says the list is informational, is not an endorsement, and that other labs may hold accreditation for the same tests but not appear here. MDH points to its accredited-lab search for other analytes (choose the Safe Drinking Water Program and tick \"Accepts samples from private homeowners\").",
+   "The list covers only coliform, nitrate, arsenic, lead and manganese. If you want another contaminant, such as PFAS or VOCs, call the lab or use MDH's search.",
+   "MDH lists no prices. Fees, hours and sample-bottle pick-up vary by lab, so call first.",
+   "Some labs on the list are run by a county, city, utility or conservation district. MDH includes them because they accept private samples.",
+   "We did not verify prices, turnaround times or websites for any lab on this page, so none are shown."
+  ],
+  "main_heading": "Minnesota labs that accept private-well samples (MDH list)",
+  "chips_label": "Tests listed by MDH for this lab:",
+  "resources": [
+   {
+    "label": "MDH: Accredited Labs in Minnesota Accepting Drinking Water Samples from Private Well Users (PDF, October 2026)",
+    "url": "https://www.health.state.mn.us/communities/environment/water/docs/wells/waterquality/labmap.pdf"
+   },
+   {
+    "label": "MDH: Search for Accredited Laboratories",
+    "url": "https://www.health.state.mn.us/labsearch"
+   },
+   {
+    "label": "MDH: well water testing for private wells",
+    "url": "https://www.health.state.mn.us/communities/environment/water/wells/waterquality/index.html"
+   }
+  ],
+  "name": "Minnesota",
+  "abbr": "MN"
+ },
+ "maine": {
+  "title": "Maine in-state commercial drinking-water labs (Maine CDC list)",
+  "description": "The 12 in-state commercial labs on the Maine CDC Drinking Water Program list (updated May 16, 2026), with phone numbers, websites and which are bacteria-only or PFAS-only, and the source on every listing.",
+  "intro": [
+   "The Maine CDC Drinking Water Program publishes a short list of in-state commercial drinking-water labs. The version used here was last updated May 16, 2026 and has 12 labs. For each it prints a lab code, name, website, city and phone number, and marks labs that do only PFAS or only bacteria testing.",
+   "Maine's list does not print street addresses or specific tests. It tells you instead that labs are accredited test by test, so you need to ask each lab what it is accredited for. The list links to a separate Excel file of all labs accredited by Maine, including out-of-state labs."
+  ],
+  "caveats": [
+   "The list gives city only, so each listing shows the city and says so. Use the lab's website or phone for the street address and drop-off options.",
+   "Maine CDC warns that labs are accredited by test, that the tests a lab can do change regularly, and that you should confirm with the lab. For help, call the Maine Drinking Water Program at 207-287-2070 and ask for the Laboratory Accreditation Officer.",
+   "If you mail a sample, check that the lab can receive bacteria samples within the holding time from your postal area. Many labs offer statewide service.",
+   "Labs not marked PFAS-only or bacteria-only are shown first. Maine's list does not say what they test for; it is not a promise they accept homeowner samples.",
+   "We did not verify prices, turnaround times or websites for any lab on this page, so none are shown."
+  ],
+  "main_heading": "Maine commercial drinking-water labs (not marked bacteria-only or PFAS-only)",
+  "limited_heading": "Bacteria-only and PFAS-only labs",
+  "limited_note": "Maine CDC marks each of these as doing only one kind of test. You would need a second lab for a full well-water panel.",
+  "chips_label": "What the Maine CDC list says about this lab:",
+  "resources": [
+   {
+    "label": "Maine CDC: In-State Commercial Drinking Water Labs (PDF, updated 5/16/2026)",
+    "url": "https://www.maine.gov/dhhs/mecdc/sites/maine.gov.dhhs.mecdc/files/CommercialListMaineLabs.pdf"
+   }
+  ],
+  "name": "Maine",
+  "abbr": "ME"
+ },
+ "vermont": {
+  "title": "Vermont certified labs that accept private well samples (Vermont Dept. of Health list)",
+  "description": "The 26 labs on the Vermont Department of Health drinking-water certification list (Sept. 28, 2026) that Vermont marks as accepting private samples, with certified test groups, expiration dates and the source on every listing.",
+  "intro": [
+   "The Vermont Department of Health publishes the list \"Laboratories Certified for Drinking Water Analysis\" (dated September 28, 2026). It has 46 certified labs, and the Department highlights in green the labs that accept private samples. This page lists those 26 green-highlighted labs, which is what a private well owner needs.",
+   "Many of the labs are outside Vermont, in New Hampshire, New York, Massachusetts and elsewhere. The state certifies them to test Vermont drinking-water samples, and several (like the Endyne, Eurofins and Nelson Analytical locations) are near the border. The address of each lab is printed on its listing."
+  ],
+  "caveats": [
+   "The Department notes that some labs that generally accept private samples may specifically not accept private PFAS samples, or may analyze them by a method that is not certified. Call the lab before you send a sample.",
+   "The list marks each test group \"X\" for certified or \"Partial\" for some but not all analytes in a group. We carry \"Partial\" through as printed. The list links each lab's detailed scope sheet, which is the place to check a specific analyte such as arsenic or uranium.",
+   "The 20 labs on the Vermont list that are not highlighted green (for example utility labs and out-of-state specialty labs) are left out because the Department does not mark them as accepting private samples. Laboratories may be added to or deleted from the list at any time.",
+   "A lab with both a bacteria group and the inorganic-chemicals group (metals, nitrate, nitrite) is shown first. Labs with only bacteria, only PFAS, only asbestos or only radionuclides are shown under the second heading.",
+   "The list does not define the \"RAD\" column. We show it as printed, with the radionuclides label added by us. Fax numbers on the list are not reproduced.",
+   "We did not verify prices, turnaround times or websites for any lab on this page, so none are shown."
+  ],
+  "main_heading": "Vermont labs that accept private samples: bacteria and inorganic chemistry",
+  "limited_heading": "Labs that accept private samples for bacteria, PFAS or other single test groups",
+  "limited_note": "Vermont marks each of these as accepting private samples, but its certification list shows only bacteria, or only specialty groups (such as PFAS, asbestos or radionuclides). Pair one with a lab above for a fuller panel.",
+  "chips_label": "Test groups certified in Vermont for this lab:",
+  "resources": [
+   {
+    "label": "Vermont Department of Health: Laboratories Certified for Drinking Water Analysis (PDF, 9/28/2026)",
+    "url": "https://www.healthvermont.gov/sites/default/files/document/lsid-phl-DW-certified-laboratory-list.pdf"
+   },
+   {
+    "label": "Vermont Department of Health: drinking water",
+    "url": "https://www.healthvermont.gov/environment/drinking-water"
+   }
+  ],
+  "name": "Vermont",
+  "abbr": "VT"
+ },
+ "connecticut": {
+  "title": "Connecticut state-approved drinking-water labs (CT DPH list)",
+  "description": "The 17 in-state commercial labs approved by Connecticut DPH to test drinking water (list dated Oct. 9, 2026), with which ones accept private well samples, certified test groups and the source on every listing.",
+  "intro": [
+   "Connecticut's Department of Public Health (DPH) approves commercial labs to test drinking water and publishes a list of the in-state ones. The list dated October 9, 2026 has 17 labs. Connecticut says all of them are approved to test drinking water, but only some offer testing for private wells, and the list marks those.",
+   "For each lab the list marks which groups of tests it is approved for: arsenic, bacteriological, inorganics, organic chemicals, PFAS, radiological, uranium and asbestos. Street addresses come from DPH's separate approved in-state commercial environmental laboratories list (updated July 2, 2026), matched on the DPH license number."
+  ],
+  "caveats": [
+   "The list covers Connecticut labs only. DPH says information on out-of-state approved labs is available from its approval program at (860) 509-7389.",
+   "DPH defines its groups loosely: \"Inorganics\", \"Organic Chemicals\" and \"Radiological\" each mean some or all of a set of tests, not every test in the set. DPH suggests calling (860) 509-7389 to verify the parameters a lab is certified for within a group.",
+   "Labs marked as accepting private well samples and certified for both bacteriological and inorganics tests are shown first. The heading for the last group says which labs the list does not mark for private wells.",
+   "The phone number is from the October 9 drinking-water list. For South Norwalk Electric & Water Laboratory the July address list shows a different number, (203) 866-3366 ext. 259. Check which one works before you drive over.",
+   "Lab director names on the address list are not reproduced.",
+   "We did not verify prices, turnaround times or websites for any lab on this page, so none are shown."
+  ],
+  "main_heading": "Connecticut labs that accept private well samples: bacteria and inorganics",
+  "limited_heading": "Accept private well samples for a narrower set of tests",
+  "limited_note": "Connecticut marks these as accepting private well samples, but its list shows approval for only part of a basic well test (for example bacteria and asbestos only).",
+  "public_heading": "Approved for drinking water but not marked as accepting private well samples",
+  "public_note": "These labs are on the same Connecticut DPH list, but DPH does not mark them for private well testing. Some serve water systems or other commercial clients. Call first to ask whether they would take a homeowner sample.",
+  "chips_label": "Test groups the Connecticut list marks for this lab:",
+  "resources": [
+   {
+    "label": "CT DPH: In-State Approved Commercial Laboratories Certified to Test Drinking Water (PDF, 10/09/2026)",
+    "url": "https://portal.ct.gov/dph/-/media/dph/dph-2025/environmental-lab-certification/lab-lists/in-state-laboratories-certified-to-test-drinking-water_20261009.pdf"
+   },
+   {
+    "label": "CT DPH: Approved In-State Commercial Environmental Laboratories (PDF, updated 07/02/2026)",
+    "url": "https://portal.ct.gov/dph/-/media/dph/dph-2025/environmental-lab-certification/lab-lists/in-state-approved-commercial-environmental-labs_072026.pdf"
+   }
+  ],
+  "name": "Connecticut",
+  "abbr": "CT"
+ },
+ "michigan": {
+  "title": "Michigan state-certified drinking-water labs (EGLE list)",
+  "description": "Michigan labs certified by EGLE for drinking-water microbiology and chemistry (lists footed March 11, 2026): commercial labs shown first, municipal labs separate, with the analytes certified and the source on every listing.",
+  "intro": [
+   "Michigan's Department of Environment, Great Lakes, and Energy (EGLE) certifies labs for drinking-water analysis and publishes two PDF lists: one for microbiological labs and one for chemistry labs. Both are footed 3/11/2026. Together they name 173 labs, and each entry gives the lab's address and the analytes it is certified for.",
+   "We merged the two lists on EGLE's lab code. A lab certified for both coliform bacteria (total coliform or E. coli) and at least one common well chemistry test (nitrate, arsenic, lead, copper, fluoride, manganese or iron) is shown first, unless its name says it is a water system, treatment plant or municipal lab."
+  ],
+  "caveats": [
+   "These lists are several months old (March 2026). EGLE can add or drop labs at any time, so confirm on EGLE's certification page or by calling the Lab Certification program at (517) 335-9219.",
+   "EGLE certifies labs for compliance testing. The lists do not say which labs take homeowner samples and do not give prices. Call the lab first.",
+   "The grouping is ours and comes from lab names, not from EGLE. Labs with \"water treatment plant\", \"township\", \"water authority\", \"board of water\" and similar words in the name are shown in the municipal/utility group. Bottlers are shown with the limited labs.",
+   "The EGLE lists print a contact person, email and direct phone number for each lab. We do not reproduce those. Use the lab's website or ask EGLE for the main number. The chips show only a short list of common well tests, not every analyte; EGLE's PDFs list all of them.",
+   "EGLE's lists send readers to separate PFAS lab lists for PFAS testing. We did not use those.",
+   "We did not verify prices, turnaround times or websites for any lab on this page, so none are shown."
+  ],
+  "main_heading": "Michigan commercial and private labs certified for bacteria and well chemistry",
+  "public_heading": "Municipal, utility and other water-system labs on the EGLE lists",
+  "public_note": "These are usually run by a city, township, authority or treatment plant for its own sampling. EGLE does not say whether they take homeowner samples. Call first. The grouping is based on the lab name.",
+  "limited_heading": "Labs certified for only one test category, plus bottlers",
+  "limited_note": "EGLE shows these as certified for bacteria only or chemistry only (or for a narrow set of tests), or they are bottling labs. Most are probably not set up for homeowners.",
+  "chips_label": "Common well tests EGLE lists for this lab:",
+  "resources": [
+   {
+    "label": "EGLE: Certified Laboratories, Microbiological (PDF)",
+    "url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf"
+   },
+   {
+    "label": "EGLE: Certified Laboratories, Chemistry (PDF)",
+    "url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf"
+   },
+   {
+    "label": "EGLE: Laboratory certification program page",
+    "url": "https://www.michigan.gov/egle/about/organization/remediation-and-redevelopment/laboratory/certifications"
+   }
+  ],
+  "name": "Michigan",
+  "abbr": "MI"
+ },
+ "rhode-island": {
+  "title": "Rhode Island certified drinking-water testing labs (RIDOH list)",
+  "description": "Rhode Island labs certified by RIDOH to test drinking water, plus the out-of-state labs RIDOH certifies, with certification categories, phone numbers and the source on every listing.",
+  "intro": [
+   "The Rhode Island Department of Health (RIDOH) publishes a short list of labs in Rhode Island and the surrounding area that are certified to test drinking water for a fee. The page (last updated September 3, 2026) names five: Eurofins North Kingstown, the RIDOH State Health Lab in Providence, Eurofins Warwick, Rhode Island Analytical Laboratories in Warwick and New England Testing Laboratory in West Warwick. It also points to one nearby out-of-state lab, Microbac in Dayville, CT.",
+   "RIDOH links a second document, a PDF dated March 18, 2026, listing the nearby out-of-state labs it certifies. That PDF gives an address, phone number, RIDOH certification number and certified categories for each lab. We show the 32 of its 39 labs that are certified for at least one potable-water category or PFAS in a second group below."
+  ],
+  "caveats": [
+   "The RIDOH web page gives city and a link only for the five Rhode Island labs, with no street address, phone number or list of tests. The one exception is the State Health Lab, whose address and phone number are the State Health Laboratories location printed in the page footer. Use each lab's own website for the rest.",
+   "The out-of-state PDF says to contact RIDOH's Certification Officer at (401) 222-5542 for the specific analytes and methods behind each category. Category names such as \"Potable water inorganic chemistry\" are broad.",
+   "RIDOH says it does not endorse or recommend any of the certified labs, and that labs provide analytical services for a fee. Some labs (like Microbac in Dayville, CT) appear on both lists.",
+   "We left out 7 labs on the out-of-state PDF that are certified only for non-potable water, radiochemistry or environmental lead (paint, dust and soil) testing, since those are not drinking-water tests.",
+   "RIDOH warns it is unlawful to test drinking water without certification, and that some companies offer \"free\" tests in exchange for a sales pitch for treatment systems. Use an independent certified lab before deciding on a treatment system.",
+   "We did not verify prices, turnaround times or websites for any lab on this page, so none are shown."
+  ],
+  "main_heading": "Rhode Island labs on the RIDOH certified list",
+  "limited_heading": "Out-of-state labs RIDOH certifies (full details from the March 2026 PDF)",
+  "limited_note": "These labs are outside Rhode Island but are certified by RIDOH. Many take mailed samples. Check whether the lab accepts homeowner samples before you ship, and confirm the analytes with the lab.",
+  "chips_label": "RIDOH certification categories for this lab:",
+  "resources": [
+   {
+    "label": "RIDOH: Certified Drinking Water Testing Labs",
+    "url": "https://health.ri.gov/drinking-water-quality/certified-drinking-water-testing-labs"
+   },
+   {
+    "label": "RIDOH: Nearby out-of-state certified laboratories (PDF, March 18, 2026)",
+    "url": "https://health.ri.gov/sites/g/files/xkgbur1006/files/2025-01/OutOfState.pdf"
+   }
+  ],
+  "name": "Rhode Island",
+  "abbr": "RI"
+ }
 }
