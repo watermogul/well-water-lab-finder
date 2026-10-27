@@ -1,0 +1,1992 @@
+{
+ "state": "Pennsylvania",
+ "slug": "pennsylvania",
+ "abbr": "PA",
+ "list_source": {
+  "name": "Pennsylvania DEP \u2014 Laboratory Accreditation, drinking water reports",
+  "page_url": "https://www.pa.gov/agencies/dep/residents/my-water/private-wells/water-testing",
+  "report_urls": [
+   "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf"
+  ],
+  "report_date": "June 2024 (reports dated 2024-06-11 and 2024-06-13)"
+ },
+ "last_verified": "2026-10-26",
+ "labs": [
+  {
+   "name": "Pace Analytical Services, LLC - Altoona, PA",
+   "address": "2019 Ninth Avenue, Altoona, PA 16602",
+   "city": "Altoona",
+   "phone": "(814) 946-4306",
+   "lab_id": "07-00062",
+   "accredited_for": [
+    "Total coliform / E. coli",
+    "Nitrate",
+    "pH",
+    "Total dissolved solids",
+    "Lead",
+    "Iron",
+    "Manganese",
+    "Chloride"
+   ],
+   "group": "main",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "ABE Laboratories LLC",
+   "address": "7596-B Beth Bath Pike, Bath, PA 18014",
+   "city": "Bath",
+   "phone": "(610) 837-7721",
+   "lab_id": "48-00108",
+   "accredited_for": [
+    "Total coliform / E. coli",
+    "Nitrate",
+    "pH",
+    "Hardness"
+   ],
+   "group": "main",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Criterion Laboratories Inc",
+   "address": "400 Street Road, Suite 100, Bensalem, PA 19020",
+   "city": "Bensalem",
+   "phone": "(215) 244-1300",
+   "lab_id": "09-01225",
+   "accredited_for": [
+    "Total coliform / E. coli",
+    "Nitrate",
+    "Lead",
+    "Arsenic",
+    "Manganese",
+    "Chloride"
+   ],
+   "group": "main",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "H & H Water Controls Inc",
+   "address": "565 Rt. 88 South, Carmichaels, PA 15320",
+   "city": "Carmichaels",
+   "phone": "(724) 966-2278",
+   "lab_id": "30-00287",
+   "accredited_for": [
+    "Total coliform / E. coli",
+    "Nitrate",
+    "pH",
+    "Total dissolved solids",
+    "Lead",
+    "Iron",
+    "Manganese",
+    "Chloride",
+    "Hardness"
+   ],
+   "group": "main",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Pace Analytical Services, LLC - Dubois",
+   "address": "40 Hoover Avenue, Dubois, PA 15801",
+   "city": "Dubois",
+   "phone": "(814) 371-6030",
+   "lab_id": "33-00258",
+   "accredited_for": [
+    "Total coliform / E. coli",
+    "pH"
+   ],
+   "group": "main",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Princeton Analytical Labs",
+   "address": "1302 Madison Ave., Dunmore, PA 18509",
+   "city": "Dunmore",
+   "phone": "(570) 209-7916",
+   "lab_id": "35-04831",
+   "accredited_for": [
+    "Total coliform / E. coli",
+    "Nitrate",
+    "Total dissolved solids",
+    "Lead",
+    "Iron",
+    "Manganese",
+    "Chloride"
+   ],
+   "group": "main",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Free-Col Laboratory",
+   "address": "613 W 11th Street, Erie, PA 16501",
+   "city": "Erie",
+   "phone": "(814) 455-8061",
+   "lab_id": "25-03459",
+   "accredited_for": [
+    "Total coliform / E. coli",
+    "Nitrate",
+    "pH",
+    "Total dissolved solids",
+    "Lead",
+    "Arsenic",
+    "Iron",
+    "Manganese"
+   ],
+   "group": "main",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Presque Isle Water Testing",
+   "address": "2221C Peninsula Dr, Erie, PA 16506",
+   "city": "Erie",
+   "phone": "(814) 636-0555",
+   "lab_id": "25-05536",
+   "accredited_for": [
+    "Total coliform / E. coli",
+    "Nitrate"
+   ],
+   "group": "main",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "HawkMtn Labs Inc",
+   "address": "201 West Clay Ave., Hazle Township, PA 18202",
+   "city": "Hazle Township",
+   "phone": "(570) 455-6011",
+   "lab_id": "40-00417",
+   "accredited_for": [
+    "Total coliform / E. coli",
+    "Nitrate",
+    "pH",
+    "Total dissolved solids",
+    "Lead",
+    "Arsenic",
+    "Uranium",
+    "Iron",
+    "Manganese",
+    "Chloride"
+   ],
+   "group": "main",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Chemstream Lab Services",
+   "address": "511 Railroad Ave, Homer City, PA 15748",
+   "city": "Homer City",
+   "phone": "(724) 915-8388",
+   "lab_id": "32-00141",
+   "accredited_for": [
+    "Total coliform / E. coli",
+    "Nitrate",
+    "pH",
+    "Total dissolved solids",
+    "Iron",
+    "Manganese",
+    "Chloride"
+   ],
+   "group": "main",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Eurofins Environment Testing Philadelphia LLC",
+   "address": "795 Horsham Road, Horsham, PA 19044",
+   "city": "Horsham",
+   "phone": "(215) 355-3900",
+   "lab_id": "46-05499",
+   "accredited_for": [
+    "Total coliform / E. coli",
+    "pH"
+   ],
+   "group": "main",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Environmental Service Laboratories Inc",
+   "address": "1803 Philadelphia Street, Indiana, PA 15701-1541",
+   "city": "Indiana",
+   "phone": "(724) 463-8378",
+   "lab_id": "32-00382",
+   "accredited_for": [
+    "Total coliform / E. coli",
+    "Nitrate",
+    "pH",
+    "Total dissolved solids",
+    "Lead",
+    "Iron",
+    "Manganese",
+    "Chloride"
+   ],
+   "group": "main",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Brandywine Science Center",
+   "address": "204 Line Road, Kennett Square, PA 19348",
+   "city": "Kennett Square",
+   "phone": "(610) 444-9850",
+   "lab_id": "15-00301",
+   "accredited_for": [
+    "Total coliform / E. coli",
+    "Nitrate",
+    "pH",
+    "Total dissolved solids",
+    "Lead"
+   ],
+   "group": "main",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "CWM Environmental",
+   "address": "101 Parkview Drive Extension, Kittanning, PA 16201",
+   "city": "Kittanning",
+   "phone": "(724) 543-3011",
+   "lab_id": "03-00457",
+   "accredited_for": [
+    "Total coliform / E. coli",
+    "Nitrate",
+    "pH",
+    "Total dissolved solids",
+    "Lead",
+    "Arsenic",
+    "Iron",
+    "Manganese",
+    "Chloride"
+   ],
+   "group": "main",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Eurofins Lancaster Laboratories Environment Testing, LLC",
+   "address": "2425 New Holland Pike, Lancaster, PA 17601-5994",
+   "city": "Lancaster",
+   "phone": "(717) 656-2300",
+   "lab_id": "36-00037",
+   "accredited_for": [
+    "Nitrate",
+    "pH",
+    "Total dissolved solids",
+    "Lead",
+    "Arsenic",
+    "Iron",
+    "Manganese",
+    "Chloride",
+    "Hardness"
+   ],
+   "group": "main",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": null,
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Waypoint Analytical - Pennsylvania, Inc.",
+   "address": "280 Newport Rd, Leola, PA 17540",
+   "city": "Leola",
+   "phone": "(717) 656-9326",
+   "lab_id": "36-05968",
+   "accredited_for": [
+    "Total coliform / E. coli",
+    "Nitrate",
+    "pH"
+   ],
+   "group": "main",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "ALS Environmental - Middletown",
+   "address": "301 Fulling Mill Road, Middletown, PA 17057",
+   "city": "Middletown",
+   "phone": "(717) 944-5541",
+   "lab_id": "22-00293",
+   "accredited_for": [
+    "Total coliform / E. coli",
+    "Nitrate",
+    "pH",
+    "Total dissolved solids",
+    "Lead",
+    "Arsenic",
+    "Uranium",
+    "Iron",
+    "Manganese",
+    "Chloride",
+    "Hardness"
+   ],
+   "group": "main",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "RJ Lee Group, Inc.",
+   "address": "350 Hochberg Road, Monroeville, PA 15146",
+   "city": "Monroeville",
+   "phone": "(724) 325-1776",
+   "lab_id": "02-00396",
+   "accredited_for": [
+    "Nitrate",
+    "pH",
+    "Total dissolved solids",
+    "Lead",
+    "Arsenic",
+    "Iron",
+    "Manganese",
+    "Chloride"
+   ],
+   "group": "main",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": null,
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Pure-Test Laboratory",
+   "address": "729 E Lincoln Avenue, Myerstown, PA 17067",
+   "city": "Myerstown",
+   "phone": "(717) 866-2234",
+   "lab_id": "38-00338",
+   "accredited_for": [
+    "Total coliform / E. coli",
+    "Nitrate",
+    "pH",
+    "Total dissolved solids",
+    "Lead",
+    "Arsenic",
+    "Iron",
+    "Manganese",
+    "Chloride"
+   ],
+   "group": "main",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Environmental Laboratory Services Inc",
+   "address": "1135 Butler Avenue, New Castle, PA 16101",
+   "city": "New Castle",
+   "phone": "(724) 652-5770",
+   "lab_id": "37-00237",
+   "accredited_for": [
+    "Total coliform / E. coli",
+    "Nitrate",
+    "pH",
+    "Total dissolved solids",
+    "Lead",
+    "Arsenic",
+    "Iron",
+    "Manganese",
+    "Chloride"
+   ],
+   "group": "main",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Laboratory, Analytical and Biological Services, Inc",
+   "address": "125 Enterprise Drive, New Oxford, PA 17350",
+   "city": "New Oxford",
+   "phone": "(717) 259-6550",
+   "lab_id": "01-00550",
+   "accredited_for": [
+    "Total coliform / E. coli",
+    "Nitrate",
+    "pH",
+    "Total dissolved solids",
+    "Lead",
+    "Arsenic",
+    "Iron",
+    "Manganese",
+    "Chloride"
+   ],
+   "group": "main",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Microbac Laboratories, Inc. - Pittston",
+   "address": "428 Route 315 Highway, Pittston, PA 18640",
+   "city": "Pittston",
+   "phone": "(570) 348-0775",
+   "lab_id": "35-05082",
+   "accredited_for": [
+    "Total coliform / E. coli",
+    "Nitrate",
+    "pH",
+    "Total dissolved solids",
+    "Iron",
+    "Manganese"
+   ],
+   "group": "main",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "M. J. Reider Associates Inc",
+   "address": "107 Angelica Street, Reading, PA 19611-1999",
+   "city": "Reading",
+   "phone": "(610) 374-5129",
+   "lab_id": "06-00003",
+   "accredited_for": [
+    "Total coliform / E. coli",
+    "Nitrate",
+    "pH",
+    "Total dissolved solids",
+    "Lead",
+    "Arsenic",
+    "Iron",
+    "Manganese",
+    "Chloride"
+   ],
+   "group": "main",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Suburban Testing Laboratories, Inc.",
+   "address": "1037F MacArthur Road, Reading, PA 19605",
+   "city": "Reading",
+   "phone": "(610) 375-8378",
+   "lab_id": "06-00208",
+   "accredited_for": [
+    "Total coliform / E. coli",
+    "Nitrate",
+    "pH",
+    "Total dissolved solids",
+    "Lead",
+    "Arsenic",
+    "Uranium",
+    "Iron",
+    "Manganese",
+    "Chloride",
+    "Hardness"
+   ],
+   "group": "main",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "White Oak Laboratory LLC",
+   "address": "2997 Ridgway Johnsonburg Road, Ridgway, PA 15853",
+   "city": "Ridgway",
+   "phone": "(814) 772-5927",
+   "lab_id": "24-05897",
+   "accredited_for": [
+    "Total coliform / E. coli",
+    "Nitrate",
+    "pH",
+    "Total dissolved solids",
+    "Chloride"
+   ],
+   "group": "main",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "LEAP Testing Service",
+   "address": "One Guthrie Square, Sayre, PA",
+   "city": "Sayre",
+   "phone": "(570) 887-4645",
+   "lab_id": "08-05636",
+   "accredited_for": [
+    "Total coliform / E. coli",
+    "Nitrate"
+   ],
+   "group": "main",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Geochemical Testing",
+   "address": "2005 North Center Avenue, Somerset, PA 15501-7441",
+   "city": "Somerset",
+   "phone": "(814) 443-1671",
+   "lab_id": "56-00306",
+   "accredited_for": [
+    "Total coliform / E. coli",
+    "Nitrate",
+    "pH",
+    "Total dissolved solids",
+    "Lead",
+    "Arsenic",
+    "Uranium",
+    "Iron",
+    "Manganese",
+    "Chloride"
+   ],
+   "group": "main",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Analytical Laboratories, Inc",
+   "address": "4208 Bethlehem Pike, Telford, PA 18969",
+   "city": "Telford",
+   "phone": "(215) 723-6466",
+   "lab_id": "09-00332",
+   "accredited_for": [
+    "Total coliform / E. coli",
+    "Nitrate",
+    "Total dissolved solids"
+   ],
+   "group": "main",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Penn State Agricultural Analytical Services Laboratory",
+   "address": "720 Tower Rd, University Park, PA 16802",
+   "city": "University Park",
+   "phone": "(814) 863-0841",
+   "lab_id": "14-00588",
+   "accredited_for": [
+    "Total coliform / E. coli",
+    "Nitrate",
+    "pH",
+    "Total dissolved solids",
+    "Lead",
+    "Arsenic",
+    "Iron",
+    "Manganese",
+    "Chloride"
+   ],
+   "group": "main",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26",
+   "website": "https://agsci.psu.edu/aasl/water-testing/drinking-water-testing",
+   "note": "Mail-in kit (cooler, bottles, form) from many county extension offices; overnight shipping; bacteria sample must arrive within 30 hours and cannot be accepted on a Friday; results typically 10\u201314 business days. Fee table on the lab page (retrieved 2026-10-26). The PA DEP report lists this lab at a different address string; the street address shown here is from the lab's own page."
+  },
+  {
+   "name": "Microbac Laboratories, Inc. Pittsburgh Division",
+   "address": "100 Marshall Drive, Warrendale, PA 15086-7554",
+   "city": "Warrendale",
+   "phone": "(724) 772-0610",
+   "lab_id": "02-00257",
+   "accredited_for": [
+    "Total coliform / E. coli",
+    "Nitrate",
+    "pH",
+    "Total dissolved solids",
+    "Lead",
+    "Arsenic",
+    "Iron",
+    "Manganese",
+    "Chloride"
+   ],
+   "group": "main",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Pace Analytical Services LLC - Williamsport, PA",
+   "address": "2829 Reach Road, Williamsport, PA 17701",
+   "city": "Williamsport",
+   "phone": "(570) 326-4001",
+   "lab_id": "41-00034",
+   "accredited_for": [
+    "Total coliform / E. coli",
+    "Nitrate",
+    "pH",
+    "Chloride"
+   ],
+   "group": "main",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Allentown Municipal Water Laboratory",
+   "address": "1300 Martin Luther King Jr Drive, Allentown, PA 18102-4605",
+   "city": "Allentown",
+   "phone": "(610) 437-7643",
+   "lab_id": "39-00106",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "public",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "PAW - Bangor Lab",
+   "address": "1760 Valley View Dr, Bangor, PA 18013",
+   "city": "Bangor",
+   "phone": "(484) 404-9187",
+   "lab_id": "48-00358",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "public",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Bethlehem Water Lab",
+   "address": "10 East Church Street, Bethlehem, PA 18018",
+   "city": "Bethlehem",
+   "phone": "(610) 865-7144",
+   "lab_id": "48-00099",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "public",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "PA American Water Brownsville Lab",
+   "address": "17th Street, Brownsville, PA 15417",
+   "city": "Brownsville",
+   "phone": "(724) 785-8600",
+   "lab_id": "26-00514",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "public",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Aqua Pennsylvania, Inc.",
+   "address": "762 W. Lancaster Avenue, Bryn Mawr, PA 19010-3489",
+   "city": "Bryn Mawr",
+   "phone": "(610) 525-1400",
+   "lab_id": "46-00026",
+   "accredited_for": [
+    "Total coliform / E. coli",
+    "Nitrate",
+    "Total dissolved solids",
+    "Lead",
+    "Arsenic",
+    "Uranium",
+    "Iron",
+    "Manganese",
+    "Chloride",
+    "Hardness"
+   ],
+   "group": "public",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Pennsylvania American Water Butler",
+   "address": "207 Oneida Valley Road, Butler, PA 16001",
+   "city": "Butler",
+   "phone": "(724) 602-9928",
+   "lab_id": "10-00078",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "public",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Borough of Carlisle; Carlisle Region Water Pollution Control Facility Laboratory",
+   "address": "54 North Middlesex Road, Carlisle, PA 17013",
+   "city": "Carlisle",
+   "phone": "(717) 240-6991",
+   "lab_id": "21-00203",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "public",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "North Penn Water Authority Laboratory",
+   "address": "144B Park Avenue, Chalfont, PA 18914",
+   "city": "Chalfont",
+   "phone": "(215) 822-1759",
+   "lab_id": "09-00277",
+   "accredited_for": [
+    "Total coliform / E. coli",
+    "Nitrate"
+   ],
+   "group": "public",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "PAW Clarion Laboratory",
+   "address": "425 Waterworks Road, Clarion, PA 16214",
+   "city": "Clarion",
+   "phone": "(814) 226-8940",
+   "lab_id": "16-00165",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "public",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "MAWC Yough WTP",
+   "address": "801 Riverside Drive, Connellsville, PA 15425",
+   "city": "Connellsville",
+   "phone": "(724) 626-0050",
+   "lab_id": "65-00118",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "public",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Northampton Borough Municipal Authority",
+   "address": "5200 Second Street, Coplay, PA 18037",
+   "city": "Coplay",
+   "phone": "(610) 262-6792",
+   "lab_id": "48-00103",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "public",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Erie Water Works Laboratory",
+   "address": "399 Sommerheim Drive, Erie, PA 16505",
+   "city": "Erie",
+   "phone": "(814) 870-8070",
+   "lab_id": "25-00066",
+   "accredited_for": [
+    "Total coliform / E. coli",
+    "Chloride"
+   ],
+   "group": "public",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Chambersburg Water Treatment Plant",
+   "address": "7659 Lincoln Way East, Fayetteville, PA 17222",
+   "city": "Fayetteville",
+   "phone": "(717) 352-7450",
+   "lab_id": "28-00048",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "public",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "The Municipal Authority of the Borough of Greenville",
+   "address": "45 South Water Street, Greenville, PA 16125",
+   "city": "Greenville",
+   "phone": "(724) 588-4340",
+   "lab_id": "43-00076",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "public",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Capital Region Water - Water Treatment Laboratory",
+   "address": "100 Pine Drive, Harrisburg, PA 17103-1260",
+   "city": "Harrisburg",
+   "phone": "(717) 775-1091",
+   "lab_id": "22-00053",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "public",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "PA DEP Bureau of Laboratories",
+   "address": "2575 Interstate Drive, Harrisburg, PA 17110-9332",
+   "city": "Harrisburg",
+   "phone": "(717) 346-7200",
+   "lab_id": "22-00223",
+   "accredited_for": [
+    "Total coliform / E. coli",
+    "Nitrate",
+    "pH",
+    "Total dissolved solids",
+    "Lead",
+    "Arsenic",
+    "Radon",
+    "Uranium",
+    "Iron",
+    "Manganese",
+    "Chloride"
+   ],
+   "group": "public",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "PAW Indiana Laboratory",
+   "address": "1034 Waterworks Rd., Indiana, PA 15701",
+   "city": "Indiana",
+   "phone": "(724) 465-6906",
+   "lab_id": "32-00136",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "public",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Pennsylvania American Water Kane",
+   "address": "Route 321 North, 66 Dwight Road, Kane, PA 16735",
+   "city": "Kane",
+   "phone": "(724) 652-6331",
+   "lab_id": "42-00518",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "public",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "City of Lancaster Water Quality Laboratory",
+   "address": "150 Pitney Road, Lancaster, PA 17601",
+   "city": "Lancaster",
+   "phone": "(717) 291-4818",
+   "lab_id": "36-00038",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "public",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "City of Lebanon Authority Wastewater Treatment Facility Laboratory",
+   "address": "2321 Ridgeview Road, Lebanon, PA 17042-9431",
+   "city": "Lebanon",
+   "phone": "(717) 272-2841",
+   "lab_id": "38-00243",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "public",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Municipal Authority of Westmoreland County McKeesport WTP",
+   "address": "1430 Railroad Street, McKeesport, PA 15132-4136",
+   "city": "McKeesport",
+   "phone": "(412) 678-6065",
+   "lab_id": "02-00096",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "public",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Laurel Creek Filter Plant",
+   "address": "400 Filter Plant Road, Milroy, PA 17063",
+   "city": "Milroy",
+   "phone": "(717) 667-3918",
+   "lab_id": "44-00147",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "public",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "PAW Milton Lab",
+   "address": "702 South Front Street, Milton, PA 17847",
+   "city": "Milton",
+   "phone": "(717) 663-9933",
+   "lab_id": "49-01165",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "public",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Morrisville Municipal Authority Laboratory",
+   "address": "95 Riverview Ave, Morrisville, PA 19607",
+   "city": "Morrisville",
+   "phone": "(215) 736-0018",
+   "lab_id": "09-01331",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "public",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Pennsylvania American Water New Castle",
+   "address": "546 West Leasure Avenue Extension, New Castle, PA 16105",
+   "city": "New Castle",
+   "phone": "(724) 652-6331",
+   "lab_id": "37-00137",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "public",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Pennsylvania American Water West Shore WTP",
+   "address": "275 Steigerwalt Hollow Road, New Cumberland, PA 17070",
+   "city": "New Cumberland",
+   "phone": "(717) 319-0527",
+   "lab_id": "67-02984",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "public",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Municipal Authority of the City of New Kensington",
+   "address": "2200 Block Constitution Blvd, New Kensington, PA 15068-0577",
+   "city": "New Kensington",
+   "phone": "(724) 335-8595",
+   "lab_id": "65-00132",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "public",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "PA American Water Co - Norristown",
+   "address": "300 W. Washington St., Norristown, PA 19401",
+   "city": "Norristown",
+   "phone": "(484) 806-6351",
+   "lab_id": "46-00008",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "public",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Chester Water Authority",
+   "address": "100 Ashville Road, Nottingham, PA 19362",
+   "city": "Nottingham",
+   "phone": "(717) 529-2244",
+   "lab_id": "36-00025",
+   "accredited_for": [
+    "Total coliform / E. coli",
+    "Nitrate",
+    "pH"
+   ],
+   "group": "public",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Hulton Treatment Plant Laboratory",
+   "address": "1201 Allegheny Avenue, Oakmont, PA 15139-0073",
+   "city": "Oakmont",
+   "phone": "(412) 828-3388",
+   "lab_id": "02-00091",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "public",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Philadelphia Bureau of Laboratories",
+   "address": "1930 South Broad Street, Suite 37, 2nd Floor, Philadelphia, PA 19145",
+   "city": "Philadelphia",
+   "phone": "(215) 685-6820",
+   "lab_id": "51-04621",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "public",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Philadelphia Water Department Bureau of Laboratory Services",
+   "address": "1500 East Hunting Park Avenue, Philadelphia, PA 19124-4941",
+   "city": "Philadelphia",
+   "phone": "(215) 685-1402",
+   "lab_id": "51-00016",
+   "accredited_for": [
+    "Total coliform / E. coli",
+    "Nitrate",
+    "pH",
+    "Total dissolved solids",
+    "Lead",
+    "Arsenic",
+    "Iron",
+    "Manganese",
+    "Chloride"
+   ],
+   "group": "public",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "PAW Philipsburg Laboratory",
+   "address": "1912 Tyrone Pike, Philipsburg, PA 16866",
+   "city": "Philipsburg",
+   "phone": "(814) 342-0995",
+   "lab_id": "14-00385",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "public",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Allegheny County Health Department Public Health Laboratory",
+   "address": "3901 Penn Avenue Bldg 8, Pittsburgh, PA 15224",
+   "city": "Pittsburgh",
+   "phone": "(412) 578-8070",
+   "lab_id": "02-03263",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "public",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Hampton Shaler Water Authority",
+   "address": "1037 E Ohio St, Pittsburgh, PA 15223",
+   "city": "Pittsburgh",
+   "phone": "(412) 486-4867",
+   "lab_id": "02-00322",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "public",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Pennsylvania American Water: Hays Mine Laboratory",
+   "address": "380 Becks Run Rd., Pittsburgh, PA 15210",
+   "city": "Pittsburgh",
+   "phone": "(412) 690-5436",
+   "lab_id": "02-00085",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "public",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Pittsburgh Water and Sewer Authority Aspinwall Lab",
+   "address": "900 Freeport Road, Pittsburgh, PA 15238",
+   "city": "Pittsburgh",
+   "phone": "(412) 782-7552",
+   "lab_id": "02-05971",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "public",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "West View Water Authority",
+   "address": "200 Neville Road, Pittsburgh, PA 15225",
+   "city": "Pittsburgh",
+   "phone": "(724) 463-8378",
+   "lab_id": "02-00087",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "public",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Pottstown Wastewater Treatment Plant Laboratory",
+   "address": "1269 Industrial Highway, Pottstown, PA 19464",
+   "city": "Pottstown",
+   "phone": "(610) 970-6540",
+   "lab_id": "46-00793",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "public",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "PAW Punxsutawney Laboratory",
+   "address": "3933 Filtering Plant Road, Punxsutawney, PA 15767",
+   "city": "Punxsutawney",
+   "phone": "(814) 427-2289",
+   "lab_id": "33-00135",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "public",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Maiden Creek Filter Plant Laboratory",
+   "address": "108 Berkley Road, Reading, PA 19605",
+   "city": "Reading",
+   "phone": "(610) 926-5477",
+   "lab_id": "06-00004",
+   "accredited_for": [
+    "Total coliform / E. coli",
+    "pH"
+   ],
+   "group": "public",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "PAW - Lake Scranton Lab",
+   "address": "1500 Lake Scranton Pl, Roaring Brook Twp, PA 18444",
+   "city": "Roaring Brook Twp",
+   "phone": "(570) 362-1014",
+   "lab_id": "35-00543",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "public",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "MAWC George Sweeney Plant",
+   "address": "136 George Sweeney Water Treatment Plant Road, Saltsburg, PA 15681",
+   "city": "Saltsburg",
+   "phone": "(724) 727-2300",
+   "lab_id": "65-00242",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "public",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Aqua Pennsylvania Inc - Shenango Valley Division",
+   "address": "644 North Water Avenue, Sharon, PA 16146-1515",
+   "city": "Sharon",
+   "phone": "(724) 347-7418",
+   "lab_id": "43-00075",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "public",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "St. Marys Area Water Authority",
+   "address": "967 State Street, St Marys, PA 15857",
+   "city": "St Marys",
+   "phone": "(814) 834-4362",
+   "lab_id": "24-00082",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "public",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "State College Water Authority",
+   "address": "235 Woodside Drive, State College, PA 16801",
+   "city": "State College",
+   "phone": "(814) 238-6766",
+   "lab_id": "14-01427",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "public",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "LBCJMA Water Treatment Plant Laboratory",
+   "address": "60 Main Street, Tullytown, PA 19007",
+   "city": "Tullytown",
+   "phone": "(215) 547-9581",
+   "lab_id": "09-00022",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "public",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Wilkinsburg-Penn Joint Water Authority Laboratory",
+   "address": "7603 Tyler Road, Verona, PA 15147",
+   "city": "Verona",
+   "phone": "(412) 243-6212",
+   "lab_id": "02-00122",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "public",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Pennsylvania American Water Ellwood City",
+   "address": "352 Industrial Park Drive, Wampum, PA 16157",
+   "city": "Wampum",
+   "phone": "(724) 535-2146",
+   "lab_id": "37-00138",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "public",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "A E Kirby Memorial Health Center",
+   "address": "71 North Franklin Street, Wilkes-Barre, PA 18701",
+   "city": "Wilkes-Barre",
+   "phone": "(570) 822-4278",
+   "lab_id": "40-00115",
+   "accredited_for": [
+    "Total coliform / E. coli",
+    "Nitrate",
+    "pH",
+    "Total dissolved solids",
+    "Lead",
+    "Iron",
+    "Manganese",
+    "Chloride",
+    "Hardness"
+   ],
+   "group": "public",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Williamsport Sanitary Authority Laboratories",
+   "address": "601 Jefferson Lane, Williamsport, PA 17701-5340",
+   "city": "Williamsport",
+   "phone": "(570) 323-4375",
+   "lab_id": "41-00283",
+   "accredited_for": [
+    "Total coliform / E. coli",
+    "pH",
+    "Total dissolved solids",
+    "Chloride",
+    "Hardness"
+   ],
+   "group": "public",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "The York Water Company",
+   "address": "1351 Grantley Road, York, PA 17403",
+   "city": "York",
+   "phone": "(717) 845-3601",
+   "lab_id": "67-00041",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "public",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Sahli Lab",
+   "address": "201 2nd Avenue, Beaver Falls, PA 15010",
+   "city": "Beaver Falls",
+   "phone": "(724) 846-2400",
+   "lab_id": "04-00094",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "limited",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Blue Triton Brands, Inc.",
+   "address": "305 Nestle Way, Breinigsville, PA 18031",
+   "city": "Breinigsville",
+   "phone": "(484) 866-4338",
+   "lab_id": "39-04427",
+   "accredited_for": [
+    "Total coliform / E. coli",
+    "pH"
+   ],
+   "group": "limited",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Kevco Services, Inc",
+   "address": "890 Pittsburgh Road, Butler, PA 16002",
+   "city": "Butler",
+   "phone": "(724) 586-6343",
+   "lab_id": "10-00491",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "limited",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Franklin Analytical, Inc",
+   "address": "419 Limekiln Drive, Chambersburg, PA 17201",
+   "city": "Chambersburg",
+   "phone": "(717) 263-9970",
+   "lab_id": "28-00575",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "limited",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Donald Morse Laboratory",
+   "address": "899 Riverside Drive, Connellsville, PA 15425",
+   "city": "Connellsville",
+   "phone": "(724) 628-5710",
+   "lab_id": "26-00344",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "limited",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Pace Analytical Services, LLC - Erie, PA",
+   "address": "1920 East 38th Street, Erie, PA 16510",
+   "city": "Erie",
+   "phone": "(814) 660-6078",
+   "lab_id": "25-05907",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "limited",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Pace Analytical Services LLC - Greensburg PA",
+   "address": "1638 Roseytown Suites 2, 3, & 4, Greensburg, PA 15601",
+   "city": "Greensburg",
+   "phone": "(724) 850-5600",
+   "lab_id": "65-00282",
+   "accredited_for": [
+    "Radon",
+    "Uranium"
+   ],
+   "group": "limited",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": null,
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Microbac Laboratories, Inc. - Harrisburg",
+   "address": "4359 Linglestown Road, Harrisburg, PA 17112",
+   "city": "Harrisburg",
+   "phone": "(717) 651-9700",
+   "lab_id": "22-00578",
+   "accredited_for": [
+    "pH"
+   ],
+   "group": "limited",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": null,
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Niagara Bottling, LLC",
+   "address": "217 AquaPenn Drive, Howard, PA 16841",
+   "city": "Howard",
+   "phone": "(814) 357-6011",
+   "lab_id": "14-00423",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "limited",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "RDM-Johnstown, LLC",
+   "address": "242 Neil Street, Johnstown, PA 15904",
+   "city": "Johnstown",
+   "phone": "(814) 533-4300",
+   "lab_id": "11-00081",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "limited",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Teaco Laboratories Inc",
+   "address": "192 McCutcheon Short Cut Road, Leechburg, PA 15656-0612",
+   "city": "Leechburg",
+   "phone": "(724) 845-6648",
+   "lab_id": "65-00267",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "limited",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Owl Hill Laboratories LLC",
+   "address": "9 Cindy Circle, Lititz, PA 17543-9244",
+   "city": "Lititz",
+   "phone": "(717) 627-2520",
+   "lab_id": "36-00310",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "limited",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Environmental Service Laboratories, Inc - Northern Division",
+   "address": "435 Broad Street, Montoursville, PA 17754",
+   "city": "Montoursville",
+   "phone": "(724) 463-8378",
+   "lab_id": "41-04880",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "limited",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Cardan Laboratories Inc",
+   "address": "634 14th Street, Northern Cambria, PA 15714",
+   "city": "Northern Cambria",
+   "phone": "(814) 948-8650",
+   "lab_id": "11-00139",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "limited",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "H.O. Thompson Testing Lab",
+   "address": "104 Valley View Drive, Parkesburg, PA 19365",
+   "city": "Parkesburg",
+   "phone": "(610) 593-5030",
+   "lab_id": "15-00346",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "limited",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Dream Pools and Spas Inc",
+   "address": "1105 Washington Blvd, Pittsburgh, PA 15206",
+   "city": "Pittsburgh",
+   "phone": "(412) 661-7665",
+   "lab_id": "02-04041",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "limited",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Special Pathogens Laboratory",
+   "address": "1401 Forbes Avenue, Suite 401, Pittsburgh, PA 15219",
+   "city": "Pittsburgh",
+   "phone": "(412) 281-5335",
+   "lab_id": "02-04660",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "limited",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "CWM Environmental - Pottsville",
+   "address": "347 Pottsville Saint Clair Highway, Suite 1, Pottsville, PA 17901",
+   "city": "Pottsville",
+   "phone": "(724) 543-3011",
+   "lab_id": "54-06025",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "limited",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Quakertown Veterinary Clinic",
+   "address": "2250 N Old Bethlehem Pike, Quakertown, PA 18951-3948",
+   "city": "Quakertown",
+   "phone": "(215) 536-6245",
+   "lab_id": "09-00373",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "limited",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Environmental Service Laboratories, Inc - Northwest Division",
+   "address": "950 W Main Street, Sharpsville, PA 16150-0135",
+   "city": "Sharpsville",
+   "phone": "(724) 463-8373",
+   "lab_id": "43-04934",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "limited",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Todd Giddings and Associates Inc",
+   "address": "3049 Enterprise Drive, State College, PA 16801",
+   "city": "State College",
+   "phone": "(814) 238-5927",
+   "lab_id": "14-00321",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "limited",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "G & C Coal Analysis Lab Inc",
+   "address": "1341 Hoffman Hollow Road, Summerville, PA 15864-7301",
+   "city": "Summerville",
+   "phone": "(814) 849-7301",
+   "lab_id": "33-00325",
+   "accredited_for": [
+    "Total coliform / E. coli",
+    "pH"
+   ],
+   "group": "limited",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Environmental Service Laboratory Inc - Southern Division",
+   "address": "1276 Bentleyville Road, Van Voorhis, PA 15366",
+   "city": "Van Voorhis",
+   "phone": "(724) 463-8378",
+   "lab_id": "63-04247",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "limited",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Eagle Industrial Hygiene Associates Inc",
+   "address": "216 Cedar Avenue, Willow Grove, PA 19090",
+   "city": "Willow Grove",
+   "phone": "(215) 672-6088",
+   "lab_id": "46-00564",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "limited",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Eurofins Environment Testing Philadelphia LLC - Wind Gap",
+   "address": "501 East Moorestown Road, Wind Gap, PA 18091",
+   "city": "Wind Gap",
+   "phone": "(215) 355-3900",
+   "lab_id": "48-01334",
+   "accredited_for": [
+    "pH"
+   ],
+   "group": "limited",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": null,
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Pace Analytical Services, LLC - Wysox",
+   "address": "1851 Golden Mile Rd, Wysox, PA 18854",
+   "city": "Wysox",
+   "phone": "(570) 866-0195",
+   "lab_id": "08-05622",
+   "accredited_for": [
+    "Total coliform / E. coli"
+   ],
+   "group": "limited",
+   "source_name": "PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)",
+   "source_url": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Lab_Certification_06-11-2024%20Lab%20Accreditation%20Report.pdf",
+   "source_url_2": "https://files.dep.state.pa.us/Water/BSDW/DrinkingWaterManagement/PrivateWaterWells/DW_Micro_Lab_Certification_06-13-2024%20Accreditation%20Report.pdf",
+   "source_date": "2024-06-11 / 2024-06-13",
+   "last_verified": "2026-10-26"
+  }
+ ]
+}

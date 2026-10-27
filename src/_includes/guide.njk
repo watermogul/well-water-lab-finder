@@ -1,0 +1,17 @@
+---
+layout: base.njk
+---
+<script type="application/ld+json">{{ title | articleLd(description, site.url, page.url, verified or site.verified) | safe }}</script>
+<article>
+<nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a> › <a href="/guides/">Guides</a> › {{ title }}</nav>
+<h1>{{ title }}</h1>
+<p class="meta">Last verified against sources: {{ verified or site.verified }}</p>
+{{ content | safe }}
+{% if sources %}
+<h2>Sources</h2>
+<ul class="sources">
+{% for s in sources %}<li><a href="{{ s.url }}" rel="noopener">{{ s.label }}</a>{% if s.note %} — {{ s.note }}{% endif %}</li>{% endfor %}
+</ul>
+{% endif %}
+<p class="small">This site currently has no affiliate links. See the <a href="/affiliate-disclosure/">affiliate disclosure</a>.</p>
+</article>

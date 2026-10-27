@@ -1,0 +1,26 @@
+---
+layout: page.njk
+title: "How we verify lab listings"
+description: "How Well Water Lab Finder collects, checks and dates every lab listing, and what it does not claim."
+---
+<h2>Where listings come from</h2>
+<p>Only from official or primary published documents: state environmental or health agency lab lists and accreditation reports, county health department lab lists, and a lab's own published fee page. We do not copy lab marketing text, and we do not use other directories as a source.</p>
+<h2>What we record for every listing</h2>
+<ol>
+<li><strong>Source name and link</strong>, to the document or page the entry came from.</li>
+<li><strong>Source date</strong>, the date the source itself carries (or a note that it prints none).</li>
+<li><strong>Last verified</strong>, the date we fetched and compared the source. Current value for all listings: {{ site.verified }}.</li>
+</ol>
+<h2>What "verified" means</h2>
+<p>It means the lab name, address and phone number on our page match the source document on that date. It does <em>not</em> mean we called the lab, tested its service, or confirmed it takes homeowner samples. It does not mean the accreditation is still valid today if the source is older than that. Where a source is old, the state page says so at the top.</p>
+<h2>Known limits</h2>
+<ul>
+<li>Pennsylvania: DEP's accreditation reports we used are dated June 2024.</li>
+<li>Ohio: the list is for public drinking-water compliance; homeowner acceptance is not stated.</li>
+<li>New Hampshire: the lab table is dated 2024-09-20 inside an April 2026 guidance document, and its drop-off column was partly garbled in text extraction.</li>
+<li>New York: the state search is an interactive tool without a downloadable list, so only the labs on Westchester County's list are shown.</li>
+</ul>
+<h2>How we handle conflicts and gaps</h2>
+<p>If two sources disagree, we use the more official and more recent one, and say so. If a state's data cannot be read reliably, we say so on the page, or leave the state out, instead of guessing. Prices are only shown when a lab prints them, with the retrieval date.</p>
+<h2>Re-checking</h2>
+<p>Each state page is re-checked against its source on a schedule; the "last verified" date changes only when we have actually done that.</p>

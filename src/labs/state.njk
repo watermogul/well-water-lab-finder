@@ -1,0 +1,43 @@
+---
+layout: base.njk
+pagination:
+  data: labs
+  size: 1
+  alias: stkey
+  addAllPagesToCollections: true
+permalink: "labs/{{ stkey }}/index.html"
+eleventyComputed:
+  title: "{{ states[stkey].title }}"
+  description: "{{ states[stkey].description }}"
+---
+{% from "lab.njk" import labCard %}
+{% set d = labs[stkey] %}
+{% set s = states[stkey] %}
+<script type="application/ld+json">{{ d | stateLd(s, site.url, page.url) | safe }}</script>
+<nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a> › <a href="/labs/">Labs</a> › {{ s.name }}</nav>
+<h1>{{ s.title }}</h1>
+<p class="meta">Last verified against the source list: {{ d.last_verified }} · Source list date: {{ d.list_source.report_date }}</p>
+{% for p in s.intro %}<p>{{ p }}</p>{% endfor %}
+<div class="notice"><strong>Read before you call a lab</strong>
+<ul>{% for c in s.caveats %}<li>{{ c }}</li>{% endfor %}</ul></div>
+{% set mainLabs = d.labs | groupFilter('main') %}
+{% set pubLabs = d.labs | groupFilter('public') %}
+{% set limLabs = d.labs | groupFilter('limited') %}
+<h2>{% if stkey == 'new-york' %}Westchester County registered labs{% else %}Labs{% endif %} ({{ mainLabs.length }})</h2>
+{% for l in mainLabs %}{{ labCard(l, stkey) }}{% endfor %}
+{% if pubLabs.length %}
+<details><summary>Water-utility, government and health-agency labs on the same list ({{ pubLabs.length }})</summary>
+<p class="small">These are usually run by a water system or agency for its own sampling. The source does not say whether they take homeowner samples. Call first.</p>
+{% for l in pubLabs %}{{ labCard(l, stkey) }}{% endfor %}
+</details>
+{% endif %}
+{% if limLabs.length %}
+<details><summary>Labs accredited for only one test category ({{ limLabs.length }})</summary>
+<p class="small">Each of these is accredited for a single category in the DEP reports (for example bacteria only, or radon and uranium only), or is a bottler or industrial lab. They are shown for completeness. Most are probably not set up for homeowners.</p>
+{% for l in limLabs %}{{ labCard(l, stkey) }}{% endfor %}
+</details>
+{% endif %}
+<h2>Official sources for {{ s.name }}</h2>
+<ul>{% for r in s.resources %}<li><a href="{{ r.url }}" rel="noopener">{{ r.label }}</a></li>{% endfor %}</ul>
+<p>Next: <a href="/guides/what-to-test-well-water-for/">what to test your well water for</a> · <a href="/guides/how-much-does-well-water-testing-cost/">what testing costs</a> · <a href="/guides/state-certified-lab-vs-mail-in-kit-vs-test-strips/">lab vs kit vs strips</a>.</p>
+<p class="small">See <a href="/how-we-verify/">how we verify</a>. Spot an error or a lab that has closed? There is no contact form yet; a way to report corrections will be added at launch.</p>

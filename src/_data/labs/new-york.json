@@ -1,0 +1,166 @@
+{
+ "state": "New York",
+ "slug": "new-york",
+ "abbr": "NY",
+ "list_source": {
+  "name": "Westchester County Dept. of Health lab list; NYS ELAP search",
+  "page_url": "https://health.westchestercountyny.gov/images/stories/PDF/List_of_Labs_for_Private_Well_2025.pdf",
+  "report_date": "2025 (file name; no printed date)",
+  "search_url": "https://healthapps.health.ny.gov/pubdoh/applinks/wc/elappublicweb/"
+ },
+ "last_verified": "2026-10-26",
+ "labs": [
+  {
+   "name": "Advanced Analytical Technologies, Inc.",
+   "address": "37 Ramland Rd, Orangeburg, NY 10962",
+   "city": "Orangeburg",
+   "phone": "(800) 259-9532",
+   "elap_id": "11713",
+   "group": "main",
+   "accredited_for": [
+    "NYS ELAP-certified; registered with Westchester County Dept. of Health for private-well testing results"
+   ],
+   "source_name": "Westchester County Dept. of Health, \"Private Well-Water Testing Law\" lab list (file named 2025; the PDF prints no date)",
+   "source_url": "https://health.westchestercountyny.gov/images/stories/PDF/List_of_Labs_for_Private_Well_2025.pdf",
+   "source_date": "2025 (per file name)",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Analytical Laboratory Service (ALS)",
+   "address": "34 Dogwood Lane, Middletown, PA 17057",
+   "city": "Middletown, PA",
+   "phone": "(800) 794-7709",
+   "elap_id": "11759",
+   "group": "main",
+   "accredited_for": [
+    "NYS ELAP-certified; registered with Westchester County Dept. of Health for private-well testing results"
+   ],
+   "source_name": "Westchester County Dept. of Health, \"Private Well-Water Testing Law\" lab list (file named 2025; the PDF prints no date)",
+   "source_url": "https://health.westchestercountyny.gov/images/stories/PDF/List_of_Labs_for_Private_Well_2025.pdf",
+   "source_date": "2025 (per file name)",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "York Analytical Lab, dba Aqua Environmental Lab",
+   "address": "56 Church Hill Rd, Newtown, CT 06470",
+   "city": "Newtown, CT",
+   "phone": "(203) 270-9973",
+   "elap_id": "11706",
+   "group": "main",
+   "accredited_for": [
+    "NYS ELAP-certified; registered with Westchester County Dept. of Health for private-well testing results"
+   ],
+   "source_name": "Westchester County Dept. of Health, \"Private Well-Water Testing Law\" lab list (file named 2025; the PDF prints no date)",
+   "source_url": "https://health.westchestercountyny.gov/images/stories/PDF/List_of_Labs_for_Private_Well_2025.pdf",
+   "source_date": "2025 (per file name)",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Carnell Environmental Inspections, Inc.",
+   "address": "26 Legion Dr, Valhalla, NY 10595",
+   "city": "Valhalla",
+   "phone": "(914) 946-4300",
+   "elap_id": "11588",
+   "group": "main",
+   "accredited_for": [
+    "NYS ELAP-certified; registered with Westchester County Dept. of Health for private-well testing results"
+   ],
+   "source_name": "Westchester County Dept. of Health, \"Private Well-Water Testing Law\" lab list (file named 2025; the PDF prints no date)",
+   "source_url": "https://health.westchestercountyny.gov/images/stories/PDF/List_of_Labs_for_Private_Well_2025.pdf",
+   "source_date": "2025 (per file name)",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Environmental Labworks, Inc.",
+   "address": "PO Box 733, Marlboro, NY 12542",
+   "city": "Marlboro",
+   "phone": "(845) 236-7823",
+   "elap_id": "10824",
+   "group": "main",
+   "accredited_for": [
+    "NYS ELAP-certified; registered with Westchester County Dept. of Health for private-well testing results"
+   ],
+   "source_name": "Westchester County Dept. of Health, \"Private Well-Water Testing Law\" lab list (file named 2025; the PDF prints no date)",
+   "source_url": "https://health.westchestercountyny.gov/images/stories/PDF/List_of_Labs_for_Private_Well_2025.pdf",
+   "source_date": "2025 (per file name)",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "EnviroTest Laboratories, Inc.",
+   "address": "315 Fullerton Ave, Newburgh, NY 12250",
+   "city": "Newburgh",
+   "phone": "(845) 562-0890",
+   "elap_id": "10142",
+   "group": "main",
+   "accredited_for": [
+    "NYS ELAP-certified; registered with Westchester County Dept. of Health for private-well testing results"
+   ],
+   "source_name": "Westchester County Dept. of Health, \"Private Well-Water Testing Law\" lab list (file named 2025; the PDF prints no date)",
+   "source_url": "https://health.westchestercountyny.gov/images/stories/PDF/List_of_Labs_for_Private_Well_2025.pdf",
+   "source_date": "2025 (per file name)",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Phoenix Environmental Laboratories, Inc.",
+   "address": "587 East Middle Turnpike, Manchester, CT 06040",
+   "city": "Manchester, CT",
+   "phone": "(860) 645-1102 or (860) 645-3513",
+   "elap_id": "11715",
+   "group": "main",
+   "accredited_for": [
+    "NYS ELAP-certified; registered with Westchester County Dept. of Health for private-well testing results"
+   ],
+   "source_name": "Westchester County Dept. of Health, \"Private Well-Water Testing Law\" lab list (file named 2025; the PDF prints no date)",
+   "source_url": "https://health.westchestercountyny.gov/images/stories/PDF/List_of_Labs_for_Private_Well_2025.pdf",
+   "source_date": "2025 (per file name)",
+   "last_verified": "2026-10-26",
+   "website": "https://www.phoenixlabs.com"
+  },
+  {
+   "name": "Yorktown Medical Laboratories, Inc.",
+   "address": "321 Kear Street, Yorktown Heights, NY 10598",
+   "city": "Yorktown Heights",
+   "phone": "(914) 245-3203",
+   "elap_id": "10323",
+   "group": "main",
+   "accredited_for": [
+    "NYS ELAP-certified; registered with Westchester County Dept. of Health for private-well testing results"
+   ],
+   "source_name": "Westchester County Dept. of Health, \"Private Well-Water Testing Law\" lab list (file named 2025; the PDF prints no date)",
+   "source_url": "https://health.westchestercountyny.gov/images/stories/PDF/List_of_Labs_for_Private_Well_2025.pdf",
+   "source_date": "2025 (per file name)",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Westchester County Laboratories and Research",
+   "address": "10 Dana Road, Valhalla, NY 10595",
+   "city": "Valhalla",
+   "phone": "(914) 231-1781",
+   "elap_id": "10108",
+   "group": "main",
+   "accredited_for": [
+    "NYS ELAP-certified; registered with Westchester County Dept. of Health for private-well testing results"
+   ],
+   "source_name": "Westchester County Dept. of Health, \"Private Well-Water Testing Law\" lab list (file named 2025; the PDF prints no date)",
+   "source_url": "https://health.westchestercountyny.gov/images/stories/PDF/List_of_Labs_for_Private_Well_2025.pdf",
+   "source_date": "2025 (per file name)",
+   "last_verified": "2026-10-26",
+   "website": "http://labs.westchestergov.com/"
+  },
+  {
+   "name": "Aquatek Labs",
+   "address": "3 Research Drive, Woodbridge, CT 06525",
+   "city": "Woodbridge, CT",
+   "phone": "(203) 623-9804",
+   "elap_id": "12170",
+   "group": "main",
+   "accredited_for": [
+    "NYS ELAP-certified; registered with Westchester County Dept. of Health for private-well testing results"
+   ],
+   "source_name": "Westchester County Dept. of Health, \"Private Well-Water Testing Law\" lab list (file named 2025; the PDF prints no date)",
+   "source_url": "https://health.westchestercountyny.gov/images/stories/PDF/List_of_Labs_for_Private_Well_2025.pdf",
+   "source_date": "2025 (per file name)",
+   "last_verified": "2026-10-26"
+  }
+ ]
+}

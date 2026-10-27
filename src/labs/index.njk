@@ -1,0 +1,19 @@
+---
+layout: base.njk
+title: "Well water testing labs by state"
+description: "State-by-state lists of accredited drinking-water labs for private-well owners: Pennsylvania, Ohio, New Hampshire and New York."
+---
+<nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a> › Labs</nav>
+<h1>Well water testing labs by state</h1>
+<p>Pick your state. Each page says what the source list is, how old it is, and what we could not confirm.</p>
+<table>
+<thead><tr><th>State</th><th>Labs listed</th><th>Source list</th><th>Checked</th></tr></thead>
+<tbody>
+{% for key, d in labs %}
+<tr><td><a href="/labs/{{ key }}/">{{ states[key].name }}</a></td>
+<td>{{ (d.labs | groupFilter('main')).length }} main{% if (d.labs | groupFilter('public')).length %} + {{ (d.labs | groupFilter('public')).length }} utility/agency{% endif %}{% if (d.labs | groupFilter('limited')).length %} + {{ (d.labs | groupFilter('limited')).length }} limited{% endif %}</td>
+<td><a href="{{ d.list_source.page_url }}" rel="noopener">{{ d.list_source.name }}</a><br><span class="small">{{ d.list_source.report_date }}</span></td>
+<td>{{ d.last_verified }}</td></tr>
+{% endfor %}
+</tbody></table>
+<p class="small">New York is limited to the labs registered with Westchester County; use the state's ELAP search for the rest of the state. See the <a href="/labs/new-york/">New York page</a>.</p>

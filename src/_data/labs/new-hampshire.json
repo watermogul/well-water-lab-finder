@@ -1,0 +1,161 @@
+{
+ "state": "New Hampshire",
+ "slug": "new-hampshire",
+ "abbr": "NH",
+ "list_source": {
+  "name": "NHDES private-well testing guidance",
+  "page_url": "https://www.des.nh.gov/sites/g/files/ehbemt341/files/documents/labs-private-wells.pdf",
+  "report_date": "April 2026 document; lab list \"updated 9/20/2024\"",
+  "search_url": "https://www4.des.state.nh.us/certifiedlabs/certified-method.aspx"
+ },
+ "last_verified": "2026-10-26",
+ "labs": [
+  {
+   "name": "Eurofins Environmental Testing Eastern Analytical",
+   "address": "51 Antrim Avenue, Concord, NH",
+   "city": "Concord",
+   "phone": "(603) 228-0525",
+   "drop_off": "Concord",
+   "website": "https://easternanalytical.com",
+   "group": "main",
+   "accredited_for": [
+    "NHELAP-accredited; NHDES lists it as serving NH private-well users (specific analytes: use the NHDES search linked above)"
+   ],
+   "source_name": "NHDES, Water Testing Guidance for Private Well Users (April 2026; lab list updated 2024-09-20)",
+   "source_url": "https://www.des.nh.gov/sites/g/files/ehbemt341/files/documents/labs-private-wells.pdf",
+   "source_date": "2024-09-20 (lab list)",
+   "last_verified": "2026-10-26",
+   "note": "The state PDF's table text is garbled around this row; the name shown is our best reading of \"Environmental Testing Eastern Analytical / Eurofins\". Confirm on the lab website."
+  },
+  {
+   "name": "NHDHHS Public Health Laboratories (Water Analysis Laboratory)",
+   "address": "29 Hazen Drive, Concord, NH 03301",
+   "city": "Concord",
+   "phone": "(603) 271-3445",
+   "drop_off": "Concord",
+   "website": "https://www.dhhs.nh.gov/programs-services/environmental-health-and-you/water-analysis-laboratory-program",
+   "group": "main",
+   "accredited_for": [
+    "NHELAP-accredited; NHDES lists it as serving NH private-well users (specific analytes: use the NHDES search linked above)"
+   ],
+   "source_name": "NHDES, Water Testing Guidance for Private Well Users (April 2026; lab list updated 2024-09-20)",
+   "source_url": "https://www.des.nh.gov/sites/g/files/ehbemt341/files/documents/labs-private-wells.pdf",
+   "source_date": "2024-09-20 (lab list)",
+   "last_verified": "2026-10-26",
+   "note": "State lab; offers homeowner well-water testing on a fee-for-service basis. Fee table: see the cost guide. Fee form: https://nhphl.qualtraxcloud.com/ShowDocument.aspx?ID=7907 (retrieved 2026-10-26; the form itself prints no date).",
+   "fee_source_url": "https://nhphl.qualtraxcloud.com/ShowDocument.aspx?ID=7907"
+  },
+  {
+   "name": "Granite State Analytical",
+   "address": "22 Manchester Road, Derry, NH",
+   "city": "Derry",
+   "phone": "(603) 432-3044",
+   "drop_off": "10 NH locations including North Conway, Amherst, Tilton, Hampstead",
+   "website": "https://granitestateanalytical.com",
+   "group": "main",
+   "accredited_for": [
+    "NHELAP-accredited; NHDES lists it as serving NH private-well users (specific analytes: use the NHDES search linked above)"
+   ],
+   "source_name": "NHDES, Water Testing Guidance for Private Well Users (April 2026; lab list updated 2024-09-20)",
+   "source_url": "https://www.des.nh.gov/sites/g/files/ehbemt341/files/documents/labs-private-wells.pdf",
+   "source_date": "2024-09-20 (lab list)",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Endyne Inc.",
+   "address": "56 Etna Rd, Suite F, Lebanon, NH",
+   "city": "Lebanon",
+   "phone": "(603) 678-4891",
+   "drop_off": "Lebanon NH; Brattleboro VT; St. Johnsbury VT",
+   "website": "https://endynelabs.com",
+   "group": "main",
+   "accredited_for": [
+    "NHELAP-accredited; NHDES lists it as serving NH private-well users (specific analytes: use the NHDES search linked above)"
+   ],
+   "source_name": "NHDES, Water Testing Guidance for Private Well Users (April 2026; lab list updated 2024-09-20)",
+   "source_url": "https://www.des.nh.gov/sites/g/files/ehbemt341/files/documents/labs-private-wells.pdf",
+   "source_date": "2024-09-20 (lab list)",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Seacoast Analytical Services LLC",
+   "address": "72 Pinkham Road, Lee, NH",
+   "city": "Lee",
+   "phone": "(603) 868-1457",
+   "drop_off": "Lee; Epping",
+   "website": "https://seacoastanalytical.com",
+   "group": "main",
+   "accredited_for": [
+    "NHELAP-accredited; NHDES lists it as serving NH private-well users (specific analytes: use the NHDES search linked above)"
+   ],
+   "source_name": "NHDES, Water Testing Guidance for Private Well Users (April 2026; lab list updated 2024-09-20)",
+   "source_url": "https://www.des.nh.gov/sites/g/files/ehbemt341/files/documents/labs-private-wells.pdf",
+   "source_date": "2024-09-20 (lab list)",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Nelson Analytical LLC (Manchester)",
+   "address": "490 E. Industrial Park Dr., Manchester, NH",
+   "city": "Manchester",
+   "phone": "(603) 622-0200",
+   "drop_off": "Manchester; Canterbury",
+   "website": "https://nelsonanalytical.com",
+   "group": "main",
+   "accredited_for": [
+    "NHELAP-accredited; NHDES lists it as serving NH private-well users (specific analytes: use the NHDES search linked above)"
+   ],
+   "source_name": "NHDES, Water Testing Guidance for Private Well Users (April 2026; lab list updated 2024-09-20)",
+   "source_url": "https://www.des.nh.gov/sites/g/files/ehbemt341/files/documents/labs-private-wells.pdf",
+   "source_date": "2024-09-20 (lab list)",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Nelson Analytical (Keene)",
+   "address": "103 Monadnock Highway, North Swanzey, NH",
+   "city": "North Swanzey",
+   "phone": "(603) 357-2577",
+   "drop_off": "Swanzey",
+   "website": "https://nelsonanalytical.com",
+   "group": "main",
+   "accredited_for": [
+    "NHELAP-accredited; NHDES lists it as serving NH private-well users (specific analytes: use the NHDES search linked above)"
+   ],
+   "source_name": "NHDES, Water Testing Guidance for Private Well Users (April 2026; lab list updated 2024-09-20)",
+   "source_url": "https://www.des.nh.gov/sites/g/files/ehbemt341/files/documents/labs-private-wells.pdf",
+   "source_date": "2024-09-20 (lab list)",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "Eurofins Portsmouth",
+   "address": "124 Heritage Ave., Portsmouth, NH",
+   "city": "Portsmouth",
+   "phone": "(603) 436-2001",
+   "drop_off": "Portsmouth",
+   "website": "https://eurofins.com",
+   "group": "main",
+   "accredited_for": [
+    "NHELAP-accredited; NHDES lists it as serving NH private-well users (specific analytes: use the NHDES search linked above)"
+   ],
+   "source_name": "NHDES, Water Testing Guidance for Private Well Users (April 2026; lab list updated 2024-09-20)",
+   "source_url": "https://www.des.nh.gov/sites/g/files/ehbemt341/files/documents/labs-private-wells.pdf",
+   "source_date": "2024-09-20 (lab list)",
+   "last_verified": "2026-10-26"
+  },
+  {
+   "name": "New England Radon Ltd.",
+   "address": "11A Industrial Way, Unit 3, Salem, NH",
+   "city": "Salem",
+   "phone": "(603) 893-4260",
+   "drop_off": "Salem",
+   "website": "https://newenglandradon.com",
+   "group": "main",
+   "accredited_for": [
+    "NHELAP-accredited; NHDES lists it as serving NH private-well users (specific analytes: use the NHDES search linked above)"
+   ],
+   "source_name": "NHDES, Water Testing Guidance for Private Well Users (April 2026; lab list updated 2024-09-20)",
+   "source_url": "https://www.des.nh.gov/sites/g/files/ehbemt341/files/documents/labs-private-wells.pdf",
+   "source_date": "2024-09-20 (lab list)",
+   "last_verified": "2026-10-26"
+  }
+ ]
+}

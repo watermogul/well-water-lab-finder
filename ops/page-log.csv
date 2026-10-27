@@ -1,0 +1,14 @@
+date_built,url_path,type,title,word_count_approx,indexed_status,sources,notes
+2026-10-26,/,hub,Home,231,not deployed,internal,
+2026-10-26,/labs/,hub,Well water testing labs by state,150,not deployed,internal,
+2026-10-26,/labs/pennsylvania/,state-labs,"Pennsylvania labs (PA DEP reports, June 2024)",6618,not deployed,state agency list (see page),"109 labs from 2 DEP PDFs; 31 main, 52 utility/agency, 26 limited"
+2026-10-26,/labs/ohio/,state-labs,"Ohio labs (Ohio EPA list, Oct 2026)",2651,not deployed,state agency list (see page),"45 OH-address labs; public-water list, homeowner acceptance unverified"
+2026-10-26,/labs/new-hampshire/,state-labs,"New Hampshire labs (NHDES guidance, lab list 2024-09-20)",933,not deployed,state agency list (see page),9 labs; drop-off column garbled in source
+2026-10-26,/labs/new-york/,state-labs,New York: ELAP search + Westchester County list,978,not deployed,state agency list (see page),10 Westchester-registered labs only; statewide not enumerated
+2026-10-26,/guides/,hub,Guides index,31,not deployed,internal,
+2026-10-26,/guides/what-to-test-well-water-for/,guide,What to test well water for,623,not deployed,EPA / state agency / lab fee pages (see page Sources),
+2026-10-26,/guides/how-much-does-well-water-testing-cost/,guide,How much does well water testing cost,675,not deployed,EPA / state agency / lab fee pages (see page Sources),Fees only from Penn State AASL and NH PHL form; no kit prices
+2026-10-26,/guides/state-certified-lab-vs-mail-in-kit-vs-test-strips/,guide,Lab vs mail-in kit vs test strips,794,not deployed,EPA / state agency / lab fee pages (see page Sources),No commercial kit verified; no affiliate links
+2026-10-26,/about/,trust,About,239,not deployed,internal,
+2026-10-26,/how-we-verify/,trust,How we verify,330,not deployed,internal,
+2026-10-26,/affiliate-disclosure/,trust,Affiliate disclosure,159,not deployed,internal,

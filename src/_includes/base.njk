@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+{% set pageTitle = (title + " | " + site.name) if title else (site.name + " — state-accredited labs for private-well testing") %}
+<title>{{ pageTitle }}</title>
+<meta name="description" content="{{ description or site.tagline }}">
+<link rel="canonical" href="{{ site.url }}{{ page.url }}">
+<meta property="og:site_name" content="{{ site.name }}">
+<meta property="og:type" content="{{ 'article' if layout == 'guide.njk' else 'website' }}">
+<meta property="og:title" content="{{ title or site.name }}">
+<meta property="og:description" content="{{ description or site.tagline }}">
+<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+<meta name="twitter:card" content="summary">
+<link rel="stylesheet" href="/css/style.css">
+{% if noindex %}<meta name="robots" content="noindex">{% endif %}
+{% if jsonld %}<script type="application/ld+json">{{ jsonld | json | safe }}</script>{% endif %}
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="site-header"><div class="wrap">
+  <a class="brand" href="/">{{ site.name }}</a>
+  <nav aria-label="Main"><ul>
+    <li><a href="/labs/">Find a lab</a></li>
+    <li><a href="/guides/what-to-test-well-water-for/">What to test</a></li>
+    <li><a href="/guides/how-much-does-well-water-testing-cost/">Costs</a></li>
+    <li><a href="/how-we-verify/">How we verify</a></li>
+    <li><a href="/about/">About</a></li>
+  </ul></nav>
+</div></header>
+<main id="main" class="wrap">
+{{ content | safe }}
+</main>
+<footer class="site-footer"><div class="wrap">
+  <p><strong>{{ site.name }}</strong> is an independent directory. It is not a government agency and does not do water testing.
+  Listings were last checked against their sources on {{ site.verified }}. Always confirm with the lab before you send a sample.</p>
+  <p><a href="/affiliate-disclosure/">Affiliate disclosure</a> · <a href="/how-we-verify/">How we verify</a> · <a href="/about/">About</a> · <a href="/sitemap.xml">Sitemap</a></p>
+  <p class="small">Health questions about a result belong with your local or state health department or a qualified professional. Nothing here is medical advice.</p>
+</div></footer>
+</body>
+</html>

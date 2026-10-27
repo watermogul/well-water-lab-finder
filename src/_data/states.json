@@ -1,0 +1,81 @@
+{
+  "pennsylvania": {
+    "name": "Pennsylvania",
+    "abbr": "PA",
+    "title": "Pennsylvania drinking-water labs for private wells (PA DEP-accredited)",
+    "description": "Labs on Pennsylvania DEP's drinking-water accreditation reports that cover coliform bacteria, nitrate, pH, TDS, lead, arsenic or radon, with source and verification date on every listing.",
+    "intro": [
+      "Pennsylvania DEP's private-well testing page says to always use a state-certified laboratory that conducts drinking water tests. DEP publishes its accreditation results as two PDF reports, one for chemistry and one for microbiology. This page merges them by DEP lab ID and keeps the labs with a Pennsylvania address.",
+      "Penn State's Agricultural Analytical Services Laboratory is on the list. It runs a mail-in kit program for homeowners and publishes its fees, which are on our cost guide."
+    ],
+    "caveats": [
+      "The DEP reports we used are dated June 11, 2024 (chemistry) and June 13, 2024 (microbiology). Accreditation can change after that date. DEP's own page links these as its current reports, but check with DEP or the lab before you pay for a test.",
+      "The reports list what each lab is accredited to test in drinking water. They do not say whether a lab accepts samples from the public. Water-utility and agency labs are usually testing their own supply, so we list them separately. Call before sending a sample.",
+      "We did not enumerate prices for Pennsylvania labs other than Penn State, because none were verified."
+    ],
+    "resources": [
+      {"label": "PA DEP: private well water testing", "url": "https://www.pa.gov/agencies/dep/residents/my-water/private-wells/water-testing"},
+      {"label": "Penn State AASL drinking water testing and fees", "url": "https://agsci.psu.edu/aasl/water-testing/drinking-water-testing"}
+    ]
+  },
+  "ohio": {
+    "name": "Ohio",
+    "abbr": "OH",
+    "title": "Ohio labs certified for drinking-water analysis (Ohio EPA list)",
+    "description": "Ohio-based labs on Ohio EPA's October 2026 list of laboratories certified or accepted to test drinking water for microbiology and chemistry, with source and verification date on every listing.",
+    "intro": [
+      "Ohio EPA publishes a combined list of laboratories certified or accepted to run drinking-water analyses. We took the Ohio-address labs on that list that are approved for microbiology (total coliform and E. coli) or chemistry.",
+      "In Ohio's list, \"Standard Chemistry\" and \"Trace Metals\" are Ohio EPA's own category names. We show them as written and have not expanded them into a list of individual analytes."
+    ],
+    "caveats": [
+      "Ohio EPA titles this list \"Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water\". It is a compliance list for public water systems. It does not say which labs take samples from homeowners with private wells. Every lab here needs a phone call first.",
+      "Labs whose names show they are a water utility, county health district or other public agency are in a separate group. They often serve their own system or jurisdiction.",
+      "We left out labs on the list with an out-of-state address and labs listed only for specialty tests such as PFAS, cyanotoxins or Cryptosporidium. Ohio's list is dated October 2026."
+    ],
+    "resources": [
+      {"label": "Ohio EPA combined certified-lab list (PDF)", "url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf"},
+      {"label": "EPA: certification programs and certified laboratories, by state", "url": "https://www.epa.gov/dwlabcert/contact-information-certification-programs-and-certified-laboratories-drinking-water"}
+    ]
+  },
+  "new-hampshire": {
+    "name": "New Hampshire",
+    "abbr": "NH",
+    "title": "New Hampshire NHELAP-accredited labs for private wells",
+    "description": "The labs NHDES lists as NHELAP-accredited and serving New Hampshire private-well users, plus the state public health lab, with source and verification date on every listing.",
+    "intro": [
+      "NHDES recommends that private-well users use a lab accredited by the New Hampshire Environmental Laboratory Accreditation Program (NHELAP). Its \"Water Testing Guidance for Private Well Users\" (April 2026 version) includes a table of such labs that serve private-well users, which is where these listings come from.",
+      "NHDES says to test for bacteria, nitrate and nitrite every year, and to test the rest of its list every 3–5 years. The list is on our what-to-test guide."
+    ],
+    "caveats": [
+      "The lab table inside NHDES's April 2026 PDF carries its own footnote: \"Lab list updated 9/20/2024\". NHDES points to its Accredited Laboratory Search for current data.",
+      "The PDF's table text is jumbled when read by machine, especially the drop-off column. We cross-checked names and street addresses and kept only what we could read cleanly. Confirm drop-off locations and tests on each lab's website.",
+      "We did not record which analytes each NH lab is accredited for. Use NHDES's search tool for that."
+    ],
+    "resources": [
+      {"label": "NHDES: Water Testing Guidance for Private Well Users (PDF)", "url": "https://www.des.nh.gov/sites/g/files/ehbemt341/files/documents/labs-private-wells.pdf"},
+      {"label": "NHDES Accredited Laboratory Search", "url": "https://www4.des.state.nh.us/certifiedlabs/certified-method.aspx"},
+      {"label": "NH Public Health Laboratories: Water Analysis Laboratory Program", "url": "https://www.dhhs.nh.gov/programs-services/environmental-health-and-you/water-analysis-laboratory-program"}
+    ]
+  },
+  "new-york": {
+    "name": "New York",
+    "abbr": "NY",
+    "title": "New York: finding an ELAP-certified lab for your well (Westchester list included)",
+    "description": "How to find a New York ELAP-certified drinking-water lab for a private well, plus the ten labs registered with Westchester County's private-well testing program.",
+    "intro": [
+      "New York certifies environmental labs through the Department of Health's Environmental Laboratory Approval Program (ELAP) at the Wadsworth Center. Its public search tool is the authoritative way to find a lab approved for drinking water.",
+      "The search tool is an interactive form with no downloadable list, so we have not tried to reproduce a statewide directory. What we can list from a published source is Westchester County's list of ELAP-certified labs registered for its private-well testing law."
+    ],
+    "caveats": [
+      "This page does not cover New York statewide. Only the Westchester County labs below are listed, and the county's PDF prints no date (the file name says 2025).",
+      "Several labs on the Westchester list are in Connecticut or Pennsylvania. They are still ELAP-certified according to the county.",
+      "We did not verify which tests each lab runs, or what it charges. Ask the lab, and confirm its current ELAP scope in the state search.",
+      "Other New York counties publish their own lists. We have not verified them yet."
+    ],
+    "resources": [
+      {"label": "NYS ELAP: search accredited environmental laboratories", "url": "https://healthapps.health.ny.gov/pubdoh/applinks/wc/elappublicweb/"},
+      {"label": "NYS DOH Wadsworth Center: ELAP", "url": "https://wadsworth.org/regulatory/elap"},
+      {"label": "Westchester County DOH: private-well lab list (PDF)", "url": "https://health.westchestercountyny.gov/images/stories/PDF/List_of_Labs_for_Private_Well_2025.pdf"}
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+---
+layout: base.njk
+title:
+description: "Find state-accredited labs that test private-well water in Pennsylvania, Ohio, New Hampshire and New York, with the source and the date we checked it on every listing."
+---
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"{{ site.name }}","url":"{{ site.url }}/","description":"{{ site.tagline }}"}</script>
+<h1>Find a state-accredited lab to test your well water</h1>
+<p class="lead">If you have a private well, nobody tests your water for you. States publish lists of accredited labs, but they are scattered across PDFs and search forms with different layouts. We collect them into one place, link every listing to the state source, and show the date we last checked it.</p>
+<h2>Start with your state</h2>
+<ul class="cards">
+{% for key, d in labs %}
+  <li><h3><a href="/labs/{{ key }}/">{{ states[key].name }}</a></h3>
+  <p class="small">{{ d.labs.length }} labs listed · source list: {{ d.list_source.report_date }}</p></li>
+{% endfor %}
+</ul>
+<p>More states are on the way. If yours is not here, EPA keeps a <a href="https://www.epa.gov/dwlabcert/contact-information-certification-programs-and-certified-laboratories-drinking-water" rel="noopener">directory of each state's lab certification program</a>.</p>
+<h2>Guides</h2>
+<ul>
+  <li><a href="/guides/what-to-test-well-water-for/">What to test well water for, and how often</a></li>
+  <li><a href="/guides/how-much-does-well-water-testing-cost/">How much well water testing costs (published lab fee tables)</a></li>
+  <li><a href="/guides/state-certified-lab-vs-mail-in-kit-vs-test-strips/">State-certified lab vs mail-in kit vs test strips</a></li>
+</ul>
+<h2>What we do and don't do</h2>
+<ul>
+  <li>Every listing links to the government list it came from and shows that list's own date plus the date we checked it.</li>
+  <li>We do not rate or rank labs, and we do not test water.</li>
+  <li>We have no affiliate links today. If we add any, they will be marked. See the <a href="/affiliate-disclosure/">affiliate disclosure</a>.</li>
+</ul>
+<p><a href="/how-we-verify/">How we verify listings →</a></p>

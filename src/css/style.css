@@ -1,0 +1,29 @@
+:root{--ink:#1b2a33;--muted:#53636d;--bg:#fbfcfd;--card:#fff;--line:#d9e2e8;--accent:#0b6e8f;--warn:#fff6e0;--warnline:#e5c25c}
+*{box-sizing:border-box}
+body{margin:0;font:16px/1.6 system-ui,-apple-system,Segoe UI,Roboto,sans-serif;color:var(--ink);background:var(--bg)}
+.wrap{max-width:60rem;margin:0 auto;padding:0 1rem}
+a{color:var(--accent)}
+.skip{position:absolute;left:-999px}.skip:focus{left:1rem;top:1rem;background:#fff;padding:.5rem}
+.site-header{background:#fff;border-bottom:1px solid var(--line)}
+.site-header .wrap{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:.5rem;padding-top:.75rem;padding-bottom:.75rem}
+.brand{font-weight:700;font-size:1.15rem;text-decoration:none;color:var(--ink)}
+nav ul{display:flex;flex-wrap:wrap;gap:1rem;list-style:none;margin:0;padding:0}
+main{padding-top:1.5rem;padding-bottom:3rem}
+h1{line-height:1.2;margin-top:.5rem}h2{margin-top:2rem;line-height:1.25}
+.meta,.small,.crumbs{color:var(--muted);font-size:.9rem}
+.notice{background:var(--warn);border:1px solid var(--warnline);border-radius:6px;padding:.75rem 1rem;margin:1rem 0}
+.notice ul{margin:.25rem 0 0 1.1rem;padding:0}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(14rem,1fr));gap:1rem;list-style:none;padding:0}
+.cards li{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:1rem}
+table{border-collapse:collapse;width:100%;margin:1rem 0;font-size:.95rem;background:var(--card)}
+th,td{border:1px solid var(--line);padding:.5rem .6rem;text-align:left;vertical-align:top}
+th{background:#eef4f7}
+.lab{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:.9rem 1rem;margin:.8rem 0}
+.lab h3{margin:.1rem 0 .3rem;font-size:1.05rem}
+.lab p{margin:.2rem 0}
+.chips{display:flex;flex-wrap:wrap;gap:.3rem;list-style:none;margin:.3rem 0;padding:0}
+.chips li{background:#e8f3f7;border-radius:999px;padding:.05rem .6rem;font-size:.85rem}
+.src{font-size:.85rem;color:var(--muted)}
+details{margin:1rem 0}summary{cursor:pointer;font-weight:600}
+.site-footer{border-top:1px solid var(--line);background:#fff;padding:1.2rem 0;color:var(--muted);font-size:.9rem}
+@media (max-width:40rem){table{font-size:.85rem}}

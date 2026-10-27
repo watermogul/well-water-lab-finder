@@ -1,0 +1,15 @@
+{# macro for one listing #}
+{% macro labCard(l, st) %}
+<article class="lab" id="{{ (l.name + ' ' + l.city) | slugify }}">
+  <h3>{% if l.website %}<a href="{{ l.website }}" rel="noopener">{{ l.name }}</a>{% else %}{{ l.name }}{% endif %}</h3>
+  <p>{{ l.address }}{% if l.phone %} · <a href="{{ l.phone | phoneHref }}">{{ l.phone }}</a>{% endif %}</p>
+  {% if l.drop_off %}<p><strong>Drop-off locations listed by NHDES:</strong> {{ l.drop_off }} <span class="small">(confirm with the lab)</span></p>{% endif %}
+  {% if l.elap_id %}<p class="small">NYS ELAP lab ID {{ l.elap_id }} (as printed on the county list)</p>{% endif %}
+  {% if l.accredited_for and l.accredited_for.length %}
+  <p class="small" style="margin-bottom:0">{% if st == 'pennsylvania' %}Accredited by PA DEP for drinking water, including:{% elif st == 'ohio' %}Approved on Ohio EPA's list for:{% else %}Listed as:{% endif %}</p>
+  <ul class="chips">{% for a in l.accredited_for %}<li>{{ a }}</li>{% endfor %}</ul>
+  {% endif %}
+  {% if l.note %}<p class="small">{{ l.note }}</p>{% endif %}
+  <p class="src">Source: <a href="{{ l.source_url }}" rel="noopener">{{ l.source_name }}</a>{% if l.source_url_2 %} and <a href="{{ l.source_url_2 }}" rel="noopener">the microbiology report</a>{% endif %}. Source date: {{ l.source_date }}. Last verified: {{ l.last_verified }}.</p>
+</article>
+{% endmacro %}
