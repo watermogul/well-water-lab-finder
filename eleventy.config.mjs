@@ -1,4 +1,10 @@
+import { EleventyHtmlBasePlugin } from "@11ty/eleventy";
+
+// PATH_PREFIX: "/" for a custom domain or user site; "/well-water-lab-finder/" for the GitHub project page.
+const pathPrefix = process.env.PATH_PREFIX || "/";
+
 export default function (eleventyConfig) {
+  eleventyConfig.addPlugin(EleventyHtmlBasePlugin); // rewrites root-absolute href/src to include pathPrefix
   eleventyConfig.addPassthroughCopy({ "src/css": "css" });
   eleventyConfig.addFilter("phoneHref", (p) => "tel:+1" + String(p).replace(/\D/g, "").slice(0, 10));
   eleventyConfig.addFilter("json", (v) => JSON.stringify(v));
@@ -22,6 +28,7 @@ export default function (eleventyConfig) {
   eleventyConfig.addFilter("articleLd", (title, desc, base, url, modified) =>
     JSON.stringify({ "@context": "https://schema.org", "@type": "Article", headline: title, description: desc, mainEntityOfPage: base + url, dateModified: modified, author: { "@type": "Organization", name: "Well Water Lab Finder" } }));
   return {
+    pathPrefix,
     dir: { input: "src", output: "_site", includes: "_includes", data: "_data" },
     markdownTemplateEngine: "njk",
     htmlTemplateEngine: "njk",

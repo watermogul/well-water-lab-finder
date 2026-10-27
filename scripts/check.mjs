@@ -1,6 +1,8 @@
 // Post-build checks: (1) internal links/assets resolve, (2) every listing has source URL + dates, (3) sitemap URLs exist, (4) unique anchors.
 import fs from "node:fs"; import path from "node:path";
-const site = "_site"; let errors = 0; const err = (m) => { console.error("ERROR:", m); errors++; };
+const site = "_site"; const prefix = ("/" + (process.env.PATH_PREFIX || "/").replace(/^\/+|\/+$/g, "") + "/").replace(/^\/\/$/, "/");
+const strip = (u) => (prefix !== "/" && u.startsWith(prefix) ? "/" + u.slice(prefix.length) : u);
+const hasPrefix = (u) => prefix === "/" || u.startsWith(prefix); let errors = 0; const err = (m) => { console.error("ERROR:", m); errors++; };
 const walk = (d) => fs.readdirSync(d, { withFileTypes: true }).flatMap((e) => e.isDirectory() ? walk(path.join(d, e.name)) : [path.join(d, e.name)]);
 const files = walk(site); const htmls = files.filter((f) => f.endsWith(".html"));
 const exists = (u) => { u = u.split("#")[0].split("?")[0]; if (!u) return true; const p = path.join(site, u); return fs.existsSync(p) && (fs.statSync(p).isFile() || fs.existsSync(path.join(p, "index.html"))); };
@@ -10,7 +12,8 @@ for (const f of htmls) {
   for (const m of h.matchAll(/(?:href|src)="([^"]+)"/g)) {
     const u = m[1]; if (/^(https?:|mailto:|tel:|#|data:)/.test(u)) continue;
     internal++; if (!u.startsWith("/")) { err(`${f}: relative link ${u}`); continue; }
-    if (!exists(u)) err(`${f}: broken internal link ${u}`);
+    if (!hasPrefix(u)) err(`${f}: link missing path prefix ${prefix}: ${u}`);
+    else if (!exists(strip(u))) err(`${f}: broken internal link ${u}`);
   }
   const ids = [...h.matchAll(/\sid="([^"]+)"/g)].map((m) => m[1]); const dup = ids.filter((x, i) => ids.indexOf(x) !== i);
   if (dup.length) err(`${f}: duplicate ids ${[...new Set(dup)].join(", ")}`);
@@ -25,7 +28,11 @@ for (const f of fs.readdirSync(dir)) {
     if (!/^\d{4}-\d\d-\d\d$/.test(l.last_verified || "")) err(`${f}: ${l.name} bad last_verified`);
   }
 }
-const sm = fs.readFileSync(path.join(site, "sitemap.xml"), "utf8"); const locs = [...sm.matchAll(/<loc>https?:\/\/[^\/<]+(\/[^<]*)<\/loc>/g)].map((m) => m[1]);
+const sm = fs.readFileSync(path.join(site, "sitemap.xml"), "utf8"); const siteUrl = process.env.SITE_URL ? process.env.SITE_URL.replace(/\/$/, "") : null;
+const locsFull = [...sm.matchAll(/<loc>([^<]+)<\/loc>/g)].map((m) => m[1]);
+if (siteUrl) for (const u of locsFull) if (!u.startsWith(siteUrl + "/")) err(`sitemap URL not under SITE_URL: ${u}`);
+const sitePath = siteUrl ? new URL(siteUrl).pathname.replace(/\/$/, "") : "";
+const locs = locsFull.map((u) => new URL(u).pathname).map((u) => (sitePath && u.startsWith(sitePath + "/") ? u.slice(sitePath.length) : u));
 for (const u of locs) if (!exists(u)) err(`sitemap URL missing: ${u}`);
 if (/CHANGE-ME/.test(sm)) console.warn("WARN: sitemap uses placeholder domain (set SITE_URL before deploy)");
 console.log(`pages: ${htmls.length}, internal refs checked: ${internal}, listings with source+dates: ${listings}, sitemap urls: ${locs.length}`);
