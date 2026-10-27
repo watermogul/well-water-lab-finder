@@ -23,7 +23,7 @@ eleventyComputed:
 {% set mainLabs = d.labs | groupFilter('main') %}
 {% set pubLabs = d.labs | groupFilter('public') %}
 {% set limLabs = d.labs | groupFilter('limited') %}
-<h2>{% if stkey == 'new-york' %}Westchester County registered labs{% else %}Labs{% endif %} ({{ mainLabs.length }})</h2>
+<h2>{% if stkey == 'new-york' %}Westchester County registered labs{% elif stkey == 'maryland' %}Commercial labs certified for bacteria and chemistry{% else %}Labs{% endif %} ({{ mainLabs.length }})</h2>
 {% for l in mainLabs %}{{ labCard(l, stkey) }}{% endfor %}
 {% if pubLabs.length %}
 <details><summary>Water-utility, government and health-agency labs on the same list ({{ pubLabs.length }})</summary>
@@ -32,8 +32,8 @@ eleventyComputed:
 </details>
 {% endif %}
 {% if limLabs.length %}
-<details><summary>Labs accredited for only one test category ({{ limLabs.length }})</summary>
-<p class="small">Each of these is accredited for a single category in the DEP reports (for example bacteria only, or radon and uranium only), or is a bottler or industrial lab. They are shown for completeness. Most are probably not set up for homeowners.</p>
+<details><summary>{% if stkey == 'maryland' %}Commercial labs certified for bacteria only or chemistry only{% else %}Labs accredited for only one test category{% endif %} ({{ limLabs.length }})</summary>
+{% if s.limited_note %}<p class="small">{{ s.limited_note }}</p>{% else %}<p class="small">Each of these is accredited for a single category in the DEP reports (for example bacteria only, or radon and uranium only), or is a bottler or industrial lab. They are shown for completeness. Most are probably not set up for homeowners.</p>{% endif %}
 {% for l in limLabs %}{{ labCard(l, stkey) }}{% endfor %}
 </details>
 {% endif %}

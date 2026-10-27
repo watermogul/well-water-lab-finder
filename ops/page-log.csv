@@ -12,3 +12,4 @@ date_built,url_path,type,title,word_count_approx,indexed_status,sources,notes
 2026-10-26,/about/,trust,About,239,not deployed,internal,
 2026-10-26,/how-we-verify/,trust,How we verify,330,not deployed,internal,
 2026-10-26,/affiliate-disclosure/,trust,Affiliate disclosure,159,not deployed,internal,
+2026-10-26,/labs/maryland/,state-labs,"Maryland labs (MDE certified DW lab list, latest revisions 2026-10-01)",4050,deployed (indexing unchecked),state agency list (see page),"39 in-state labs: 9 commercial bacteria+chemistry, 18 utility/agency, 12 bacteria-only or chemistry-only; 53 out-of-state labs on MDE list not shown; test codes expanded from MDE parameter list (rev. 2024-10-10); UMD Extension 2019 homeowner list cross-referenced"

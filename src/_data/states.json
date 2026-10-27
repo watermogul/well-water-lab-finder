@@ -77,5 +77,51 @@
       {"label": "NYS DOH Wadsworth Center: ELAP", "url": "https://wadsworth.org/regulatory/elap"},
       {"label": "Westchester County DOH: private-well lab list (PDF)", "url": "https://health.westchestercountyny.gov/images/stories/PDF/List_of_Labs_for_Private_Well_2025.pdf"}
     ]
+  },
+  "maryland": {
+    "name": "Maryland",
+    "abbr": "MD",
+    "title": "Maryland state-certified drinking-water labs for private wells (MDE list)",
+    "description": "Maryland-based labs on MDE's October 1, 2026 list of certified drinking-water laboratories, with each lab's approved test groups in plain English and the source and verification date on every listing.",
+    "intro": [
+      "The Maryland Department of the Environment (MDE) says households with private wells should have their water tested periodically by a state-certified laboratory that conducts a drinking water test. MDE recommends sampling at least once a year for total coliform bacteria, nitrates, total dissolved solids and pH, and again any time the water's odor, taste or appearance changes.",
+      "MDE's Laboratory Certification Program publishes one list of every certified drinking-water lab, with its address, phone number and approved tests. Its latest revision is dated October 1, 2026. This page shows the labs in the list's \"In State Labs\" section and turns MDE's test codes (\"Micro 4\", \"Inorganics 1\" and so on) into plain names using MDE's own list of approved contaminants.",
+      "We put commercial labs certified for both bacteria and at least one chemistry group first. A well owner's basic annual test needs both. Labs certified only for bacteria, or only for chemistry, are in a separate group further down."
+    ],
+    "caveats": [
+      "MDE's list is the certification list for public water system compliance testing. It does not say which labs take samples from homeowners. Call the lab before you collect a sample.",
+      "Total dissolved solids and pH, two of MDE's four recommended annual tests, are not certification categories on MDE's approved-contaminant list. The list therefore can't tell you who runs them. Ask the lab.",
+      "MDE notes that evaluation of certified labs is ongoing and the list may change before its next website update. For private and real-estate testing, MDE also recommends using a certified sampler.",
+      "MDE's list also names 53 out-of-state labs, mostly large commercial labs in neighboring and distant states. We have not listed them here; see the MDE PDF if you live near a state line.",
+      "We did not verify prices, turnaround times or websites for any Maryland lab, so none are shown."
+    ],
+    "limited_note": "Each of these commercial labs is certified on MDE's list for bacteria only or for chemistry only. You may need a second lab, or the lab may send part of the work elsewhere. Ask first.",
+    "test_label": "Approved by MDE for:",
+    "resources": [
+      {
+        "label": "MDE: Maryland's Certified Drinking Water Laboratories (PDF, latest revisions 10/1/2026)",
+        "url": "https://mde.maryland.gov/programs/water/water_supply/Documents/Maryland-Certified-DW-Labs.pdf"
+      },
+      {
+        "label": "MDE: list of approved contaminants and test-code groups (PDF, revised 10/10/2024)",
+        "url": "https://mde.maryland.gov/programs/water/water_supply/Documents/MD%20Approved%20Parameter%20List.pdf"
+      },
+      {
+        "label": "MDE: Water Supply Laboratory Certification program",
+        "url": "https://mde.maryland.gov/programs/water/water_supply/pages/wsp-labcert.aspx"
+      },
+      {
+        "label": "MDE: Be Well Wise (private well guidance)",
+        "url": "https://mde.maryland.gov/programs/Water/Water_Supply/Pages/Be_Well_Wise.aspx"
+      },
+      {
+        "label": "MDE: current certified water samplers (PDF)",
+        "url": "https://mde.maryland.gov/programs/water/water_supply/Documents/Current-Certified-Water-Samplers.pdf"
+      },
+      {
+        "label": "University of Maryland Extension: certified water testing labs that serve homeowners (last updated 2019)",
+        "url": "https://www.extension.umd.edu/programs/environment-natural-resources/program-areas/wells-septic-systems-and-water-quality/water-quality-and-testing/certified-water-testing-labs"
+      }
+    ]
   }
 }

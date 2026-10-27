@@ -3,8 +3,7 @@
 Rules for every page: primary sources only; source URL + source date + "last verified" on every listing; no invented data; no affiliate links until a program has approved the account and the disclosure is updated. Log each shipped page in `page-log.csv`.
 
 ## State lab pages (new data pulls)
-1. **Maryland** lab list — pull state accreditation list; same schema as `src/_data/labs/*.json`.
-2. **Virginia** — same.
+2. **Virginia** — pull state accreditation list; same schema as `src/_data/labs/*.json` (see `scripts/build_md.py` for the Maryland pattern).
 3. **New Jersey** — same (NJDEP certified-lab search; check whether it is scriptable).
 4. **Michigan** — same.
 5. **Wisconsin** — same.
@@ -31,6 +30,12 @@ Rules for every page: primary sources only; source URL + source date + "last ver
 
 ## Maintenance
 20. **Re-verification pass** — re-fetch PA DEP reports (DEP may publish a newer one), Ohio EPA list (monthly updates likely), NHDES lab list, Westchester list; bump `last_verified` only when re-compared. Consider moving NH to NHDES's live search once a scripted export is possible.
+
+## New ideas (found while building Maryland, 2026-10-26)
+- **Maryland: out-of-state certified labs** near the PA/VA/DE lines — MDE's 10/1/2026 PDF lists 53 out-of-state labs (e.g. PA and VA labs with Micro + Inorganics). Could be a second section on /labs/maryland/; verify each from the same PDF.
+- **Maryland: county health department well-testing help** — MDE's Be Well Wise page points to local health departments and UMD Extension; verify each county's own page before listing.
+- **Maryland: certified water samplers** — MDE recommends a certified sampler for private/real-estate testing and publishes Current-Certified-Water-Samplers.pdf; check whether it's usable as a listing source.
+- **UMD Extension's 2019 homeowner lab list** includes Caswell Testing, Enviro-Chem, Martel and Environmental Testing Lab, which are not on MDE's 10/1/2026 in-state list. Do not list them unless re-verified.
 
 ## Known gaps to close
 - Contact/corrections channel (needs an email or form from the owner).
