@@ -1,0 +1,2501 @@
+{
+ "state": "Wisconsin",
+ "slug": "wisconsin",
+ "abbr": "WI",
+ "list_source": {
+  "name": "Wisconsin DNR certified drinking-water lab lists (chemistry Excel + coliform-bacteria lab page)",
+  "page_url": "https://dnr.wisconsin.gov/topic/labCert/certified-lab-lists",
+  "program_url": "https://dnr.wisconsin.gov/topic/labCert/certified-lab-lists",
+  "report_date": "Chemistry list dated Sept. 28, 2026; bacteria lab page retrieved Oct. 27, 2026"
+ },
+ "last_verified": "2026-10-27",
+ "labs": [
+  {
+   "name": "AgSource Laboratories",
+   "address": "3700 Downwind Dr Marshfield, WI 54449",
+   "city": "Marshfield",
+   "phone": "(715) 898-1402",
+   "lab_id": "737109450",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page",
+    "Nitrate",
+    "Nitrite",
+    "Arsenic",
+    "Lead",
+    "Copper",
+    "Fluoride",
+    "Manganese",
+    "Chloride",
+    "Sulfate"
+   ],
+   "detail": "DNR facility ID 737109450. DNR lab type: Commercial Lab; 17 analyte/method entries on the DNR chemistry list; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "main",
+   "source_name": "Wisconsin DNR, \"Drinking water certified labs - chemistry - NR 809 and NR 812\" (Excel, Sept. 28, 2026)",
+   "source_url": "https://dnr.wisconsin.gov/sites/default/files/topic/LabCert/DWLabs092826.xlsx",
+   "source_date": "2026-09-28",
+   "source_name_2": "the DNR bacteria-lab page",
+   "source_url_2": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Analytichem LLC",
+   "address": "N9190 Bay Meadows Lane Luxemburg, WI 54217-9639",
+   "city": "Luxemburg",
+   "phone": "(920) 866-3944",
+   "lab_id": "431011680",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page",
+    "Nitrate",
+    "Nitrite",
+    "Fluoride",
+    "Chloride",
+    "Sulfate"
+   ],
+   "detail": "DNR facility ID 431011680. DNR lab type: Commercial Lab; 7 analyte/method entries on the DNR chemistry list; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "main",
+   "source_name": "Wisconsin DNR, \"Drinking water certified labs - chemistry - NR 809 and NR 812\" (Excel, Sept. 28, 2026)",
+   "source_url": "https://dnr.wisconsin.gov/sites/default/files/topic/LabCert/DWLabs092826.xlsx",
+   "source_date": "2026-09-28",
+   "source_name_2": "the DNR bacteria-lab page",
+   "source_url_2": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Badger Laboratories - Stevens Point",
+   "address": "3426 E Maria Dr Stevens Point, WI 54481-1332",
+   "city": "Stevens Point",
+   "phone": "(800) 776-7196",
+   "lab_id": "750110460",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 750110460. DNR lab type: Commercial Lab; 3 analyte/method entries on the DNR chemistry list; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "main",
+   "source_name": "Wisconsin DNR, \"Drinking water certified labs - chemistry - NR 809 and NR 812\" (Excel, Sept. 28, 2026)",
+   "source_url": "https://dnr.wisconsin.gov/sites/default/files/topic/LabCert/DWLabs092826.xlsx",
+   "source_date": "2026-09-28",
+   "source_name_2": "the DNR bacteria-lab page",
+   "source_url_2": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Badger Laboratories, Inc.",
+   "address": "501 W Bell St Neenah, WI 54956",
+   "city": "Neenah",
+   "phone": "(800) 776-7196",
+   "lab_id": "445023150",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page",
+    "Nitrate",
+    "Nitrite",
+    "Arsenic",
+    "Lead",
+    "Copper",
+    "Fluoride",
+    "Manganese",
+    "Iron",
+    "Sodium",
+    "Chloride",
+    "Sulfate",
+    "pH",
+    "Total dissolved solids"
+   ],
+   "detail": "DNR facility ID 445023150. DNR lab type: Commercial Lab; 42 analyte/method entries on the DNR chemistry list; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "main",
+   "source_name": "Wisconsin DNR, \"Drinking water certified labs - chemistry - NR 809 and NR 812\" (Excel, Sept. 28, 2026)",
+   "source_url": "https://dnr.wisconsin.gov/sites/default/files/topic/LabCert/DWLabs092826.xlsx",
+   "source_date": "2026-09-28",
+   "source_name_2": "the DNR bacteria-lab page",
+   "source_url_2": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Bayfield County Health Dept.",
+   "address": "117 E 6Th St Washburn, WI 54891",
+   "city": "Washburn",
+   "phone": "(715) 373-6109",
+   "lab_id": "804075250",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page",
+    "Nitrate"
+   ],
+   "detail": "DNR facility ID 804075250. DNR lab type: Public Health Lab; 1 analyte/method entries on the DNR chemistry list; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "main",
+   "source_name": "Wisconsin DNR, \"Drinking water certified labs - chemistry - NR 809 and NR 812\" (Excel, Sept. 28, 2026)",
+   "source_url": "https://dnr.wisconsin.gov/sites/default/files/topic/LabCert/DWLabs092826.xlsx",
+   "source_date": "2026-09-28",
+   "source_name_2": "the DNR bacteria-lab page",
+   "source_url_2": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Branch River Testing Services LLC",
+   "address": "693 Lamers Clancy Rd Greenleaf, WI 54126",
+   "city": "Greenleaf",
+   "phone": "(920) 532-0016",
+   "lab_id": "405224600",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page",
+    "Nitrate",
+    "Arsenic"
+   ],
+   "detail": "DNR facility ID 405224600. DNR lab type: Commercial Lab; 2 analyte/method entries on the DNR chemistry list; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "main",
+   "source_name": "Wisconsin DNR, \"Drinking water certified labs - chemistry - NR 809 and NR 812\" (Excel, Sept. 28, 2026)",
+   "source_url": "https://dnr.wisconsin.gov/sites/default/files/topic/LabCert/DWLabs092826.xlsx",
+   "source_date": "2026-09-28",
+   "source_name_2": "the DNR bacteria-lab page",
+   "source_url_2": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Brown County Public Health Department",
+   "address": "2198 Glendale Ave Green Bay, WI 54303-6405",
+   "city": "Green Bay",
+   "phone": "(920) 448-6400",
+   "lab_id": "405200070",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page",
+    "Nitrate"
+   ],
+   "detail": "DNR facility ID 405200070. DNR lab type: Public Health Lab; 1 analyte/method entries on the DNR chemistry list; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "main",
+   "source_name": "Wisconsin DNR, \"Drinking water certified labs - chemistry - NR 809 and NR 812\" (Excel, Sept. 28, 2026)",
+   "source_url": "https://dnr.wisconsin.gov/sites/default/files/topic/LabCert/DWLabs092826.xlsx",
+   "source_date": "2026-09-28",
+   "source_name_2": "the DNR bacteria-lab page",
+   "source_url_2": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Chippewa County Department of Public Health",
+   "address": "711 N Bridge St Chippewa Fls, WI 54729-1845",
+   "city": "Chippewa Falls",
+   "phone": "(715) 726-7900",
+   "lab_id": "608111250",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page",
+    "Nitrate",
+    "Nitrite"
+   ],
+   "detail": "DNR facility ID 608111250. DNR lab type: Public Health Lab; 1 analyte/method entries on the DNR chemistry list; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "main",
+   "source_name": "Wisconsin DNR, \"Drinking water certified labs - chemistry - NR 809 and NR 812\" (Excel, Sept. 28, 2026)",
+   "source_url": "https://dnr.wisconsin.gov/sites/default/files/topic/LabCert/DWLabs092826.xlsx",
+   "source_date": "2026-09-28",
+   "source_name_2": "the DNR bacteria-lab page",
+   "source_url_2": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "City of Milwaukee Health Department Lab",
+   "address": "841 N Broadway Milwaukee, WI 53202-3640",
+   "city": "Milwaukee",
+   "phone": "(414) 286-3526",
+   "lab_id": "241311290",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page",
+    "Lead"
+   ],
+   "detail": "DNR facility ID 241311290. DNR lab type: Public Health Lab; 1 analyte/method entries on the DNR chemistry list; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "main",
+   "source_name": "Wisconsin DNR, \"Drinking water certified labs - chemistry - NR 809 and NR 812\" (Excel, Sept. 28, 2026)",
+   "source_url": "https://dnr.wisconsin.gov/sites/default/files/topic/LabCert/DWLabs092826.xlsx",
+   "source_date": "2026-09-28",
+   "source_name_2": "the DNR bacteria-lab page",
+   "source_url_2": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Clean Water Testing LLC",
+   "address": "1990 Prospect Crt Appleton, WI 54914-9000",
+   "city": "Appleton",
+   "phone": "(920) 733-7590",
+   "lab_id": "445126660",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page",
+    "Nitrate",
+    "Nitrite",
+    "Arsenic",
+    "Lead",
+    "Copper",
+    "Fluoride",
+    "Sodium",
+    "Sulfate",
+    "pH"
+   ],
+   "detail": "DNR facility ID 445126660. DNR lab type: Commercial Lab; 21 analyte/method entries on the DNR chemistry list; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "main",
+   "source_name": "Wisconsin DNR, \"Drinking water certified labs - chemistry - NR 809 and NR 812\" (Excel, Sept. 28, 2026)",
+   "source_url": "https://dnr.wisconsin.gov/sites/default/files/topic/LabCert/DWLabs092826.xlsx",
+   "source_date": "2026-09-28",
+   "source_name_2": "the DNR bacteria-lab page",
+   "source_url_2": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Commercial Testing Laboratory Inc.",
+   "address": "514 Main St Colfax, WI 54730-0526",
+   "city": "Colfax",
+   "phone": "(715) 962-3121",
+   "lab_id": "617013980",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page",
+    "Nitrate",
+    "Nitrite",
+    "Arsenic",
+    "Lead",
+    "Copper",
+    "Sodium"
+   ],
+   "detail": "DNR facility ID 617013980. DNR lab type: Commercial Lab; 15 analyte/method entries on the DNR chemistry list; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "main",
+   "source_name": "Wisconsin DNR, \"Drinking water certified labs - chemistry - NR 809 and NR 812\" (Excel, Sept. 28, 2026)",
+   "source_url": "https://dnr.wisconsin.gov/sites/default/files/topic/LabCert/DWLabs092826.xlsx",
+   "source_date": "2026-09-28",
+   "source_name_2": "the DNR bacteria-lab page",
+   "source_url_2": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "CT Laboratories",
+   "address": "1230 Lange Crt Baraboo, WI 53913",
+   "city": "Baraboo",
+   "phone": "(608) 356-2760",
+   "lab_id": "157066030",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page",
+    "Nitrate",
+    "Nitrite",
+    "Arsenic",
+    "Lead",
+    "Copper",
+    "Fluoride",
+    "Manganese",
+    "Iron",
+    "Sodium",
+    "Chloride",
+    "Sulfate",
+    "Total dissolved solids"
+   ],
+   "detail": "DNR facility ID 157066030. DNR lab type: Commercial Lab; 31 analyte/method entries on the DNR chemistry list; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "main",
+   "source_name": "Wisconsin DNR, \"Drinking water certified labs - chemistry - NR 809 and NR 812\" (Excel, Sept. 28, 2026)",
+   "source_url": "https://dnr.wisconsin.gov/sites/default/files/topic/LabCert/DWLabs092826.xlsx",
+   "source_date": "2026-09-28",
+   "source_name_2": "the DNR bacteria-lab page",
+   "source_url_2": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Davy Laboratories",
+   "address": "115 6Th St S La Crosse, WI 54601-4153",
+   "city": "La Crosse",
+   "phone": "(608) 782-3130",
+   "lab_id": "632021390",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page",
+    "Nitrate",
+    "Nitrite",
+    "Arsenic",
+    "Lead",
+    "Copper",
+    "Fluoride",
+    "Manganese",
+    "Iron",
+    "Sodium",
+    "Chloride",
+    "Sulfate",
+    "pH",
+    "Total dissolved solids",
+    "Pesticides / herbicides"
+   ],
+   "detail": "DNR facility ID 632021390. DNR lab type: Commercial Lab; 62 analyte/method entries on the DNR chemistry list; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "main",
+   "source_name": "Wisconsin DNR, \"Drinking water certified labs - chemistry - NR 809 and NR 812\" (Excel, Sept. 28, 2026)",
+   "source_url": "https://dnr.wisconsin.gov/sites/default/files/topic/LabCert/DWLabs092826.xlsx",
+   "source_date": "2026-09-28",
+   "source_name_2": "the DNR bacteria-lab page",
+   "source_url_2": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Douglas County HHS Laboratory",
+   "address": "1316 N 14Th St Superior, WI 54880",
+   "city": "Superior",
+   "phone": "(715) 395-1304",
+   "lab_id": "816006730",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page",
+    "Nitrate",
+    "Nitrite"
+   ],
+   "detail": "DNR facility ID 816006730. DNR lab type: Public Health Lab; 2 analyte/method entries on the DNR chemistry list; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "main",
+   "source_name": "Wisconsin DNR, \"Drinking water certified labs - chemistry - NR 809 and NR 812\" (Excel, Sept. 28, 2026)",
+   "source_url": "https://dnr.wisconsin.gov/sites/default/files/topic/LabCert/DWLabs092826.xlsx",
+   "source_date": "2026-09-28",
+   "source_name_2": "the DNR bacteria-lab page",
+   "source_url_2": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Dunn County Health Department",
+   "address": "3001 Us Highway 12 E Menomonie, WI 54751-3045",
+   "city": "Menomonie",
+   "phone": "(715) 232-2388",
+   "lab_id": "617074700",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page",
+    "Nitrate",
+    "Nitrite"
+   ],
+   "detail": "DNR facility ID 617074700. DNR lab type: Public Health Lab; 2 analyte/method entries on the DNR chemistry list; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "main",
+   "source_name": "Wisconsin DNR, \"Drinking water certified labs - chemistry - NR 809 and NR 812\" (Excel, Sept. 28, 2026)",
+   "source_url": "https://dnr.wisconsin.gov/sites/default/files/topic/LabCert/DWLabs092826.xlsx",
+   "source_date": "2026-09-28",
+   "source_name_2": "the DNR bacteria-lab page",
+   "source_url_2": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Eau Claire City-County Health Department",
+   "address": "720 Second Ave Eau Claire, WI 54703-5413",
+   "city": "Eau Claire",
+   "phone": "(715) 839-4718",
+   "lab_id": "618019820",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page",
+    "Nitrate",
+    "Nitrite",
+    "Arsenic",
+    "Lead",
+    "Copper",
+    "Manganese"
+   ],
+   "detail": "DNR facility ID 618019820. DNR lab type: Public Health Lab; 18 analyte/method entries on the DNR chemistry list; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "main",
+   "source_name": "Wisconsin DNR, \"Drinking water certified labs - chemistry - NR 809 and NR 812\" (Excel, Sept. 28, 2026)",
+   "source_url": "https://dnr.wisconsin.gov/sites/default/files/topic/LabCert/DWLabs092826.xlsx",
+   "source_date": "2026-09-28",
+   "source_name_2": "the DNR bacteria-lab page",
+   "source_url_2": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Eurofins S-F Analytical Laboratories Inc.",
+   "address": "2345 S 170Th St New Berlin, WI 53151-2701",
+   "city": "New Berlin",
+   "phone": "(262) 727-6006",
+   "lab_id": "241249360",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page",
+    "Nitrate",
+    "Nitrite",
+    "Arsenic",
+    "Lead",
+    "Copper"
+   ],
+   "detail": "DNR facility ID 241249360. DNR lab type: Commercial Lab; 6 analyte/method entries on the DNR chemistry list; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "main",
+   "source_name": "Wisconsin DNR, \"Drinking water certified labs - chemistry - NR 809 and NR 812\" (Excel, Sept. 28, 2026)",
+   "source_url": "https://dnr.wisconsin.gov/sites/default/files/topic/LabCert/DWLabs092826.xlsx",
+   "source_date": "2026-09-28",
+   "source_name_2": "the DNR bacteria-lab page",
+   "source_url_2": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Green County Public Health Water Lab",
+   "address": "N3152 State Road 81 Monroe, WI 53566-9397",
+   "city": "Monroe",
+   "phone": "(608) 328-9390",
+   "lab_id": "123048860",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page",
+    "Nitrate",
+    "Nitrite"
+   ],
+   "detail": "DNR facility ID 123048860. DNR lab type: Public Health Lab; 2 analyte/method entries on the DNR chemistry list; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "main",
+   "source_name": "Wisconsin DNR, \"Drinking water certified labs - chemistry - NR 809 and NR 812\" (Excel, Sept. 28, 2026)",
+   "source_url": "https://dnr.wisconsin.gov/sites/default/files/topic/LabCert/DWLabs092826.xlsx",
+   "source_date": "2026-09-28",
+   "source_name_2": "the DNR bacteria-lab page",
+   "source_url_2": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Iron County Health Department",
+   "address": "210 5Th Ave N Hurley, WI 54534-1386",
+   "city": "Hurley",
+   "phone": "(715) 561-2191",
+   "lab_id": "826005950",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page",
+    "Nitrate",
+    "Nitrite"
+   ],
+   "detail": "DNR facility ID 826005950. DNR lab type: Public Health Lab; 2 analyte/method entries on the DNR chemistry list; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "main",
+   "source_name": "Wisconsin DNR, \"Drinking water certified labs - chemistry - NR 809 and NR 812\" (Excel, Sept. 28, 2026)",
+   "source_url": "https://dnr.wisconsin.gov/sites/default/files/topic/LabCert/DWLabs092826.xlsx",
+   "source_date": "2026-09-28",
+   "source_name_2": "the DNR bacteria-lab page",
+   "source_url_2": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Jackson County Public Health Water Lab",
+   "address": "421 County Road R Black River Falls, WI 54615",
+   "city": "Black River Falls",
+   "phone": "(715) 284-4301",
+   "lab_id": "627062810",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page",
+    "Nitrate",
+    "Nitrite"
+   ],
+   "detail": "DNR facility ID 627062810. DNR lab type: Public Health Lab; 2 analyte/method entries on the DNR chemistry list; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "main",
+   "source_name": "Wisconsin DNR, \"Drinking water certified labs - chemistry - NR 809 and NR 812\" (Excel, Sept. 28, 2026)",
+   "source_url": "https://dnr.wisconsin.gov/sites/default/files/topic/LabCert/DWLabs092826.xlsx",
+   "source_date": "2026-09-28",
+   "source_name_2": "the DNR bacteria-lab page",
+   "source_url_2": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Kenosha County Division of Health Lab",
+   "address": "8600 Sheridan Rd Kenosha, WI 53143",
+   "city": "Kenosha",
+   "phone": "(262) 605-6705",
+   "lab_id": "230153220",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page",
+    "Nitrate"
+   ],
+   "detail": "DNR facility ID 230153220. DNR lab type: Public Health Lab; 1 analyte/method entries on the DNR chemistry list; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "main",
+   "source_name": "Wisconsin DNR, \"Drinking water certified labs - chemistry - NR 809 and NR 812\" (Excel, Sept. 28, 2026)",
+   "source_url": "https://dnr.wisconsin.gov/sites/default/files/topic/LabCert/DWLabs092826.xlsx",
+   "source_date": "2026-09-28",
+   "source_name_2": "the DNR bacteria-lab page",
+   "source_url_2": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "La Crosse County HD Public Health Laboratory",
+   "address": "300 4Th St N La Crosse, WI 54601",
+   "city": "LaCrosse",
+   "phone": "(608) 785-9733",
+   "lab_id": "632072980",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page",
+    "Nitrate",
+    "Nitrite",
+    "Arsenic",
+    "Lead"
+   ],
+   "detail": "DNR facility ID 632072980. DNR lab type: Public Health Lab; 5 analyte/method entries on the DNR chemistry list; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "main",
+   "source_name": "Wisconsin DNR, \"Drinking water certified labs - chemistry - NR 809 and NR 812\" (Excel, Sept. 28, 2026)",
+   "source_url": "https://dnr.wisconsin.gov/sites/default/files/topic/LabCert/DWLabs092826.xlsx",
+   "source_date": "2026-09-28",
+   "source_name_2": "the DNR bacteria-lab page",
+   "source_url_2": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Lab-Tech Services",
+   "address": "N6411 Vacha Lane Deerbrook, WI 54424",
+   "city": "Deerbrook",
+   "phone": "(715) 623-6281",
+   "lab_id": "734044960",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page",
+    "Nitrate"
+   ],
+   "detail": "DNR facility ID 734044960. DNR lab type: Commercial Lab; 1 analyte/method entries on the DNR chemistry list; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "main",
+   "source_name": "Wisconsin DNR, \"Drinking water certified labs - chemistry - NR 809 and NR 812\" (Excel, Sept. 28, 2026)",
+   "source_url": "https://dnr.wisconsin.gov/sites/default/files/topic/LabCert/DWLabs092826.xlsx",
+   "source_date": "2026-09-28",
+   "source_name_2": "the DNR bacteria-lab page",
+   "source_url_2": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Lafayette County Health Department",
+   "address": "729 Clay St Darlington, WI 53530-1225",
+   "city": "Darlington",
+   "phone": "(608) 776-4895",
+   "lab_id": "133027840",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page",
+    "Nitrate",
+    "Nitrite"
+   ],
+   "detail": "DNR facility ID 133027840. DNR lab type: Public Health Lab; 2 analyte/method entries on the DNR chemistry list; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "main",
+   "source_name": "Wisconsin DNR, \"Drinking water certified labs - chemistry - NR 809 and NR 812\" (Excel, Sept. 28, 2026)",
+   "source_url": "https://dnr.wisconsin.gov/sites/default/files/topic/LabCert/DWLabs092826.xlsx",
+   "source_date": "2026-09-28",
+   "source_name_2": "the DNR bacteria-lab page",
+   "source_url_2": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Lake Superior Research Institute (LSRI)",
+   "address": "816 N 17Th St Superior, WI 54880",
+   "city": "Superior",
+   "phone": "(715) 394-8170",
+   "lab_id": "816003540",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page",
+    "Nitrate",
+    "Nitrite",
+    "pH"
+   ],
+   "detail": "DNR facility ID 816003540. DNR lab type: Public Health Lab; 6 analyte/method entries on the DNR chemistry list; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "main",
+   "source_name": "Wisconsin DNR, \"Drinking water certified labs - chemistry - NR 809 and NR 812\" (Excel, Sept. 28, 2026)",
+   "source_url": "https://dnr.wisconsin.gov/sites/default/files/topic/LabCert/DWLabs092826.xlsx",
+   "source_date": "2026-09-28",
+   "source_name_2": "the DNR bacteria-lab page",
+   "source_url_2": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Lincoln County Health Department",
+   "address": "607 N Sales St Merrill, WI 54452",
+   "city": "Merrill",
+   "phone": "(715) 536-0307",
+   "lab_id": "735036280",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page",
+    "Nitrate",
+    "Nitrite"
+   ],
+   "detail": "DNR facility ID 735036280. DNR lab type: Public Health Lab; 2 analyte/method entries on the DNR chemistry list; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "main",
+   "source_name": "Wisconsin DNR, \"Drinking water certified labs - chemistry - NR 809 and NR 812\" (Excel, Sept. 28, 2026)",
+   "source_url": "https://dnr.wisconsin.gov/sites/default/files/topic/LabCert/DWLabs092826.xlsx",
+   "source_date": "2026-09-28",
+   "source_name_2": "the DNR bacteria-lab page",
+   "source_url_2": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "LV Labs WW, LLC",
+   "address": "1001 S Madison St Lancaster, WI 53813-0384",
+   "city": "Lancaster",
+   "phone": "(608) 723-4096",
+   "lab_id": "122046870",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page",
+    "Nitrate"
+   ],
+   "detail": "DNR facility ID 122046870. DNR lab type: Commercial Lab; 1 analyte/method entries on the DNR chemistry list; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "main",
+   "source_name": "Wisconsin DNR, \"Drinking water certified labs - chemistry - NR 809 and NR 812\" (Excel, Sept. 28, 2026)",
+   "source_url": "https://dnr.wisconsin.gov/sites/default/files/topic/LabCert/DWLabs092826.xlsx",
+   "source_date": "2026-09-28",
+   "source_name_2": "the DNR bacteria-lab page",
+   "source_url_2": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Marathon County Public Health Laboratory",
+   "address": "1000 Lakeview Dr Wausau, WI 54403-6786",
+   "city": "Wausau",
+   "phone": "(715) 261-1908",
+   "lab_id": "737157080",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page",
+    "Nitrate"
+   ],
+   "detail": "DNR facility ID 737157080. DNR lab type: Public Health Lab; 1 analyte/method entries on the DNR chemistry list; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "main",
+   "source_name": "Wisconsin DNR, \"Drinking water certified labs - chemistry - NR 809 and NR 812\" (Excel, Sept. 28, 2026)",
+   "source_url": "https://dnr.wisconsin.gov/sites/default/files/topic/LabCert/DWLabs092826.xlsx",
+   "source_date": "2026-09-28",
+   "source_name_2": "the DNR bacteria-lab page",
+   "source_url_2": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Marquette Co. Health Dept. dba Rural Env. Health Alliance",
+   "address": "428 Underwood Ave Montello, WI 53949-9248",
+   "city": "Montello",
+   "phone": "(608) 297-3135",
+   "lab_id": "439022210",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page",
+    "Nitrate",
+    "Nitrite"
+   ],
+   "detail": "DNR facility ID 439022210. DNR lab type: Public Health Lab; 2 analyte/method entries on the DNR chemistry list; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "main",
+   "source_name": "Wisconsin DNR, \"Drinking water certified labs - chemistry - NR 809 and NR 812\" (Excel, Sept. 28, 2026)",
+   "source_url": "https://dnr.wisconsin.gov/sites/default/files/topic/LabCert/DWLabs092826.xlsx",
+   "source_date": "2026-09-28",
+   "source_name_2": "the DNR bacteria-lab page",
+   "source_url_2": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Northern Lake Service Inc. (Crandon)",
+   "address": "400 N Lake Ave Crandon, WI 54520",
+   "city": "Crandon",
+   "phone": "(715) 478-2777",
+   "lab_id": "721026460",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page",
+    "Nitrate",
+    "Nitrite",
+    "Arsenic",
+    "Lead",
+    "Copper",
+    "Fluoride",
+    "Manganese",
+    "Iron",
+    "Sodium",
+    "Chloride",
+    "Sulfate",
+    "Pesticides / herbicides",
+    "PFAS"
+   ],
+   "detail": "DNR facility ID 721026460. DNR lab type: Commercial Lab; 81 analyte/method entries on the DNR chemistry list; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "main",
+   "source_name": "Wisconsin DNR, \"Drinking water certified labs - chemistry - NR 809 and NR 812\" (Excel, Sept. 28, 2026)",
+   "source_url": "https://dnr.wisconsin.gov/sites/default/files/topic/LabCert/DWLabs092826.xlsx",
+   "source_date": "2026-09-28",
+   "source_name_2": "the DNR bacteria-lab page",
+   "source_url_2": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Northern Lake Service Inc. - Waukesha",
+   "address": "2420 N Grandview Blvd Waukesha, WI 54520",
+   "city": "Waukesha",
+   "phone": "(715) 478-2777",
+   "lab_id": "268533760",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page",
+    "Nitrate",
+    "Nitrite",
+    "Fluoride",
+    "Chloride",
+    "Sulfate"
+   ],
+   "detail": "DNR facility ID 268533760. DNR lab type: Commercial Lab; 6 analyte/method entries on the DNR chemistry list; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "main",
+   "source_name": "Wisconsin DNR, \"Drinking water certified labs - chemistry - NR 809 and NR 812\" (Excel, Sept. 28, 2026)",
+   "source_url": "https://dnr.wisconsin.gov/sites/default/files/topic/LabCert/DWLabs092826.xlsx",
+   "source_date": "2026-09-28",
+   "source_name_2": "the DNR bacteria-lab page",
+   "source_url_2": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Pace Analytical Services,LLC-Green Bay WI",
+   "address": "1241 Bellevue St Green Bay, WI 54302",
+   "city": "Green Bay",
+   "phone": "(920) 469-2436",
+   "lab_id": "405132750",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page",
+    "Nitrate",
+    "Nitrite"
+   ],
+   "detail": "DNR facility ID 405132750. DNR lab type: Commercial Lab; 3 analyte/method entries on the DNR chemistry list; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "main",
+   "source_name": "Wisconsin DNR, \"Drinking water certified labs - chemistry - NR 809 and NR 812\" (Excel, Sept. 28, 2026)",
+   "source_url": "https://dnr.wisconsin.gov/sites/default/files/topic/LabCert/DWLabs092826.xlsx",
+   "source_date": "2026-09-28",
+   "source_name_2": "the DNR bacteria-lab page",
+   "source_url_2": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Polk County Health Department",
+   "address": "100 Polk County Plaza Suite 180 Balsam Lake, WI 54810-8009",
+   "city": "Balsam Lake",
+   "phone": "(715) 485-8400",
+   "lab_id": "649023980",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page",
+    "Nitrate",
+    "Nitrite"
+   ],
+   "detail": "DNR facility ID 649023980. DNR lab type: Public Health Lab; 2 analyte/method entries on the DNR chemistry list; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "main",
+   "source_name": "Wisconsin DNR, \"Drinking water certified labs - chemistry - NR 809 and NR 812\" (Excel, Sept. 28, 2026)",
+   "source_url": "https://dnr.wisconsin.gov/sites/default/files/topic/LabCert/DWLabs092826.xlsx",
+   "source_date": "2026-09-28",
+   "source_name_2": "the DNR bacteria-lab page",
+   "source_url_2": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Quality Water Testing, Inc.",
+   "address": "395 Reed St Somerset, WI 54025",
+   "city": "Somerset",
+   "phone": "(715) 247-4873",
+   "lab_id": "656111390",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page",
+    "Nitrate"
+   ],
+   "detail": "DNR facility ID 656111390. DNR lab type: Commercial Lab; 1 analyte/method entries on the DNR chemistry list; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "main",
+   "source_name": "Wisconsin DNR, \"Drinking water certified labs - chemistry - NR 809 and NR 812\" (Excel, Sept. 28, 2026)",
+   "source_url": "https://dnr.wisconsin.gov/sites/default/files/topic/LabCert/DWLabs092826.xlsx",
+   "source_date": "2026-09-28",
+   "source_name_2": "the DNR bacteria-lab page",
+   "source_url_2": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Rock County Health Department",
+   "address": "3328 Us Highway 51 N Janesville, WI 53547-1088",
+   "city": "Janesville",
+   "phone": "(608) 757-5442",
+   "lab_id": "154077660",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page",
+    "Nitrate"
+   ],
+   "detail": "DNR facility ID 154077660. DNR lab type: Public Health Lab; 1 analyte/method entries on the DNR chemistry list; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "main",
+   "source_name": "Wisconsin DNR, \"Drinking water certified labs - chemistry - NR 809 and NR 812\" (Excel, Sept. 28, 2026)",
+   "source_url": "https://dnr.wisconsin.gov/sites/default/files/topic/LabCert/DWLabs092826.xlsx",
+   "source_date": "2026-09-28",
+   "source_name_2": "the DNR bacteria-lab page",
+   "source_url_2": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "SWD Labs, LLC",
+   "address": "N9935 Pleasant Rd Randolph, WI 53956",
+   "city": "Randolph",
+   "phone": "(920) 326-5193",
+   "lab_id": "111083830",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page",
+    "Nitrate"
+   ],
+   "detail": "DNR facility ID 111083830. DNR lab type: Commercial Lab; 1 analyte/method entries on the DNR chemistry list; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "main",
+   "source_name": "Wisconsin DNR, \"Drinking water certified labs - chemistry - NR 809 and NR 812\" (Excel, Sept. 28, 2026)",
+   "source_url": "https://dnr.wisconsin.gov/sites/default/files/topic/LabCert/DWLabs092826.xlsx",
+   "source_date": "2026-09-28",
+   "source_name_2": "the DNR bacteria-lab page",
+   "source_url_2": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "TG Analytical Laboratories",
+   "address": "N1022 Quality Dr Greenville, WI 54942-8604",
+   "city": "Greenville",
+   "phone": "(920) 757-1355",
+   "lab_id": "445158340",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page",
+    "Nitrate",
+    "Nitrite",
+    "Arsenic",
+    "Lead",
+    "Copper",
+    "Fluoride",
+    "Manganese"
+   ],
+   "detail": "DNR facility ID 445158340. DNR lab type: Commercial Lab; 23 analyte/method entries on the DNR chemistry list; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "main",
+   "source_name": "Wisconsin DNR, \"Drinking water certified labs - chemistry - NR 809 and NR 812\" (Excel, Sept. 28, 2026)",
+   "source_url": "https://dnr.wisconsin.gov/sites/default/files/topic/LabCert/DWLabs092826.xlsx",
+   "source_date": "2026-09-28",
+   "source_name_2": "the DNR bacteria-lab page",
+   "source_url_2": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "US Water, LLC",
+   "address": "6905 Venture Cir Weston, WI 54476",
+   "city": "Weston",
+   "phone": "(715) 842-2215",
+   "lab_id": "737240900",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page",
+    "Nitrate",
+    "Nitrite",
+    "Arsenic",
+    "Lead",
+    "Copper",
+    "Manganese"
+   ],
+   "detail": "DNR facility ID 737240900. DNR lab type: Commercial Lab; 19 analyte/method entries on the DNR chemistry list; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "main",
+   "source_name": "Wisconsin DNR, \"Drinking water certified labs - chemistry - NR 809 and NR 812\" (Excel, Sept. 28, 2026)",
+   "source_url": "https://dnr.wisconsin.gov/sites/default/files/topic/LabCert/DWLabs092826.xlsx",
+   "source_date": "2026-09-28",
+   "source_name_2": "the DNR bacteria-lab page",
+   "source_url_2": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "UW-Oshkosh Env. Research & Innovation Ctr",
+   "address": "783 Pearl Ave Oshkosh, WI 54901-3551",
+   "city": "Oshkosh",
+   "phone": "(920) 424-3148",
+   "lab_id": "471183460",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page",
+    "Nitrate",
+    "Nitrite",
+    "Arsenic"
+   ],
+   "detail": "DNR facility ID 471183460. DNR lab type: Public Health Lab; 4 analyte/method entries on the DNR chemistry list; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "main",
+   "source_name": "Wisconsin DNR, \"Drinking water certified labs - chemistry - NR 809 and NR 812\" (Excel, Sept. 28, 2026)",
+   "source_url": "https://dnr.wisconsin.gov/sites/default/files/topic/LabCert/DWLabs092826.xlsx",
+   "source_date": "2026-09-28",
+   "source_name_2": "the DNR bacteria-lab page",
+   "source_url_2": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "UWSP Water and Environmental Analysis Lab",
+   "address": "800 Reserve St Stevens Point, WI 54481",
+   "city": "Stevens Point",
+   "phone": "(715) 346-3209",
+   "lab_id": "750040280",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page",
+    "Nitrate",
+    "Nitrite",
+    "Arsenic",
+    "Lead",
+    "Copper",
+    "Fluoride",
+    "Manganese"
+   ],
+   "detail": "DNR facility ID 750040280. DNR lab type: Public Health Lab; 6 analyte/method entries on the DNR chemistry list; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "main",
+   "source_name": "Wisconsin DNR, \"Drinking water certified labs - chemistry - NR 809 and NR 812\" (Excel, Sept. 28, 2026)",
+   "source_url": "https://dnr.wisconsin.gov/sites/default/files/topic/LabCert/DWLabs092826.xlsx",
+   "source_date": "2026-09-28",
+   "source_name_2": "the DNR bacteria-lab page",
+   "source_url_2": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Vernon County Health Department",
+   "address": "318 Fairlane Drive Viroqua, WI 54665-6140",
+   "city": "Viroqua",
+   "phone": "(608) 637-5251",
+   "lab_id": "663058110",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page",
+    "Nitrate",
+    "Nitrite"
+   ],
+   "detail": "DNR facility ID 663058110. DNR lab type: Public Health Lab; 2 analyte/method entries on the DNR chemistry list; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "main",
+   "source_name": "Wisconsin DNR, \"Drinking water certified labs - chemistry - NR 809 and NR 812\" (Excel, Sept. 28, 2026)",
+   "source_url": "https://dnr.wisconsin.gov/sites/default/files/topic/LabCert/DWLabs092826.xlsx",
+   "source_date": "2026-09-28",
+   "source_name_2": "the DNR bacteria-lab page",
+   "source_url_2": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Walworth Co. Health & Human Services",
+   "address": "1910 County Road Nn Elkhorn, WI 53121",
+   "city": "Elkhorn",
+   "phone": "(262) 741-3200",
+   "lab_id": "265192290",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page",
+    "Nitrate"
+   ],
+   "detail": "DNR facility ID 265192290. DNR lab type: Public Health Lab; 1 analyte/method entries on the DNR chemistry list; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "main",
+   "source_name": "Wisconsin DNR, \"Drinking water certified labs - chemistry - NR 809 and NR 812\" (Excel, Sept. 28, 2026)",
+   "source_url": "https://dnr.wisconsin.gov/sites/default/files/topic/LabCert/DWLabs092826.xlsx",
+   "source_date": "2026-09-28",
+   "source_name_2": "the DNR bacteria-lab page",
+   "source_url_2": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Water Diagnostics Laboratories",
+   "address": "8605 W Freistadt Rd Mequon, WI 53097",
+   "city": "Mequon",
+   "phone": "(414) 350-1100",
+   "lab_id": "246103990",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page",
+    "Nitrate"
+   ],
+   "detail": "DNR facility ID 246103990. DNR lab type: Commercial Lab; 1 analyte/method entries on the DNR chemistry list; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "main",
+   "source_name": "Wisconsin DNR, \"Drinking water certified labs - chemistry - NR 809 and NR 812\" (Excel, Sept. 28, 2026)",
+   "source_url": "https://dnr.wisconsin.gov/sites/default/files/topic/LabCert/DWLabs092826.xlsx",
+   "source_date": "2026-09-28",
+   "source_name_2": "the DNR bacteria-lab page",
+   "source_url_2": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Watertown Department of Public Health Laboratory",
+   "address": "515 S 1St St Watertown, WI 53094-4409",
+   "city": "Watertown",
+   "phone": "(920) 262-8090",
+   "lab_id": "128099730",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page",
+    "Nitrate",
+    "Nitrite"
+   ],
+   "detail": "DNR facility ID 128099730. DNR lab type: Public Health Lab; 1 analyte/method entries on the DNR chemistry list; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "main",
+   "source_name": "Wisconsin DNR, \"Drinking water certified labs - chemistry - NR 809 and NR 812\" (Excel, Sept. 28, 2026)",
+   "source_url": "https://dnr.wisconsin.gov/sites/default/files/topic/LabCert/DWLabs092826.xlsx",
+   "source_date": "2026-09-28",
+   "source_name_2": "the DNR bacteria-lab page",
+   "source_url_2": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Waukesha Co Dept of Parks & Land Use – DEH",
+   "address": "515 W Moreland Blvd Waukesha, WI 53188",
+   "city": "Waukesha",
+   "phone": "(262) 896-8300",
+   "lab_id": "268511760",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page",
+    "Nitrate"
+   ],
+   "detail": "DNR facility ID 268511760. DNR lab type: Public Health Lab; 1 analyte/method entries on the DNR chemistry list; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "main",
+   "source_name": "Wisconsin DNR, \"Drinking water certified labs - chemistry - NR 809 and NR 812\" (Excel, Sept. 28, 2026)",
+   "source_url": "https://dnr.wisconsin.gov/sites/default/files/topic/LabCert/DWLabs092826.xlsx",
+   "source_date": "2026-09-28",
+   "source_name_2": "the DNR bacteria-lab page",
+   "source_url_2": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Waupaca County Environmental Microbiology Laboratory",
+   "address": "811 Harding St Waupaca, WI 54981",
+   "city": "Waupaca",
+   "phone": "(715) 258-6323",
+   "lab_id": "469100500",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page",
+    "Nitrate"
+   ],
+   "detail": "DNR facility ID 469100500. DNR lab type: Public Health Lab; 1 analyte/method entries on the DNR chemistry list; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "main",
+   "source_name": "Wisconsin DNR, \"Drinking water certified labs - chemistry - NR 809 and NR 812\" (Excel, Sept. 28, 2026)",
+   "source_url": "https://dnr.wisconsin.gov/sites/default/files/topic/LabCert/DWLabs092826.xlsx",
+   "source_date": "2026-09-28",
+   "source_name_2": "the DNR bacteria-lab page",
+   "source_url_2": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "White Water Associates, Inc. - Wisconsin",
+   "address": "223B Milwaukee St Kewaunee, WI 54216",
+   "city": "Kewaunee",
+   "phone": "(920) 388-9067",
+   "lab_id": "431018940",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page",
+    "Nitrate",
+    "Nitrite"
+   ],
+   "detail": "DNR facility ID 431018940. DNR lab type: Commercial Lab; 2 analyte/method entries on the DNR chemistry list; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "main",
+   "source_name": "Wisconsin DNR, \"Drinking water certified labs - chemistry - NR 809 and NR 812\" (Excel, Sept. 28, 2026)",
+   "source_url": "https://dnr.wisconsin.gov/sites/default/files/topic/LabCert/DWLabs092826.xlsx",
+   "source_date": "2026-09-28",
+   "source_name_2": "the DNR bacteria-lab page",
+   "source_url_2": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Wisconsin State Laboratory of Hygiene",
+   "address": "2601 Agriculture Dr Madison, WI 53707",
+   "city": "Madison",
+   "phone": "(608) 224-6260",
+   "lab_id": "113133790",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page",
+    "Nitrate",
+    "Nitrite",
+    "Arsenic",
+    "Lead",
+    "Copper",
+    "Fluoride",
+    "Manganese",
+    "Iron",
+    "Sodium",
+    "Sulfate",
+    "Total dissolved solids",
+    "PFAS"
+   ],
+   "detail": "DNR facility ID 113133790. DNR lab type: Public Health Lab; 34 analyte/method entries on the DNR chemistry list; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "main",
+   "source_name": "Wisconsin DNR, \"Drinking water certified labs - chemistry - NR 809 and NR 812\" (Excel, Sept. 28, 2026)",
+   "source_url": "https://dnr.wisconsin.gov/sites/default/files/topic/LabCert/DWLabs092826.xlsx",
+   "source_date": "2026-09-28",
+   "source_name_2": "the DNR bacteria-lab page",
+   "source_url_2": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Wood County Water Laboratory",
+   "address": "111 W Jackson St Wisconsin Rapids, WI 54495-2702",
+   "city": "Wisconsin Rapids",
+   "phone": "(715) 421-8911",
+   "lab_id": "772162820",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page",
+    "Nitrate",
+    "Nitrite"
+   ],
+   "detail": "DNR facility ID 772162820. DNR lab type: Public Health Lab; 2 analyte/method entries on the DNR chemistry list; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "main",
+   "source_name": "Wisconsin DNR, \"Drinking water certified labs - chemistry - NR 809 and NR 812\" (Excel, Sept. 28, 2026)",
+   "source_url": "https://dnr.wisconsin.gov/sites/default/files/topic/LabCert/DWLabs092826.xlsx",
+   "source_date": "2026-09-28",
+   "source_name_2": "the DNR bacteria-lab page",
+   "source_url_2": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "A1 Advanced Pumping Service, Inc.",
+   "address": "N4314 County Road M West Salem, WI 54669-9526",
+   "city": "West Salem",
+   "phone": "(608) 784-1888",
+   "lab_id": "998018010",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page",
+    "Nitrate",
+    "Nitrite"
+   ],
+   "detail": "DNR facility ID 998018010. DNR lab type: Treatment, Storage & Disposal Lab; 2 analyte/method entries on the DNR chemistry list; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "public",
+   "source_name": "Wisconsin DNR, \"Drinking water certified labs - chemistry - NR 809 and NR 812\" (Excel, Sept. 28, 2026)",
+   "source_url": "https://dnr.wisconsin.gov/sites/default/files/topic/LabCert/DWLabs092826.xlsx",
+   "source_date": "2026-09-28",
+   "source_name_2": "the DNR bacteria-lab page",
+   "source_url_2": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Appleton Water Treatment Facility",
+   "address": "2281 Manitowoc Rd Menasha, WI 54952-8924",
+   "city": "2281 Manitowoc Rd Menasha",
+   "phone": "(920) 997-4200",
+   "lab_id": "445033380",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 445033380. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "public",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Ashland Wastewater Treatment Plant",
+   "address": "1901 Knight Rd Ashland, WI 54806-2281",
+   "city": "1901 Knight Rd Ashland",
+   "phone": "(715) 209-7194",
+   "lab_id": "802008130",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 802008130. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "public",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Baileys Harbor Wastewater Treatment Facility",
+   "address": "2605 Summit Rd Baileys Harbor, WI 54202",
+   "city": "2605 Summit Rd Baileys Harbor",
+   "phone": "(920) 839-2037",
+   "lab_id": "415016910",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 415016910. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "public",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Bristol Wastewater Treatment Plant",
+   "address": "8025 195Th Ave Bristol, WI 53104",
+   "city": "8025 195Th Ave Bristol",
+   "phone": "(262) 857-2368",
+   "lab_id": "230002630",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 230002630. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "public",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Brookfield Water Utility",
+   "address": "19700 Riverview Dr Brookfield, WI 53045",
+   "city": "19700 Riverview Dr Brookfield",
+   "phone": "(262) 796-6717",
+   "lab_id": "268025340",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 268025340. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "public",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "City Of Burlington Utilities",
+   "address": "2100 S Pine St Burlington, WI 53105",
+   "city": "2100 S Pine St Burlington",
+   "phone": "(262) 539-3646",
+   "lab_id": "252002630",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 252002630. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "public",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "City Of Eau Claire",
+   "address": "1000 Ferry St Eau Claire, WI 54703-6094",
+   "city": "1000 Ferry St Eau Claire",
+   "phone": "(715) 839-6121",
+   "lab_id": "618006510",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 618006510. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "public",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "City Of Hudson",
+   "address": "31 Canary Way Hudson, WI 54016-1603",
+   "city": "31 Canary Way Hudson",
+   "phone": "(715) 386-4760",
+   "lab_id": "656125470",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 656125470. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "public",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "City Of Kenosha Water Utility",
+   "address": "100 51St Pl Kenosha, WI 53140",
+   "city": "100 51St Pl Kenosha",
+   "phone": "(262) 653-4330",
+   "lab_id": "230004610",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 230004610. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "public",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "City Of Onalaska",
+   "address": "415 Main St Onalaska, WI 54650-2953",
+   "city": "415 Main St Onalaska",
+   "phone": "(608) 783-5666",
+   "lab_id": "632149870",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 632149870. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "public",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Cudahy Water Utility",
+   "address": "5110 S Lake Dr Cudahy, WI 53110-6108",
+   "city": "5110 S Lake Dr Cudahy",
+   "phone": "(414) 769-2234",
+   "lab_id": "241016930",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 241016930. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "public",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Drummond Sanitary District # 1",
+   "address": "52560 Front Ave Drummond, WI 54832-0043",
+   "city": "52560 Front Ave Drummond",
+   "phone": "(715) 739-6741",
+   "lab_id": "804012990",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 804012990. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "public",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "East Troy Wastewater Treatment",
+   "address": "2104 Young St East Troy, WI 53120",
+   "city": "2104 Young St East Troy",
+   "phone": "(262) 642-6255",
+   "lab_id": "265012330",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 265012330. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "public",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Ephraim Wastewater Plant",
+   "address": "10285 Town Line Dr Ephraim, WI 54211",
+   "city": "10285 Town Line Dr Ephraim",
+   "phone": "(920) 854-4991",
+   "lab_id": "415017240",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 415017240. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "public",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Fredonia Wastewater Treatment Plant",
+   "address": "210 Park Rd Fredonia, WI 53021-0159",
+   "city": "Fredonia",
+   "phone": "(262) 483-0275",
+   "lab_id": "246002900",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page",
+    "Nitrate"
+   ],
+   "detail": "DNR facility ID 246002900. DNR lab type: Municipal Lab; 1 analyte/method entries on the DNR chemistry list; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "public",
+   "source_name": "Wisconsin DNR, \"Drinking water certified labs - chemistry - NR 809 and NR 812\" (Excel, Sept. 28, 2026)",
+   "source_url": "https://dnr.wisconsin.gov/sites/default/files/topic/LabCert/DWLabs092826.xlsx",
+   "source_date": "2026-09-28",
+   "source_name_2": "the DNR bacteria-lab page",
+   "source_url_2": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Genoa City Water Utility",
+   "address": "521 1St St Genoa City, WI 53128",
+   "city": "521 1St St Genoa City",
+   "phone": "(262) 279-5728",
+   "lab_id": "265003530",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 265003530. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "public",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Grafton Water Utility",
+   "address": "1860 9Th Ave Grafton, WI 53024",
+   "city": "1860 9Th Ave Grafton",
+   "phone": "(262) 375-5331",
+   "lab_id": "246011150",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 246011150. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "public",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Green Bay Water Utility Lab",
+   "address": "6183 Finger Rd Green Bay, WI 54301",
+   "city": "6183 Finger Rd Green Bay",
+   "phone": "(920) 845-2031",
+   "lab_id": "405035620",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 405035620. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "public",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Janesville Wastewater Lab",
+   "address": "3300 Tripp Rd Janesville, WI 53548-8816",
+   "city": "3300 Tripp Rd Janesville",
+   "phone": "(608) 755-3120",
+   "lab_id": "154002420",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 154002420. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "public",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Kenosha Water Utility - WPC",
+   "address": "Kenosha, WI (street address not given in the DNR chemistry file)",
+   "city": "Kenosha",
+   "phone": "(262) 653-4335",
+   "lab_id": "230002960",
+   "accredited_for": [
+    "Lead"
+   ],
+   "detail": "DNR facility ID 230002960. DNR lab type: Municipal Lab; 1 analyte/method entries on the DNR chemistry list; not on the DNR coliform-bacteria lab page.",
+   "group": "public",
+   "source_name": "Wisconsin DNR, \"Drinking water certified labs - chemistry - NR 809 and NR 812\" (Excel, Sept. 28, 2026)",
+   "source_url": "https://dnr.wisconsin.gov/sites/default/files/topic/LabCert/DWLabs092826.xlsx",
+   "source_date": "2026-09-28",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Kohler Co., CHEM Lab",
+   "address": "444 Highland Dr Kohler, WI 53044-1515",
+   "city": "Kohler",
+   "phone": "(920) 457-4441",
+   "lab_id": "460032870",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page",
+    "Nitrate",
+    "Nitrite",
+    "Arsenic",
+    "Lead",
+    "Copper",
+    "Fluoride",
+    "Chloride",
+    "Sulfate"
+   ],
+   "detail": "DNR facility ID 460032870. DNR lab type: Industrial Lab; 21 analyte/method entries on the DNR chemistry list; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "public",
+   "source_name": "Wisconsin DNR, \"Drinking water certified labs - chemistry - NR 809 and NR 812\" (Excel, Sept. 28, 2026)",
+   "source_url": "https://dnr.wisconsin.gov/sites/default/files/topic/LabCert/DWLabs092826.xlsx",
+   "source_date": "2026-09-28",
+   "source_name_2": "the DNR bacteria-lab page",
+   "source_url_2": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Lake Geneva Utility Commission",
+   "address": "361 W Main St Lake Geneva, WI 53147",
+   "city": "361 W Main St Lake Geneva",
+   "phone": "(262) 248-2311 x406",
+   "lab_id": "265006610",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 265006610. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "public",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Manitowoc Public Utilities",
+   "address": "1303 8Th St Manitowoc, WI 54220-5313",
+   "city": "1303 8Th St Manitowoc",
+   "phone": "(920) 683-4600 x4384",
+   "lab_id": "436036480",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 436036480. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "public",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Marshfield Utilities",
+   "address": "1818 N Oak St Marshfield, WI 54449",
+   "city": "1818 N Oak St Marshfield",
+   "phone": "(715) 387-1195 x316",
+   "lab_id": "772016520",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 772016520. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "public",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Medford Wastewater Treatment Plant",
+   "address": "603 S Whelen Ave Medford, WI 54451-1740",
+   "city": "Medford",
+   "phone": "(715) 748-4122",
+   "lab_id": "861008830",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page",
+    "Nitrate"
+   ],
+   "detail": "DNR facility ID 861008830. DNR lab type: Municipal Lab; 1 analyte/method entries on the DNR chemistry list; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "public",
+   "source_name": "Wisconsin DNR, \"Drinking water certified labs - chemistry - NR 809 and NR 812\" (Excel, Sept. 28, 2026)",
+   "source_url": "https://dnr.wisconsin.gov/sites/default/files/topic/LabCert/DWLabs092826.xlsx",
+   "source_date": "2026-09-28",
+   "source_name_2": "the DNR bacteria-lab page",
+   "source_url_2": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Menasha Electric & Water Utility",
+   "address": "57 Manitowoc St Menasha, WI 54952-3226",
+   "city": "57 Manitowoc St Menasha",
+   "phone": "(920) 967-3451",
+   "lab_id": "471033420",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 471033420. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "public",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Menomonee Falls Water Utility",
+   "address": "W152N8634 Margaret Rd Menomonee Falls, WI 53051",
+   "city": "W152N8634 Margaret Rd Menomonee Falls",
+   "phone": "(262) 255-8341",
+   "lab_id": "268008290",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 268008290. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "public",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Menomonie Waste Water",
+   "address": "620 11Th Ave W Menomonie, WI 54751",
+   "city": "620 11Th Ave W Menomonie",
+   "phone": "(715) 232-2175",
+   "lab_id": "617006720",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 617006720. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "public",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Milwaukee Water Works",
+   "address": "3000 N Lincoln Memorial Dr Milwaukee, WI 53211",
+   "city": "Milwaukee",
+   "phone": "(414) 286-2473",
+   "lab_id": "241010000",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page",
+    "Nitrate",
+    "Nitrite",
+    "Fluoride",
+    "Chloride",
+    "Sulfate",
+    "pH"
+   ],
+   "detail": "DNR facility ID 241010000. DNR lab type: Public Water Supply Lab; 19 analyte/method entries on the DNR chemistry list; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "public",
+   "source_name": "Wisconsin DNR, \"Drinking water certified labs - chemistry - NR 809 and NR 812\" (Excel, Sept. 28, 2026)",
+   "source_url": "https://dnr.wisconsin.gov/sites/default/files/topic/LabCert/DWLabs092826.xlsx",
+   "source_date": "2026-09-28",
+   "source_name_2": "the DNR bacteria-lab page",
+   "source_url_2": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Milwaukee Water Works",
+   "address": "3929 S 6Th Street Milwaukee, WI 53211",
+   "city": "3929 S 6Th Street Milwaukee",
+   "phone": "(414) 286-2473",
+   "lab_id": "155",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 155. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "public",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Neenah Water Utility",
+   "address": "234 S Park Ave Neenah, WI 54956-3026",
+   "city": "234 S Park Ave Neenah",
+   "phone": "(920) 886-6182",
+   "lab_id": "471034850",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 471034850. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "public",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "North Shore Water Commission",
+   "address": "400 W Bender Rd Milwaukee, WI 53217-4103",
+   "city": "400 W Bender Rd Milwaukee",
+   "phone": "(414) 963-0160",
+   "lab_id": "241351550",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 241351550. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "public",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Oak Creek Water & Sewer Utility",
+   "address": "9325 S 5Th Ave Oak Creek, WI 53154-4805",
+   "city": "9325 S 5Th Ave Oak Creek",
+   "phone": "(414) 766-6651",
+   "lab_id": "241017260",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 241017260. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "public",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Oshkosh Water Dept",
+   "address": "425 Lake Shore Dr Oshkosh, WI 54901",
+   "city": "425 Lake Shore Dr Oshkosh",
+   "phone": "(920) 236-5165",
+   "lab_id": "471045740",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 471045740. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "public",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Port Washington Water Dept",
+   "address": "408 N Lake St Port Washington, WI 53074",
+   "city": "408 N Lake St Port Washington",
+   "phone": "(262) 284-2172",
+   "lab_id": "246005430",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 246005430. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "public",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Racine Water Department",
+   "address": "800 Center St Racine, WI 53403-1481",
+   "city": "800 Center St Racine",
+   "phone": "(262) 636-9441",
+   "lab_id": "252006260",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 252006260. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "public",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "River Falls Wastewater Treatment Plant",
+   "address": "432 Apollo Rd River Falls, WI 54022",
+   "city": "432 Apollo Rd River Falls",
+   "phone": "(715) 222-7090",
+   "lab_id": "648006920",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 648006920. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "public",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Sheboygan Water Utility",
+   "address": "72 Park Ave Sheboygan, WI 53081",
+   "city": "72 Park Ave Sheboygan",
+   "phone": "(920) 459-3812",
+   "lab_id": "460035400",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 460035400. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "public",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Slinger Water Utility",
+   "address": "120 M-B-W Rd Slinger, WI 53086-9022",
+   "city": "120 M-B-W Rd Slinger",
+   "phone": "(262) 644-5265",
+   "lab_id": "267011690",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 267011690. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "public",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "South Milwaukee Water Utility",
+   "address": "100 Marshall Ave South Milwaukee, WI 53172-0130",
+   "city": "100 Marshall Ave South Milwaukee",
+   "phone": "(414) 768-8070",
+   "lab_id": "241442190",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 241442190. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "public",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Village Of Jackson",
+   "address": "W194 N16658 Eagle Dr Jackson, WI 53037",
+   "city": "W194 N16658 Eagle Dr Jackson",
+   "phone": "(262) 677-0707",
+   "lab_id": "267003220",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 267003220. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "public",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Village Of Kewaskum",
+   "address": "204 1St St Kewaskum, WI 53040-0038",
+   "city": "204 1St St Kewaskum",
+   "phone": "(262) 626-2313",
+   "lab_id": "267011250",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 267011250. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "public",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Village Of Pleasant Prairie",
+   "address": "8600 Green Bay Rd Pleasant Prairie, WI 53158-2702",
+   "city": "8600 Green Bay Rd Pleasant Prairie",
+   "phone": "(262) 925-6769",
+   "lab_id": "230163450",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 230163450. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "public",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Village Of Plover",
+   "address": "300 Water Way Plover, WI 54467-0037",
+   "city": "300 Water Way Plover",
+   "phone": "(715) 345-5254",
+   "lab_id": "750072620",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 750072620. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "public",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Village Of Sister Bay",
+   "address": "2124 Autumn Court Sister Bay, WI 54234",
+   "city": "2124 Autumn Court Sister Bay",
+   "phone": "(920) 854-2246",
+   "lab_id": "415051010",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 415051010. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "public",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Village Of Union Grove WWTP",
+   "address": "3710 67Th Dr Union Grove, WI 53182",
+   "city": "3710 67Th Dr Union Grove",
+   "phone": "(262) 878-1818",
+   "lab_id": "252003730",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 252003730. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "public",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Waukesha Water Utility",
+   "address": "115 Delafield St Waukesha, WI 53187-1648",
+   "city": "115 Delafield St Waukesha",
+   "phone": "(262) 521-5272",
+   "lab_id": "268023800",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 268023800. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "public",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "West Allis Water Dept",
+   "address": "1725 S 96Th St West Allis, WI 53219",
+   "city": "1725 S 96Th St West Allis",
+   "phone": "(414) 302-8830",
+   "lab_id": "241059500",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 241059500. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "public",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Wisconsin Department Of Agriculture, Trade And Consumer Protection",
+   "address": "2601 Agriculture Dr Madison, WI 53718",
+   "city": "2601 Agriculture Dr Madison",
+   "phone": "(608) 224-4821",
+   "lab_id": "113395260",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 113395260. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "public",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Wisconsin Rapids Water Utility",
+   "address": "221 16Th St Wisconsin Rapids, WI 54495-0399",
+   "city": "221 16Th St Wisconsin Rapids",
+   "phone": "(715) 423-6300",
+   "lab_id": "772010800",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 772010800. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "public",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Ashland County Health & Human Services",
+   "address": "630 Sanborn Ave Ashland, WI 54806-3537",
+   "city": "630 Sanborn Ave Ashland",
+   "phone": "(715) 682-7004",
+   "lab_id": "802016490",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 802016490. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "limited",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Badger Laboratories, Inc.",
+   "address": "2150 Memorial Dr Green Bay, WI 54303",
+   "city": "2150 Memorial Dr Green Bay",
+   "phone": "(920) 434-6741",
+   "lab_id": "405222620",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 405222620. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "limited",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Beloit Water Pollution Control Facility",
+   "address": "555 Willowbrook Rd Beloit, WI 53511-6901",
+   "city": "555 Willowbrook Rd Beloit",
+   "phone": "(608) 364-5727",
+   "lab_id": "154001650",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 154001650. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "limited",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Buffalo County Department Of Health And Human Services",
+   "address": "407 S 2Nd St Alma, WI 54610",
+   "city": "407 S 2Nd St Alma",
+   "phone": "(608) 685-4412",
+   "lab_id": "606031360",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 606031360. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "limited",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "C & C Pumps LLC",
+   "address": "1480 State Road 83 Hartford, WI 53027",
+   "city": "1480 State Road 83 Hartford",
+   "phone": "(262) 224-5576",
+   "lab_id": "490",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 490. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "limited",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Clark County Health Department",
+   "address": "517 Court St Rm 105 Neillsville, WI 54456-1982",
+   "city": "517 Court St Rm 105 Neillsville",
+   "phone": "(715) 743-5105",
+   "lab_id": "610077710",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 610077710. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "limited",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Eagle River Health Department Laboratory",
+   "address": "330 Court St Eagle River, WI 54521-8362",
+   "city": "330 Court St Eagle River",
+   "phone": "(715) 479-3656",
+   "lab_id": "764007310",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 764007310. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "limited",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Farm First Dairy Cooperative",
+   "address": "200 E Kelso Rd Kaukauna, WI 54130",
+   "city": "200 E Kelso Rd Kaukauna",
+   "phone": "(920) 731-5484",
+   "lab_id": "471168610",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 471168610. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "limited",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Florence County Health Department",
+   "address": "501 Lake Ave Florence, WI 54121-8805",
+   "city": "501 Lake Ave Florence",
+   "phone": "(715) 528-4837",
+   "lab_id": "419007490",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 419007490. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "limited",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Fond Du Lac County Health Department",
+   "address": "160 S Macy St Fond Du Lac, WI 54935",
+   "city": "160 S Macy St Fond Du Lac",
+   "phone": "(920) 929-3085",
+   "lab_id": "420039400",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 420039400. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "limited",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Infrastructure Alternatives Inc.",
+   "address": "520 First Ave Antigo, WI 54409",
+   "city": "520 First Ave Antigo",
+   "phone": "(715) 623-3316",
+   "lab_id": "734006350",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 734006350. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "limited",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Iowa County",
+   "address": "303 W Chapel St Ste 2200 Dodgeville, WI 53533-1450",
+   "city": "303 W Chapel St Ste 2200 Dodgeville",
+   "phone": "(608) 930-9870",
+   "lab_id": "542",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 542. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "limited",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Kwik Trip Inc.*",
+   "address": "2302 Kwik Trip Way La Crosse, WI 54602-2107",
+   "city": "2302 Kwik Trip Way La Crosse",
+   "phone": "(608) 793-6262",
+   "lab_id": "632133480",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 632133480. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "limited",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Langlade County",
+   "address": "1225 Langlade Rd Antigo, WI 54409-2762",
+   "city": "1225 Langlade Rd Antigo",
+   "phone": "(715) 627-6250",
+   "lab_id": "734039570",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 734039570. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "limited",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Leuther Laboratories LLC",
+   "address": "N1006 County Road M Coon Valley, WI 54623-9519",
+   "city": "N1006 County Road M Coon Valley",
+   "phone": "(608) 788-8180",
+   "lab_id": "663020710",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 663020710. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "limited",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "M M S D Lab Services Central Lab",
+   "address": "250 W Seeboth St Milwaukee, WI 53204",
+   "city": "250 W Seeboth St Milwaukee",
+   "phone": "(414) 277-6377",
+   "lab_id": "241325920",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 241325920. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "limited",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Matrix Sciences International Inc.",
+   "address": "1110 S Huron Rd Green Bay, WI 54311-8024",
+   "city": "1110 S Huron Rd Green Bay",
+   "phone": "(920) 336-7465",
+   "lab_id": "405200180",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 405200180. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "limited",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Monroe County Health Department",
+   "address": "315 W Oak St Sparta, WI 54656-2150",
+   "city": "315 W Oak St Sparta",
+   "phone": "(608) 269-8666",
+   "lab_id": "642070770",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 642070770. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "limited",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Oneida County Health Department",
+   "address": "100 W Keenan St Rhinelander, WI 54501",
+   "city": "100 W Keenan St Rhinelander",
+   "phone": "(715) 369-6111",
+   "lab_id": "744084770",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 744084770. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "limited",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Outagamie County Public Health Lab",
+   "address": "320 S Walnut St Appleton, WI 54911",
+   "city": "320 S Walnut St Appleton",
+   "phone": "(920) 832-5100",
+   "lab_id": "278",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 278. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "limited",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Public Health Madison & Dane County",
+   "address": "210 Martin Luther King Jr Blvd Madison, WI 53703",
+   "city": "210 Martin Luther King Jr Blvd Madison",
+   "phone": "(608) 243-0357",
+   "lab_id": "113139620",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 113139620. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "limited",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Pure Water Labs, LLC",
+   "address": "325 S Park St Reedsburg, WI 53959-1906",
+   "city": "325 S Park St Reedsburg",
+   "phone": "(608) 225-3621",
+   "lab_id": "157128840",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 157128840. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "limited",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Pure Water Labs, LLC",
+   "address": "924 Development Dr Unit C Lodi, WI 53959-1906",
+   "city": "924 Development Dr Unit C Lodi",
+   "phone": "(608) 225-3621",
+   "lab_id": "111103740",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 111103740. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "limited",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Racine Public Health Department",
+   "address": "730 Washington Ave Racine, WI 53403-1123",
+   "city": "730 Washington Ave Racine",
+   "phone": "(262) 636-9201",
+   "lab_id": "252215920",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 252215920. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "limited",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Rusk County Health And Human Services",
+   "address": "311 Miner Ave E Ladysmith, WI 54848-2827",
+   "city": "311 Miner Ave E Ladysmith",
+   "phone": "(715) 532-2299",
+   "lab_id": "855008220",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 855008220. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "limited",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "S & R Krizan Pump Service Incorporated",
+   "address": "7465 S Loomis Rd Wind Lake, WI 53185",
+   "city": "7465 S Loomis Rd Wind Lake",
+   "phone": "(262) 895-6454",
+   "lab_id": "252272790",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 252272790. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "limited",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Sawyer County Health & Human Services",
+   "address": "10610 Main St Hayward, WI 54843-6586",
+   "city": "10610 Main St Hayward",
+   "phone": "(715) 634-4806",
+   "lab_id": "858028380",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 858028380. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "limited",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Stevens Point Water & Sewage",
+   "address": "301 Bliss Ave Stevens Point, WI 54481-0243",
+   "city": "301 Bliss Ave Stevens Point",
+   "phone": "(715) 345-5262",
+   "lab_id": "750008160",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 750008160. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "limited",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Superior Water Light Power Co",
+   "address": "1813 E 3Rd St Superior, WI 54880",
+   "city": "1813 E 3Rd St Superior",
+   "phone": "(715) 395-5987",
+   "lab_id": "816076580",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 816076580. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "limited",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Two Rivers Water & Light",
+   "address": "1415 Lake St Two Rivers, WI 54241",
+   "city": "1415 Lake St Two Rivers",
+   "phone": "(920) 793-5558",
+   "lab_id": "436005680",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 436005680. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "limited",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "University Of Wisconsin - Oshkosh",
+   "address": "2041 Michigan St Sturgeon Bay, WI 54901-3551",
+   "city": "2041 Michigan St Sturgeon Bay",
+   "phone": "(920) 424-3148",
+   "lab_id": "415043530",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 415043530. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "limited",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "University Of Wisconsin - Oshkosh",
+   "address": "1028 S 9Th St Manitowoc, WI 54901-3551",
+   "city": "1028 S 9Th St Manitowoc",
+   "phone": "(920) 424-3148",
+   "lab_id": "436134160",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 436134160. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "limited",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "University Of Wisconsin - Oshkosh",
+   "address": "5400 N Black Oak Lake Rd Land O Lakes, WI 54901-3551",
+   "city": "5400 N Black Oak Lake Rd Land O Lakes",
+   "phone": "(920) 424-3148",
+   "lab_id": "764113240",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 764113240. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "limited",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Washington Ozaukee Public Health Department",
+   "address": "121 W Main St Port Washington, WI 53074-1813",
+   "city": "121 W Main St Port Washington",
+   "phone": "(262) 284-8170",
+   "lab_id": "513",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 513. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "limited",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Washington Ozaukee Public Health Department",
+   "address": "333 E Washington St West Bend, WI 53074-1813",
+   "city": "333 E Washington St West Bend",
+   "phone": "(262) 284-8170",
+   "lab_id": "267191100",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 267191100. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "limited",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Water Quality Investigations",
+   "address": "2581 State Hwy 92 Mt Horeb, WI 53572-2419",
+   "city": "2581 State Hwy 92 Mt Horeb",
+   "phone": "(888) 499-2507",
+   "lab_id": "113417590",
+   "accredited_for": [
+    "Coliform bacteria (enzyme-substrate method), per DNR bacteria page"
+   ],
+   "detail": "DNR facility ID 113417590. Not on the DNR chemistry file; listed on the DNR bacteria (coliform) lab page only; listed on the DNR page of labs certified for coliform bacteria (enzyme-substrate method).",
+   "group": "limited",
+   "source_name": "Wisconsin DNR Drinking Water System Portal, \"Drinking Water Bacti Labs\" (live page, retrieved 2026-10-27)",
+   "source_url": "https://apps.dnr.wi.gov/dwsportalpub/BactiLab",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-10-27"
+  }
+ ]
+}

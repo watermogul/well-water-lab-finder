@@ -1,0 +1,1610 @@
+{
+ "state": "Virginia",
+ "slug": "virginia",
+ "abbr": "VA",
+ "list_source": {
+  "name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+  "page_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+  "program_url": "https://dgs.virginia.gov/division-of-consolidated-laboratory-services/certification-accreditation/find-a-lab/",
+  "report_date": "Current as of August 1, 2026 (DCLS quarterly list)"
+ },
+ "last_verified": "2026-10-27",
+ "labs": [
+  {
+   "name": "Blue Ridge Analytical LLC",
+   "address": "2280 West Ridge Road, Wytheville, VA 24382",
+   "city": "Wytheville",
+   "phone": "(276) 228-6464",
+   "lab_id": "460301",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate",
+    "Nitrite",
+    "Lead",
+    "Copper",
+    "Fluoride",
+    "Manganese",
+    "Iron",
+    "Sodium",
+    "Chloride",
+    "Sulfate",
+    "Total dissolved solids"
+   ],
+   "detail": "DCLS lab ID 460301 · certification expires September 30, 2026 · 33 analyte/method entries on the DCLS list.",
+   "group": "main",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Environmental Monitoring, Inc.",
+   "address": "5730 Industrial Park Road, Norton, VA 24273",
+   "city": "Norton",
+   "phone": "(276) 679-6544",
+   "lab_id": "460038",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate",
+    "Nitrite",
+    "Arsenic",
+    "Lead",
+    "Copper",
+    "Fluoride",
+    "Manganese",
+    "Iron",
+    "Sodium",
+    "Chloride",
+    "Sulfate",
+    "Total dissolved solids"
+   ],
+   "detail": "DCLS lab ID 460038 · certification expires September 30, 2026 · 37 analyte/method entries on the DCLS list.",
+   "group": "main",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Environmental Systems Service, LTD.- Culpeper",
+   "address": "218 North Main Street, Culpeper, VA 22701",
+   "city": "Culpeper",
+   "phone": "(540) 825-6660",
+   "lab_id": "115",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate",
+    "Nitrite",
+    "Fluoride",
+    "Total dissolved solids"
+   ],
+   "detail": "DCLS lab ID 115 · certification expires June 30, 2027 · 17 analyte/method entries on the DCLS list.",
+   "group": "main",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "HP Environmental, Inc.",
+   "address": "104 Elden Street, Herndon, VA 20170",
+   "city": "Herndon",
+   "phone": "(703) 471-4200",
+   "lab_id": "156",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Lead",
+    "Copper"
+   ],
+   "detail": "DCLS lab ID 156 · certification expires June 30, 2027 · 5 analyte/method entries on the DCLS list.",
+   "group": "main",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Inboden Environmental Services, Inc.",
+   "address": "5790 Main Street, Mount Jackson, VA 22842",
+   "city": "Mount Jackson",
+   "phone": "(540) 477-3300",
+   "lab_id": "460024",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate",
+    "Nitrite"
+   ],
+   "detail": "DCLS lab ID 460024 · certification expires September 30, 2026 · 9 analyte/method entries on the DCLS list.",
+   "group": "main",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "James R. Reed & Associates",
+   "address": "770 Pilot House Drive, Newport News, VA 23606",
+   "city": "Newport News",
+   "phone": "(757) 873-4703",
+   "lab_id": "460013",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate",
+    "Nitrite",
+    "Lead",
+    "Copper",
+    "Fluoride",
+    "Manganese",
+    "Iron",
+    "Sodium",
+    "Chloride",
+    "Sulfate",
+    "pH",
+    "Total dissolved solids",
+    "Volatile organic compounds (VOCs)"
+   ],
+   "detail": "DCLS lab ID 460013 · certification expires September 30, 2026 · 76 analyte/method entries on the DCLS list.",
+   "group": "main",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Jennings-Thompson Laboratories, Inc.",
+   "address": "1118 Cypress Avenue, Virginia Beach, VA 23451",
+   "city": "Virginia Beach",
+   "phone": "(757) 425-1498",
+   "lab_id": "180",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate",
+    "Nitrite",
+    "Lead",
+    "Copper",
+    "Fluoride",
+    "Iron",
+    "Sodium",
+    "Chloride",
+    "Sulfate",
+    "pH",
+    "Total dissolved solids"
+   ],
+   "detail": "DCLS lab ID 180 · certification expires June 30, 2027 · 21 analyte/method entries on the DCLS list.",
+   "group": "main",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Mid-Atlantic Laboratories, Inc.",
+   "address": "224 Main St., Suite 1, Port Royal, VA 22535",
+   "city": "Port Royal",
+   "phone": "(804) 742-5577",
+   "lab_id": "215",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate",
+    "Nitrite",
+    "Lead",
+    "Copper",
+    "Fluoride",
+    "Manganese",
+    "Iron",
+    "Sodium",
+    "Total dissolved solids"
+   ],
+   "detail": "DCLS lab ID 215 · certification expires June 30, 2027 · 21 analyte/method entries on the DCLS list.",
+   "group": "main",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Onterris Laboratories, LLC",
+   "address": "1941 Reymet Road, Richmond, VA 23237",
+   "city": "Richmond",
+   "phone": "(804) 358-8295",
+   "lab_id": "460021",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate",
+    "Nitrite",
+    "Arsenic",
+    "Lead",
+    "Copper",
+    "Fluoride",
+    "Manganese",
+    "Iron",
+    "Uranium",
+    "Sodium",
+    "Chloride",
+    "Sulfate",
+    "pH",
+    "Total dissolved solids",
+    "Volatile organic compounds (VOCs)",
+    "Pesticides / herbicides"
+   ],
+   "detail": "DCLS lab ID 460021 · certification expires September 30, 2026 · 122 analyte/method entries on the DCLS list.",
+   "group": "main",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Schneider Laboratories Global, Inc.",
+   "address": "2512 W. Cary Street, Richmond, VA 23220",
+   "city": "Richmond",
+   "phone": null,
+   "lab_id": "460135",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate",
+    "Nitrite",
+    "Arsenic",
+    "Lead",
+    "Copper",
+    "Fluoride",
+    "Manganese",
+    "Iron",
+    "Chloride"
+   ],
+   "detail": "DCLS lab ID 460135 · certification expires September 30, 2026 · 29 analyte/method entries on the DCLS list.",
+   "group": "main",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Universal Laboratories - Hampton",
+   "address": "20 Research Drive, Hampton, VA 23666",
+   "city": "Hampton",
+   "phone": "(757) 865-0880",
+   "lab_id": "460036",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate",
+    "Nitrite",
+    "Copper",
+    "Fluoride",
+    "Iron",
+    "Chloride",
+    "Sulfate",
+    "pH",
+    "Total dissolved solids"
+   ],
+   "detail": "DCLS lab ID 460036 · certification expires September 30, 2026 · 35 analyte/method entries on the DCLS list.",
+   "group": "main",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Addison-Evans Water Production & Laboratory Facility",
+   "address": "13400 Hull Street Road, Midlothian, VA 23112",
+   "city": "Midlothian",
+   "phone": null,
+   "lab_id": "60",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate",
+    "Nitrite",
+    "Lead",
+    "Copper",
+    "Fluoride",
+    "pH"
+   ],
+   "detail": "DCLS lab ID 60 · certification expires June 30, 2027 · 19 analyte/method entries on the DCLS list.",
+   "group": "public",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Appomattox River Water Authority",
+   "address": "21300 Chesdin Road, South Chesterfield, VA 23803",
+   "city": "South Chesterfield",
+   "phone": null,
+   "lab_id": "5",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Fluoride",
+    "pH"
+   ],
+   "detail": "DCLS lab ID 5 · certification expires June 30, 2027 · 8 analyte/method entries on the DCLS list.",
+   "group": "public",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Augusta County Service Authority Fishersville Regional Laboratory",
+   "address": "887 Sangers Lane, Staunton, VA 24401",
+   "city": "Staunton",
+   "phone": "(540) 245-5150",
+   "lab_id": "447",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "DCLS lab ID 447 · certification expires June 30, 2027 · 4 analyte/method entries on the DCLS list.",
+   "group": "public",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Big Stone Gap Water Plant",
+   "address": "942 Crackers Neck Road, Big Stone Gap, VA 24219",
+   "city": "Big Stone Gap",
+   "phone": "(276) 524-1053",
+   "lab_id": "25",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "DCLS lab ID 25 · certification expires June 30, 2027 · 2 analyte/method entries on the DCLS list.",
+   "group": "public",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Bristol Virginia Utilities Authority",
+   "address": "22479 Watauga Rd, Abingdon, VA 24211",
+   "city": "Abingdon",
+   "phone": "(276) 628-7521",
+   "lab_id": "40",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "DCLS lab ID 40 · certification expires June 30, 2027 · 3 analyte/method entries on the DCLS list.",
+   "group": "public",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "City of Chesapeake Public Utilities",
+   "address": "3550 Battlefield Boulevard South, Chesapeake, VA 23322",
+   "city": "Chesapeake",
+   "phone": "(757) 382-3557",
+   "lab_id": "55",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Lead",
+    "Copper",
+    "Fluoride",
+    "Chloride",
+    "Sulfate",
+    "pH"
+   ],
+   "detail": "DCLS lab ID 55 · certification expires June 30, 2027 · 26 analyte/method entries on the DCLS list.",
+   "group": "public",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "City of Danville Division of Water and Wastewater Treatment",
+   "address": "279 Park Avenue, Danville, VA 24541",
+   "city": "Danville",
+   "phone": null,
+   "lab_id": "75",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "DCLS lab ID 75 · certification expires June 30, 2027 · 3 analyte/method entries on the DCLS list.",
+   "group": "public",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "City of Lynchburg Department of Water Resources",
+   "address": "525 Taylor St, Lynchburg, VA 24501",
+   "city": "Lynchburg",
+   "phone": "(434) 455-4263",
+   "lab_id": "190",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "DCLS lab ID 190 · certification expires June 30, 2027 · 3 analyte/method entries on the DCLS list.",
+   "group": "public",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "City of Manassas Water Treatment Plant",
+   "address": "14329 Glenkirk Road, Nokesville, VA 20181",
+   "city": "Nokesville",
+   "phone": null,
+   "lab_id": "195",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Fluoride"
+   ],
+   "detail": "DCLS lab ID 195 · certification expires June 30, 2027 · 6 analyte/method entries on the DCLS list.",
+   "group": "public",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "City of Martinsville Water Treatment Plant",
+   "address": "302 Clearview Dr., Martinsville, VA 24112",
+   "city": "Martinsville",
+   "phone": "(276) 403-5137",
+   "lab_id": "205",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "DCLS lab ID 205 · certification expires June 30, 2027 · 2 analyte/method entries on the DCLS list.",
+   "group": "public",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "City of Norfolk Department of Utilities Water Quality Laboratory",
+   "address": "6040 Waterworks Road, Norfolk, VA 23502",
+   "city": "Norfolk",
+   "phone": null,
+   "lab_id": "225",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate",
+    "Nitrite",
+    "Arsenic",
+    "Lead",
+    "Copper",
+    "Fluoride",
+    "Manganese",
+    "Sulfate",
+    "pH"
+   ],
+   "detail": "DCLS lab ID 225 · certification expires June 30, 2027 · 40 analyte/method entries on the DCLS list.",
+   "group": "public",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "City of Portsmouth Dept of Public Utilities",
+   "address": "105 Maury Place, Suffolk, VA 23434",
+   "city": "Suffolk",
+   "phone": "757-539-2201 EXT. 232",
+   "lab_id": "255",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Fluoride",
+    "pH"
+   ],
+   "detail": "DCLS lab ID 255 · certification expires June 30, 2027 · 10 analyte/method entries on the DCLS list.",
+   "group": "public",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "City of Radford Drinking Water Laboratory",
+   "address": "20 Forest Avenue, Radford, VA 24141",
+   "city": "Radford",
+   "phone": "(540) 731-3662",
+   "lab_id": "275",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "DCLS lab ID 275 · certification expires June 30, 2027 · 2 analyte/method entries on the DCLS list.",
+   "group": "public",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "City of Richmond Environmental Management Laboratory",
+   "address": "1801 Commerce Road, Richmond, VA 23224",
+   "city": "Richmond",
+   "phone": null,
+   "lab_id": "290",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Fluoride",
+    "pH"
+   ],
+   "detail": "DCLS lab ID 290 · certification expires June 30, 2027 · 10 analyte/method entries on the DCLS list.",
+   "group": "public",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "City of Staunton Water Treatment Plant",
+   "address": "1907 Craigmont Road, Staunton, VA 24401",
+   "city": "Staunton",
+   "phone": "(540) 332-3961",
+   "lab_id": "325",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "DCLS lab ID 325 · certification expires June 30, 2027 · 2 analyte/method entries on the DCLS list.",
+   "group": "public",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "City of Waynesboro Water Treatment Plant",
+   "address": "2091 Lyndhurst Road, Waynesboro, VA 22980",
+   "city": "Waynesboro",
+   "phone": "(540) 946-3754",
+   "lab_id": "451",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "DCLS lab ID 451 · certification expires June 30, 2027 · 2 analyte/method entries on the DCLS list.",
+   "group": "public",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Division of Consolidated Laboratory Services",
+   "address": "600 N 5th Street, Richmond, VA 23219",
+   "city": "Richmond",
+   "phone": "(804) 648-4480 x623",
+   "lab_id": "460319",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "DCLS lab ID 460319 · certification expires September 30, 2026 · 2 analyte/method entries on the DCLS list.",
+   "group": "public",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Fairfax County Health Department Joanne Jorgenson Laboratory",
+   "address": "10310 Layton Hall Drive, Fairfax, VA 22030",
+   "city": "Fairfax",
+   "phone": "(703) 277-3253",
+   "lab_id": "120",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate",
+    "Nitrite",
+    "Arsenic",
+    "Lead",
+    "Copper",
+    "Iron",
+    "Total dissolved solids"
+   ],
+   "detail": "DCLS lab ID 120 · certification expires June 30, 2027 · 14 analyte/method entries on the DCLS list.",
+   "group": "public",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Fairfax Water",
+   "address": "1295 Fred Morin Road, Herndon, VA 20170",
+   "city": "Herndon",
+   "phone": "(703) 289-6561",
+   "lab_id": "125",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate",
+    "Nitrite",
+    "Arsenic",
+    "Lead",
+    "Copper",
+    "Fluoride",
+    "Manganese",
+    "Iron",
+    "Sodium",
+    "Chloride",
+    "Sulfate",
+    "pH",
+    "Total dissolved solids",
+    "Volatile organic compounds (VOCs)"
+   ],
+   "detail": "DCLS lab ID 125 · certification expires June 30, 2027 · 82 analyte/method entries on the DCLS list.",
+   "group": "public",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Farmville Water Plant",
+   "address": "510 Waterworks Road, Farmville, VA 23901",
+   "city": "Farmville",
+   "phone": "(434) 392-8774",
+   "lab_id": "135",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "DCLS lab ID 135 · certification expires June 30, 2027 · 2 analyte/method entries on the DCLS list.",
+   "group": "public",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "G. Robert House Water Treatment Facility",
+   "address": "100 Bob House Parkway, Chuckatuck, VA 23432",
+   "city": "Chuckatuck",
+   "phone": "(757) 514-7041",
+   "lab_id": "330",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Fluoride",
+    "Chloride",
+    "pH"
+   ],
+   "detail": "DCLS lab ID 330 · certification expires June 30, 2027 · 9 analyte/method entries on the DCLS list.",
+   "group": "public",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "H2O Quality Laboratory a Division of Prince William Water",
+   "address": "1851 Rippon Boulevard, Woodbridge, VA 22191",
+   "city": "Woodbridge",
+   "phone": "(703) 335-7976",
+   "lab_id": "240",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate",
+    "Nitrite",
+    "Arsenic",
+    "Lead",
+    "Copper",
+    "Manganese",
+    "Iron",
+    "Sodium",
+    "Chloride",
+    "Volatile organic compounds (VOCs)"
+   ],
+   "detail": "DCLS lab ID 240 · certification expires June 30, 2027 · 148 analyte/method entries on the DCLS list.",
+   "group": "public",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Halifax County Service Authority: Leigh Street Water Treatment Plant",
+   "address": "100 Leigh Street, South Boston, VA 24592",
+   "city": "South Boston",
+   "phone": "(434) 575-4255",
+   "lab_id": "320",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "DCLS lab ID 320 · certification expires June 30, 2027 · 2 analyte/method entries on the DCLS list.",
+   "group": "public",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Henrico County D.P.U. Central Environmental Laboratory",
+   "address": "9101 WRVA Road, Henrico, VA 23231",
+   "city": "Henrico",
+   "phone": "(804) 501-7633",
+   "lab_id": "460229",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "pH"
+   ],
+   "detail": "DCLS lab ID 460229 · certification expires September 30, 2026 · 4 analyte/method entries on the DCLS list.",
+   "group": "public",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "HRSD Central Environmental Laboratory",
+   "address": "1432 Air Rail Avenue, Virginia Beach, VA 23455",
+   "city": "Virginia Beach",
+   "phone": "(757) 460-7220",
+   "lab_id": "460011",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate",
+    "Nitrite",
+    "Arsenic",
+    "Lead",
+    "Copper",
+    "Fluoride",
+    "Manganese",
+    "Iron",
+    "Uranium",
+    "Sodium",
+    "Chloride",
+    "Sulfate",
+    "Total dissolved solids",
+    "Volatile organic compounds (VOCs)"
+   ],
+   "detail": "DCLS lab ID 460011 · certification expires September 30, 2026 · 85 analyte/method entries on the DCLS list.",
+   "group": "public",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "John Flannagan Water Authority Lab",
+   "address": "552 Flannagan Dam Rd, Haysi, VA 24256",
+   "city": "Haysi",
+   "phone": "(276) 835-8629",
+   "lab_id": "182",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "DCLS lab ID 182 · certification expires June 30, 2027 · 3 analyte/method entries on the DCLS list.",
+   "group": "public",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Loudoun Water Laboratory",
+   "address": "44961 Loudoun Water Way, Ashburn, VA 20147",
+   "city": "Ashburn",
+   "phone": "(571) 291-7844",
+   "lab_id": "77",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate",
+    "Nitrite"
+   ],
+   "detail": "DCLS lab ID 77 · certification expires June 30, 2027 · 10 analyte/method entries on the DCLS list.",
+   "group": "public",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Marion Water Plant",
+   "address": "160 Water Mill Road, Marion, VA 24354",
+   "city": "Marion",
+   "phone": "(276) 783-5950",
+   "lab_id": "200",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "DCLS lab ID 200 · certification expires June 30, 2027 · 3 analyte/method entries on the DCLS list.",
+   "group": "public",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "NAVFAC Mid-Atlantic Environmental Laboratory",
+   "address": "9180 Third Avenue  Bldg LP-24, Norfolk, VA 23511",
+   "city": "Norfolk",
+   "phone": "(757) 341-0473",
+   "lab_id": "365",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "DCLS lab ID 365 · certification expires June 30, 2027 · 2 analyte/method entries on the DCLS list.",
+   "group": "public",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Newport News Waterworks Water Quality Laboratory",
+   "address": "3629 G. Washington Memorial Hwy, Yorktown, VA 23693",
+   "city": "Yorktown",
+   "phone": "(757) 234-6723",
+   "lab_id": "220",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate",
+    "Nitrite",
+    "Arsenic",
+    "Lead",
+    "Copper",
+    "Fluoride",
+    "Manganese",
+    "Iron",
+    "Sodium",
+    "Chloride",
+    "Sulfate",
+    "Total dissolved solids"
+   ],
+   "detail": "DCLS lab ID 220 · certification expires June 30, 2027 · 56 analyte/method entries on the DCLS list.",
+   "group": "public",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "NRV Regional Water Authority",
+   "address": "3515 Peppers Ferry Rd, Radford, VA 24141",
+   "city": "Radford",
+   "phone": "(540) 639-2575",
+   "lab_id": "35",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "DCLS lab ID 35 · certification expires June 30, 2027 · 4 analyte/method entries on the DCLS list.",
+   "group": "public",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Otter River Filter Plant",
+   "address": "9625 Leesville Rd, Evington, VA 24550",
+   "city": "Evington",
+   "phone": "(434) 821-8611",
+   "lab_id": "51",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "DCLS lab ID 51 · certification expires June 30, 2027 · 2 analyte/method entries on the DCLS list.",
+   "group": "public",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Pulaski County PSA Water Treatment Plant",
+   "address": "3056 Water Plant Rd, Draper, VA 24324",
+   "city": "Draper",
+   "phone": "(540) 980-7749",
+   "lab_id": "260",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "DCLS lab ID 260 · certification expires June 30, 2027 · 2 analyte/method entries on the DCLS list.",
+   "group": "public",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Rivanna Water & Sewer Authority",
+   "address": "1216 Harris Street, Charlottesville, VA 22902",
+   "city": "Charlottesville",
+   "phone": "(434) 977-2970",
+   "lab_id": "295",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Fluoride",
+    "Manganese",
+    "Iron",
+    "pH"
+   ],
+   "detail": "DCLS lab ID 295 · certification expires June 30, 2027 · 8 analyte/method entries on the DCLS list.",
+   "group": "public",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Salem Water Department",
+   "address": "1300 Tidewater Street, Salem, VA 24153",
+   "city": "Salem",
+   "phone": "(540) 375-3029",
+   "lab_id": "300",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "DCLS lab ID 300 · certification expires June 30, 2027 · 3 analyte/method entries on the DCLS list.",
+   "group": "public",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Spotsylvania County Laboratory Services",
+   "address": "10900 H C C Drive, Fredericksburg, VA 22408",
+   "city": "Fredericksburg",
+   "phone": null,
+   "lab_id": "437",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate",
+    "Nitrite",
+    "Fluoride"
+   ],
+   "detail": "DCLS lab ID 437 · certification expires June 30, 2027 · 14 analyte/method entries on the DCLS list.",
+   "group": "public",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "The Town of Lebanon Water - Wastewater Laboratory",
+   "address": "272 HABER DR, LEBANON, VA 24266",
+   "city": "LEBANON",
+   "phone": "(276) 889-7206",
+   "lab_id": "459",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "DCLS lab ID 459 · certification expires June 30, 2027 · 2 analyte/method entries on the DCLS list.",
+   "group": "public",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Three Springs Water Plant",
+   "address": "3275 Three Springs Rd, McGaheysville, VA 22840",
+   "city": "McGaheysville",
+   "phone": "(540) 289-6376",
+   "lab_id": "342",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "DCLS lab ID 342 · certification expires June 30, 2027 · 2 analyte/method entries on the DCLS list.",
+   "group": "public",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Town of Appomattox Drinking Water Analysis Laboratory",
+   "address": "216 Ethel Street, Appomattox, VA 24522",
+   "city": "Appomattox",
+   "phone": "(434) 352-7659",
+   "lab_id": "464",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "DCLS lab ID 464 · certification expires June 30, 2027 · 4 analyte/method entries on the DCLS list.",
+   "group": "public",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Town of Culpeper Water Treatment Plant",
+   "address": "618 Woodview Road, Culpeper, VA 22701",
+   "city": "Culpeper",
+   "phone": "(540) 825-1199",
+   "lab_id": "74",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "DCLS lab ID 74 · certification expires June 30, 2027 · 2 analyte/method entries on the DCLS list.",
+   "group": "public",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Town of Leesburg Water Treatment Plant",
+   "address": "43234 Edwards Ferry Road, Leesburg, VA 20176",
+   "city": "Leesburg",
+   "phone": "(703) 737-7110",
+   "lab_id": "340",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "DCLS lab ID 340 · certification expires June 30, 2027 · 3 analyte/method entries on the DCLS list.",
+   "group": "public",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Town of Wytheville Water Treatment Plant",
+   "address": "1026 Grayson Road, Wytheville, VA 24382",
+   "city": "Wytheville",
+   "phone": "(276) 223-3322",
+   "lab_id": "442",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "DCLS lab ID 442 · certification expires June 30, 2027 · 2 analyte/method entries on the DCLS list.",
+   "group": "public",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "VDACS RAHL Harrisonburg",
+   "address": "261 Mount Clinton Pike, Harrisonburg, VA 22802",
+   "city": "Harrisonburg",
+   "phone": null,
+   "lab_id": "370",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "DCLS lab ID 370 · certification expires June 30, 2027 · 2 analyte/method entries on the DCLS list.",
+   "group": "public",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "VDACS RAHL Lynchburg",
+   "address": "4832 Tyreeanna Rd, Lynchburg, VA 24504",
+   "city": "Lynchburg",
+   "phone": null,
+   "lab_id": "380",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "DCLS lab ID 380 · certification expires June 30, 2027 · 2 analyte/method entries on the DCLS list.",
+   "group": "public",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "VDACS RAHL Warrenton",
+   "address": "272 Academy Hill Rd, Warrenton, VA 20186",
+   "city": "Warrenton",
+   "phone": null,
+   "lab_id": "385",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "DCLS lab ID 385 · certification expires June 30, 2027 · 2 analyte/method entries on the DCLS list.",
+   "group": "public",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "VDACS RAHL Wytheville",
+   "address": "250 Cassell Rd, Wytheville, VA 24382",
+   "city": "Wytheville",
+   "phone": null,
+   "lab_id": "390",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "DCLS lab ID 390 · certification expires June 30, 2027 · 2 analyte/method entries on the DCLS list.",
+   "group": "public",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Virginia American Water Company - Alexandria",
+   "address": "2225 Duke Street, Alexandria, VA 22314",
+   "city": "Alexandria",
+   "phone": "(703) 307-4353",
+   "lab_id": "413",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "pH"
+   ],
+   "detail": "DCLS lab ID 413 · certification expires June 30, 2027 · 4 analyte/method entries on the DCLS list.",
+   "group": "public",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Virginia American Water Company - Hopewell",
+   "address": "900 Industrial St, Hopewell, VA 23860",
+   "city": "Hopewell",
+   "phone": "(804) 943-5589",
+   "lab_id": "405",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "DCLS lab ID 405 · certification expires June 30, 2027 · 3 analyte/method entries on the DCLS list.",
+   "group": "public",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Virginia Beach Department of Public Utilities",
+   "address": "3500 Dam Neck Rd, Virginia Beach, VA 23453",
+   "city": "Virginia Beach",
+   "phone": "(757) 385-1430",
+   "lab_id": "410",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "DCLS lab ID 410 · certification expires June 30, 2027 · 4 analyte/method entries on the DCLS list.",
+   "group": "public",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Washington County Service Authority",
+   "address": "18385 JEB Stuart Highway, Abingdon, VA 24211",
+   "city": "Abingdon",
+   "phone": null,
+   "lab_id": "415",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "DCLS lab ID 415 · certification expires June 30, 2027 · 2 analyte/method entries on the DCLS list.",
+   "group": "public",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Western Virginia Water Authority Water Quality Laboratory",
+   "address": "6200 West Main Street, Salem, VA 24153",
+   "city": "Salem",
+   "phone": null,
+   "lab_id": "279",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Fluoride",
+    "pH"
+   ],
+   "detail": "DCLS lab ID 279 · certification expires June 30, 2027 · 11 analyte/method entries on the DCLS list.",
+   "group": "public",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "American Water Testing Company",
+   "address": "2140 Mt. Carmel Road, Alton, VA 24520",
+   "city": "Alton",
+   "phone": null,
+   "lab_id": "9",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "DCLS lab ID 9 · certification expires June 30, 2027 · 2 analyte/method entries on the DCLS list.",
+   "group": "limited",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Aqua-Air Lab Inc.",
+   "address": "627 Dice Street, Charlottesville, VA 22903",
+   "city": "Charlottesville",
+   "phone": "(434) 295-1716",
+   "lab_id": "15",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "DCLS lab ID 15 · certification expires June 30, 2027 · 6 analyte/method entries on the DCLS list.",
+   "group": "limited",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "B & B Consultants, Inc.",
+   "address": "316 E. Third St., Chase City, VA 23924",
+   "city": "Chase City",
+   "phone": "(434) 372-3393",
+   "lab_id": "20",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "DCLS lab ID 20 · certification expires June 30, 2027 · 4 analyte/method entries on the DCLS list.",
+   "group": "limited",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Biotech Laboratory",
+   "address": "6441 Glebe Point Road, Chesterfield, VA 23838",
+   "city": "Chesterfield",
+   "phone": "(804) 520-4807",
+   "lab_id": "41",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "DCLS lab ID 41 · certification expires June 30, 2027 · 2 analyte/method entries on the DCLS list.",
+   "group": "limited",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "BWXT Lynchburg Technology Center",
+   "address": "2016 Mt Athos Road, Lynchburg, VA 24504",
+   "city": "Lynchburg",
+   "phone": "(434) 522-6803",
+   "lab_id": "460127",
+   "accredited_for": [
+    "Gross alpha"
+   ],
+   "detail": "DCLS lab ID 460127 · certification expires September 30, 2026 · 9 analyte/method entries on the DCLS list.",
+   "group": "limited",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Cisco Labs of Martinsville Va",
+   "address": "109 Jones Street, Martinsville, VA 24112",
+   "city": "Martinsville",
+   "phone": "(276) 638-2472",
+   "lab_id": "63",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "DCLS lab ID 63 · certification expires June 30, 2027 · 3 analyte/method entries on the DCLS list.",
+   "group": "limited",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Coastal Bioanalysts, Inc.",
+   "address": "6400 Enterprise Court, Gloucester, VA 23061",
+   "city": "Gloucester",
+   "phone": "(804) 694-8285",
+   "lab_id": "460030",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "DCLS lab ID 460030 · certification expires September 30, 2026 · 8 analyte/method entries on the DCLS list.",
+   "group": "limited",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Cornwell Engineering Group Laboratory",
+   "address": "712 Gum Rock Court, Newport News, VA 23606",
+   "city": "Newport News",
+   "phone": "(757) 873-1216",
+   "lab_id": "460298",
+   "accredited_for": [
+    "Arsenic",
+    "Lead",
+    "Copper",
+    "Manganese"
+   ],
+   "detail": "DCLS lab ID 460298 · certification expires September 30, 2026 · 30 analyte/method entries on the DCLS list.",
+   "group": "limited",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Environmental Hazards Services, L L C",
+   "address": "7469 Whitepine Road, Richmond, VA 23237",
+   "city": "Richmond",
+   "phone": "(800) 347-4010",
+   "lab_id": "460172",
+   "accredited_for": [
+    "Arsenic",
+    "Lead",
+    "Copper",
+    "Manganese"
+   ],
+   "detail": "DCLS lab ID 460172 · certification expires September 30, 2026 · 4 analyte/method entries on the DCLS list.",
+   "group": "limited",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Joiner Labs, LLC dba Joiner Micro Labs",
+   "address": "77 West Lee Street #202, Warrenton, VA 20186",
+   "city": "Warrenton",
+   "phone": null,
+   "lab_id": "460034",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "DCLS lab ID 460034 · certification expires September 30, 2026 · 5 analyte/method entries on the DCLS list.",
+   "group": "limited",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Legacy Environmental Laboratory, LLC",
+   "address": "109 Carpenter Drive, Sterling, VA 20164",
+   "city": "Sterling",
+   "phone": "(703) 552-1452",
+   "lab_id": "470",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "DCLS lab ID 470 · certification expires June 30, 2027 · 2 analyte/method entries on the DCLS list.",
+   "group": "limited",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Marine Chemist Service, Inc.",
+   "address": "11850 Tug Boat Lane, Newport News, VA 23606",
+   "city": "Newport News",
+   "phone": "(757) 873-0933",
+   "lab_id": "460257",
+   "accredited_for": [
+    "Lead",
+    "Copper"
+   ],
+   "detail": "DCLS lab ID 460257 · certification expires September 30, 2026 · 2 analyte/method entries on the DCLS list.",
+   "group": "limited",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Matthews Well & Pump Inc.",
+   "address": "13485 Mountain Road, Glen Allen, VA 23059",
+   "city": "Glen Allen",
+   "phone": null,
+   "lab_id": "471",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "DCLS lab ID 471 · certification expires June 30, 2027 · 2 analyte/method entries on the DCLS list.",
+   "group": "limited",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Oakwood Scientific Laboratory",
+   "address": "7102 Pole Green Rd, Mechanicsville, VA 23116",
+   "city": "Mechanicsville",
+   "phone": "(804) 730-3263",
+   "lab_id": "242",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "DCLS lab ID 242 · certification expires June 30, 2027 · 5 analyte/method entries on the DCLS list.",
+   "group": "limited",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Pace Analytical Services, LLC - Lexington VA",
+   "address": "782 North Lee Highway, Lexington, VA 24450",
+   "city": "Lexington",
+   "phone": "(540) 464-1880",
+   "lab_id": "460150",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "DCLS lab ID 460150 · certification expires September 30, 2026 · 5 analyte/method entries on the DCLS list.",
+   "group": "limited",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Pole Green Drinking Water Laboratory",
+   "address": "9015 Pole Green Park Lane, Mechanicsville, VA 23116",
+   "city": "Mechanicsville",
+   "phone": "(804) 365-6720",
+   "lab_id": "160",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "DCLS lab ID 160 · certification expires June 30, 2027 · 2 analyte/method entries on the DCLS list.",
+   "group": "limited",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Shenandoah Bacteriological Laboratory",
+   "address": "460 Reynolds Road, Cross Junction, VA 22625",
+   "city": "Cross Junction",
+   "phone": "(540) 888-4500",
+   "lab_id": "257",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "DCLS lab ID 257 · certification expires June 30, 2027 · 4 analyte/method entries on the DCLS list.",
+   "group": "limited",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Southwest Soils and Water Testing",
+   "address": "305 Oak Street, Hillsville, VA 24343",
+   "city": "Hillsville",
+   "phone": "(276) 733-5682",
+   "lab_id": "43",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "DCLS lab ID 43 · certification expires June 30, 2027 · 2 analyte/method entries on the DCLS list.",
+   "group": "limited",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Water Testing Labs of Virginia",
+   "address": "9506 Wallingford Drive, Burke, VA 22015",
+   "city": "Burke",
+   "phone": "(703) 250-7711",
+   "lab_id": "7",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "DCLS lab ID 7 · certification expires June 30, 2027 · 2 analyte/method entries on the DCLS list.",
+   "group": "limited",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Willoughby & Associates, Inc.",
+   "address": "15421 Forest Road, Suite A, Forest, VA 24551",
+   "city": "Forest",
+   "phone": "(434) 534-9834",
+   "lab_id": "460143",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "DCLS lab ID 460143 · certification expires September 30, 2026 · 4 analyte/method entries on the DCLS list.",
+   "group": "limited",
+   "source_name": "Virginia DCLS, \"Drinking Water Laboratories with certification detail\" (Excel, current as of 8/1/2026)",
+   "source_url": "https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DW_Certified_Labs_20260801.xlsx",
+   "source_date": "2026-08-01",
+   "last_verified": "2026-10-27"
+  }
+ ]
+}

@@ -1,0 +1,248 @@
+{
+ "state": "Tennessee",
+ "slug": "tennessee",
+ "abbr": "TN",
+ "list_source": {
+  "name": "Tennessee TDEC, \"Laboratories Certified for Drinking Water Analyses: Commercial Laboratories\" (list dated 10/06/2026)",
+  "page_url": "https://www.tn.gov/content/dam/tn/environment/water/drinking-water-unit/wr_wq_dw_certified-commercial-labs.pdf",
+  "program_url": "https://www.tn.gov/environment/program-areas/wr-water-resources/water-quality/drinking-water-redirect/lab-certification-program.html",
+  "report_date": "List dated October 6, 2026"
+ },
+ "last_verified": "2026-10-27",
+ "labs": [
+  {
+   "name": "AIRL, Inc.",
+   "address": "1550 37th Street NE, Cleveland, TN 37312-5600",
+   "city": "Cleveland",
+   "phone": "(423) 476-7766",
+   "lab_id": "02034",
+   "accredited_for": [
+    "Inorganics/Trace Metals",
+    "Membrane Filter- Total, Fecal and E.coli."
+   ],
+   "detail": "TDEC lab ID 02034 · chemistry certification expires 2/24/2029 · bacteriology certification expires 2/24/2029.",
+   "group": "main",
+   "source_name": "Tennessee TDEC, \"Laboratories Certified for Drinking Water Analyses: Commercial Laboratories\" (list dated 10/06/2026)",
+   "source_url": "https://www.tn.gov/content/dam/tn/environment/water/drinking-water-unit/wr_wq_dw_certified-commercial-labs.pdf",
+   "source_date": "2026-10-06",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Eurofins Jackson (former Waypoint LLC)",
+   "address": "2269 Dr. F. E. Wright Drive, Jackson, TN 38305",
+   "city": "Jackson",
+   "phone": "(731) 423-5330",
+   "lab_id": "02046",
+   "accredited_for": [
+    "Enzyme Substrate - Total Coliform and E.coli.",
+    "Inorganics/Trace Metals"
+   ],
+   "detail": "TDEC lab ID 02046 · chemistry certification expires 9/4/2029 · bacteriology certification expires 9/4/2029.",
+   "group": "main",
+   "source_name": "Tennessee TDEC, \"Laboratories Certified for Drinking Water Analyses: Commercial Laboratories\" (list dated 10/06/2026)",
+   "source_url": "https://www.tn.gov/content/dam/tn/environment/water/drinking-water-unit/wr_wq_dw_certified-commercial-labs.pdf",
+   "source_date": "2026-10-06",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Eurofins Memphis (former Waypoint LLC)",
+   "address": "2790 Whitten Road, Memphis, TN 38133",
+   "city": "Memphis",
+   "phone": "(901) 213-2400",
+   "lab_id": "02027",
+   "accredited_for": [
+    "Disinfection Byproducts",
+    "Enzyme Substrate - Total Coliform and E.coli.",
+    "General Chemistry-Turbidity, Corrosivity, pH",
+    "Heterotrophic Plate Count",
+    "Inorganics/Trace Metals",
+    "Membrane Filter- Total, Fecal and E.coli.",
+    "Organics"
+   ],
+   "detail": "TDEC lab ID 02027 · chemistry certification expires 8/11/2028 · bacteriology certification expires 8/11/2028.",
+   "group": "main",
+   "source_name": "Tennessee TDEC, \"Laboratories Certified for Drinking Water Analyses: Commercial Laboratories\" (list dated 10/06/2026)",
+   "source_url": "https://www.tn.gov/content/dam/tn/environment/water/drinking-water-unit/wr_wq_dw_certified-commercial-labs.pdf",
+   "source_date": "2026-10-06",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Microbac - Knoxville Division",
+   "address": "505 East Broadway Avenue, Maryville, TN 37804",
+   "city": "Maryville",
+   "phone": "(865) 977-1200",
+   "lab_id": "02017",
+   "accredited_for": [
+    "Enzyme Substrate - Total Coliform and E.coli.",
+    "General Chemistry-Turbidity, Corrosivity, pH",
+    "Heterotrophic Plate Count",
+    "Inorganics/Trace Metals"
+   ],
+   "detail": "TDEC lab ID 02017 · chemistry certification expires 4/21/2028 · bacteriology certification expires 4/21/2028.",
+   "group": "main",
+   "source_name": "Tennessee TDEC, \"Laboratories Certified for Drinking Water Analyses: Commercial Laboratories\" (list dated 10/06/2026)",
+   "source_url": "https://www.tn.gov/content/dam/tn/environment/water/drinking-water-unit/wr_wq_dw_certified-commercial-labs.pdf",
+   "source_date": "2026-10-06",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Pace Analytical National Center for Testing&Evaluation",
+   "address": "12065 Lebanon Road, Mount Juliet, TN 37122-2605",
+   "city": "Mount Juliet",
+   "phone": "(615) 758-5858",
+   "lab_id": "02006",
+   "accredited_for": [
+    "Disinfection Byproducts",
+    "Enzyme Substrate - Total Coliform and E.coli.",
+    "General Chemistry-Turbidity, Corrosivity, pH",
+    "Heterotrophic Plate Count",
+    "Inorganics/Trace Metals",
+    "Membrane Filter- Total, Fecal and E.coli.",
+    "Organics",
+    "Radiochemistry"
+   ],
+   "detail": "TDEC lab ID 02006 · chemistry certification expires 12/9/2027 · bacteriology certification expires 3/12/2027.",
+   "group": "main",
+   "source_name": "Tennessee TDEC, \"Laboratories Certified for Drinking Water Analyses: Commercial Laboratories\" (list dated 10/06/2026)",
+   "source_url": "https://www.tn.gov/content/dam/tn/environment/water/drinking-water-unit/wr_wq_dw_certified-commercial-labs.pdf",
+   "source_date": "2026-10-06",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Assured Bio Labs, LLC",
+   "address": "228 Midway Lane, Suite B, Oak Ridge, TN 37830",
+   "city": "Oak Ridge",
+   "phone": "(865) 813-1700",
+   "lab_id": "03147",
+   "accredited_for": [
+    "Enzyme Substrate - Total Coliform and E.coli."
+   ],
+   "detail": "TDEC lab ID 03147 · no chemistry certification listed · bacteriology certification expires 3/7/2027.",
+   "group": "limited",
+   "source_name": "Tennessee TDEC, \"Laboratories Certified for Drinking Water Analyses: Commercial Laboratories\" (list dated 10/06/2026)",
+   "source_url": "https://www.tn.gov/content/dam/tn/environment/water/drinking-water-unit/wr_wq_dw_certified-commercial-labs.pdf",
+   "source_date": "2026-10-06",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "BNH AEDC Chemistry Lab (Arnold AFB)",
+   "address": "445 Von Karman Road, Arnold Air Force Base, TN 37389-3400",
+   "city": "Arnold Air Force Base",
+   "phone": "(931) 454-7340",
+   "lab_id": "02010",
+   "accredited_for": [
+    "General Chemistry-Turbidity, Corrosivity, pH",
+    "Inorganics/Trace Metals"
+   ],
+   "detail": "TDEC lab ID 02010 · chemistry certification expires 12/10/2028 · no bacteriology certification listed.",
+   "group": "limited",
+   "source_name": "Tennessee TDEC, \"Laboratories Certified for Drinking Water Analyses: Commercial Laboratories\" (list dated 10/06/2026)",
+   "source_url": "https://www.tn.gov/content/dam/tn/environment/water/drinking-water-unit/wr_wq_dw_certified-commercial-labs.pdf",
+   "source_date": "2026-10-06",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "DOE Y-12 CNS National Security Complex",
+   "address": "P.O. Box 2009, Bldg. 9995 Room 205, Oak Ridge, TN 37831-8189",
+   "city": "Oak Ridge",
+   "phone": "(865) 576-3099",
+   "lab_id": "02018",
+   "accredited_for": [
+    "Disinfection Byproducts",
+    "General Chemistry-Turbidity, Corrosivity, pH",
+    "Inorganics/Trace Metals",
+    "Radiochemistry"
+   ],
+   "detail": "TDEC lab ID 02018 · chemistry certification expires 5/21/2027 · no bacteriology certification listed.",
+   "group": "limited",
+   "source_name": "Tennessee TDEC, \"Laboratories Certified for Drinking Water Analyses: Commercial Laboratories\" (list dated 10/06/2026)",
+   "source_url": "https://www.tn.gov/content/dam/tn/environment/water/drinking-water-unit/wr_wq_dw_certified-commercial-labs.pdf",
+   "source_date": "2026-10-06",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Eberline Analytical Oak Ridge",
+   "address": "601 Scarboro Road, Oak Ridge, TN 37830-7371",
+   "city": "Oak Ridge",
+   "phone": "(865) 481-0683",
+   "lab_id": "02042",
+   "accredited_for": [
+    "Radiochemistry"
+   ],
+   "detail": "TDEC lab ID 02042 · chemistry certification expires 11/15/2026 · no bacteriology certification listed.",
+   "group": "limited",
+   "source_name": "Tennessee TDEC, \"Laboratories Certified for Drinking Water Analyses: Commercial Laboratories\" (list dated 10/06/2026)",
+   "source_url": "https://www.tn.gov/content/dam/tn/environment/water/drinking-water-unit/wr_wq_dw_certified-commercial-labs.pdf",
+   "source_date": "2026-10-06",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Eurofins Knoxville",
+   "address": "5815 Middlebrook Pike, Knoxville, TN 37921-5947",
+   "city": "Knoxville",
+   "phone": "(865) 291-3000",
+   "lab_id": "02014",
+   "accredited_for": [
+    "Inorganics/Trace Metals",
+    "Organics"
+   ],
+   "detail": "TDEC lab ID 02014 · chemistry certification expires 6/4/2028 · no bacteriology certification listed.",
+   "group": "limited",
+   "source_name": "Tennessee TDEC, \"Laboratories Certified for Drinking Water Analyses: Commercial Laboratories\" (list dated 10/06/2026)",
+   "source_url": "https://www.tn.gov/content/dam/tn/environment/water/drinking-water-unit/wr_wq_dw_certified-commercial-labs.pdf",
+   "source_date": "2026-10-06",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Microbac Laboratories, Inc - Nashville",
+   "address": "505 East Broadway Avenue, Maryville, TN 37804",
+   "city": "Maryville",
+   "phone": "(615) 242-1480",
+   "lab_id": "03073",
+   "accredited_for": [
+    "Membrane Filter- Total, Fecal and E.coli."
+   ],
+   "detail": "TDEC lab ID 03073 · no chemistry certification listed · bacteriology certification expires 12/3/2028.",
+   "group": "limited",
+   "source_name": "Tennessee TDEC, \"Laboratories Certified for Drinking Water Analyses: Commercial Laboratories\" (list dated 10/06/2026)",
+   "source_url": "https://www.tn.gov/content/dam/tn/environment/water/drinking-water-unit/wr_wq_dw_certified-commercial-labs.pdf",
+   "source_date": "2026-10-06",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "NAS Arnold AFB WTP (Old ATA) Micro Lab",
+   "address": "100 Kindel Road, Arnold Air Force Base, TN 37389-1228",
+   "city": "Arnold Air Force Base",
+   "phone": "(931) 454-5565",
+   "lab_id": "03003",
+   "accredited_for": [
+    "Enzyme Substrate - Total Coliform and E.coli."
+   ],
+   "detail": "TDEC lab ID 03003 · no chemistry certification listed · bacteriology certification expires 7/16/2029.",
+   "group": "limited",
+   "source_name": "Tennessee TDEC, \"Laboratories Certified for Drinking Water Analyses: Commercial Laboratories\" (list dated 10/06/2026)",
+   "source_url": "https://www.tn.gov/content/dam/tn/environment/water/drinking-water-unit/wr_wq_dw_certified-commercial-labs.pdf",
+   "source_date": "2026-10-06",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Tennessee Tech University Water Center",
+   "address": "P O Box 5033, Cookeville, TN 38505",
+   "city": "Cookeville",
+   "phone": "(931) 372-3538",
+   "lab_id": "02029",
+   "accredited_for": [
+    "Disinfection Byproducts",
+    "Enzyme Substrate - Total Coliform and E.coli.",
+    "General Chemistry-Turbidity, Corrosivity, pH",
+    "Inorganics/Trace Metals"
+   ],
+   "detail": "TDEC lab ID 02029 · chemistry certification expires 11/28/2026 · bacteriology certification expires 10/5/2026 (already expired as of Oct. 27, 2026).",
+   "group": "limited",
+   "source_name": "Tennessee TDEC, \"Laboratories Certified for Drinking Water Analyses: Commercial Laboratories\" (list dated 10/06/2026)",
+   "source_url": "https://www.tn.gov/content/dam/tn/environment/water/drinking-water-unit/wr_wq_dw_certified-commercial-labs.pdf",
+   "source_date": "2026-10-06",
+   "last_verified": "2026-10-27"
+  }
+ ]
+}

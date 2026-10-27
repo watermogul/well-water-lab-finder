@@ -1,0 +1,778 @@
+{
+ "state": "West Virginia",
+ "slug": "west-virginia",
+ "abbr": "WV",
+ "list_source": {
+  "name": "West Virginia DHHR Office of Laboratory Services, \"Laboratory Certified Parameter List\" (drinking water, printed 8/20/2026)",
+  "page_url": "https://dhhr.wv.gov/ols/labs/Documents/Environmental%20Chemistry/waterqualitylabs%20%282026%29%20-%20Updated%20List%20%288-20-26%29.pdf",
+  "program_url": "https://dhhr.wv.gov/ols/regulatory/Pages/WaterLabCertification.aspx",
+  "report_date": "Printed August 20, 2026; certificates expire Jan. 31, 2027"
+ },
+ "last_verified": "2026-10-27",
+ "labs": [
+  {
+   "name": "Advanced Analytical Solutions, L.L.C.",
+   "address": "6325 Emerson Avenue, Parkersburg, WV 26104",
+   "city": "Parkersburg",
+   "lab_id": "00542M",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "WV certificate no. 00542M · issued 8/19/2026 · expires 1/31/2027 · 2 certified parameter entries on the WV list.",
+   "group": "main",
+   "source_name": "West Virginia DHHR Office of Laboratory Services, \"Laboratory Certified Parameter List\" (drinking water, printed 8/20/2026)",
+   "source_url": "https://dhhr.wv.gov/ols/labs/Documents/Environmental%20Chemistry/waterqualitylabs%20%282026%29%20-%20Updated%20List%20%288-20-26%29.pdf",
+   "source_date": "2026-08-20",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Pace Analytical Services, LLC - Morgantown WV",
+   "address": "16 Commerce Drive, Morgantown, WV 26501",
+   "city": "Morgantown",
+   "lab_id": "00312M",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "WV certificate no. 00312M · issued 8/19/2026 · expires 1/31/2027 · 2 certified parameter entries on the WV list.",
+   "group": "main",
+   "source_name": "West Virginia DHHR Office of Laboratory Services, \"Laboratory Certified Parameter List\" (drinking water, printed 8/20/2026)",
+   "source_url": "https://dhhr.wv.gov/ols/labs/Documents/Environmental%20Chemistry/waterqualitylabs%20%282026%29%20-%20Updated%20List%20%288-20-26%29.pdf",
+   "source_date": "2026-08-20",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Standard Laboratories, Inc Lab 67",
+   "address": "8 Industrial Park Drive, Wheeling, WV 26003",
+   "city": "Wheeling",
+   "lab_id": "00353M",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "WV certificate no. 00353M · issued 8/19/2026 · expires 1/31/2027 · 2 certified parameter entries on the WV list.",
+   "group": "main",
+   "source_name": "West Virginia DHHR Office of Laboratory Services, \"Laboratory Certified Parameter List\" (drinking water, printed 8/20/2026)",
+   "source_url": "https://dhhr.wv.gov/ols/labs/Documents/Environmental%20Chemistry/waterqualitylabs%20%282026%29%20-%20Updated%20List%20%288-20-26%29.pdf",
+   "source_date": "2026-08-20",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Sturm Environmental Services",
+   "address": "203 Brushy Fork Road, Bridgeport, WV 26330",
+   "city": "Bridgeport",
+   "lab_id": "00172M",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "WV certificate no. 00172M · issued 8/19/2026 · expires 1/31/2027 · 2 certified parameter entries on the WV list.",
+   "group": "main",
+   "source_name": "West Virginia DHHR Office of Laboratory Services, \"Laboratory Certified Parameter List\" (drinking water, printed 8/20/2026)",
+   "source_url": "https://dhhr.wv.gov/ols/labs/Documents/Environmental%20Chemistry/waterqualitylabs%20%282026%29%20-%20Updated%20List%20%288-20-26%29.pdf",
+   "source_date": "2026-08-20",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "West Virginia Dept. of Health - Office of Lab Services, Chemistry",
+   "address": "4710 Chimney Drive, Suite G, Charleston, WV 25302",
+   "city": "Charleston",
+   "lab_id": "00003C / 00003M",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate",
+    "Nitrite",
+    "Arsenic",
+    "Lead",
+    "Copper",
+    "Fluoride",
+    "Sodium"
+   ],
+   "detail": "WV certificate no. 00003C and 00003M · issued 8/19/2026 · expires 1/31/2027 · 21 certified parameter entries on the WV list.",
+   "group": "main",
+   "source_name": "West Virginia DHHR Office of Laboratory Services, \"Laboratory Certified Parameter List\" (drinking water, printed 8/20/2026)",
+   "source_url": "https://dhhr.wv.gov/ols/labs/Documents/Environmental%20Chemistry/waterqualitylabs%20%282026%29%20-%20Updated%20List%20%288-20-26%29.pdf",
+   "source_date": "2026-08-20",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Beckley Water Company",
+   "address": "1006 Pluto Road, Shady Springs, WV 25918",
+   "city": "Shady Springs",
+   "lab_id": "00411M",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "WV certificate no. 00411M · issued 8/19/2026 · expires 1/31/2027 · 2 certified parameter entries on the WV list.",
+   "group": "public",
+   "source_name": "West Virginia DHHR Office of Laboratory Services, \"Laboratory Certified Parameter List\" (drinking water, printed 8/20/2026)",
+   "source_url": "https://dhhr.wv.gov/ols/labs/Documents/Environmental%20Chemistry/waterqualitylabs%20%282026%29%20-%20Updated%20List%20%288-20-26%29.pdf",
+   "source_date": "2026-08-20",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Clarksburg Water Board",
+   "address": "1001 South Chestnut Street, Clarksburg, WV 26301",
+   "city": "Clarksburg",
+   "lab_id": "00171M",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "WV certificate no. 00171M · issued 8/19/2026 · expires 1/31/2027 · 2 certified parameter entries on the WV list.",
+   "group": "public",
+   "source_name": "West Virginia DHHR Office of Laboratory Services, \"Laboratory Certified Parameter List\" (drinking water, printed 8/20/2026)",
+   "source_url": "https://dhhr.wv.gov/ols/labs/Documents/Environmental%20Chemistry/waterqualitylabs%20%282026%29%20-%20Updated%20List%20%288-20-26%29.pdf",
+   "source_date": "2026-08-20",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Fairmont Water Plant",
+   "address": "1400 Pleasant Valley Rd., Fairmont, WV 26554",
+   "city": "Fairmont",
+   "lab_id": "00251M",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "WV certificate no. 00251M · issued 8/19/2026 · expires 1/31/2027 · 2 certified parameter entries on the WV list.",
+   "group": "public",
+   "source_name": "West Virginia DHHR Office of Laboratory Services, \"Laboratory Certified Parameter List\" (drinking water, printed 8/20/2026)",
+   "source_url": "https://dhhr.wv.gov/ols/labs/Documents/Environmental%20Chemistry/waterqualitylabs%20%282026%29%20-%20Updated%20List%20%288-20-26%29.pdf",
+   "source_date": "2026-08-20",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Morgantown Utility Board Robert B. Creel Water Treatment Facility",
+   "address": "171 Don Knotts Blvd, Morgantown, WV 26505",
+   "city": "Morgantown",
+   "lab_id": "00311M",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "WV certificate no. 00311M · issued 8/19/2026 · expires 1/31/2027 · 2 certified parameter entries on the WV list.",
+   "group": "public",
+   "source_name": "West Virginia DHHR Office of Laboratory Services, \"Laboratory Certified Parameter List\" (drinking water, printed 8/20/2026)",
+   "source_url": "https://dhhr.wv.gov/ols/labs/Documents/Environmental%20Chemistry/waterqualitylabs%20%282026%29%20-%20Updated%20List%20%288-20-26%29.pdf",
+   "source_date": "2026-08-20",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Sweeneysburg Water Treatment Plant",
+   "address": "701 Sweeneysburg Road, Beckley, WV 25801",
+   "city": "Beckley",
+   "lab_id": "00414M",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "WV certificate no. 00414M · issued 8/19/2026 · expires 1/31/2027 · 2 certified parameter entries on the WV list.",
+   "group": "public",
+   "source_name": "West Virginia DHHR Office of Laboratory Services, \"Laboratory Certified Parameter List\" (drinking water, printed 8/20/2026)",
+   "source_url": "https://dhhr.wv.gov/ols/labs/Documents/Environmental%20Chemistry/waterqualitylabs%20%282026%29%20-%20Updated%20List%20%288-20-26%29.pdf",
+   "source_date": "2026-08-20",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Weirton Water Treatment Plant",
+   "address": "3031 Birch Drive, Weirton, WV 26062",
+   "city": "Weirton",
+   "lab_id": "00051M",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "WV certificate no. 00051M · issued 8/19/2026 · expires 1/31/2027 · 2 certified parameter entries on the WV list.",
+   "group": "public",
+   "source_name": "West Virginia DHHR Office of Laboratory Services, \"Laboratory Certified Parameter List\" (drinking water, printed 8/20/2026)",
+   "source_url": "https://dhhr.wv.gov/ols/labs/Documents/Environmental%20Chemistry/waterqualitylabs%20%282026%29%20-%20Updated%20List%20%288-20-26%29.pdf",
+   "source_date": "2026-08-20",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "West Virginia Department of Agriculture / Moorefield Field Office",
+   "address": "60 B Industrial Park Road, Moorefield, WV 26836",
+   "city": "Moorefield",
+   "lab_id": "00161M",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "WV certificate no. 00161M · issued 8/19/2026 · expires 1/31/2027 · 2 certified parameter entries on the WV list.",
+   "group": "public",
+   "source_name": "West Virginia DHHR Office of Laboratory Services, \"Laboratory Certified Parameter List\" (drinking water, printed 8/20/2026)",
+   "source_url": "https://dhhr.wv.gov/ols/labs/Documents/Environmental%20Chemistry/waterqualitylabs%20%282026%29%20-%20Updated%20List%20%288-20-26%29.pdf",
+   "source_date": "2026-08-20",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "West Virginia Dept. of Health, District Environmental Laboratory",
+   "address": "1948 Wiltshire Road, Suite #7, Kearneysville, WV 25430",
+   "city": "Kearneysville",
+   "lab_id": "00005M",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "WV certificate no. 00005M · issued 8/19/2026 · expires 1/31/2027 · 2 certified parameter entries on the WV list.",
+   "group": "public",
+   "source_name": "West Virginia DHHR Office of Laboratory Services, \"Laboratory Certified Parameter List\" (drinking water, printed 8/20/2026)",
+   "source_url": "https://dhhr.wv.gov/ols/labs/Documents/Environmental%20Chemistry/waterqualitylabs%20%282026%29%20-%20Updated%20List%20%288-20-26%29.pdf",
+   "source_date": "2026-08-20",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Wheeling Water Treatment Plant",
+   "address": "1551 Richland Avenue, Wheeling, WV 26003",
+   "city": "Wheeling",
+   "lab_id": "00351M",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "WV certificate no. 00351M · issued 8/19/2026 · expires 1/31/2027 · 2 certified parameter entries on the WV list.",
+   "group": "public",
+   "source_name": "West Virginia DHHR Office of Laboratory Services, \"Laboratory Certified Parameter List\" (drinking water, printed 8/20/2026)",
+   "source_url": "https://dhhr.wv.gov/ols/labs/Documents/Environmental%20Chemistry/waterqualitylabs%20%282026%29%20-%20Updated%20List%20%288-20-26%29.pdf",
+   "source_date": "2026-08-20",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "WVAW-New River",
+   "address": "300 Bachman Road, Fayetteville, WV 25840",
+   "city": "Fayetteville",
+   "lab_id": "00102M",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "WV certificate no. 00102M · issued 8/19/2026 · expires 1/31/2027 · 2 certified parameter entries on the WV list.",
+   "group": "public",
+   "source_name": "West Virginia DHHR Office of Laboratory Services, \"Laboratory Certified Parameter List\" (drinking water, printed 8/20/2026)",
+   "source_url": "https://dhhr.wv.gov/ols/labs/Documents/Environmental%20Chemistry/waterqualitylabs%20%282026%29%20-%20Updated%20List%20%288-20-26%29.pdf",
+   "source_date": "2026-08-20",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "WVAWC - Bluefield",
+   "address": "1974 Country Girl Road, Bluefield, WV 24701",
+   "city": "Bluefield",
+   "lab_id": "00282M",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "WV certificate no. 00282M · issued 8/19/2026 · expires 1/31/2027 · 2 certified parameter entries on the WV list.",
+   "group": "public",
+   "source_name": "West Virginia DHHR Office of Laboratory Services, \"Laboratory Certified Parameter List\" (drinking water, printed 8/20/2026)",
+   "source_url": "https://dhhr.wv.gov/ols/labs/Documents/Environmental%20Chemistry/waterqualitylabs%20%282026%29%20-%20Updated%20List%20%288-20-26%29.pdf",
+   "source_date": "2026-08-20",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "WVAWC - Bluestone",
+   "address": "1087 Edwards Road, True, WV 25951",
+   "city": "True",
+   "lab_id": "00446M",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "WV certificate no. 00446M · issued 8/19/2026 · expires 1/31/2027 · 2 certified parameter entries on the WV list.",
+   "group": "public",
+   "source_name": "West Virginia DHHR Office of Laboratory Services, \"Laboratory Certified Parameter List\" (drinking water, printed 8/20/2026)",
+   "source_url": "https://dhhr.wv.gov/ols/labs/Documents/Environmental%20Chemistry/waterqualitylabs%20%282026%29%20-%20Updated%20List%20%288-20-26%29.pdf",
+   "source_date": "2026-08-20",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "WVAWC - Huntington",
+   "address": "1 24th Street, Huntington, WV 25702",
+   "city": "Huntington",
+   "lab_id": "00061M",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "WV certificate no. 00061M · issued 8/19/2026 · expires 1/31/2027 · 2 certified parameter entries on the WV list.",
+   "group": "public",
+   "source_name": "West Virginia DHHR Office of Laboratory Services, \"Laboratory Certified Parameter List\" (drinking water, printed 8/20/2026)",
+   "source_url": "https://dhhr.wv.gov/ols/labs/Documents/Environmental%20Chemistry/waterqualitylabs%20%282026%29%20-%20Updated%20List%20%288-20-26%29.pdf",
+   "source_date": "2026-08-20",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "WVAWC - Kanawha Valley",
+   "address": "100 Dryden Street, Charleston, WV 25301",
+   "city": "Charleston",
+   "lab_id": "00201M",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "WV certificate no. 00201M · issued 8/19/2026 · expires 1/31/2027 · 2 certified parameter entries on the WV list.",
+   "group": "public",
+   "source_name": "West Virginia DHHR Office of Laboratory Services, \"Laboratory Certified Parameter List\" (drinking water, printed 8/20/2026)",
+   "source_url": "https://dhhr.wv.gov/ols/labs/Documents/Environmental%20Chemistry/waterqualitylabs%20%282026%29%20-%20Updated%20List%20%288-20-26%29.pdf",
+   "source_date": "2026-08-20",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "WVAWC - Weston",
+   "address": "1243 US Highway 19 South, Weston, WV 26452-8207",
+   "city": "Weston",
+   "lab_id": "00211M",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "WV certificate no. 00211M · issued 8/19/2026 · expires 1/31/2027 · 2 certified parameter entries on the WV list.",
+   "group": "public",
+   "source_name": "West Virginia DHHR Office of Laboratory Services, \"Laboratory Certified Parameter List\" (drinking water, printed 8/20/2026)",
+   "source_url": "https://dhhr.wv.gov/ols/labs/Documents/Environmental%20Chemistry/waterqualitylabs%20%282026%29%20-%20Updated%20List%20%288-20-26%29.pdf",
+   "source_date": "2026-08-20",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Alliance Technical Group, LLC-Akron",
+   "address": "3310 Win Street, Cuyahoga Falls, OH 44313",
+   "city": "Cuyahoga Falls",
+   "lab_id": "9957C",
+   "accredited_for": [
+    "Uranium",
+    "Gross alpha",
+    "Radium",
+    "PFAS"
+   ],
+   "detail": "WV certificate no. 9957C · issued 8/19/2026 · expires 1/31/2027 · 48 certified parameter entries on the WV list. This lab is located outside West Virginia (OH).",
+   "group": "limited",
+   "source_name": "West Virginia DHHR Office of Laboratory Services, \"Laboratory Certified Parameter List\" (drinking water, printed 8/20/2026)",
+   "source_url": "https://dhhr.wv.gov/ols/labs/Documents/Environmental%20Chemistry/waterqualitylabs%20%282026%29%20-%20Updated%20List%20%288-20-26%29.pdf",
+   "source_date": "2026-08-20",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "ALS - Middletown",
+   "address": "301 Fulling Mill Road, Middletown, PA 17057",
+   "city": "Middletown",
+   "lab_id": "9961C",
+   "accredited_for": [
+    "Nitrate",
+    "Nitrite",
+    "Arsenic",
+    "Lead",
+    "Copper",
+    "Fluoride",
+    "Sodium",
+    "Chloride",
+    "Volatile organic compounds (VOCs)",
+    "Pesticides / herbicides",
+    "PFAS"
+   ],
+   "detail": "WV certificate no. 9961C · issued 8/19/2026 · expires 1/31/2027 · 147 certified parameter entries on the WV list. This lab is located outside West Virginia (PA).",
+   "group": "limited",
+   "source_name": "West Virginia DHHR Office of Laboratory Services, \"Laboratory Certified Parameter List\" (drinking water, printed 8/20/2026)",
+   "source_url": "https://dhhr.wv.gov/ols/labs/Documents/Environmental%20Chemistry/waterqualitylabs%20%282026%29%20-%20Updated%20List%20%288-20-26%29.pdf",
+   "source_date": "2026-08-20",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "American Water Central Laboratory",
+   "address": "1115 South Illinois Street, Belleville, IL 62220-3102",
+   "city": "Belleville",
+   "lab_id": "9911C",
+   "accredited_for": [
+    "Nitrate",
+    "Nitrite",
+    "Arsenic",
+    "Lead",
+    "Copper",
+    "Fluoride",
+    "Sodium",
+    "Chloride",
+    "Volatile organic compounds (VOCs)",
+    "Pesticides / herbicides",
+    "PFAS"
+   ],
+   "detail": "WV certificate no. 9911C · issued 8/19/2026 · expires 1/31/2027 · 134 certified parameter entries on the WV list. This lab is located outside West Virginia (IL).",
+   "group": "limited",
+   "source_name": "West Virginia DHHR Office of Laboratory Services, \"Laboratory Certified Parameter List\" (drinking water, printed 8/20/2026)",
+   "source_url": "https://dhhr.wv.gov/ols/labs/Documents/Environmental%20Chemistry/waterqualitylabs%20%282026%29%20-%20Updated%20List%20%288-20-26%29.pdf",
+   "source_date": "2026-08-20",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Cornwell Engineering Group Laboratory",
+   "address": "712 Gum Rock Court, Newport News, VA 23606",
+   "city": "Newport News",
+   "lab_id": "9942C",
+   "accredited_for": [
+    "Haloacetic Acids (HAA5)",
+    "Trihalomethanes"
+   ],
+   "detail": "WV certificate no. 9942C · issued 8/19/2026 · expires 1/31/2027 · 11 certified parameter entries on the WV list. This lab is located outside West Virginia (VA).",
+   "group": "limited",
+   "source_name": "West Virginia DHHR Office of Laboratory Services, \"Laboratory Certified Parameter List\" (drinking water, printed 8/20/2026)",
+   "source_url": "https://dhhr.wv.gov/ols/labs/Documents/Environmental%20Chemistry/waterqualitylabs%20%282026%29%20-%20Updated%20List%20%288-20-26%29.pdf",
+   "source_date": "2026-08-20",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "EMSL Analytical, Inc.",
+   "address": "200 Route 130 North, Cinnaminson, NJ 08077",
+   "city": "Cinnaminson",
+   "lab_id": "9967C",
+   "accredited_for": [
+    "Lead",
+    "Copper",
+    "Uranium",
+    "Gross alpha",
+    "Radium",
+    "PFAS"
+   ],
+   "detail": "WV certificate no. 9967C · issued 8/19/2026 · expires 1/31/2027 · 57 certified parameter entries on the WV list. This lab is located outside West Virginia (NJ).",
+   "group": "limited",
+   "source_name": "West Virginia DHHR Office of Laboratory Services, \"Laboratory Certified Parameter List\" (drinking water, printed 8/20/2026)",
+   "source_url": "https://dhhr.wv.gov/ols/labs/Documents/Environmental%20Chemistry/waterqualitylabs%20%282026%29%20-%20Updated%20List%20%288-20-26%29.pdf",
+   "source_date": "2026-08-20",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Eurofins Drinking Water and Wastewater Central, LLC.",
+   "address": "1776 Marion-Waldo Road, Marion, OH 43302",
+   "city": "Marion",
+   "lab_id": "9905C",
+   "accredited_for": [
+    "Nitrate",
+    "Nitrite",
+    "Arsenic",
+    "Lead",
+    "Copper",
+    "Fluoride",
+    "Sodium",
+    "Chloride",
+    "Volatile organic compounds (VOCs)",
+    "Pesticides / herbicides"
+   ],
+   "detail": "WV certificate no. 9905C · issued 8/19/2026 · expires 1/31/2027 · 80 certified parameter entries on the WV list. This lab is located outside West Virginia (OH).",
+   "group": "limited",
+   "source_name": "West Virginia DHHR Office of Laboratory Services, \"Laboratory Certified Parameter List\" (drinking water, printed 8/20/2026)",
+   "source_url": "https://dhhr.wv.gov/ols/labs/Documents/Environmental%20Chemistry/waterqualitylabs%20%282026%29%20-%20Updated%20List%20%288-20-26%29.pdf",
+   "source_date": "2026-08-20",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Eurofins Knoxville",
+   "address": "5815 Middlebrook Pike, Knoxville, TN 37921",
+   "city": "Knoxville",
+   "lab_id": "9955C",
+   "accredited_for": [
+    "Synthetic Organic Chemicals"
+   ],
+   "detail": "WV certificate no. 9955C · issued 8/19/2026 · expires 1/31/2027 · 1 certified parameter entries on the WV list. This lab is located outside West Virginia (TN).",
+   "group": "limited",
+   "source_name": "West Virginia DHHR Office of Laboratory Services, \"Laboratory Certified Parameter List\" (drinking water, printed 8/20/2026)",
+   "source_url": "https://dhhr.wv.gov/ols/labs/Documents/Environmental%20Chemistry/waterqualitylabs%20%282026%29%20-%20Updated%20List%20%288-20-26%29.pdf",
+   "source_date": "2026-08-20",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Eurofins Lancaster Laboratories Environmental Testing, LLC",
+   "address": "2425 New Holland Pike, Lancaster, PA 17601",
+   "city": "Lancaster",
+   "lab_id": "9906C",
+   "accredited_for": [
+    "Nitrate",
+    "Nitrite",
+    "Arsenic",
+    "Lead",
+    "Copper",
+    "Fluoride",
+    "Sodium",
+    "Chloride",
+    "Volatile organic compounds (VOCs)",
+    "Pesticides / herbicides",
+    "PFAS"
+   ],
+   "detail": "WV certificate no. 9906C · issued 8/19/2026 · expires 1/31/2027 · 100 certified parameter entries on the WV list. This lab is located outside West Virginia (PA).",
+   "group": "limited",
+   "source_name": "West Virginia DHHR Office of Laboratory Services, \"Laboratory Certified Parameter List\" (drinking water, printed 8/20/2026)",
+   "source_url": "https://dhhr.wv.gov/ols/labs/Documents/Environmental%20Chemistry/waterqualitylabs%20%282026%29%20-%20Updated%20List%20%288-20-26%29.pdf",
+   "source_date": "2026-08-20",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Eurofins Sacramento",
+   "address": "880 Riverside Parkway, West Sacramento, CA 95605",
+   "city": "West Sacramento",
+   "lab_id": "9930C",
+   "accredited_for": [
+    "PFAS"
+   ],
+   "detail": "WV certificate no. 9930C · issued 8/19/2026 · expires 1/31/2027 · 58 certified parameter entries on the WV list. This lab is located outside West Virginia (CA).",
+   "group": "limited",
+   "source_name": "West Virginia DHHR Office of Laboratory Services, \"Laboratory Certified Parameter List\" (drinking water, printed 8/20/2026)",
+   "source_url": "https://dhhr.wv.gov/ols/labs/Documents/Environmental%20Chemistry/waterqualitylabs%20%282026%29%20-%20Updated%20List%20%288-20-26%29.pdf",
+   "source_date": "2026-08-20",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Eurofins South Bend",
+   "address": "110 South Hill Street, South Bend, IN 46617",
+   "city": "South Bend",
+   "lab_id": "9927C",
+   "accredited_for": [
+    "Nitrate",
+    "Nitrite",
+    "Arsenic",
+    "Lead",
+    "Copper",
+    "Fluoride",
+    "Uranium",
+    "Gross alpha",
+    "Radium",
+    "Sodium",
+    "Chloride",
+    "Volatile organic compounds (VOCs)",
+    "Pesticides / herbicides",
+    "PFAS"
+   ],
+   "detail": "WV certificate no. 9927C · issued 8/19/2026 · expires 1/31/2027 · 144 certified parameter entries on the WV list. This lab is located outside West Virginia (IN).",
+   "group": "limited",
+   "source_name": "West Virginia DHHR Office of Laboratory Services, \"Laboratory Certified Parameter List\" (drinking water, printed 8/20/2026)",
+   "source_url": "https://dhhr.wv.gov/ols/labs/Documents/Environmental%20Chemistry/waterqualitylabs%20%282026%29%20-%20Updated%20List%20%288-20-26%29.pdf",
+   "source_date": "2026-08-20",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "KNL Environmental Testing",
+   "address": "3202 North Florida Avenue, Tampa, FL 33603",
+   "city": "Tampa",
+   "lab_id": "9965C",
+   "accredited_for": [
+    "Uranium",
+    "Gross alpha",
+    "Radium"
+   ],
+   "detail": "WV certificate no. 9965C · issued 8/19/2026 · expires 1/31/2027 · 6 certified parameter entries on the WV list. This lab is located outside West Virginia (FL).",
+   "group": "limited",
+   "source_name": "West Virginia DHHR Office of Laboratory Services, \"Laboratory Certified Parameter List\" (drinking water, printed 8/20/2026)",
+   "source_url": "https://dhhr.wv.gov/ols/labs/Documents/Environmental%20Chemistry/waterqualitylabs%20%282026%29%20-%20Updated%20List%20%288-20-26%29.pdf",
+   "source_date": "2026-08-20",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Maryland Spectral Services, Inc.",
+   "address": "1500 Caton Center Drive, Halethorpe, MD 21227",
+   "city": "Halethorpe",
+   "lab_id": "9982C",
+   "accredited_for": [
+    "Nitrate",
+    "Nitrite",
+    "Arsenic",
+    "Lead",
+    "Copper",
+    "Fluoride",
+    "Chloride",
+    "Volatile organic compounds (VOCs)"
+   ],
+   "detail": "WV certificate no. 9982C · issued 8/19/2026 · expires 1/31/2027 · 48 certified parameter entries on the WV list. This lab is located outside West Virginia (MD).",
+   "group": "limited",
+   "source_name": "West Virginia DHHR Office of Laboratory Services, \"Laboratory Certified Parameter List\" (drinking water, printed 8/20/2026)",
+   "source_url": "https://dhhr.wv.gov/ols/labs/Documents/Environmental%20Chemistry/waterqualitylabs%20%282026%29%20-%20Updated%20List%20%288-20-26%29.pdf",
+   "source_date": "2026-08-20",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Microbac Laboratories Inc., Ohio Valley Division",
+   "address": "158 Starlite Drive, Marietta, OH 45750",
+   "city": "Marietta",
+   "lab_id": "9973C",
+   "accredited_for": [
+    "Nitrate",
+    "Arsenic",
+    "Lead",
+    "Copper",
+    "Sodium",
+    "PFAS"
+   ],
+   "detail": "WV certificate no. 9973C · issued 8/19/2026 · expires 1/31/2027 · 55 certified parameter entries on the WV list. This lab is located outside West Virginia (OH).",
+   "group": "limited",
+   "source_name": "West Virginia DHHR Office of Laboratory Services, \"Laboratory Certified Parameter List\" (drinking water, printed 8/20/2026)",
+   "source_url": "https://dhhr.wv.gov/ols/labs/Documents/Environmental%20Chemistry/waterqualitylabs%20%282026%29%20-%20Updated%20List%20%288-20-26%29.pdf",
+   "source_date": "2026-08-20",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Mid Atlantic Laboratories, Inc.",
+   "address": "224 Main St. Suite 1 #222, Port Royal, VA 22535",
+   "city": "Port Royal",
+   "lab_id": "9926M",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "WV certificate no. 9926M · issued 8/19/2026 · expires 1/31/2027 · 2 certified parameter entries on the WV list. This lab is located outside West Virginia (VA).",
+   "group": "limited",
+   "source_name": "West Virginia DHHR Office of Laboratory Services, \"Laboratory Certified Parameter List\" (drinking water, printed 8/20/2026)",
+   "source_url": "https://dhhr.wv.gov/ols/labs/Documents/Environmental%20Chemistry/waterqualitylabs%20%282026%29%20-%20Updated%20List%20%288-20-26%29.pdf",
+   "source_date": "2026-08-20",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "National Testing Laboratory, Ltd.",
+   "address": "556 South Mansfield Road, Ypsilanti, MI 48197",
+   "city": "Ypsilanti",
+   "lab_id": "9903C",
+   "accredited_for": [
+    "Nitrate",
+    "Nitrite",
+    "Arsenic",
+    "Lead",
+    "Copper",
+    "Fluoride",
+    "Sodium",
+    "Chloride",
+    "Volatile organic compounds (VOCs)",
+    "Pesticides / herbicides"
+   ],
+   "detail": "WV certificate no. 9903C · issued 8/19/2026 · expires 1/31/2027 · 100 certified parameter entries on the WV list. This lab is located outside West Virginia (MI).",
+   "group": "limited",
+   "source_name": "West Virginia DHHR Office of Laboratory Services, \"Laboratory Certified Parameter List\" (drinking water, printed 8/20/2026)",
+   "source_url": "https://dhhr.wv.gov/ols/labs/Documents/Environmental%20Chemistry/waterqualitylabs%20%282026%29%20-%20Updated%20List%20%288-20-26%29.pdf",
+   "source_date": "2026-08-20",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Onterris Laboratories, LLC",
+   "address": "2714 Exchange Drive, Wilmington, NC 28405",
+   "city": "Wilmington",
+   "lab_id": "9981C",
+   "accredited_for": [
+    "PFAS"
+   ],
+   "detail": "WV certificate no. 9981C · issued 8/19/2026 · expires 1/31/2027 · 43 certified parameter entries on the WV list. This lab is located outside West Virginia (NC).",
+   "group": "limited",
+   "source_name": "West Virginia DHHR Office of Laboratory Services, \"Laboratory Certified Parameter List\" (drinking water, printed 8/20/2026)",
+   "source_url": "https://dhhr.wv.gov/ols/labs/Documents/Environmental%20Chemistry/waterqualitylabs%20%282026%29%20-%20Updated%20List%20%288-20-26%29.pdf",
+   "source_date": "2026-08-20",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Pace Analytical Services LLC - Greensburg PA",
+   "address": "1638 Roseytown Road, Suites 2,3, & 4, Greensburg, PA 15601",
+   "city": "Greensburg",
+   "lab_id": "9964C",
+   "accredited_for": [
+    "Uranium",
+    "Gross alpha",
+    "Radium"
+   ],
+   "detail": "WV certificate no. 9964C · issued 8/19/2026 · expires 1/31/2027 · 8 certified parameter entries on the WV list. This lab is located outside West Virginia (PA).",
+   "group": "limited",
+   "source_name": "West Virginia DHHR Office of Laboratory Services, \"Laboratory Certified Parameter List\" (drinking water, printed 8/20/2026)",
+   "source_url": "https://dhhr.wv.gov/ols/labs/Documents/Environmental%20Chemistry/waterqualitylabs%20%282026%29%20-%20Updated%20List%20%288-20-26%29.pdf",
+   "source_date": "2026-08-20",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Pace Analytical Services, LLC - East Longmeadow, MA",
+   "address": "39 Spruce Street, East Longmeadow, MA 01028",
+   "city": "East Longmeadow",
+   "lab_id": "9979C",
+   "accredited_for": [
+    "PFAS"
+   ],
+   "detail": "WV certificate no. 9979C · issued 8/19/2026 · expires 1/31/2027 · 43 certified parameter entries on the WV list. This lab is located outside West Virginia (MA).",
+   "group": "limited",
+   "source_name": "West Virginia DHHR Office of Laboratory Services, \"Laboratory Certified Parameter List\" (drinking water, printed 8/20/2026)",
+   "source_url": "https://dhhr.wv.gov/ols/labs/Documents/Environmental%20Chemistry/waterqualitylabs%20%282026%29%20-%20Updated%20List%20%288-20-26%29.pdf",
+   "source_date": "2026-08-20",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Pace Analytical Services, LLC - Madisonville",
+   "address": "825 Industrial Road, Madisonville, KY 42431",
+   "city": "Madisonville",
+   "lab_id": "9959C",
+   "accredited_for": [
+    "Nitrate",
+    "Nitrite",
+    "Arsenic",
+    "Lead",
+    "Copper",
+    "Fluoride",
+    "Sodium",
+    "Chloride",
+    "Volatile organic compounds (VOCs)",
+    "Pesticides / herbicides"
+   ],
+   "detail": "WV certificate no. 9959C · issued 8/19/2026 · expires 1/31/2027 · 88 certified parameter entries on the WV list. This lab is located outside West Virginia (KY).",
+   "group": "limited",
+   "source_name": "West Virginia DHHR Office of Laboratory Services, \"Laboratory Certified Parameter List\" (drinking water, printed 8/20/2026)",
+   "source_url": "https://dhhr.wv.gov/ols/labs/Documents/Environmental%20Chemistry/waterqualitylabs%20%282026%29%20-%20Updated%20List%20%288-20-26%29.pdf",
+   "source_date": "2026-08-20",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Pace Analytical Services, LLC - Minnesota Laboratory",
+   "address": "1700 Elm Street SE, Suite 200, Minneapolis, MN 55414",
+   "city": "Minneapolis",
+   "lab_id": "9952C",
+   "accredited_for": [
+    "Synthetic Organic Chemicals"
+   ],
+   "detail": "WV certificate no. 9952C · issued 8/19/2026 · expires 1/31/2027 · 1 certified parameter entries on the WV list. This lab is located outside West Virginia (MN).",
+   "group": "limited",
+   "source_name": "West Virginia DHHR Office of Laboratory Services, \"Laboratory Certified Parameter List\" (drinking water, printed 8/20/2026)",
+   "source_url": "https://dhhr.wv.gov/ols/labs/Documents/Environmental%20Chemistry/waterqualitylabs%20%282026%29%20-%20Updated%20List%20%288-20-26%29.pdf",
+   "source_date": "2026-08-20",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Pace Analytical Services, LLC-Ormond Beach - Florida",
+   "address": "8 E. Tower Circle, Ormond Beach, FL 32174",
+   "city": "Ormond Beach",
+   "lab_id": "9962C",
+   "accredited_for": [
+    "Nitrate",
+    "Nitrite",
+    "Arsenic",
+    "Lead",
+    "Copper",
+    "Fluoride",
+    "Sodium",
+    "Chloride",
+    "Volatile organic compounds (VOCs)",
+    "Pesticides / herbicides",
+    "PFAS"
+   ],
+   "detail": "WV certificate no. 9962C · issued 8/19/2026 · expires 1/31/2027 · 141 certified parameter entries on the WV list. This lab is located outside West Virginia (FL).",
+   "group": "limited",
+   "source_name": "West Virginia DHHR Office of Laboratory Services, \"Laboratory Certified Parameter List\" (drinking water, printed 8/20/2026)",
+   "source_url": "https://dhhr.wv.gov/ols/labs/Documents/Environmental%20Chemistry/waterqualitylabs%20%282026%29%20-%20Updated%20List%20%288-20-26%29.pdf",
+   "source_date": "2026-08-20",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Shenandoah Bacteriological Laboratory",
+   "address": "460 Reynolds Road, Cross Junction, VA 22625",
+   "city": "Cross Junction",
+   "lab_id": "9941M",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "detail": "WV certificate no. 9941M · issued 8/19/2026 · expires 1/31/2027 · 2 certified parameter entries on the WV list. This lab is located outside West Virginia (VA).",
+   "group": "limited",
+   "source_name": "West Virginia DHHR Office of Laboratory Services, \"Laboratory Certified Parameter List\" (drinking water, printed 8/20/2026)",
+   "source_url": "https://dhhr.wv.gov/ols/labs/Documents/Environmental%20Chemistry/waterqualitylabs%20%282026%29%20-%20Updated%20List%20%288-20-26%29.pdf",
+   "source_date": "2026-08-20",
+   "last_verified": "2026-10-27"
+  }
+ ]
+}
