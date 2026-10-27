@@ -1,0 +1,3153 @@
+{
+ "state": "Michigan",
+ "slug": "michigan",
+ "abbr": "MI",
+ "list_source": {
+  "name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026) and Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+  "page_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+  "program_url": "https://www.michigan.gov/egle/about/organization/remediation-and-redevelopment/laboratory/certifications",
+  "report_date": "Lists footed March 11, 2026"
+ },
+ "last_verified": "2026-10-27",
+ "labs": [
+  {
+   "name": "Absolute Laboratories, Inc.",
+   "address": "2653 Auburn Road, Auburn Hills, MI 48326",
+   "city": "Auburn Hills",
+   "lab_id": "EGLE lab code 9813",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate"
+   ],
+   "group": "main",
+   "detail": "Michigan EGLE lab code 9813 · 3 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "source_name_2": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url_2": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Alliance Analytical Labs, Inc.",
+   "address": "179 West Randall Street, Coopersville, MI 49404",
+   "city": "Coopersville",
+   "lab_id": "EGLE lab code 9907",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate",
+    "Nitrite",
+    "Arsenic",
+    "Lead",
+    "Copper",
+    "Fluoride",
+    "Manganese",
+    "Sodium",
+    "Chloride",
+    "Sulfate"
+   ],
+   "group": "main",
+   "detail": "Michigan EGLE lab code 9907 · 23 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "source_name_2": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url_2": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "ALS Laboratory Group, Env Div - Holland",
+   "address": "3352 128th Avenue, Holland, MI 49424",
+   "city": "Holland",
+   "lab_id": "EGLE lab code 0022",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate",
+    "Nitrite",
+    "Arsenic",
+    "Lead",
+    "Copper",
+    "Fluoride",
+    "Manganese",
+    "Sodium",
+    "Chloride",
+    "Sulfate",
+    "PFAS",
+    "Volatile organic compounds (VOCs)"
+   ],
+   "group": "main",
+   "detail": "Michigan EGLE lab code 0022 · 38 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "source_name_2": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url_2": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Aqua Test Laboratories",
+   "address": "9165 Highland Road, White Lake, MI 48386",
+   "city": "White Lake",
+   "lab_id": "EGLE lab code 9975",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate",
+    "Nitrite",
+    "Arsenic",
+    "Lead",
+    "Copper"
+   ],
+   "group": "main",
+   "detail": "Michigan EGLE lab code 9975 · 10 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "source_name_2": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url_2": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Assurance Water Laboratory",
+   "address": "103 North Bowery Avenue, Gladwin, MI 48624",
+   "city": "Gladwin",
+   "lab_id": "EGLE lab code 9952",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate"
+   ],
+   "group": "main",
+   "detail": "Michigan EGLE lab code 9952 · 3 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "source_name_2": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url_2": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "B&B Water/Wastewater Consultants Inc.",
+   "address": "4402 South Division, Wayland, MI 49348",
+   "city": "Wayland",
+   "lab_id": "EGLE lab code 8005",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate"
+   ],
+   "group": "main",
+   "detail": "Michigan EGLE lab code 8005 · 3 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "source_name_2": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url_2": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "BEST Labs Inc",
+   "address": "P.O. Box 276, Richland, MI 49083",
+   "city": "Richland",
+   "lab_id": "EGLE lab code 9981",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate",
+    "Nitrite",
+    "Fluoride",
+    "Chloride",
+    "Sulfate"
+   ],
+   "group": "main",
+   "detail": "Michigan EGLE lab code 9981 · 10 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "source_name_2": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url_2": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Brighton Analytical, LLC",
+   "address": "2105 Pless Drive, Brighton, MI 48114",
+   "city": "Brighton",
+   "lab_id": "EGLE lab code 9404",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate",
+    "Nitrite",
+    "Arsenic",
+    "Lead",
+    "Copper",
+    "Fluoride",
+    "Manganese",
+    "Sodium",
+    "Chloride",
+    "Sulfate",
+    "Volatile organic compounds (VOCs)"
+   ],
+   "group": "main",
+   "detail": "Michigan EGLE lab code 9404 · 36 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "source_name_2": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url_2": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "EGLE Laboratory Services",
+   "address": "3350 N MLK Blvd, Lansing, MI 48906",
+   "city": "Lansing",
+   "lab_id": "EGLE lab code 0001",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate",
+    "Nitrite",
+    "Arsenic",
+    "Lead",
+    "Copper",
+    "Fluoride",
+    "Uranium",
+    "Sodium",
+    "Chloride",
+    "Pesticides / herbicides",
+    "PFAS",
+    "Volatile organic compounds (VOCs)"
+   ],
+   "group": "main",
+   "detail": "Michigan EGLE lab code 0001 · 66 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "source_name_2": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url_2": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Enviroappraisal Labs",
+   "address": "PO Box 368, Centreville, MI 49032",
+   "city": "Centreville",
+   "lab_id": "EGLE lab code 9998",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate",
+    "Nitrite"
+   ],
+   "group": "main",
+   "detail": "Michigan EGLE lab code 9998 · 4 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "source_name_2": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url_2": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Eurofins Michigan (Farmington Hills)",
+   "address": "38855 Hills Tech Drive, Farmington Hills, MI 48331",
+   "city": "Farmington Hills",
+   "lab_id": "EGLE lab code 9180",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate",
+    "Nitrite"
+   ],
+   "group": "main",
+   "detail": "Michigan EGLE lab code 9180 · 8 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "source_name_2": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url_2": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Founes Well Drilling & Environmental Laboratory",
+   "address": "33215 M-43 Hwy, Paw Paw, MI 49079",
+   "city": "Paw Paw",
+   "lab_id": "EGLE lab code 9010",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate",
+    "Nitrite"
+   ],
+   "group": "main",
+   "detail": "Michigan EGLE lab code 9010 · 6 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "source_name_2": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url_2": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Garrett Laboratories, Inc.",
+   "address": "408 N. 3rd Street, Niles, MI 49120",
+   "city": "Niles",
+   "lab_id": "EGLE lab code 8003",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate",
+    "Nitrite"
+   ],
+   "group": "main",
+   "detail": "Michigan EGLE lab code 8003 · 7 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "source_name_2": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url_2": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Grand Traverse Analytical, LLC",
+   "address": "830 Robinwood Court, Traverse City, MI 49686",
+   "city": "Traverse City",
+   "lab_id": "EGLE lab code 9968",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate",
+    "Nitrite",
+    "Arsenic",
+    "Lead",
+    "Copper"
+   ],
+   "group": "main",
+   "detail": "Michigan EGLE lab code 9968 · 7 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "source_name_2": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url_2": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Great Lakes Scientific",
+   "address": "2847 Lawrence Street, Stevensville, MI 49127",
+   "city": "Stevensville",
+   "lab_id": "EGLE lab code 8000",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate"
+   ],
+   "group": "main",
+   "detail": "Michigan EGLE lab code 8000 · 5 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "source_name_2": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url_2": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Great Lakes Water Quality Laboratory, Inc.",
+   "address": "6461 Sunset Drive, Lake Ann, MI 49650",
+   "city": "Lake Ann",
+   "lab_id": "EGLE lab code 0091",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate",
+    "Nitrite",
+    "Fluoride",
+    "Sodium",
+    "Sulfate"
+   ],
+   "group": "main",
+   "detail": "Michigan EGLE lab code 0091 · 9 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "source_name_2": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url_2": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "LMAS Regional Laboratory",
+   "address": "14150 Hamilton Lake Road, Newberry, MI 49868",
+   "city": "Newberry",
+   "lab_id": "EGLE lab code 9060",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate",
+    "Nitrite"
+   ],
+   "group": "main",
+   "detail": "Michigan EGLE lab code 9060 · 6 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "source_name_2": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url_2": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "National Testing Laboratories, Ltd.",
+   "address": "556 South Mansfield Street, Ypsilanti, MI 48197",
+   "city": "Ypsilanti",
+   "lab_id": "EGLE lab code 0055",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate",
+    "Nitrite",
+    "Arsenic",
+    "Lead",
+    "Copper",
+    "Fluoride",
+    "Manganese",
+    "Uranium",
+    "Sodium",
+    "Chloride",
+    "Sulfate",
+    "Pesticides / herbicides",
+    "Volatile organic compounds (VOCs)"
+   ],
+   "group": "main",
+   "detail": "Michigan EGLE lab code 0055 · 92 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "source_name_2": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url_2": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "New Age/Landmark, Inc.",
+   "address": "160 Veterans Boulevard, South Haven, MI 49090",
+   "city": "South Haven",
+   "lab_id": "EGLE lab code 9977",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate",
+    "Nitrite",
+    "Lead",
+    "Copper"
+   ],
+   "group": "main",
+   "detail": "Michigan EGLE lab code 9977 · 9 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "source_name_2": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url_2": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "OML Analytical",
+   "address": "9462 Crest Circle Drive, NE, Rockford, MI 49341",
+   "city": "Rockford",
+   "lab_id": "EGLE lab code 9130",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate"
+   ],
+   "group": "main",
+   "detail": "Michigan EGLE lab code 9130 · 3 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "source_name_2": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url_2": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Pace Analytical Services, LLC (Grand Rapids)",
+   "address": "4171 40th Street SE, Kentwood, MI 49512",
+   "city": "Kentwood",
+   "lab_id": "EGLE lab code 0034",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate",
+    "Nitrite"
+   ],
+   "group": "main",
+   "detail": "Michigan EGLE lab code 0034 · 7 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "source_name_2": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url_2": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Paragon Laboratories, Inc.",
+   "address": "12649 Richfield Ct., Livonia, MI 48150",
+   "city": "Livonia",
+   "lab_id": "EGLE lab code 9901",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate",
+    "Nitrite",
+    "Arsenic",
+    "Lead",
+    "Copper",
+    "Fluoride",
+    "Manganese",
+    "Uranium",
+    "Sodium",
+    "Chloride",
+    "Sulfate",
+    "Pesticides / herbicides",
+    "PFAS",
+    "Volatile organic compounds (VOCs)"
+   ],
+   "group": "main",
+   "detail": "Michigan EGLE lab code 9901 · 90 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "source_name_2": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url_2": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Paw Paw Laboratory",
+   "address": "110 Harry L Bush Avenue, Paw Paw, MI 49079",
+   "city": "Paw Paw",
+   "lab_id": "EGLE lab code 5210",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate"
+   ],
+   "group": "main",
+   "detail": "Michigan EGLE lab code 5210 · 3 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "source_name_2": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url_2": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Prein & Newhof",
+   "address": "3350 Evergreen Drive, NE, Grand Rapids, MI 49525",
+   "city": "Grand Rapids",
+   "lab_id": "EGLE lab code 0020",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate",
+    "Nitrite",
+    "Arsenic",
+    "Lead",
+    "Copper",
+    "Fluoride",
+    "Manganese",
+    "Uranium",
+    "Sodium",
+    "Chloride",
+    "Sulfate",
+    "Volatile organic compounds (VOCs)"
+   ],
+   "group": "main",
+   "detail": "Michigan EGLE lab code 0020 · 48 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "source_name_2": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url_2": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Raven Analytical Laboratory",
+   "address": "104 1/2 First Street, Roscommon, MI 48653",
+   "city": "Roscommon",
+   "lab_id": "EGLE lab code 9954",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate",
+    "Nitrite"
+   ],
+   "group": "main",
+   "detail": "Michigan EGLE lab code 9954 · 4 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "source_name_2": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url_2": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "SOS Analytical, Inc.",
+   "address": "4125 Cedar Run Road, Traverse City, MI 49684",
+   "city": "Traverse City",
+   "lab_id": "EGLE lab code 9506",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate",
+    "Nitrite",
+    "Arsenic",
+    "Lead",
+    "Copper",
+    "Fluoride",
+    "Manganese",
+    "Uranium",
+    "Chloride",
+    "Sulfate",
+    "Volatile organic compounds (VOCs)"
+   ],
+   "group": "main",
+   "detail": "Michigan EGLE lab code 9506 · 31 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "source_name_2": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url_2": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Summit Laboratory",
+   "address": "3351 36th Street SE, Kentwood, MI 49512",
+   "city": "Kentwood",
+   "lab_id": "EGLE lab code 9939",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate"
+   ],
+   "group": "main",
+   "detail": "Michigan EGLE lab code 9939 · 5 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "source_name_2": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url_2": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Trace Analytical Laboratories, Inc.",
+   "address": "2241 Black Creek Road, Muskegon, MI 49444",
+   "city": "Muskegon",
+   "lab_id": "EGLE lab code 8001",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate",
+    "Nitrite",
+    "Arsenic",
+    "Lead",
+    "Copper",
+    "Fluoride",
+    "Manganese",
+    "Uranium",
+    "Sodium",
+    "Chloride",
+    "Sulfate",
+    "Pesticides / herbicides",
+    "PFAS",
+    "Volatile organic compounds (VOCs)"
+   ],
+   "group": "main",
+   "detail": "Michigan EGLE lab code 8001 · 76 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "source_name_2": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url_2": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Water Tech",
+   "address": "718 South Michigan Avenue, Howell, MI 48843",
+   "city": "Howell",
+   "lab_id": "EGLE lab code 0023",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate",
+    "Nitrite",
+    "Arsenic",
+    "Lead",
+    "Copper",
+    "Fluoride",
+    "Manganese",
+    "Sodium",
+    "Chloride",
+    "Sulfate"
+   ],
+   "group": "main",
+   "detail": "Michigan EGLE lab code 0023 · 25 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "source_name_2": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url_2": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "White Water Associates, Inc.",
+   "address": "429 River Lane, Amasa, MI 49903",
+   "city": "Amasa",
+   "lab_id": "EGLE lab code 9306",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate",
+    "Nitrite",
+    "Arsenic",
+    "Lead",
+    "Copper",
+    "Fluoride",
+    "Manganese",
+    "Uranium",
+    "Sodium",
+    "Chloride",
+    "Sulfate"
+   ],
+   "group": "main",
+   "detail": "Michigan EGLE lab code 9306 · 28 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "source_name_2": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url_2": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Adrian Water Treatment Plant",
+   "address": "135 E Maumee Street, Adrian, MI 49221",
+   "city": "Adrian",
+   "lab_id": "EGLE lab code 0040",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 0040 · 6 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "source_name_2": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url_2": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Algonac Water Filtration Plant",
+   "address": "1530 St. Clair River Drive, Algonac, MI 48001",
+   "city": "Algonac",
+   "lab_id": "EGLE lab code 0110",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 0110 · 2 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Allegan Water Treatment Plant",
+   "address": "100 Park Avenue, Allegan, MI 49010",
+   "city": "Allegan",
+   "lab_id": "EGLE lab code 0120",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 0120 · 2 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Alpena Water Plant",
+   "address": "1300 State Avenue, Alpena, MI 49707",
+   "city": "Alpena",
+   "lab_id": "EGLE lab code 0160",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 0160 · 5 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Ann Arbor Water Treatment Plant",
+   "address": "919 Sunset Road, Ann Arbor, MI 48103",
+   "city": "Ann Arbor",
+   "lab_id": "EGLE lab code 0220",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate",
+    "Nitrite",
+    "Fluoride",
+    "Chloride",
+    "Sulfate"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 0220 · 11 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "source_name_2": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url_2": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Anthony Ragnone Treatment Plant",
+   "address": "G-9290 Farrand Road, Montrose, MI 48457",
+   "city": "Montrose",
+   "lab_id": "EGLE lab code 2615",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 2615 · 5 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Baraga Water Plant",
+   "address": "100 Hemlock Street, Baraga, MI 49908",
+   "city": "Baraga",
+   "lab_id": "EGLE lab code 0410",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 0410 · 5 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Battle Creek Wastewater Treatment Plant",
+   "address": "2000 West River Road, Battle Creek, MI 49037",
+   "city": "Battle Creek",
+   "lab_id": "EGLE lab code 0450",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 0450 · 2 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Bay Area Water Treatment Plant",
+   "address": "2701 North Euclid Avenue, Bay City, MI 48706",
+   "city": "Bay City",
+   "lab_id": "EGLE lab code 0465",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 0465 · 3 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Bay County Health Department",
+   "address": "1200 Washington Avenue, Bay City, MI 48708",
+   "city": "Bay City",
+   "lab_id": "EGLE lab code 9944",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 9944 · 2 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Benton Charter Township Water Plant",
+   "address": "1181 North Shore Drive, Benton Harbor, MI 49022",
+   "city": "Benton Harbor",
+   "lab_id": "EGLE lab code 9974",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 9974 · 5 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Benton Harbor Water Treatment Plant",
+   "address": "601 Ridgeway Drive, St Joseph, MI 49022",
+   "city": "St Joseph",
+   "lab_id": "EGLE lab code 0600",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 0600 · 3 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Big Rapids Water Filtration Plant",
+   "address": "730 Osceola Ave, Big Rapids, MI 49307",
+   "city": "Big Rapids",
+   "lab_id": "EGLE lab code 0710",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 0710 · 2 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Blissfield Water Treatment Plant",
+   "address": "1330 Beamer Road, Blissfield, MI 49228",
+   "city": "Blissfield",
+   "lab_id": "EGLE lab code 0750",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate",
+    "Fluoride"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 0750 · 7 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "source_name_2": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url_2": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Bridgman Water Plant",
+   "address": "9765 Maple St, Bridgman, MI 49106",
+   "city": "Bridgman",
+   "lab_id": "EGLE lab code 0850",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 0850 · 2 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Cadillac Wastewater Treatment Plant",
+   "address": "200 North Lake Street, Cadillac, MI 49601",
+   "city": "Cadillac",
+   "lab_id": "EGLE lab code 1030",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate",
+    "Nitrite"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 1030 · 6 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "source_name_2": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url_2": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Caro Wastewater Treatment Plant",
+   "address": "724 Columbia Avenue, Caro, MI 48723",
+   "city": "Caro",
+   "lab_id": "EGLE lab code 1130",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 1130 · 2 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Caseville Water Treatment Plant",
+   "address": "6685 Clay Street, Caseville, MI 48725",
+   "city": "Caseville",
+   "lab_id": "EGLE lab code 1190",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 1190 · 3 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Cass City Wastewater Treatment Plant",
+   "address": "6506 Main Street, Cass City, MI 48726",
+   "city": "Cass City",
+   "lab_id": "EGLE lab code 1220",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 1220 · 2 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Charlevoix Water Treatment Plant",
+   "address": "210 State Street, Charlevoix, MI 49720",
+   "city": "Charlevoix",
+   "lab_id": "EGLE lab code 1330",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 1330 · 4 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Cheboygan Wastewater Treatment Plant",
+   "address": "975 North Huron Street, Cheboygan, MI 49721",
+   "city": "Cheboygan",
+   "lab_id": "EGLE lab code 1360",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 1360 · 2 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Clare Wastewater Treatment Plant",
+   "address": "202 West Fifth Street, Clare, MI 48617",
+   "city": "Clare",
+   "lab_id": "EGLE lab code 1420",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 1420 · 2 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Coldwater Board of Public Utilities",
+   "address": "One Grand Street, Coldwater, MI 49036",
+   "city": "Coldwater",
+   "lab_id": "EGLE lab code 1500",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 1500 · 3 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "source_name_2": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url_2": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Deerfield Water Filtration Plant",
+   "address": "101 W River Street, Deerfield, MI 49238",
+   "city": "Deerfield",
+   "lab_id": "EGLE lab code 1770",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 1770 · 4 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "DeTour Village Waterworks",
+   "address": "PO Box 397, DeTour Village, MI 49725",
+   "city": "DeTour Village",
+   "lab_id": "EGLE lab code 1795",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 1795 · 4 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Dexter Water Utilities",
+   "address": "3515 Broad Street, Dexter, MI 48130",
+   "city": "Dexter",
+   "lab_id": "EGLE lab code 1810",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 1810 · 2 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Dundee Water Filtration Plant",
+   "address": "350 West Monroe Street, Dundee, MI 48131",
+   "city": "Dundee",
+   "lab_id": "EGLE lab code 1880",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 1880 · 2 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "East Lansing-Meridian Water & Sewer Authority",
+   "address": "2470 Burcham Drive, East Lansing, MI 48823",
+   "city": "East Lansing",
+   "lab_id": "EGLE lab code 1995",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 1995 · 2 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Eaton Rapids WWTP",
+   "address": "200 S. Main St, Eaton Rapids, MI 48827",
+   "city": "Eaton Rapids",
+   "lab_id": "EGLE lab code 2020",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 2020 · 2 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Escanaba Water Department",
+   "address": "PO Box 948, Escanaba, MI 49829",
+   "city": "Escanaba",
+   "lab_id": "EGLE lab code 2170",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 2170 · 5 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Evart Wastewater Treatment Plant",
+   "address": "200 South Main Steet, Evart, MI 49631",
+   "city": "Evart",
+   "lab_id": "EGLE lab code 2190",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 2190 · 2 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Fenton WTP Laboratory",
+   "address": "Fenton WTP C/O City Hall, Fenton, MI 48430",
+   "city": "Fenton",
+   "lab_id": "EGLE lab code 9961",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 9961 · 2 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Flint Water Plant & Facilities",
+   "address": "4500 North Dort Highway, Flint, MI 48505",
+   "city": "Flint",
+   "lab_id": "EGLE lab code 2310",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Fluoride"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 2310 · 6 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "source_name_2": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url_2": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Frenchtown Charter Township",
+   "address": "5300 North Dixie Highway, Newport, MI 48166",
+   "city": "Newport",
+   "lab_id": "EGLE lab code 2500",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 2500 · 4 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "GCDC-WWS Water Treatment Plant",
+   "address": "9290 Farrand Road, Montrose, MI 48457",
+   "city": "Montrose",
+   "lab_id": "EGLE lab code 9997",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 9997 · 4 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "source_name_2": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url_2": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Genesee County Health Department",
+   "address": "630 South Saginaw, Flint, MI 48502",
+   "city": "Flint",
+   "lab_id": "EGLE lab code 0013",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 0013 · 2 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Gladstone Water Treatment Plant",
+   "address": "1100 Delta Avenue, Gladstone, MI 49837",
+   "city": "Gladstone",
+   "lab_id": "EGLE lab code 2640",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 2640 · 5 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "GLWA Lake Huron Water Plant Lab",
+   "address": "3993 Metcalf Road, Fort Gratiot, MI 48059",
+   "city": "Fort Gratiot",
+   "lab_id": "EGLE lab code 1801",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 1801 · 5 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "GLWA Northeast Water Treatment Plant",
+   "address": "11000 East Eight Mile Road, Detroit, MI 48205",
+   "city": "Detroit",
+   "lab_id": "EGLE lab code 1802",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 1802 · 3 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "GLWA Southwest Water Plant",
+   "address": "14700 Moran Road, Allen Park, MI 48101",
+   "city": "Allen Park",
+   "lab_id": "EGLE lab code 1804",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 1804 · 5 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "GLWA Springwells Water Plant",
+   "address": "8300 West Warren Avenue, Dearborn, MI 48126",
+   "city": "Dearborn",
+   "lab_id": "EGLE lab code 1803",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Fluoride"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 1803 · 4 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "source_name_2": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url_2": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "GLWA Waterworks Park Water Plant",
+   "address": "10100 East Jefferson Avenue, Detroit, MI 48214",
+   "city": "Detroit",
+   "lab_id": "EGLE lab code 1805",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate",
+    "Nitrite",
+    "Lead",
+    "Copper",
+    "Fluoride",
+    "Sodium"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 1805 · 12 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "source_name_2": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url_2": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Grand Ledge Water Lab",
+   "address": "310 Greenwood St., Grand Ledge, MI 48837",
+   "city": "Grand Ledge",
+   "lab_id": "EGLE lab code 9040",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 9040 · 2 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Grand Rapids Lake Mich. Filt. Plant",
+   "address": "17350 Lake Michigan Drive, West Olive, MI 49460",
+   "city": "West Olive",
+   "lab_id": "EGLE lab code 2790",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 2790 · 5 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Grand Rapids WFP - Oak Industrial Drive",
+   "address": "17350 Lake Michgian Dr, West Olive, MI 49460",
+   "city": "West Olive",
+   "lab_id": "EGLE lab code 2791",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 2791 · 3 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Gratiot Area Water Authority",
+   "address": "525 E Superior, Alma, MI 48801",
+   "city": "Alma",
+   "lab_id": "EGLE lab code 0140",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 0140 · 3 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Grosse Pointe Farms Water Treatment Plant",
+   "address": "29 Moross Road, Grosse Pointe Farms, MI 48236",
+   "city": "Grosse Pointe Farms",
+   "lab_id": "EGLE lab code 2890",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 2890 · 4 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Gun Lake Area Sewer and Water Authority",
+   "address": "12588 Marsh Road, Shelbyville, MI 49433",
+   "city": "Shelbyville",
+   "lab_id": "EGLE lab code 9055",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 9055 · 3 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "source_name_2": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url_2": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Harbor Beach WTP",
+   "address": "766 State Street, Harbor Beach, MI 48441",
+   "city": "Harbor Beach",
+   "lab_id": "EGLE lab code 3000",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 3000 · 4 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Hart Wastewater Treatment Plant",
+   "address": "407 State Street, Hart, MI 49420",
+   "city": "Hart",
+   "lab_id": "EGLE lab code 3060",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 3060 · 3 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "source_name_2": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url_2": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Hastings Water Treatment Plant",
+   "address": "135 W Mill Street, Hastings, MI 49058",
+   "city": "Hastings",
+   "lab_id": "EGLE lab code 3090",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 3090 · 2 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Hillsdale Wastewater Treatment Plant",
+   "address": "45 Monroe St, Hillsdale, MI 49242",
+   "city": "Hillsdale",
+   "lab_id": "EGLE lab code 3170",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 3170 · 2 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Holland Board of Public Works",
+   "address": "625 Hastings Ave,, Holland, MI 49423",
+   "city": "Holland",
+   "lab_id": "EGLE lab code 3190",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 3190 · 3 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Holly WTP",
+   "address": "201 Elm Street, Holly, MI 48442",
+   "city": "Holly",
+   "lab_id": "EGLE lab code 3200",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 3200 · 2 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Howell Water Treatment Plant",
+   "address": "611 E Grand River Avenue, Howell, MI 48843",
+   "city": "Howell",
+   "lab_id": "EGLE lab code 3250",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Fluoride"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 3250 · 4 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "source_name_2": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url_2": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Huron Regional Water Authority Laboratory",
+   "address": "76 West Spring Street, Port Austin, MI 48467",
+   "city": "Port Austin",
+   "lab_id": "EGLE lab code 9966",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 9966 · 5 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Huron Shore Regional Utility Authority",
+   "address": "247 Baldwin Resort Road, East Tawas, MI 48730",
+   "city": "East Tawas",
+   "lab_id": "EGLE lab code 2010",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 2010 · 5 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Ionia Wastewater Treatment Plant",
+   "address": "720 Wells Street, Ionia, MI 48846",
+   "city": "Ionia",
+   "lab_id": "EGLE lab code 3370",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 3370 · 2 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Ira Township Water Treatment Plant",
+   "address": "7085 Meldrum Road, Fair Haven, MI 48023",
+   "city": "Fair Haven",
+   "lab_id": "EGLE lab code 3390",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 3390 · 2 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Ishpeming Area Wastewater Facility",
+   "address": "700 Sunset Drive, Ishpeming, MI 49849",
+   "city": "Ishpeming",
+   "lab_id": "EGLE lab code 3440",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate",
+    "Nitrite"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 3440 · 4 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "source_name_2": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url_2": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Isle Royale National Park",
+   "address": "Rock Harbor Water Analysis Lab, Houghton, MI 49931",
+   "city": "Houghton",
+   "lab_id": "EGLE lab code 0053",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 0053 · 2 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Jackson Water Treatment Plant",
+   "address": "161 West Michigan Avenue, Jackson, MI 49201",
+   "city": "Jackson",
+   "lab_id": "EGLE lab code 3470",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 3470 · 3 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Jonesville Wastewater Treatment Plant",
+   "address": "265 East Chicago Street, Jonesville, MI 49250",
+   "city": "Jonesville",
+   "lab_id": "EGLE lab code 3490",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate",
+    "Nitrite"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 3490 · 4 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "source_name_2": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url_2": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Kalamazoo County HSD Laboratory",
+   "address": "311 East Alcott Street, Kalamazoo, MI 49001",
+   "city": "Kalamazoo",
+   "lab_id": "EGLE lab code 0008",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 0008 · 3 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "source_name_2": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url_2": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Kalamazoo Public Services Laboratory",
+   "address": "1415 North Harrison, Kalamazoo, MI 49007",
+   "city": "Kalamazoo",
+   "lab_id": "EGLE lab code 3520",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 3520 · 2 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "source_name_2": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url_2": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "L'Anse Water Treatment Plant",
+   "address": "1059 Bayshore Rd, L'Anse, MI 49946",
+   "city": "L'Anse",
+   "lab_id": "EGLE lab code 3670",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 3670 · 5 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Lake Township Water System",
+   "address": "8351 Red Arrow Highway, Bridgman, MI 49106",
+   "city": "Bridgman",
+   "lab_id": "EGLE lab code 3741",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 3741 · 5 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Lans. Brd. of Water & Light Envir. Services Lab",
+   "address": "1232 Haco Drive, Lansing, MI 48901",
+   "city": "Lansing",
+   "lab_id": "EGLE lab code 3760",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate",
+    "Nitrite",
+    "Arsenic",
+    "Lead",
+    "Copper",
+    "Fluoride",
+    "Manganese",
+    "Sodium",
+    "Chloride",
+    "Sulfate",
+    "Volatile organic compounds (VOCs)"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 3760 · 36 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "source_name_2": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url_2": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Lexington Water Treatment Plant",
+   "address": "7227 Huron Ave, Lexington, MI 48450",
+   "city": "Lexington",
+   "lab_id": "EGLE lab code 3850",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 3850 · 5 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Lowell Water Treatment & Filtration Plant",
+   "address": "301 East Main Street, Lowell, MI 49331",
+   "city": "Lowell",
+   "lab_id": "EGLE lab code 3950",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 3950 · 2 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Ludington Water Treatment Plant",
+   "address": "400 South Harrison St, Ludington, MI 49431",
+   "city": "Ludington",
+   "lab_id": "EGLE lab code 3960",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 3960 · 4 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Mackinac Island Water Treatment Plant",
+   "address": "5951 M-185, Mackinac Island, MI 49757",
+   "city": "Mackinac Island",
+   "lab_id": "EGLE lab code 3970",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 3970 · 4 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Manistee Wastwater Treatment Plant",
+   "address": "70 Maple Street, Manistee, MI 49660",
+   "city": "Manistee",
+   "lab_id": "EGLE lab code 4030",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 4030 · 2 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Manistique Water Treatment Plant",
+   "address": "300 N. Maple Street, Manistique, MI 49854",
+   "city": "Manistique",
+   "lab_id": "EGLE lab code 4040",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 4040 · 5 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Marine City Water Works (Tetra Tech)",
+   "address": "375 S. Parker St, Marine City, MI 48039",
+   "city": "Marine City",
+   "lab_id": "EGLE lab code 4090",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 4090 · 2 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Marquette Water Filtration Plant",
+   "address": "300 West Baraga Avenue, Marquette, MI 49855",
+   "city": "Marquette",
+   "lab_id": "EGLE lab code 4120",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 4120 · 4 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Marshall Wastewater Treatment Plant",
+   "address": "323 West Michigan Avenue, Marshall, MI 49068",
+   "city": "Marshall",
+   "lab_id": "EGLE lab code 4150",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 4150 · 2 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Marysville Water Filtration Plant",
+   "address": "1535 River Road, Marysville, MI 48040",
+   "city": "Marysville",
+   "lab_id": "EGLE lab code 4160",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 4160 · 2 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Menominee Water Treatment Plant",
+   "address": "1101 26th Avenue, Menominee, MI 49858",
+   "city": "Menominee",
+   "lab_id": "EGLE lab code 4250",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 4250 · 5 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "MHOG Water Treatment Plant",
+   "address": "4288 Norton Road, Howell, MI 48843",
+   "city": "Howell",
+   "lab_id": "EGLE lab code 4098",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 4098 · 2 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Midland Water Treatment Plant",
+   "address": "2607 Bay City Road, Midland, MI 48642",
+   "city": "Midland",
+   "lab_id": "EGLE lab code 4370",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 4370 · 3 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Monroe Water Filtration Plant",
+   "address": "915 East Front Street, Monroe, MI 48161",
+   "city": "Monroe",
+   "lab_id": "EGLE lab code 4450",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 4450 · 3 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Mt. Clemens Water Filtration Plant",
+   "address": "36570 Jefferson Avenue, Harrison Township, MI 48045",
+   "city": "Harrison Township",
+   "lab_id": "EGLE lab code 4510",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 4510 · 3 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Mt. Pleasant Water Treatment Plant",
+   "address": "320 W. Broadway Street, Mt. Pleasant, MI 48858",
+   "city": "Mt. Pleasant",
+   "lab_id": "EGLE lab code 4530",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 4530 · 5 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Munising Wastewater Treatment Plant",
+   "address": "301 East Superior Street, Munising, MI 49862",
+   "city": "Munising",
+   "lab_id": "EGLE lab code 4560",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 4560 · 2 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Muskegon Heights Filtration",
+   "address": "2323 Seminole Road, Muskegon Heights, MI 49441",
+   "city": "Muskegon Heights",
+   "lab_id": "EGLE lab code 4580",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 4580 · 3 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Muskegon Water Filtration Plant",
+   "address": "1900 Beach Street, Muskegon, MI 49441",
+   "city": "Muskegon",
+   "lab_id": "EGLE lab code 4570",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 4570 · 5 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "New Baltimore Water Treatment Plant",
+   "address": "36280 Front, New Baltimore, MI 48047",
+   "city": "New Baltimore",
+   "lab_id": "EGLE lab code 4670",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 4670 · 3 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "New Buffalo Water Plant",
+   "address": "224 West Buffalo Street, New Buffalo, MI 49117",
+   "city": "New Buffalo",
+   "lab_id": "EGLE lab code 4680",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 4680 · 5 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Northwest Michigan Community Health Agency",
+   "address": "95 Livingston Boulevard, Gaylord, MI 49735",
+   "city": "Gaylord",
+   "lab_id": "EGLE lab code 9960",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate",
+    "Nitrite",
+    "Fluoride",
+    "Sulfate"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 9960 · 8 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "source_name_2": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url_2": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Northwest Ottawa Water Treatment Plant",
+   "address": "519 Washington Ave, Grand Haven, MI 49417",
+   "city": "Grand Haven",
+   "lab_id": "EGLE lab code 2750",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 2750 · 3 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Oakland Co. Health Division Laboratory",
+   "address": "1200 N Telegraph Rd, Pontiac, MI 48341",
+   "city": "Pontiac",
+   "lab_id": "EGLE lab code 0012",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate",
+    "Nitrite",
+    "Arsenic",
+    "Lead",
+    "Copper",
+    "Fluoride",
+    "Chloride",
+    "Sulfate"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 0012 · 13 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "source_name_2": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url_2": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Ontonagon Water Treatment Plant",
+   "address": "315 Quartz Street, Ontonagon, MI 49953",
+   "city": "Ontonagon",
+   "lab_id": "EGLE lab code 5030",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 5030 · 4 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Owosso Water Treatment Plant",
+   "address": "301 W. Main Street, Owosso, MI 48867",
+   "city": "Owosso",
+   "lab_id": "EGLE lab code 5120",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 5120 · 2 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Petoskey WWTP",
+   "address": "101 East Lake Street, Petoskey, MI 49770",
+   "city": "Petoskey",
+   "lab_id": "EGLE lab code 5300",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 5300 · 2 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Plainfield Township Water Department",
+   "address": "5220 Woodfield Court, N.E., Grand Rapids, MI 49525",
+   "city": "Grand Rapids",
+   "lab_id": "EGLE lab code 5370",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 5370 · 2 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Port Huron Water Treatment Plant",
+   "address": "1200 Pine Grove Avenue, Port Huron, MI 48060",
+   "city": "Port Huron",
+   "lab_id": "EGLE lab code 5480",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 5480 · 3 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Richmond Wastewater Treatment Plant",
+   "address": "PO Box 277, Richmond, MI 48062",
+   "city": "Richmond",
+   "lab_id": "EGLE lab code 9938",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 9938 · 3 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Rockford Water Lab",
+   "address": "7 South Monroe St, Rockford, MI 49341",
+   "city": "Rockford",
+   "lab_id": "EGLE lab code 5730",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 5730 · 3 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Saginaw County Health Department Laboratory",
+   "address": "1600 N. Michigan, Saginaw, MI 48602",
+   "city": "Saginaw",
+   "lab_id": "EGLE lab code 0015",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate",
+    "Nitrite",
+    "Fluoride",
+    "Sulfate"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 0015 · 10 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "source_name_2": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url_2": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Saginaw Water Treatment Plant",
+   "address": "522 Ezra Rust Drive, Saginaw, MI 48601",
+   "city": "Saginaw",
+   "lab_id": "EGLE lab code 5850",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 5850 · 5 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Saint Clair River Water & Sewer Authority",
+   "address": "5111 Pointe Drive, East China Township, MI 48054",
+   "city": "East China Township",
+   "lab_id": "EGLE lab code 1940",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 1940 · 2 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Saint Clair Water Treatment Plant",
+   "address": "1200 Adams, St. Clair, MI 48079",
+   "city": "St. Clair",
+   "lab_id": "EGLE lab code 6270",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 6270 · 2 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Saint Ignace Water Treatment Plant",
+   "address": "396 N State Street, St. Ignace, MI 49781",
+   "city": "St. Ignace",
+   "lab_id": "EGLE lab code 6290",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 6290 · 5 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Saint Johns Water Plant",
+   "address": "100 East State Street, St. Johns, MI 48879",
+   "city": "St. Johns",
+   "lab_id": "EGLE lab code 9969",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 9969 · 2 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Saint Joseph WFP",
+   "address": "700 Broad Street, St. Joseph, MI 49085",
+   "city": "St. Joseph",
+   "lab_id": "EGLE lab code 6310",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 6310 · 5 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Saline Water Treatment Plant",
+   "address": "100 North Harris Street, Saline, MI 48176",
+   "city": "Saline",
+   "lab_id": "EGLE lab code 5900",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 5900 · 3 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Sault Ste. Marie Water Treatment Laboratory",
+   "address": "225 E Portage Avenue, Sault Ste. Marie, MI 49783",
+   "city": "Sault Ste. Marie",
+   "lab_id": "EGLE lab code 5950",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 5950 · 5 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "South County Water System - Monroe",
+   "address": "9489 Lewis Avenue, Temperance, MI 48182",
+   "city": "Temperance",
+   "lab_id": "EGLE lab code 4455",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 4455 · 2 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "South Haven Water Filtration Plant",
+   "address": "539 Phoenix Street, South Haven, MI 49090",
+   "city": "South Haven",
+   "lab_id": "EGLE lab code 6100",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 6100 · 4 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "South Lyon Water Treatment Plant",
+   "address": "23500 Dixboro Rd, South Lyon, MI 48178",
+   "city": "South Lyon",
+   "lab_id": "EGLE lab code 6110",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 6110 · 2 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Southeastern Oakland Co. Water Auth.",
+   "address": "3910 West Webster Avenue, Royal Oak, MI 48073",
+   "city": "Royal Oak",
+   "lab_id": "EGLE lab code 6150",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 6150 · 2 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Stephenson Water Dept",
+   "address": "PO Box 467, Stephenson, MI 49887",
+   "city": "Stephenson",
+   "lab_id": "EGLE lab code 9973",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 9973 · 2 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Tecumseh Wastewater Treatment Plant",
+   "address": "309 East Chicago Boulevard, Tecumseh, MI 49286",
+   "city": "Tecumseh",
+   "lab_id": "EGLE lab code 6560",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 6560 · 2 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Three Rivers Wastewater Treatment Plant",
+   "address": "333 West Michigan Avenue, Three Rivers, MI 49093",
+   "city": "Three Rivers",
+   "lab_id": "EGLE lab code 6610",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 6610 · 2 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Traverse City Water Treatment Plant",
+   "address": "400 Boardman Avenue, Traverse City, MI 49684",
+   "city": "Traverse City",
+   "lab_id": "EGLE lab code 6640",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 6640 · 2 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Union Township Wastewater Treatment Plant",
+   "address": "4511 East River Road, Mt. Pleasant, MI 48858",
+   "city": "Mt. Pleasant",
+   "lab_id": "EGLE lab code 9948",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 9948 · 2 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Vassar Wastewater Treatment Plant",
+   "address": "287 East Huron Avenue, Vassar, MI 48768",
+   "city": "Vassar",
+   "lab_id": "EGLE lab code 6780",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 6780 · 2 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Walled Lake - Novi WWTP Lab",
+   "address": "46351 West Road, Novi, MI 48377",
+   "city": "Novi",
+   "lab_id": "EGLE lab code 6875",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 6875 · 2 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Western Upper Peninsula Health Department",
+   "address": "540 Depot Street, Hancock, MI 49930",
+   "city": "Hancock",
+   "lab_id": "EGLE lab code 9185",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate",
+    "Nitrite"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 9185 · 4 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "source_name_2": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url_2": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Whiteford Water Treatment Plant",
+   "address": "8000 Yankee Rd, Ottawa Lake, MI 49267",
+   "city": "Ottawa Lake",
+   "lab_id": "EGLE lab code 7063",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 7063 · 5 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Wyandotte Water Plant",
+   "address": "1771 6th Street, Wyandotte, MI 48192",
+   "city": "Wyandotte",
+   "lab_id": "EGLE lab code 7210",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 7210 · 5 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Wyoming DKSWTP",
+   "address": "16700 New Holland Street, Holland, MI 49424",
+   "city": "Holland",
+   "lab_id": "EGLE lab code 7220",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli",
+    "Nitrate",
+    "Nitrite",
+    "Lead",
+    "Copper",
+    "Fluoride",
+    "Chloride",
+    "Sulfate"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 7220 · 25 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "source_name_2": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url_2": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Ypsilanti Community Utilities Authority",
+   "address": "2777 State Road, Ypsilanti, MI 48198",
+   "city": "Ypsilanti",
+   "lab_id": "EGLE lab code 9941",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "public",
+   "detail": "Michigan EGLE lab code 9941 · 4 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Accurate Analytical Testing, LLC",
+   "address": "30105 Beverly, Romulus, MI 48174",
+   "city": "Romulus",
+   "lab_id": "EGLE lab code 9996",
+   "accredited_for": [
+    "Lead",
+    "Copper"
+   ],
+   "group": "limited",
+   "detail": "Michigan EGLE lab code 9996 · 2 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "ADM Environmental LLC",
+   "address": "402 South Brown Street, Jackson, MI 49203",
+   "city": "Jackson",
+   "lab_id": "EGLE lab code 9920",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "limited",
+   "detail": "Michigan EGLE lab code 9920 · 2 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Ann Arbor Technical Services, Inc.",
+   "address": "290 South Wagner Road, Ann Arbor, MI 48103",
+   "city": "Ann Arbor",
+   "lab_id": "EGLE lab code 9604",
+   "accredited_for": [
+    "Nitrate",
+    "Nitrite",
+    "Arsenic",
+    "Lead",
+    "Copper",
+    "Fluoride",
+    "Manganese",
+    "Sodium",
+    "Chloride",
+    "Sulfate",
+    "Volatile organic compounds (VOCs)"
+   ],
+   "group": "limited",
+   "detail": "Michigan EGLE lab code 9604 · 31 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Aqua Check LLC",
+   "address": "2220 Nightingale Street, Dearborn, MI 48128",
+   "city": "Dearborn",
+   "lab_id": "EGLE lab code 9942",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "limited",
+   "detail": "Michigan EGLE lab code 9942 · 2 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Biosan",
+   "address": "1950 Tobsal Court, Warren, MI 48901",
+   "city": "Warren",
+   "lab_id": "EGLE lab code 9972",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "limited",
+   "detail": "Michigan EGLE lab code 9972 · 3 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Blue Triton Brands - Mecosta",
+   "address": "19275 Eight Mile Road, Stanwood, MI 49346",
+   "city": "Stanwood",
+   "lab_id": "EGLE lab code 9964",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "limited",
+   "detail": "Michigan EGLE lab code 9964 · 4 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Enviro Lab Services, Inc",
+   "address": "4150 Arrow Street, Oscoda, MI 48750",
+   "city": "Oscoda",
+   "lab_id": "EGLE lab code 9115",
+   "accredited_for": [
+    "PFAS"
+   ],
+   "group": "limited",
+   "detail": "Michigan EGLE lab code 9115 · 1 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Environmental Support Services",
+   "address": "PO Box 37, South Lyon, MI 48178",
+   "city": "South Lyon",
+   "lab_id": "EGLE lab code 9401",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "limited",
+   "detail": "Michigan EGLE lab code 9401 · 3 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "F & V Drinking Water Laboratory - Belding",
+   "address": "12960 Lucerne Drive SE, Suite 100, Grand Rapids, MI 49546",
+   "city": "Grand Rapids",
+   "lab_id": "EGLE lab code 9155",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "limited",
+   "detail": "Michigan EGLE lab code 9155 · 2 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "FT Guru's Laboratory",
+   "address": "22287 Starks Drive, Clinton Township, MI 48906",
+   "city": "Clinton Township",
+   "lab_id": "EGLE lab code 9210",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "limited",
+   "detail": "Michigan EGLE lab code 9210 · 5 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Merit Laboratories, Inc.",
+   "address": "2680 East Lansing Drive, East Lansing, MI 48823",
+   "city": "East Lansing",
+   "lab_id": "EGLE lab code 9956",
+   "accredited_for": [
+    "Nitrate",
+    "Nitrite",
+    "Arsenic",
+    "Lead",
+    "Copper",
+    "Fluoride",
+    "Manganese",
+    "Chloride",
+    "Sulfate",
+    "PFAS",
+    "Volatile organic compounds (VOCs)"
+   ],
+   "group": "limited",
+   "detail": "Michigan EGLE lab code 9956 · 28 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Metiri Group-Holt Formerly Fibertec",
+   "address": "1914 Holloway Drive, Holt, MI 48842",
+   "city": "Holt",
+   "lab_id": "EGLE lab code 9080",
+   "accredited_for": [
+    "PFAS"
+   ],
+   "group": "limited",
+   "detail": "Michigan EGLE lab code 9080 · 1 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Microbiological Associates",
+   "address": "3759 Commerce Court, Wayne, MI 48184",
+   "city": "Wayne",
+   "lab_id": "EGLE lab code 9928",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "limited",
+   "detail": "Michigan EGLE lab code 9928 · 4 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Midwest Analytical Services, Inc",
+   "address": "2905 Hilton Rd, Ferndale, MI 48220",
+   "city": "Ferndale",
+   "lab_id": "EGLE lab code 9959",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "limited",
+   "detail": "Michigan EGLE lab code 9959 · 3 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "MPC Flint Community Lab",
+   "address": "4121 Martin Luther King Ave, Flint, MI 48505",
+   "city": "Flint",
+   "lab_id": "EGLE lab code 9160",
+   "accredited_for": [
+    "Arsenic",
+    "Lead",
+    "Copper"
+   ],
+   "group": "limited",
+   "detail": "Michigan EGLE lab code 9160 · 5 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "NSF International",
+   "address": "789 North Dixboro Road, Ann Arbor, MI 48105",
+   "city": "Ann Arbor",
+   "lab_id": "EGLE lab code 0048",
+   "accredited_for": [
+    "Nitrate",
+    "Nitrite",
+    "Arsenic",
+    "Lead",
+    "Copper",
+    "Fluoride",
+    "Manganese",
+    "Uranium",
+    "Sodium",
+    "Chloride",
+    "Sulfate",
+    "Pesticides / herbicides",
+    "Volatile organic compounds (VOCs)"
+   ],
+   "group": "limited",
+   "detail": "Michigan EGLE lab code 0048 · 86 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Quantum Laboratories, Inc.",
+   "address": "28221 Beck Road, Wixom, MI 48393",
+   "city": "Wixom",
+   "lab_id": "EGLE lab code 9934",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "limited",
+   "detail": "Michigan EGLE lab code 9934 · 3 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "SGS- Livonia (formerly RTI )",
+   "address": "31628 Glendale, Livonia, MI 48150",
+   "city": "Livonia",
+   "lab_id": "EGLE lab code 9962",
+   "accredited_for": [
+    "Total coliform",
+    "E. coli"
+   ],
+   "group": "limited",
+   "detail": "Michigan EGLE lab code 9962 · 5 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Microbiological\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf",
+   "source_date": "2026-03-11",
+   "source_name_2": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url_2": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Turquoise Environmental",
+   "address": "102 West Front Street Ste200, Traverse City, MI 49684",
+   "city": "Traverse City",
+   "lab_id": "EGLE lab code 9165",
+   "accredited_for": [
+    "PFAS"
+   ],
+   "group": "limited",
+   "detail": "Michigan EGLE lab code 9165 · 1 analytes listed as certified (see the source PDF for the full list).",
+   "source_name": "Michigan EGLE, \"State of Michigan Certified Laboratories: Chemistry\" (list footed 3/11/2026)",
+   "source_url": "https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Chemistry-Laboratories.pdf",
+   "source_date": "2026-03-11",
+   "last_verified": "2026-10-27"
+  }
+ ]
+}
