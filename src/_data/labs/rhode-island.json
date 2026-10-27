@@ -1,0 +1,714 @@
+{
+ "state": "Rhode Island",
+ "slug": "rhode-island",
+ "abbr": "RI",
+ "list_source": {
+  "name": "Rhode Island Department of Health, \"Certified Drinking Water Testing Labs\" (page last updated Sept. 3, 2026)",
+  "page_url": "https://health.ri.gov/drinking-water-quality/certified-drinking-water-testing-labs",
+  "program_url": "https://health.ri.gov/drinking-water-quality/certified-drinking-water-testing-labs",
+  "report_date": "Page updated Sept. 3, 2026; out-of-state PDF dated March 18, 2026"
+ },
+ "last_verified": "2026-10-27",
+ "labs": [
+  {
+   "name": "Eurofins North Kingstown",
+   "address": "North Kingstown, RI (RIDOH prints city only)",
+   "city": "North Kingstown",
+   "website": "https://www.eurofins.com/en-us/",
+   "group": "main",
+   "accredited_for": [
+    "RIDOH certified for drinking water (specific tests not shown on the RIDOH page; ask the lab)"
+   ],
+   "detail": "Listed by RIDOH as certified to test drinking water in Rhode Island and the surrounding area.",
+   "source_name": "Rhode Island Department of Health, \"Certified Drinking Water Testing Labs\" (page last updated Sept. 3, 2026)",
+   "source_url": "https://health.ri.gov/drinking-water-quality/certified-drinking-water-testing-labs",
+   "source_date": "2026-09-03",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Rhode Island Department of Health, State Health Lab",
+   "address": "150 Richmond Street, Suite 100, Providence, RI 02903",
+   "city": "Providence",
+   "website": "https://health.ri.gov/laboratory-testing/drinking-water-quality-testing",
+   "group": "main",
+   "accredited_for": [
+    "RIDOH certified for drinking water (specific tests not shown on the RIDOH page; ask the lab)"
+   ],
+   "detail": "Listed by RIDOH as certified to test drinking water. Address and phone are the State Health Laboratories location printed in the footer of the RIDOH page.",
+   "source_name": "Rhode Island Department of Health, \"Certified Drinking Water Testing Labs\" (page last updated Sept. 3, 2026)",
+   "source_url": "https://health.ri.gov/drinking-water-quality/certified-drinking-water-testing-labs",
+   "source_date": "2026-09-03",
+   "phone": "(401) 222-5600",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Eurofins Warwick",
+   "address": "Warwick, RI (RIDOH prints city only)",
+   "city": "Warwick",
+   "website": "https://www.eurofins.com/en-us/",
+   "group": "main",
+   "accredited_for": [
+    "RIDOH certified for drinking water (specific tests not shown on the RIDOH page; ask the lab)"
+   ],
+   "detail": "Listed by RIDOH as certified to test drinking water in Rhode Island and the surrounding area.",
+   "source_name": "Rhode Island Department of Health, \"Certified Drinking Water Testing Labs\" (page last updated Sept. 3, 2026)",
+   "source_url": "https://health.ri.gov/drinking-water-quality/certified-drinking-water-testing-labs",
+   "source_date": "2026-09-03",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Rhode Island Analytical Laboratories",
+   "address": "Warwick, RI (RIDOH prints city only)",
+   "city": "Warwick",
+   "website": "https://www.rianalytical.com/chemical-biological",
+   "group": "main",
+   "accredited_for": [
+    "RIDOH certified for drinking water (specific tests not shown on the RIDOH page; ask the lab)"
+   ],
+   "detail": "Listed by RIDOH as certified to test drinking water in Rhode Island and the surrounding area.",
+   "source_name": "Rhode Island Department of Health, \"Certified Drinking Water Testing Labs\" (page last updated Sept. 3, 2026)",
+   "source_url": "https://health.ri.gov/drinking-water-quality/certified-drinking-water-testing-labs",
+   "source_date": "2026-09-03",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "New England Testing Laboratory",
+   "address": "West Warwick, RI (RIDOH prints city only)",
+   "city": "West Warwick",
+   "website": "https://www.newenglandtesting.com/DrinkingWater.php",
+   "group": "main",
+   "accredited_for": [
+    "RIDOH certified for drinking water (specific tests not shown on the RIDOH page; ask the lab)"
+   ],
+   "detail": "Listed by RIDOH as certified to test drinking water in Rhode Island and the surrounding area.",
+   "source_name": "Rhode Island Department of Health, \"Certified Drinking Water Testing Labs\" (page last updated Sept. 3, 2026)",
+   "source_url": "https://health.ri.gov/drinking-water-quality/certified-drinking-water-testing-labs",
+   "source_date": "2026-09-03",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Accurate Analytical Testing, LLC",
+   "address": "30105 Beverly Rd., Romulus, MI 48174",
+   "city": "Romulus",
+   "phone": "(734) 629-8161",
+   "lab_id": "RIDOH LAO00345",
+   "group": "limited",
+   "accredited_for": [
+    "Potable water inorganic chemistry",
+    "Environmental Lead"
+   ],
+   "detail": "RIDOH certification LAO00345. RIDOH says to contact its Certification Officer at (401) 222-5542 for the specific analytes and methods.",
+   "source_name": "Rhode Island Department of Health, \"Certified Drinking Water Testing Labs: Nearby Out-of-state Laboratories\" (PDF dated March 18, 2026)",
+   "source_url": "https://health.ri.gov/sites/g/files/xkgbur1006/files/2025-01/OutOfState.pdf",
+   "source_date": "2026-03-18",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Alliance Technical Group, LLC Akron",
+   "address": "3310 Win Street, Cuyahoga Falls, OH 44223",
+   "city": "Cuyahoga Falls",
+   "phone": "(303) 253-8211",
+   "lab_id": "RIDOH LAO00317",
+   "group": "limited",
+   "accredited_for": [
+    "Potable water organic chemistry",
+    "Potable water inorganic chemistry",
+    "Non-potable water organic chemistry",
+    "Non-potable water inorganic chemistry",
+    "Radiochemistry"
+   ],
+   "detail": "RIDOH certification LAO00317. RIDOH says to contact its Certification Officer at (401) 222-5542 for the specific analytes and methods.",
+   "source_name": "Rhode Island Department of Health, \"Certified Drinking Water Testing Labs: Nearby Out-of-state Laboratories\" (PDF dated March 18, 2026)",
+   "source_url": "https://health.ri.gov/sites/g/files/xkgbur1006/files/2025-01/OutOfState.pdf",
+   "source_date": "2026-03-18",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "ALS Environmental Rochester",
+   "address": "BLDG 300 Suite 360, 1565 Jefferson Road, Rochester, NY 14623",
+   "city": "Rochester",
+   "phone": "(585) 288-5380",
+   "lab_id": "RIDOH LAO00333",
+   "group": "limited",
+   "accredited_for": [
+    "Potable water organic chemistry",
+    "Potable water inorganic chemistry",
+    "Non-potable water organic chemistry",
+    "Non-potable water inorganic chemistry"
+   ],
+   "detail": "RIDOH certification LAO00333. RIDOH says to contact its Certification Officer at (401) 222-5542 for the specific analytes and methods.",
+   "source_name": "Rhode Island Department of Health, \"Certified Drinking Water Testing Labs: Nearby Out-of-state Laboratories\" (PDF dated March 18, 2026)",
+   "source_url": "https://health.ri.gov/sites/g/files/xkgbur1006/files/2025-01/OutOfState.pdf",
+   "source_date": "2026-03-18",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Aquatek Lab, Inc.",
+   "address": "3 Research Drive, Woodbridge, CT 06525",
+   "city": "Woodbridge",
+   "phone": "(203) 389-1824",
+   "lab_id": "RIDOH LAO00332",
+   "group": "limited",
+   "accredited_for": [
+    "Potable water microbiology",
+    "Potable water organic chemistry",
+    "Potable water inorganic chemistry",
+    "Radiochemistry"
+   ],
+   "detail": "RIDOH certification LAO00332. RIDOH says to contact its Certification Officer at (401) 222-5542 for the specific analytes and methods.",
+   "source_name": "Rhode Island Department of Health, \"Certified Drinking Water Testing Labs: Nearby Out-of-state Laboratories\" (PDF dated March 18, 2026)",
+   "source_url": "https://health.ri.gov/sites/g/files/xkgbur1006/files/2025-01/OutOfState.pdf",
+   "source_date": "2026-03-18",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Battelle Analytical Chemistry Services",
+   "address": "141 Longwater Drive, Suite 202, Norwell, MA 02061",
+   "city": "Norwell",
+   "phone": "(781) 681-5400",
+   "lab_id": "RIDOH LAO00367",
+   "group": "limited",
+   "accredited_for": [
+    "Potable water organic chemistry",
+    "Non-potable water organic chemistry",
+    "PFAS"
+   ],
+   "detail": "RIDOH certification LAO00367. RIDOH says to contact its Certification Officer at (401) 222-5542 for the specific analytes and methods.",
+   "source_name": "Rhode Island Department of Health, \"Certified Drinking Water Testing Labs: Nearby Out-of-state Laboratories\" (PDF dated March 18, 2026)",
+   "source_url": "https://health.ri.gov/sites/g/files/xkgbur1006/files/2025-01/OutOfState.pdf",
+   "source_date": "2026-03-18",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Complete Environmental Testing",
+   "address": "80 Lupes Drive, Statford, CT 06615",
+   "city": "Statford",
+   "phone": "(203) 377-9984",
+   "lab_id": "RIDOH LAO00227",
+   "group": "limited",
+   "accredited_for": [
+    "Potable water organic chemistry",
+    "Potable water inorganic chemistry",
+    "Non-potable water organic chemistry",
+    "Non-potable water inorganic chemistry",
+    "PFAS"
+   ],
+   "detail": "RIDOH certification LAO00227. RIDOH says to contact its Certification Officer at (401) 222-5542 for the specific analytes and methods.",
+   "source_name": "Rhode Island Department of Health, \"Certified Drinking Water Testing Labs: Nearby Out-of-state Laboratories\" (PDF dated March 18, 2026)",
+   "source_url": "https://health.ri.gov/sites/g/files/xkgbur1006/files/2025-01/OutOfState.pdf",
+   "source_date": "2026-03-18",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Con-Test, A Pace Analytical Laboratory",
+   "address": "39 Spruce Street, East Longmeadow, MA 01028",
+   "city": "East Longmeadow",
+   "phone": "(413) 525-2332",
+   "lab_id": "RIDOH LAO00373",
+   "group": "limited",
+   "accredited_for": [
+    "Potable water microbiology",
+    "Potable water organic chemistry",
+    "Potable water inorganic chemistry",
+    "Non-potable water microbiology",
+    "Non-potable water organic chemistry",
+    "Non-potable water inorganic chemistry",
+    "PFAS"
+   ],
+   "detail": "RIDOH certification LAO00373. RIDOH says to contact its Certification Officer at (401) 222-5542 for the specific analytes and methods.",
+   "source_name": "Rhode Island Department of Health, \"Certified Drinking Water Testing Labs: Nearby Out-of-state Laboratories\" (PDF dated March 18, 2026)",
+   "source_url": "https://health.ri.gov/sites/g/files/xkgbur1006/files/2025-01/OutOfState.pdf",
+   "source_date": "2026-03-18",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "EMSL Analytical INC",
+   "address": "200 Route 130 North, Cinnaminson, NJ 08077",
+   "city": "Cinnaminson",
+   "phone": "(800) 220-3675",
+   "lab_id": "RIDOH LAO00318",
+   "group": "limited",
+   "accredited_for": [
+    "Potable water organic chemistry",
+    "Potable water inorganic chemistry",
+    "Non-potable water organic chemistry",
+    "Non-potable water inorganic chemistry",
+    "Radiochemistry",
+    "Environmental Lead",
+    "PFAS"
+   ],
+   "detail": "RIDOH certification LAO00318. RIDOH says to contact its Certification Officer at (401) 222-5542 for the specific analytes and methods.",
+   "source_name": "Rhode Island Department of Health, \"Certified Drinking Water Testing Labs: Nearby Out-of-state Laboratories\" (PDF dated March 18, 2026)",
+   "source_url": "https://health.ri.gov/sites/g/files/xkgbur1006/files/2025-01/OutOfState.pdf",
+   "source_date": "2026-03-18",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Environmental Hazards Services",
+   "address": "7469 Whitepine Road, Richmond, VA 23237",
+   "city": "Richmond",
+   "phone": "(804) 275-4788",
+   "lab_id": "RIDOH LAO00266",
+   "group": "limited",
+   "accredited_for": [
+    "Potable water inorganic chemistry",
+    "Environmental Lead"
+   ],
+   "detail": "RIDOH certification LAO00266. RIDOH says to contact its Certification Officer at (401) 222-5542 for the specific analytes and methods.",
+   "source_name": "Rhode Island Department of Health, \"Certified Drinking Water Testing Labs: Nearby Out-of-state Laboratories\" (PDF dated March 18, 2026)",
+   "source_url": "https://health.ri.gov/sites/g/files/xkgbur1006/files/2025-01/OutOfState.pdf",
+   "source_date": "2026-03-18",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Eurofins Built Environmental Testing East",
+   "address": "1006 Astoria Blvd., Cherry Hill, NJ 08003",
+   "city": "Cherry Hill",
+   "phone": "(856) 560-0434",
+   "lab_id": "RIDOH LAO00393",
+   "group": "limited",
+   "accredited_for": [
+    "Potable water inorganic chemistry",
+    "Non-potable water inorganic chemistry",
+    "Environmental Lead",
+    "Asbestos"
+   ],
+   "detail": "RIDOH certification LAO00393. RIDOH says to contact its Certification Officer at (401) 222-5542 for the specific analytes and methods.",
+   "source_name": "Rhode Island Department of Health, \"Certified Drinking Water Testing Labs: Nearby Out-of-state Laboratories\" (PDF dated March 18, 2026)",
+   "source_url": "https://health.ri.gov/sites/g/files/xkgbur1006/files/2025-01/OutOfState.pdf",
+   "source_date": "2026-03-18",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Eurofins Built Environmental Testing East, LLC - Cary",
+   "address": "730 SE Maynard Road, Cary, NC 27511",
+   "city": "Cary",
+   "phone": "(919) 481-1413",
+   "lab_id": "RIDOH LAO00360",
+   "group": "limited",
+   "accredited_for": [
+    "Potable water inorganic chemistry",
+    "Asbestos"
+   ],
+   "detail": "RIDOH certification LAO00360. RIDOH says to contact its Certification Officer at (401) 222-5542 for the specific analytes and methods.",
+   "source_name": "Rhode Island Department of Health, \"Certified Drinking Water Testing Labs: Nearby Out-of-state Laboratories\" (PDF dated March 18, 2026)",
+   "source_url": "https://health.ri.gov/sites/g/files/xkgbur1006/files/2025-01/OutOfState.pdf",
+   "source_date": "2026-03-18",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Eurofins Concord",
+   "address": "51 Antrim Ave., Concord, NH 03301",
+   "city": "Concord",
+   "phone": "(603) 228-0525",
+   "lab_id": "RIDOH LAO00394",
+   "group": "limited",
+   "accredited_for": [
+    "Potable water microbiology",
+    "Potable water organic chemistry",
+    "Potable water inorganic chemistry",
+    "Non-potable water microbiology",
+    "Non-potable water organic chemistry",
+    "Non-potable water inorganic chemistry",
+    "Radiochemistry"
+   ],
+   "detail": "RIDOH certification LAO00394. RIDOH says to contact its Certification Officer at (401) 222-5542 for the specific analytes and methods.",
+   "source_name": "Rhode Island Department of Health, \"Certified Drinking Water Testing Labs: Nearby Out-of-state Laboratories\" (PDF dated March 18, 2026)",
+   "source_url": "https://health.ri.gov/sites/g/files/xkgbur1006/files/2025-01/OutOfState.pdf",
+   "source_date": "2026-03-18",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Eurofins Derry",
+   "address": "22 Manchester Road, Unit 2, Derry, NH 03038",
+   "city": "Derry",
+   "phone": "(603) 432-3044",
+   "lab_id": "RIDOH LAO00336",
+   "group": "limited",
+   "accredited_for": [
+    "Potable water microbiology",
+    "Potable water organic chemistry",
+    "Potable water inorganic chemistry",
+    "Radiochemistry",
+    "PFAS"
+   ],
+   "detail": "RIDOH certification LAO00336. RIDOH says to contact its Certification Officer at (401) 222-5542 for the specific analytes and methods.",
+   "source_name": "Rhode Island Department of Health, \"Certified Drinking Water Testing Labs: Nearby Out-of-state Laboratories\" (PDF dated March 18, 2026)",
+   "source_url": "https://health.ri.gov/sites/g/files/xkgbur1006/files/2025-01/OutOfState.pdf",
+   "source_date": "2026-03-18",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Eurofins Edison",
+   "address": "777 New Durham Road, Edison, NJ 08817",
+   "city": "Edison",
+   "phone": "(732) 549-3900",
+   "lab_id": "RIDOH LAO00376",
+   "group": "limited",
+   "accredited_for": [
+    "Potable water organic chemistry",
+    "Potable water inorganic chemistry",
+    "Non-potable water organic chemistry",
+    "Non-potable water inorganic chemistry"
+   ],
+   "detail": "RIDOH certification LAO00376. RIDOH says to contact its Certification Officer at (401) 222-5542 for the specific analytes and methods.",
+   "source_name": "Rhode Island Department of Health, \"Certified Drinking Water Testing Labs: Nearby Out-of-state Laboratories\" (PDF dated March 18, 2026)",
+   "source_url": "https://health.ri.gov/sites/g/files/xkgbur1006/files/2025-01/OutOfState.pdf",
+   "source_date": "2026-03-18",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Eurofins Lancaster Laboratories Environmental",
+   "address": "2425 New Holland Pike, Lancaster, PA 17601-2425",
+   "city": "Lancaster",
+   "phone": "(717) 656-2300",
+   "lab_id": "RIDOH LAO00338",
+   "group": "limited",
+   "accredited_for": [
+    "Potable water organic chemistry",
+    "Potable water inorganic chemistry",
+    "Non-potable water organic chemistry",
+    "Non-potable water inorganic chemistry",
+    "PFAS"
+   ],
+   "detail": "RIDOH certification LAO00338. RIDOH says to contact its Certification Officer at (401) 222-5542 for the specific analytes and methods.",
+   "source_name": "Rhode Island Department of Health, \"Certified Drinking Water Testing Labs: Nearby Out-of-state Laboratories\" (PDF dated March 18, 2026)",
+   "source_url": "https://health.ri.gov/sites/g/files/xkgbur1006/files/2025-01/OutOfState.pdf",
+   "source_date": "2026-03-18",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Eurofins Pomona",
+   "address": "941 Corporate Center Drive, Pomona, CA 91768",
+   "city": "Pomona",
+   "phone": "(626) 386-1188",
+   "lab_id": "RIDOH LAO00381",
+   "group": "limited",
+   "accredited_for": [
+    "Potable water microbiology",
+    "Potable water organic chemistry",
+    "Potable water inorganic chemistry",
+    "Radiochemistry",
+    "PFAS"
+   ],
+   "detail": "RIDOH certification LAO00381. RIDOH says to contact its Certification Officer at (401) 222-5542 for the specific analytes and methods.",
+   "source_name": "Rhode Island Department of Health, \"Certified Drinking Water Testing Labs: Nearby Out-of-state Laboratories\" (PDF dated March 18, 2026)",
+   "source_url": "https://health.ri.gov/sites/g/files/xkgbur1006/files/2025-01/OutOfState.pdf",
+   "source_date": "2026-03-18",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Eurofins Providence (AB)",
+   "address": "422 West Grove Street, Middleboro, MA 02346",
+   "city": "Middleboro",
+   "phone": "(508) 946-2225",
+   "lab_id": "RIDOH LAO00390",
+   "group": "limited",
+   "accredited_for": [
+    "Potable water microbiology",
+    "Potable water inorganic chemistry",
+    "Non-potable water microbiology",
+    "Non-potable water inorganic chemistry"
+   ],
+   "detail": "RIDOH certification LAO00390. RIDOH says to contact its Certification Officer at (401) 222-5542 for the specific analytes and methods.",
+   "source_name": "Rhode Island Department of Health, \"Certified Drinking Water Testing Labs: Nearby Out-of-state Laboratories\" (PDF dated March 18, 2026)",
+   "source_url": "https://health.ri.gov/sites/g/files/xkgbur1006/files/2025-01/OutOfState.pdf",
+   "source_date": "2026-03-18",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Eurofins South Bend",
+   "address": "110 South Hill Street, South Bend, IN 46617",
+   "city": "South Bend",
+   "phone": "(574) 423-4777",
+   "lab_id": "RIDOH LAO00391",
+   "group": "limited",
+   "accredited_for": [
+    "Potable water organic chemistry",
+    "Potable water inorganic chemistry",
+    "Radiochemistry",
+    "PFAS"
+   ],
+   "detail": "RIDOH certification LAO00391. RIDOH says to contact its Certification Officer at (401) 222-5542 for the specific analytes and methods.",
+   "source_name": "Rhode Island Department of Health, \"Certified Drinking Water Testing Labs: Nearby Out-of-state Laboratories\" (PDF dated March 18, 2026)",
+   "source_url": "https://health.ri.gov/sites/g/files/xkgbur1006/files/2025-01/OutOfState.pdf",
+   "source_date": "2026-03-18",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Katahdin Analytical",
+   "address": "PO Box 540, Scarborough, ME 04070",
+   "city": "Scarborough",
+   "phone": "(207) 874-2400",
+   "lab_id": "RIDOH LAO00386",
+   "group": "limited",
+   "accredited_for": [
+    "Potable water organic chemistry",
+    "Potable water inorganic chemistry",
+    "Non-potable water organic chemistry",
+    "Non-potable water inorganic chemistry",
+    "PFAS"
+   ],
+   "detail": "RIDOH certification LAO00386. RIDOH says to contact its Certification Officer at (401) 222-5542 for the specific analytes and methods.",
+   "source_name": "Rhode Island Department of Health, \"Certified Drinking Water Testing Labs: Nearby Out-of-state Laboratories\" (PDF dated March 18, 2026)",
+   "source_url": "https://health.ri.gov/sites/g/files/xkgbur1006/files/2025-01/OutOfState.pdf",
+   "source_date": "2026-03-18",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Microbac Laboratories Inc.",
+   "address": "61 Louisa Viens Drive, PO Box 700, Dayville, CT 06241",
+   "city": "Dayville",
+   "phone": "(860) 774-6814",
+   "lab_id": "RIDOH LAO00346",
+   "group": "limited",
+   "accredited_for": [
+    "Potable water microbiology",
+    "Potable water organic chemistry",
+    "Potable water inorganic chemistry",
+    "Non-potable water microbiology",
+    "Non-potable water organic chemistry",
+    "Non-potable water inorganic chemistry"
+   ],
+   "detail": "RIDOH certification LAO00346. RIDOH says to contact its Certification Officer at (401) 222-5542 for the specific analytes and methods.",
+   "source_name": "Rhode Island Department of Health, \"Certified Drinking Water Testing Labs: Nearby Out-of-state Laboratories\" (PDF dated March 18, 2026)",
+   "source_url": "https://health.ri.gov/sites/g/files/xkgbur1006/files/2025-01/OutOfState.pdf",
+   "source_date": "2026-03-18",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Microbac Laboratories Inc. Ohio Valley Division",
+   "address": "158 Starlite Drive, Marietta, OH 45750",
+   "city": "Marietta",
+   "phone": "(740) 373-4071",
+   "lab_id": "RIDOH LAO00310",
+   "group": "limited",
+   "accredited_for": [
+    "Potable water organic chemistry",
+    "Non-potable water organic chemistry",
+    "Non-potable water inorganic chemistry",
+    "PFAS"
+   ],
+   "detail": "RIDOH certification LAO00310. RIDOH says to contact its Certification Officer at (401) 222-5542 for the specific analytes and methods.",
+   "source_name": "Rhode Island Department of Health, \"Certified Drinking Water Testing Labs: Nearby Out-of-state Laboratories\" (PDF dated March 18, 2026)",
+   "source_url": "https://health.ri.gov/sites/g/files/xkgbur1006/files/2025-01/OutOfState.pdf",
+   "source_date": "2026-03-18",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "National Testing Laboratories LTD",
+   "address": "556 South Mansfield Street, Ypsilanti, MI 48197",
+   "city": "Ypsilanti",
+   "phone": "(734) 483-8333",
+   "lab_id": "RIDOH LAO00314",
+   "group": "limited",
+   "accredited_for": [
+    "Potable water microbiology",
+    "Potable water organic chemistry",
+    "Potable water inorganic chemistry"
+   ],
+   "detail": "RIDOH certification LAO00314. RIDOH says to contact its Certification Officer at (401) 222-5542 for the specific analytes and methods.",
+   "source_name": "Rhode Island Department of Health, \"Certified Drinking Water Testing Labs: Nearby Out-of-state Laboratories\" (PDF dated March 18, 2026)",
+   "source_url": "https://health.ri.gov/sites/g/files/xkgbur1006/files/2025-01/OutOfState.pdf",
+   "source_date": "2026-03-18",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "New England Chromachem Inc.",
+   "address": "6 Nichols Street, Salem, MA 01970",
+   "city": "Salem",
+   "phone": "(978) 744-6600",
+   "lab_id": "RIDOH LAO00364",
+   "group": "limited",
+   "accredited_for": [
+    "Potable water organic chemistry",
+    "Non-potable water organic chemistry",
+    "PFAS"
+   ],
+   "detail": "RIDOH certification LAO00364. RIDOH says to contact its Certification Officer at (401) 222-5542 for the specific analytes and methods.",
+   "source_name": "Rhode Island Department of Health, \"Certified Drinking Water Testing Labs: Nearby Out-of-state Laboratories\" (PDF dated March 18, 2026)",
+   "source_url": "https://health.ri.gov/sites/g/files/xkgbur1006/files/2025-01/OutOfState.pdf",
+   "source_date": "2026-03-18",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Pace Analytical Center for Testing & Innovation",
+   "address": "12065 Lebanon Road, Mount Juliet, TN 37122",
+   "city": "Mount Juliet",
+   "phone": "(615) 773-9755",
+   "lab_id": "RIDOH LAO00356",
+   "group": "limited",
+   "accredited_for": [
+    "Potable water microbiology",
+    "Potable water organic chemistry",
+    "Potable water inorganic chemistry",
+    "Non-potable water microbiology",
+    "Non-potable water organic chemistry",
+    "Non-potable water inorganic chemistry",
+    "Radiochemistry"
+   ],
+   "detail": "RIDOH certification LAO00356. RIDOH says to contact its Certification Officer at (401) 222-5542 for the specific analytes and methods.",
+   "source_name": "Rhode Island Department of Health, \"Certified Drinking Water Testing Labs: Nearby Out-of-state Laboratories\" (PDF dated March 18, 2026)",
+   "source_url": "https://health.ri.gov/sites/g/files/xkgbur1006/files/2025-01/OutOfState.pdf",
+   "source_date": "2026-03-18",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Pace Analytical Services, Inc.",
+   "address": "575 Broad Hollow Road, Melville, NY 11747",
+   "city": "Melville",
+   "phone": "(631) 694-3040",
+   "lab_id": "RIDOH LAO00340",
+   "group": "limited",
+   "accredited_for": [
+    "Potable water organic chemistry",
+    "Potable water inorganic chemistry",
+    "Non-potable water organic chemistry",
+    "Non-potable water inorganic chemistry"
+   ],
+   "detail": "RIDOH certification LAO00340. RIDOH says to contact its Certification Officer at (401) 222-5542 for the specific analytes and methods.",
+   "source_name": "Rhode Island Department of Health, \"Certified Drinking Water Testing Labs: Nearby Out-of-state Laboratories\" (PDF dated March 18, 2026)",
+   "source_url": "https://health.ri.gov/sites/g/files/xkgbur1006/files/2025-01/OutOfState.pdf",
+   "source_date": "2026-03-18",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Pace Analytical Services, LLC-Mansfield MA",
+   "address": "320 Forbes Boulevard, Mansfield, MA 01581-1019",
+   "city": "Mansfield",
+   "phone": "(508) 898-9220",
+   "lab_id": "RIDOH LAO00299",
+   "group": "limited",
+   "accredited_for": [
+    "Potable water organic chemistry",
+    "Potable water inorganic chemistry",
+    "Non-potable water organic chemistry",
+    "Non-potable water inorganic chemistry",
+    "PFAS"
+   ],
+   "detail": "RIDOH certification LAO00299. RIDOH says to contact its Certification Officer at (401) 222-5542 for the specific analytes and methods.",
+   "source_name": "Rhode Island Department of Health, \"Certified Drinking Water Testing Labs: Nearby Out-of-state Laboratories\" (PDF dated March 18, 2026)",
+   "source_url": "https://health.ri.gov/sites/g/files/xkgbur1006/files/2025-01/OutOfState.pdf",
+   "source_date": "2026-03-18",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Pace Analytical Services, LLC-Westborough, MA",
+   "address": "8 Walkup Drive, Westborough, MA 01581",
+   "city": "Westborough",
+   "phone": "(508) 898-9220",
+   "lab_id": "RIDOH LAO00065",
+   "group": "limited",
+   "accredited_for": [
+    "Potable water microbiology",
+    "Potable water organic chemistry",
+    "Potable water inorganic chemistry",
+    "Non-potable water microbiology",
+    "Non-potable water organic chemistry",
+    "Non-potable water inorganic chemistry"
+   ],
+   "detail": "RIDOH certification LAO00065. RIDOH says to contact its Certification Officer at (401) 222-5542 for the specific analytes and methods.",
+   "source_name": "Rhode Island Department of Health, \"Certified Drinking Water Testing Labs: Nearby Out-of-state Laboratories\" (PDF dated March 18, 2026)",
+   "source_url": "https://health.ri.gov/sites/g/files/xkgbur1006/files/2025-01/OutOfState.pdf",
+   "source_date": "2026-03-18",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Phoenix Environmental Laboratories, Inc.",
+   "address": "587 East Middle Turnpike, PO Box 370, Manchester, CT 06040",
+   "city": "Manchester",
+   "phone": "(860) 645-1102",
+   "lab_id": "RIDOH LAO00063",
+   "group": "limited",
+   "accredited_for": [
+    "Potable water microbiology",
+    "Potable water organic chemistry",
+    "Potable water inorganic chemistry",
+    "Non-potable water microbiology",
+    "Non-potable water organic chemistry",
+    "Non-potable water inorganic chemistry",
+    "Radiochemistry"
+   ],
+   "detail": "RIDOH certification LAO00063. RIDOH says to contact its Certification Officer at (401) 222-5542 for the specific analytes and methods.",
+   "source_name": "Rhode Island Department of Health, \"Certified Drinking Water Testing Labs: Nearby Out-of-state Laboratories\" (PDF dated March 18, 2026)",
+   "source_url": "https://health.ri.gov/sites/g/files/xkgbur1006/files/2025-01/OutOfState.pdf",
+   "source_date": "2026-03-18",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Regional Water Authority",
+   "address": "90 Sargent Drive, New Haven, CT 06511",
+   "city": "New Haven",
+   "phone": "(203) 401-2700",
+   "lab_id": "RIDOH LAO00339",
+   "group": "limited",
+   "accredited_for": [
+    "Potable water organic chemistry",
+    "Potable water inorganic chemistry",
+    "PFAS"
+   ],
+   "detail": "RIDOH certification LAO00339. RIDOH says to contact its Certification Officer at (401) 222-5542 for the specific analytes and methods.",
+   "source_name": "Rhode Island Department of Health, \"Certified Drinking Water Testing Labs: Nearby Out-of-state Laboratories\" (PDF dated March 18, 2026)",
+   "source_url": "https://health.ri.gov/sites/g/files/xkgbur1006/files/2025-01/OutOfState.pdf",
+   "source_date": "2026-03-18",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Schneider Laboratories Global Inc.",
+   "address": "2512 West Cary Street, Richmond, VA 23220-5117",
+   "city": "Richmond",
+   "phone": "(804) 353-6778",
+   "lab_id": "RIDOH LAO00084",
+   "group": "limited",
+   "accredited_for": [
+    "Potable water inorganic chemistry",
+    "Non-potable water inorganic chemistry",
+    "Environmental Lead"
+   ],
+   "detail": "RIDOH certification LAO00084. RIDOH says to contact its Certification Officer at (401) 222-5542 for the specific analytes and methods.",
+   "source_name": "Rhode Island Department of Health, \"Certified Drinking Water Testing Labs: Nearby Out-of-state Laboratories\" (PDF dated March 18, 2026)",
+   "source_url": "https://health.ri.gov/sites/g/files/xkgbur1006/files/2025-01/OutOfState.pdf",
+   "source_date": "2026-03-18",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "SGS North America Inc. Dayton",
+   "address": "2235 US Route 130, Dayton, NJ 08810",
+   "city": "Dayton",
+   "phone": "(732) 329-0200",
+   "lab_id": "RIDOH LAO00357",
+   "group": "limited",
+   "accredited_for": [
+    "Potable water organic chemistry",
+    "Potable water inorganic chemistry",
+    "Non-potable water organic chemistry",
+    "Non-potable water inorganic chemistry",
+    "PFAS"
+   ],
+   "detail": "RIDOH certification LAO00357. RIDOH says to contact its Certification Officer at (401) 222-5542 for the specific analytes and methods.",
+   "source_name": "Rhode Island Department of Health, \"Certified Drinking Water Testing Labs: Nearby Out-of-state Laboratories\" (PDF dated March 18, 2026)",
+   "source_url": "https://health.ri.gov/sites/g/files/xkgbur1006/files/2025-01/OutOfState.pdf",
+   "source_date": "2026-03-18",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "SGS North America Inc. Orlando",
+   "address": "4405 Vineland Drive, STE C-15, Orlando, FL 32811",
+   "city": "Orlando",
+   "phone": "(407) 425-6700",
+   "lab_id": "RIDOH LAO00379",
+   "group": "limited",
+   "accredited_for": [
+    "Potable water organic chemistry",
+    "Non-potable water organic chemistry",
+    "Non-potable water inorganic chemistry",
+    "PFAS"
+   ],
+   "detail": "RIDOH certification LAO00379. RIDOH says to contact its Certification Officer at (401) 222-5542 for the specific analytes and methods.",
+   "source_name": "Rhode Island Department of Health, \"Certified Drinking Water Testing Labs: Nearby Out-of-state Laboratories\" (PDF dated March 18, 2026)",
+   "source_url": "https://health.ri.gov/sites/g/files/xkgbur1006/files/2025-01/OutOfState.pdf",
+   "source_date": "2026-03-18",
+   "last_verified": "2026-10-27"
+  }
+ ]
+}

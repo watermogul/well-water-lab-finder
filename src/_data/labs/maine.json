@@ -1,0 +1,218 @@
+{
+ "state": "Maine",
+ "slug": "maine",
+ "abbr": "ME",
+ "list_source": {
+  "name": "Maine CDC Drinking Water Program, \"Maine In-State Commercial Drinking Water Labs\" (last updated 5/16/2026)",
+  "page_url": "https://www.maine.gov/dhhs/mecdc/sites/maine.gov.dhhs.mecdc/files/CommercialListMaineLabs.pdf",
+  "program_url": "https://www.maine.gov/dhhs/mecdc/sites/maine.gov.dhhs.mecdc/files/CommercialListMaineLabs.pdf",
+  "report_date": "Last updated May 16, 2026"
+ },
+ "last_verified": "2026-10-27",
+ "labs": [
+  {
+   "name": "ClearWater Laboratory (A Division of Acheron Engineering)",
+   "address": "Newport, ME (the Maine list prints city only)",
+   "city": "Newport",
+   "phone": "(207) 368-5786",
+   "website": "https://www.acheronengineering.com/",
+   "lab_id": "CLWR",
+   "accredited_for": [
+    "Accredited by test: ask the lab which drinking-water tests it is accredited for"
+   ],
+   "detail": "Maine lab code CLWR.",
+   "group": "main",
+   "source_name": "Maine CDC Drinking Water Program, \"Maine In-State Commercial Drinking Water Labs\" (last updated 5/16/2026)",
+   "source_url": "https://www.maine.gov/dhhs/mecdc/sites/maine.gov.dhhs.mecdc/files/CommercialListMaineLabs.pdf",
+   "source_date": "2026-05-16",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Eurofins Auburn (Previously A&L)",
+   "address": "Auburn, ME (the Maine list prints city only)",
+   "city": "Auburn",
+   "phone": "(207) 784-5354",
+   "website": "http://www.allaboratory.com/",
+   "lab_id": "LAB-EWA",
+   "accredited_for": [
+    "Accredited by test: ask the lab which drinking-water tests it is accredited for"
+   ],
+   "detail": "Maine lab code LAB-EWA.",
+   "group": "main",
+   "source_name": "Maine CDC Drinking Water Program, \"Maine In-State Commercial Drinking Water Labs\" (last updated 5/16/2026)",
+   "source_url": "https://www.maine.gov/dhhs/mecdc/sites/maine.gov.dhhs.mecdc/files/CommercialListMaineLabs.pdf",
+   "source_date": "2026-05-16",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Health and Environmental Testing Laboratory",
+   "address": "Augusta, ME (the Maine list prints city only)",
+   "city": "Augusta",
+   "phone": "(207) 287-2727",
+   "website": "https://www.maine.gov/dhhs/mecdc/services/maine-public-health-laboratory/environmental-chemistry",
+   "lab_id": "HETL",
+   "accredited_for": [
+    "Accredited by test: ask the lab which drinking-water tests it is accredited for"
+   ],
+   "detail": "Maine lab code HETL.",
+   "group": "main",
+   "source_name": "Maine CDC Drinking Water Program, \"Maine In-State Commercial Drinking Water Labs\" (last updated 5/16/2026)",
+   "source_url": "https://www.maine.gov/dhhs/mecdc/sites/maine.gov.dhhs.mecdc/files/CommercialListMaineLabs.pdf",
+   "source_date": "2026-05-16",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Katahdin Analytical Services (SGS Scarborough)",
+   "address": "Scarborough, ME (the Maine list prints city only)",
+   "city": "Scarborough",
+   "phone": "(207) 874-2400",
+   "website": "http://www.katahdinlab.com",
+   "lab_id": "KTHDN",
+   "accredited_for": [
+    "Accredited by test: ask the lab which drinking-water tests it is accredited for"
+   ],
+   "detail": "Maine lab code KTHDN.",
+   "group": "main",
+   "source_name": "Maine CDC Drinking Water Program, \"Maine In-State Commercial Drinking Water Labs\" (last updated 5/16/2026)",
+   "source_url": "https://www.maine.gov/dhhs/mecdc/sites/maine.gov.dhhs.mecdc/files/CommercialListMaineLabs.pdf",
+   "source_date": "2026-05-16",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Maine Coast Laboratory (DBA Water Quality & Compliance Services Inc.)",
+   "address": "Wiscasset, ME (the Maine list prints city only)",
+   "city": "Wiscasset",
+   "phone": "(207) 882-5476",
+   "website": "http://www.waterqualityservicesme.com",
+   "lab_id": "MEC",
+   "accredited_for": [
+    "Accredited by test: ask the lab which drinking-water tests it is accredited for"
+   ],
+   "detail": "Maine lab code MEC.",
+   "group": "main",
+   "source_name": "Maine CDC Drinking Water Program, \"Maine In-State Commercial Drinking Water Labs\" (last updated 5/16/2026)",
+   "source_url": "https://www.maine.gov/dhhs/mecdc/sites/maine.gov.dhhs.mecdc/files/CommercialListMaineLabs.pdf",
+   "source_date": "2026-05-16",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "NELAnalytical (Previously Northeast Laboratory Services)",
+   "address": "Winslow, ME (the Maine list prints city only)",
+   "city": "Winslow",
+   "phone": "(207) 873-7711",
+   "website": "http://www.nelabservices.com",
+   "lab_id": "NELAB",
+   "accredited_for": [
+    "Accredited by test: ask the lab which drinking-water tests it is accredited for"
+   ],
+   "detail": "Maine lab code NELAB.",
+   "group": "main",
+   "source_name": "Maine CDC Drinking Water Program, \"Maine In-State Commercial Drinking Water Labs\" (last updated 5/16/2026)",
+   "source_url": "https://www.maine.gov/dhhs/mecdc/sites/maine.gov.dhhs.mecdc/files/CommercialListMaineLabs.pdf",
+   "source_date": "2026-05-16",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Nelson Analytical Lab",
+   "address": "Kennebunk, ME (the Maine list prints city only)",
+   "city": "Kennebunk",
+   "phone": "(207) 467-3478",
+   "website": "http://www.nelsonanalytical.com",
+   "lab_id": "NLSON",
+   "accredited_for": [
+    "Accredited by test: ask the lab which drinking-water tests it is accredited for"
+   ],
+   "detail": "Maine lab code NLSON.",
+   "group": "main",
+   "source_name": "Maine CDC Drinking Water Program, \"Maine In-State Commercial Drinking Water Labs\" (last updated 5/16/2026)",
+   "source_url": "https://www.maine.gov/dhhs/mecdc/sites/maine.gov.dhhs.mecdc/files/CommercialListMaineLabs.pdf",
+   "source_date": "2026-05-16",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Bigelow Laboratory for Ocean Sciences",
+   "address": "East Boothbay, ME (the Maine list prints city only)",
+   "city": "East Boothbay",
+   "phone": "(207) 315-2567",
+   "website": "https://www.bigelow.org/",
+   "lab_id": "BGL",
+   "accredited_for": [
+    "PFAS only (as printed by Maine CDC)"
+   ],
+   "detail": "Maine lab code BGL. Maine CDC marks this lab \"PFAS only\".",
+   "group": "limited",
+   "source_name": "Maine CDC Drinking Water Program, \"Maine In-State Commercial Drinking Water Labs\" (last updated 5/16/2026)",
+   "source_url": "https://www.maine.gov/dhhs/mecdc/sites/maine.gov.dhhs.mecdc/files/CommercialListMaineLabs.pdf",
+   "source_date": "2026-05-16",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Eurofins Portland ME",
+   "address": "Portland, ME (the Maine list prints city only)",
+   "city": "Portland",
+   "phone": "(207) 846-6569",
+   "website": "https://www.eurofinsus.com/",
+   "lab_id": "LAB-EEP",
+   "accredited_for": [
+    "Bacteria only (as printed by Maine CDC)"
+   ],
+   "detail": "Maine lab code LAB-EEP. Maine CDC marks this lab \"Bacteria only\".",
+   "group": "limited",
+   "source_name": "Maine CDC Drinking Water Program, \"Maine In-State Commercial Drinking Water Labs\" (last updated 5/16/2026)",
+   "source_url": "https://www.maine.gov/dhhs/mecdc/sites/maine.gov.dhhs.mecdc/files/CommercialListMaineLabs.pdf",
+   "source_date": "2026-05-16",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Maine Laboratories, LLC",
+   "address": "Norridgewock, ME (the Maine list prints city only)",
+   "city": "Norridgewock",
+   "phone": "(207) 518-8030",
+   "website": "https://www.mainelaboratories.com/",
+   "lab_id": "MLN",
+   "accredited_for": [
+    "PFAS only (as printed by Maine CDC)"
+   ],
+   "detail": "Maine lab code MLN. Maine CDC marks this lab \"PFAS only\".",
+   "group": "limited",
+   "source_name": "Maine CDC Drinking Water Program, \"Maine In-State Commercial Drinking Water Labs\" (last updated 5/16/2026)",
+   "source_url": "https://www.maine.gov/dhhs/mecdc/sites/maine.gov.dhhs.mecdc/files/CommercialListMaineLabs.pdf",
+   "source_date": "2026-05-16",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Mi'Kmaq Environmental Laboratory",
+   "address": "Presque Isle, ME (the Maine list prints city only)",
+   "city": "Presque Isle",
+   "phone": "(207) 764-4001",
+   "website": "https://watertestlab.com/laboratory/",
+   "lab_id": "MNL",
+   "accredited_for": [
+    "Bacteria only (as printed by Maine CDC)"
+   ],
+   "detail": "Maine lab code MNL. Maine CDC marks this lab \"Bacteria only\".",
+   "group": "limited",
+   "source_name": "Maine CDC Drinking Water Program, \"Maine In-State Commercial Drinking Water Labs\" (last updated 5/16/2026)",
+   "source_url": "https://www.maine.gov/dhhs/mecdc/sites/maine.gov.dhhs.mecdc/files/CommercialListMaineLabs.pdf",
+   "source_date": "2026-05-16",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Nova Analytic Labs (DBA Nova EnviroLabs)",
+   "address": "Portland, ME (the Maine list prints city only)",
+   "city": "Portland",
+   "phone": "(207) 804-7327",
+   "website": "https://www.novaenvirolabs.com/",
+   "lab_id": "NAP",
+   "accredited_for": [
+    "PFAS only (as printed by Maine CDC)"
+   ],
+   "detail": "Maine lab code NAP. Maine CDC marks this lab \"PFAS only\".",
+   "group": "limited",
+   "source_name": "Maine CDC Drinking Water Program, \"Maine In-State Commercial Drinking Water Labs\" (last updated 5/16/2026)",
+   "source_url": "https://www.maine.gov/dhhs/mecdc/sites/maine.gov.dhhs.mecdc/files/CommercialListMaineLabs.pdf",
+   "source_date": "2026-05-16",
+   "last_verified": "2026-10-27"
+  }
+ ]
+}

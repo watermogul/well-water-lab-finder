@@ -1,0 +1,488 @@
+{
+ "state": "Minnesota",
+ "slug": "minnesota",
+ "abbr": "MN",
+ "list_source": {
+  "name": "Minnesota Department of Health, \"Accredited Labs in Minnesota Accepting Drinking Water Samples from Private Well Users\" (October 2026)",
+  "page_url": "https://www.health.state.mn.us/communities/environment/water/docs/wells/waterquality/labmap.pdf",
+  "program_url": "https://www.health.state.mn.us/communities/environment/water/wells/waterquality/index.html",
+  "report_date": "October 2026"
+ },
+ "last_verified": "2026-10-27",
+ "labs": [
+  {
+   "name": "Fillmore SWCD Water Quality Laboratory",
+   "address": "900 Washington Street NW, Preston, MN 55965",
+   "city": "Preston",
+   "phone": "(507) 765-3878",
+   "lab_id": "MDH map #1",
+   "accredited_for": [
+    "Total coliform bacteria"
+   ],
+   "detail": "MDH map number 1 · Fillmore County.",
+   "group": "main",
+   "source_name": "Minnesota Department of Health, \"Accredited Labs in Minnesota Accepting Drinking Water Samples from Private Well Users\" (October 2026)",
+   "source_url": "https://www.health.state.mn.us/communities/environment/water/docs/wells/waterquality/labmap.pdf",
+   "source_date": "2026-10-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Southeastern Minnesota Water Analysis Laboratory",
+   "address": "2100 Campus Drive SE, Suite 100, Rochester, MN 55904",
+   "city": "Rochester",
+   "phone": "(507) 328-7495",
+   "lab_id": "MDH map #2",
+   "accredited_for": [
+    "Total coliform bacteria",
+    "Nitrate (as N)",
+    "Arsenic (subcontracted)",
+    "Lead (subcontracted)",
+    "Manganese (subcontracted)"
+   ],
+   "detail": "MDH map number 2 · Olmsted County. Marked with an asterisk on the MDH list (sample is subcontracted to another accredited lab): arsenic, lead, manganese. MDH marks this lab with a star: it offers a courier service network or other drop-off locations (contact the lab for sites).",
+   "group": "main",
+   "source_name": "Minnesota Department of Health, \"Accredited Labs in Minnesota Accepting Drinking Water Samples from Private Well Users\" (October 2026)",
+   "source_url": "https://www.health.state.mn.us/communities/environment/water/docs/wells/waterquality/labmap.pdf",
+   "source_date": "2026-10-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "UC Laboratory",
+   "address": "129 North Main Street, Janesville, MN 56048",
+   "city": "Janesville",
+   "phone": "(507) 234-5835",
+   "lab_id": "MDH map #3",
+   "accredited_for": [
+    "Total coliform bacteria",
+    "Nitrate (as N)",
+    "Arsenic (subcontracted)",
+    "Lead (subcontracted)",
+    "Manganese"
+   ],
+   "detail": "MDH map number 3 · Waseca County. Marked with an asterisk on the MDH list (sample is subcontracted to another accredited lab): arsenic, lead. MDH marks this lab with a star: it offers a courier service network or other drop-off locations (contact the lab for sites).",
+   "group": "main",
+   "source_name": "Minnesota Department of Health, \"Accredited Labs in Minnesota Accepting Drinking Water Samples from Private Well Users\" (October 2026)",
+   "source_url": "https://www.health.state.mn.us/communities/environment/water/docs/wells/waterquality/labmap.pdf",
+   "source_date": "2026-10-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Worthington Public Utilities Laboratory",
+   "address": "1950 27th Street N, Worthington, MN 56187",
+   "city": "Worthington",
+   "phone": "(507) 372-8660",
+   "lab_id": "MDH map #4",
+   "accredited_for": [
+    "Total coliform bacteria"
+   ],
+   "detail": "MDH map number 4 · Nobles County.",
+   "group": "main",
+   "source_name": "Minnesota Department of Health, \"Accredited Labs in Minnesota Accepting Drinking Water Samples from Private Well Users\" (October 2026)",
+   "source_url": "https://www.health.state.mn.us/communities/environment/water/docs/wells/waterquality/labmap.pdf",
+   "source_date": "2026-10-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Southwest Health and Human Services",
+   "address": "607 West Main Street, Suite 200, Marshall, MN 56258",
+   "city": "Marshall",
+   "phone": "(507) 537-6713",
+   "lab_id": "MDH map #5",
+   "accredited_for": [
+    "Total coliform bacteria",
+    "Nitrate (as N)"
+   ],
+   "detail": "MDH map number 5 · Lyon County.",
+   "group": "main",
+   "source_name": "Minnesota Department of Health, \"Accredited Labs in Minnesota Accepting Drinking Water Samples from Private Well Users\" (October 2026)",
+   "source_url": "https://www.health.state.mn.us/communities/environment/water/docs/wells/waterquality/labmap.pdf",
+   "source_date": "2026-10-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Minnesota Valley Testing Laboratories, Inc.",
+   "address": "1126 North Front Street, New Ulm, MN 56073",
+   "city": "New Ulm",
+   "phone": "(507) 354-8517",
+   "lab_id": "MDH map #6",
+   "accredited_for": [
+    "Total coliform bacteria",
+    "Nitrate (as N)",
+    "Arsenic",
+    "Lead",
+    "Manganese"
+   ],
+   "detail": "MDH map number 6 · Brown County.",
+   "group": "main",
+   "source_name": "Minnesota Department of Health, \"Accredited Labs in Minnesota Accepting Drinking Water Samples from Private Well Users\" (October 2026)",
+   "source_url": "https://www.health.state.mn.us/communities/environment/water/docs/wells/waterquality/labmap.pdf",
+   "source_date": "2026-10-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Red Wing City Laboratory",
+   "address": "1020 East Fifth Street, Red Wing, MN 55066",
+   "city": "Red Wing",
+   "phone": "(651) 385-5143",
+   "lab_id": "MDH map #7",
+   "accredited_for": [
+    "Total coliform bacteria"
+   ],
+   "detail": "MDH map number 7 · Goodhue County.",
+   "group": "main",
+   "source_name": "Minnesota Department of Health, \"Accredited Labs in Minnesota Accepting Drinking Water Samples from Private Well Users\" (October 2026)",
+   "source_url": "https://www.health.state.mn.us/communities/environment/water/docs/wells/waterquality/labmap.pdf",
+   "source_date": "2026-10-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "RMB Environmental Laboratories, Inc. - Burnsville",
+   "address": "501 Highway 13 E, Suite 104, Burnsville, MN 55337",
+   "city": "Burnsville",
+   "phone": "(952) 456-8470",
+   "lab_id": "MDH map #8",
+   "accredited_for": [
+    "Total coliform bacteria",
+    "Nitrate (as N)",
+    "Arsenic (subcontracted)",
+    "Lead (subcontracted)",
+    "Manganese (subcontracted)"
+   ],
+   "detail": "MDH map number 8 · Hennepin County. Marked with an asterisk on the MDH list (sample is subcontracted to another accredited lab): arsenic, lead, manganese. MDH marks this lab with a star: it offers a courier service network or other drop-off locations (contact the lab for sites).",
+   "group": "main",
+   "source_name": "Minnesota Department of Health, \"Accredited Labs in Minnesota Accepting Drinking Water Samples from Private Well Users\" (October 2026)",
+   "source_url": "https://www.health.state.mn.us/communities/environment/water/docs/wells/waterquality/labmap.pdf",
+   "source_date": "2026-10-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Tri-City/William Lloyd Analytical Lab",
+   "address": "9300 Poplar Bridge Road, Bloomington, MN 55437",
+   "city": "Bloomington",
+   "phone": "(952) 563-4904",
+   "lab_id": "MDH map #9",
+   "accredited_for": [
+    "Total coliform bacteria",
+    "Nitrate (as N)",
+    "Arsenic",
+    "Manganese"
+   ],
+   "detail": "MDH map number 9 · Hennepin County. MDH marks this lab with a star: it offers a courier service network or other drop-off locations (contact the lab for sites).",
+   "group": "main",
+   "source_name": "Minnesota Department of Health, \"Accredited Labs in Minnesota Accepting Drinking Water Samples from Private Well Users\" (October 2026)",
+   "source_url": "https://www.health.state.mn.us/communities/environment/water/docs/wells/waterquality/labmap.pdf",
+   "source_date": "2026-10-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Twin City Water Clinic, Inc.",
+   "address": "617 13th Avenue S, Hopkins, MN 55343",
+   "city": "Hopkins",
+   "phone": "(952) 935-3556",
+   "lab_id": "MDH map #10",
+   "accredited_for": [
+    "Total coliform bacteria",
+    "Nitrate (as N)",
+    "Arsenic",
+    "Lead",
+    "Manganese (subcontracted)"
+   ],
+   "detail": "MDH map number 10 · Hennepin County. Marked with an asterisk on the MDH list (sample is subcontracted to another accredited lab): manganese.",
+   "group": "main",
+   "source_name": "Minnesota Department of Health, \"Accredited Labs in Minnesota Accepting Drinking Water Samples from Private Well Users\" (October 2026)",
+   "source_url": "https://www.health.state.mn.us/communities/environment/water/docs/wells/waterquality/labmap.pdf",
+   "source_date": "2026-10-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Engel Water Testing, Inc.",
+   "address": "9300 County Road 15, Minnetrista, MN 55359",
+   "city": "Minnetrista",
+   "phone": "(952) 955-1800",
+   "lab_id": "MDH map #11",
+   "accredited_for": [
+    "Total coliform bacteria",
+    "Nitrate (as N) (subcontracted)",
+    "Arsenic (subcontracted)",
+    "Lead (subcontracted)"
+   ],
+   "detail": "MDH map number 11 · Hennepin County. Marked with an asterisk on the MDH list (sample is subcontracted to another accredited lab): nitrate (as n), arsenic, lead.",
+   "group": "main",
+   "source_name": "Minnesota Department of Health, \"Accredited Labs in Minnesota Accepting Drinking Water Samples from Private Well Users\" (October 2026)",
+   "source_url": "https://www.health.state.mn.us/communities/environment/water/docs/wells/waterquality/labmap.pdf",
+   "source_date": "2026-10-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Pace Analytical Services, LLC - Minneapolis",
+   "address": "1700 Elm Street SE, Suite 200, Minneapolis, MN 55414",
+   "city": "Minneapolis",
+   "phone": "(612) 607-1700",
+   "lab_id": "MDH map #12",
+   "accredited_for": [
+    "Total coliform bacteria",
+    "Nitrate (as N)",
+    "Arsenic",
+    "Lead",
+    "Manganese"
+   ],
+   "detail": "MDH map number 12 · Hennepin County.",
+   "group": "main",
+   "source_name": "Minnesota Department of Health, \"Accredited Labs in Minnesota Accepting Drinking Water Samples from Private Well Users\" (October 2026)",
+   "source_url": "https://www.health.state.mn.us/communities/environment/water/docs/wells/waterquality/labmap.pdf",
+   "source_date": "2026-10-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "EMSL Analytical, Inc.",
+   "address": "3410 Winnetka Avenue N, New Hope, MN 55427",
+   "city": "New Hope",
+   "phone": "(763) 449-4922",
+   "lab_id": "MDH map #13",
+   "accredited_for": [
+    "Total coliform bacteria",
+    "Nitrate (as N)",
+    "Arsenic",
+    "Lead",
+    "Manganese"
+   ],
+   "detail": "MDH map number 13 · Hennepin County.",
+   "group": "main",
+   "source_name": "Minnesota Department of Health, \"Accredited Labs in Minnesota Accepting Drinking Water Samples from Private Well Users\" (October 2026)",
+   "source_url": "https://www.health.state.mn.us/communities/environment/water/docs/wells/waterquality/labmap.pdf",
+   "source_date": "2026-10-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Instrumental Research, Inc.",
+   "address": "7800 Main Street NE, Fridley, MN 55432",
+   "city": "Fridley",
+   "phone": "(763) 571-3698",
+   "lab_id": "MDH map #14",
+   "accredited_for": [
+    "Total coliform bacteria",
+    "Nitrate (as N)",
+    "Arsenic (subcontracted)",
+    "Lead (subcontracted)"
+   ],
+   "detail": "MDH map number 14 · Anoka County. Marked with an asterisk on the MDH list (sample is subcontracted to another accredited lab): arsenic, lead.",
+   "group": "main",
+   "source_name": "Minnesota Department of Health, \"Accredited Labs in Minnesota Accepting Drinking Water Samples from Private Well Users\" (October 2026)",
+   "source_url": "https://www.health.state.mn.us/communities/environment/water/docs/wells/waterquality/labmap.pdf",
+   "source_date": "2026-10-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Water Laboratories, Inc.",
+   "address": "333 Main Street NW, Elk River, MN 55330",
+   "city": "Elk River",
+   "phone": "(763) 441-7509",
+   "lab_id": "MDH map #15",
+   "accredited_for": [
+    "Total coliform bacteria",
+    "Nitrate (as N)",
+    "Arsenic",
+    "Lead"
+   ],
+   "detail": "MDH map number 15 · Sherburne County.",
+   "group": "main",
+   "source_name": "Minnesota Department of Health, \"Accredited Labs in Minnesota Accepting Drinking Water Samples from Private Well Users\" (October 2026)",
+   "source_url": "https://www.health.state.mn.us/communities/environment/water/docs/wells/waterquality/labmap.pdf",
+   "source_date": "2026-10-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Traut Water Analysis Lab",
+   "address": "32640 County Road 133, St. Joseph, MN 56374",
+   "city": "St. Joseph",
+   "phone": "(320) 251-5090",
+   "lab_id": "MDH map #16",
+   "accredited_for": [
+    "Total coliform bacteria",
+    "Nitrate (as N)",
+    "Arsenic (subcontracted)",
+    "Lead (subcontracted)"
+   ],
+   "detail": "MDH map number 16 · Stearns County. Marked with an asterisk on the MDH list (sample is subcontracted to another accredited lab): arsenic, lead.",
+   "group": "main",
+   "source_name": "Minnesota Department of Health, \"Accredited Labs in Minnesota Accepting Drinking Water Samples from Private Well Users\" (October 2026)",
+   "source_url": "https://www.health.state.mn.us/communities/environment/water/docs/wells/waterquality/labmap.pdf",
+   "source_date": "2026-10-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Steven M. Traut Wells, Inc.",
+   "address": "754 Cross Country Lane SW, Alexandria, MN 56308",
+   "city": "Alexandria",
+   "phone": "(320) 762-1528",
+   "lab_id": "MDH map #17",
+   "accredited_for": [
+    "Total coliform bacteria",
+    "Nitrate (as N)",
+    "Arsenic (subcontracted)",
+    "Lead (subcontracted)"
+   ],
+   "detail": "MDH map number 17 · Douglas County. Marked with an asterisk on the MDH list (sample is subcontracted to another accredited lab): arsenic, lead. MDH marks this lab with a star: it offers a courier service network or other drop-off locations (contact the lab for sites).",
+   "group": "main",
+   "source_name": "Minnesota Department of Health, \"Accredited Labs in Minnesota Accepting Drinking Water Samples from Private Well Users\" (October 2026)",
+   "source_url": "https://www.health.state.mn.us/communities/environment/water/docs/wells/waterquality/labmap.pdf",
+   "source_date": "2026-10-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "A.W. Research Laboratories, Inc.",
+   "address": "314 Charles Street, Brainerd, MN 56401",
+   "city": "Brainerd",
+   "phone": "(218) 829-7974",
+   "lab_id": "MDH map #18",
+   "accredited_for": [
+    "Total coliform bacteria",
+    "Nitrate (as N)",
+    "Arsenic",
+    "Lead",
+    "Manganese"
+   ],
+   "detail": "MDH map number 18 · Crow Wing County. MDH marks this lab with a star: it offers a courier service network or other drop-off locations (contact the lab for sites).",
+   "group": "main",
+   "source_name": "Minnesota Department of Health, \"Accredited Labs in Minnesota Accepting Drinking Water Samples from Private Well Users\" (October 2026)",
+   "source_url": "https://www.health.state.mn.us/communities/environment/water/docs/wells/waterquality/labmap.pdf",
+   "source_date": "2026-10-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "RMB Environmental Laboratories, Inc. - Pequot Lakes",
+   "address": "30968 S. Washington Avenue, Pequot Lakes, MN 56472",
+   "city": "Pequot Lakes",
+   "phone": "(218) 828-2118",
+   "lab_id": "MDH map #19",
+   "accredited_for": [
+    "Total coliform bacteria",
+    "Nitrate (as N) (subcontracted)",
+    "Arsenic (subcontracted)",
+    "Lead (subcontracted)",
+    "Manganese (subcontracted)"
+   ],
+   "detail": "MDH map number 19 · Crow Wing County. Marked with an asterisk on the MDH list (sample is subcontracted to another accredited lab): nitrate (as n), arsenic, lead, manganese. MDH marks this lab with a star: it offers a courier service network or other drop-off locations (contact the lab for sites).",
+   "group": "main",
+   "source_name": "Minnesota Department of Health, \"Accredited Labs in Minnesota Accepting Drinking Water Samples from Private Well Users\" (October 2026)",
+   "source_url": "https://www.health.state.mn.us/communities/environment/water/docs/wells/waterquality/labmap.pdf",
+   "source_date": "2026-10-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "RMB Environmental Laboratories, Inc. - Detroit Lakes",
+   "address": "22796 County Highway 6, Detroit Lakes, MN 56501",
+   "city": "Detroit Lakes",
+   "phone": "(218) 846-1465",
+   "lab_id": "MDH map #20",
+   "accredited_for": [
+    "Total coliform bacteria",
+    "Nitrate (as N)",
+    "Arsenic",
+    "Lead",
+    "Manganese"
+   ],
+   "detail": "MDH map number 20 · Becker County. MDH marks this lab with a star: it offers a courier service network or other drop-off locations (contact the lab for sites).",
+   "group": "main",
+   "source_name": "Minnesota Department of Health, \"Accredited Labs in Minnesota Accepting Drinking Water Samples from Private Well Users\" (October 2026)",
+   "source_url": "https://www.health.state.mn.us/communities/environment/water/docs/wells/waterquality/labmap.pdf",
+   "source_date": "2026-10-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Pace Analytical Services, LLC - Duluth",
+   "address": "4730 Oneota Street, Duluth, MN 55807",
+   "city": "Duluth",
+   "phone": "(218) 727-6380",
+   "lab_id": "MDH map #21",
+   "accredited_for": [
+    "Total coliform bacteria",
+    "Nitrate (as N)",
+    "Arsenic (subcontracted)",
+    "Lead (subcontracted)",
+    "Manganese (subcontracted)"
+   ],
+   "detail": "MDH map number 21 · St. Louis County. Marked with an asterisk on the MDH list (sample is subcontracted to another accredited lab): arsenic, lead, manganese.",
+   "group": "main",
+   "source_name": "Minnesota Department of Health, \"Accredited Labs in Minnesota Accepting Drinking Water Samples from Private Well Users\" (October 2026)",
+   "source_url": "https://www.health.state.mn.us/communities/environment/water/docs/wells/waterquality/labmap.pdf",
+   "source_date": "2026-10-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "RMB Environmental Laboratories, Inc. - Virginia",
+   "address": "110 ½ South 15th Avenue W, Virginia, MN 55792",
+   "city": "Virginia",
+   "phone": "(218) 440-2043",
+   "lab_id": "MDH map #22",
+   "accredited_for": [
+    "Total coliform bacteria",
+    "Nitrate (as N)",
+    "Arsenic (subcontracted)",
+    "Lead (subcontracted)",
+    "Manganese (subcontracted)"
+   ],
+   "detail": "MDH map number 22 · St. Louis County. Marked with an asterisk on the MDH list (sample is subcontracted to another accredited lab): arsenic, lead, manganese. MDH marks this lab with a star: it offers a courier service network or other drop-off locations (contact the lab for sites).",
+   "group": "main",
+   "source_name": "Minnesota Department of Health, \"Accredited Labs in Minnesota Accepting Drinking Water Samples from Private Well Users\" (October 2026)",
+   "source_url": "https://www.health.state.mn.us/communities/environment/water/docs/wells/waterquality/labmap.pdf",
+   "source_date": "2026-10-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Pace Analytical Services, LLC - Virginia",
+   "address": "315 Chestnut Street, Virginia, MN 55792",
+   "city": "Virginia",
+   "phone": "(218) 727-6380",
+   "lab_id": "MDH map #23",
+   "accredited_for": [
+    "Total coliform bacteria",
+    "Nitrate (as N) (subcontracted)",
+    "Arsenic (subcontracted)",
+    "Lead (subcontracted)",
+    "Manganese (subcontracted)"
+   ],
+   "detail": "MDH map number 23 · St. Louis County. Marked with an asterisk on the MDH list (sample is subcontracted to another accredited lab): nitrate (as n), arsenic, lead, manganese.",
+   "group": "main",
+   "source_name": "Minnesota Department of Health, \"Accredited Labs in Minnesota Accepting Drinking Water Samples from Private Well Users\" (October 2026)",
+   "source_url": "https://www.health.state.mn.us/communities/environment/water/docs/wells/waterquality/labmap.pdf",
+   "source_date": "2026-10-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "AC Analytical & Consulting, LLC",
+   "address": "21518 Basset Drive NW, Puposky, MN 56667",
+   "city": "Puposky",
+   "phone": "(218) 243-3328",
+   "lab_id": "MDH map #24",
+   "accredited_for": [
+    "Total coliform bacteria",
+    "Nitrate (as N)",
+    "Arsenic (subcontracted)",
+    "Lead (subcontracted)"
+   ],
+   "detail": "MDH map number 24 · Beltrami County. Marked with an asterisk on the MDH list (sample is subcontracted to another accredited lab): arsenic, lead.",
+   "group": "main",
+   "source_name": "Minnesota Department of Health, \"Accredited Labs in Minnesota Accepting Drinking Water Samples from Private Well Users\" (October 2026)",
+   "source_url": "https://www.health.state.mn.us/communities/environment/water/docs/wells/waterquality/labmap.pdf",
+   "source_date": "2026-10-01",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Koochiching Health Department Water Testing",
+   "address": "1000 Fifth Street, International Falls, MN 56649",
+   "city": "International Falls",
+   "phone": "(218) 283-7070",
+   "lab_id": "MDH map #25",
+   "accredited_for": [
+    "Total coliform bacteria"
+   ],
+   "detail": "MDH map number 25 · Koochiching County.",
+   "group": "main",
+   "source_name": "Minnesota Department of Health, \"Accredited Labs in Minnesota Accepting Drinking Water Samples from Private Well Users\" (October 2026)",
+   "source_url": "https://www.health.state.mn.us/communities/environment/water/docs/wells/waterquality/labmap.pdf",
+   "source_date": "2026-10-01",
+   "last_verified": "2026-10-27"
+  }
+ ]
+}

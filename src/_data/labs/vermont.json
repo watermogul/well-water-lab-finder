@@ -1,0 +1,545 @@
+{
+ "state": "Vermont",
+ "slug": "vermont",
+ "abbr": "VT",
+ "list_source": {
+  "name": "Vermont Department of Health, \"Laboratories Certified for Drinking Water Analysis\" (September 28, 2026)",
+  "page_url": "https://www.healthvermont.gov/sites/default/files/document/lsid-phl-DW-certified-laboratory-list.pdf",
+  "program_url": "https://www.healthvermont.gov/environment/drinking-water",
+  "report_date": "List dated September 28, 2026"
+ },
+ "last_verified": "2026-10-27",
+ "labs": [
+  {
+   "name": "Endyne Inc.",
+   "address": "315 New York Road, Plattsburgh, NY 12903",
+   "city": "Plattsburgh",
+   "phone": "(518) 563-1720",
+   "website": "https://endynelabs.com",
+   "lab_id": "VT 11892",
+   "accredited_for": [
+    "Bacteria: total coliform / E. coli (presence-absence)",
+    "Bacteria: quantitative coliform, E. coli, Cryptosporidium, Giardia",
+    "Inorganic chemicals (metals, nitrate, nitrite) (marked Partial)"
+   ],
+   "detail": "Vermont lab ID VT 11892 · Vermont certification expires 3/1/2027.",
+   "group": "main",
+   "source_name": "Vermont Department of Health, \"Laboratories Certified for Drinking Water Analysis\" (September 28, 2026)",
+   "source_url": "https://www.healthvermont.gov/sites/default/files/document/lsid-phl-DW-certified-laboratory-list.pdf",
+   "source_date": "2026-09-28",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Endyne, Inc.",
+   "address": "160 James Brown Drive, Williston, VT 05495",
+   "city": "Williston",
+   "phone": "(802) 879-4333",
+   "website": "https://endynelabs.com",
+   "lab_id": "VT 2021",
+   "accredited_for": [
+    "Bacteria: total coliform / E. coli (presence-absence)",
+    "Bacteria: quantitative coliform, E. coli, Cryptosporidium, Giardia",
+    "Inorganic chemicals (metals, nitrate, nitrite) (marked Partial)",
+    "Haloacetic acids",
+    "Trihalomethanes",
+    "Volatile organic compounds (VOCs)",
+    "Synthetic organics A (EDB and DCBP)",
+    "Synthetic organics C (herbicides)",
+    "Synthetic organics D (pesticides, phthalates, PCBs)",
+    "Table WSR (non-community water system contaminants) (marked Partial)"
+   ],
+   "detail": "Vermont lab ID VT 2021 · Vermont certification expires 2/22/2027.",
+   "group": "main",
+   "source_name": "Vermont Department of Health, \"Laboratories Certified for Drinking Water Analysis\" (September 28, 2026)",
+   "source_url": "https://www.healthvermont.gov/sites/default/files/document/lsid-phl-DW-certified-laboratory-list.pdf",
+   "source_date": "2026-09-28",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Endyne, Inc.",
+   "address": "56 Etna Road, Lebanon, NH 03766",
+   "city": "Lebanon",
+   "phone": "(603) 678-4891",
+   "website": "https://endynelabs.com",
+   "lab_id": "VT 2037",
+   "accredited_for": [
+    "Bacteria: total coliform / E. coli (presence-absence)",
+    "Bacteria: quantitative coliform, E. coli, Cryptosporidium, Giardia",
+    "Inorganic chemicals (metals, nitrate, nitrite) (marked Partial)"
+   ],
+   "detail": "Vermont lab ID VT 2037 · Vermont certification expires 2/15/2027.",
+   "group": "main",
+   "source_name": "Vermont Department of Health, \"Laboratories Certified for Drinking Water Analysis\" (September 28, 2026)",
+   "source_url": "https://www.healthvermont.gov/sites/default/files/document/lsid-phl-DW-certified-laboratory-list.pdf",
+   "source_date": "2026-09-28",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Eurofins Concord",
+   "address": "51 Antrim Ave, Concord, NH 03301",
+   "city": "Concord",
+   "phone": "(603) 228-0525",
+   "website": "https://eurofinsus.com",
+   "lab_id": "VT 101204",
+   "accredited_for": [
+    "Bacteria: total coliform / E. coli (presence-absence)",
+    "Bacteria: quantitative coliform, E. coli, Cryptosporidium, Giardia",
+    "Inorganic chemicals (metals, nitrate, nitrite)",
+    "Haloacetic acids",
+    "Trihalomethanes",
+    "Volatile organic compounds (VOCs)",
+    "Synthetic organics A (EDB and DCBP)",
+    "Synthetic organics B (carbamates)",
+    "Synthetic organics C (herbicides)",
+    "Synthetic organics D (pesticides, phthalates, PCBs) (marked Partial)",
+    "Table WSR (non-community water system contaminants)"
+   ],
+   "detail": "Vermont lab ID VT 101204 · Vermont certification expires 11/16/2026.",
+   "group": "main",
+   "source_name": "Vermont Department of Health, \"Laboratories Certified for Drinking Water Analysis\" (September 28, 2026)",
+   "source_url": "https://www.healthvermont.gov/sites/default/files/document/lsid-phl-DW-certified-laboratory-list.pdf",
+   "source_date": "2026-09-28",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Eurofins Derry",
+   "address": "22 Manchester Rd, Derry, NH 03038",
+   "city": "Derry",
+   "phone": "(603) 432-3044",
+   "website": "https://eurofinsus.com",
+   "lab_id": "VT 101507",
+   "accredited_for": [
+    "Bacteria: total coliform / E. coli (presence-absence)",
+    "Bacteria: quantitative coliform, E. coli, Cryptosporidium, Giardia",
+    "Inorganic chemicals (metals, nitrate, nitrite) (marked Partial)",
+    "Haloacetic acids",
+    "Trihalomethanes",
+    "Volatile organic compounds (VOCs)",
+    "Synthetic organics A (EDB and DCBP)",
+    "Synthetic organics B (carbamates)",
+    "Synthetic organics C (herbicides)",
+    "Synthetic organics D (pesticides, phthalates, PCBs)",
+    "PFAS (EPA 522, EPA 537.1 v2)",
+    "Table WSR (non-community water system contaminants) (marked Partial)"
+   ],
+   "detail": "Vermont lab ID VT 101507 · Vermont certification expires 5/8/2027.",
+   "group": "main",
+   "source_name": "Vermont Department of Health, \"Laboratories Certified for Drinking Water Analysis\" (September 28, 2026)",
+   "source_url": "https://www.healthvermont.gov/sites/default/files/document/lsid-phl-DW-certified-laboratory-list.pdf",
+   "source_date": "2026-09-28",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "National Testing Laboratories, Ltd.",
+   "address": "556 S. Mansfield St, Ypsilanti, MI 48197",
+   "city": "Ypsilanti",
+   "phone": "(734) 483-8333",
+   "website": "https://watercheck.com",
+   "lab_id": "VT 40014",
+   "accredited_for": [
+    "Bacteria: total coliform / E. coli (presence-absence)",
+    "Bacteria: quantitative coliform, E. coli, Cryptosporidium, Giardia",
+    "Inorganic chemicals (metals, nitrate, nitrite) (marked Partial)",
+    "Haloacetic acids",
+    "Trihalomethanes",
+    "Volatile organic compounds (VOCs)",
+    "Synthetic organics A (EDB and DCBP)",
+    "Synthetic organics B (carbamates)",
+    "Synthetic organics C (herbicides)",
+    "Synthetic organics D (pesticides, phthalates, PCBs)",
+    "Table WSR (non-community water system contaminants)"
+   ],
+   "detail": "Vermont lab ID VT 40014 · Vermont certification expires 11/30/2026.",
+   "group": "main",
+   "source_name": "Vermont Department of Health, \"Laboratories Certified for Drinking Water Analysis\" (September 28, 2026)",
+   "source_url": "https://www.healthvermont.gov/sites/default/files/document/lsid-phl-DW-certified-laboratory-list.pdf",
+   "source_date": "2026-09-28",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Nelson Analytical",
+   "address": "490 E. Industrial Park Dr., Manchester, NH 03109",
+   "city": "Manchester",
+   "phone": "(603) 622-0200",
+   "website": "https://nelsonanalytical.com",
+   "lab_id": "VT 1005",
+   "accredited_for": [
+    "Bacteria: total coliform / E. coli (presence-absence)",
+    "Bacteria: quantitative coliform, E. coli, Cryptosporidium, Giardia",
+    "Inorganic chemicals (metals, nitrate, nitrite) (marked Partial)",
+    "Trihalomethanes",
+    "Volatile organic compounds (VOCs)",
+    "Table WSR (non-community water system contaminants) (marked Partial)"
+   ],
+   "detail": "Vermont lab ID VT 1005 · Vermont certification expires 5/22/2027.",
+   "group": "main",
+   "source_name": "Vermont Department of Health, \"Laboratories Certified for Drinking Water Analysis\" (September 28, 2026)",
+   "source_url": "https://www.healthvermont.gov/sites/default/files/document/lsid-phl-DW-certified-laboratory-list.pdf",
+   "source_date": "2026-09-28",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Pace Analytical Services, LLC - Melville, NY",
+   "address": "575 Broadhollow Road, Melville, NY 11747",
+   "city": "Melville",
+   "phone": "(516) 370-6006",
+   "website": "https://pacelabs.com",
+   "lab_id": "VT 10478",
+   "accredited_for": [
+    "Bacteria: total coliform / E. coli (presence-absence)",
+    "Inorganic chemicals (metals, nitrate, nitrite)",
+    "Haloacetic acids",
+    "Trihalomethanes",
+    "Volatile organic compounds (VOCs)",
+    "Synthetic organics A (EDB and DCBP)",
+    "Synthetic organics B (carbamates)",
+    "Synthetic organics C (herbicides)",
+    "Synthetic organics D (pesticides, phthalates, PCBs)",
+    "Table WSR (non-community water system contaminants) (marked Partial)"
+   ],
+   "detail": "Vermont lab ID VT 10478 · Vermont certification expires 2/10/2027.",
+   "group": "main",
+   "source_name": "Vermont Department of Health, \"Laboratories Certified for Drinking Water Analysis\" (September 28, 2026)",
+   "source_url": "https://www.healthvermont.gov/sites/default/files/document/lsid-phl-DW-certified-laboratory-list.pdf",
+   "source_date": "2026-09-28",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Seacoast Analytical Services",
+   "address": "72 Pinkham Road, Lee, NH 03861",
+   "city": "Lee",
+   "phone": "(603) 868-1457",
+   "website": "https://seacoastanalytical.com",
+   "lab_id": "VT 1733",
+   "accredited_for": [
+    "Bacteria: total coliform / E. coli (presence-absence)",
+    "Bacteria: quantitative coliform, E. coli, Cryptosporidium, Giardia",
+    "Inorganic chemicals (metals, nitrate, nitrite) (marked Partial)"
+   ],
+   "detail": "Vermont lab ID VT 1733 · Vermont certification expires 2/25/2027.",
+   "group": "main",
+   "source_name": "Vermont Department of Health, \"Laboratories Certified for Drinking Water Analysis\" (September 28, 2026)",
+   "source_url": "https://www.healthvermont.gov/sites/default/files/document/lsid-phl-DW-certified-laboratory-list.pdf",
+   "source_date": "2026-09-28",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Vermont Dept. of Health Laboratory",
+   "address": "359 South Park Drive, Colchester, VT 05446",
+   "city": "Colchester",
+   "phone": "(800) 660-9997",
+   "website": "https://healthvermont.gov/lab",
+   "lab_id": "VT 00020",
+   "accredited_for": [
+    "Bacteria: total coliform / E. coli (presence-absence)",
+    "Bacteria: quantitative coliform, E. coli, Cryptosporidium, Giardia",
+    "Inorganic chemicals (metals, nitrate, nitrite) (marked Partial)",
+    "Haloacetic acids",
+    "Trihalomethanes",
+    "Volatile organic compounds (VOCs)",
+    "Synthetic organics A (EDB and DCBP)",
+    "Synthetic organics B (carbamates)",
+    "Synthetic organics C (herbicides)",
+    "Synthetic organics D (pesticides, phthalates, PCBs)",
+    "RAD column (radionuclides) (marked Partial)",
+    "Table WSR (non-community water system contaminants)"
+   ],
+   "detail": "Vermont lab ID VT 00020 · Vermont certification expires 12/25/2026.",
+   "group": "main",
+   "source_name": "Vermont Department of Health, \"Laboratories Certified for Drinking Water Analysis\" (September 28, 2026)",
+   "source_url": "https://www.healthvermont.gov/sites/default/files/document/lsid-phl-DW-certified-laboratory-list.pdf",
+   "source_date": "2026-09-28",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Analytical Services, Inc.",
+   "address": "130 Allen Brook Lane, Williston, VT 05495",
+   "city": "Williston",
+   "phone": "(802) 878-5138",
+   "website": "https://analyticalservices.com",
+   "lab_id": "VT 3100",
+   "accredited_for": [
+    "Bacteria: total coliform / E. coli (presence-absence)",
+    "Bacteria: quantitative coliform, E. coli, Cryptosporidium, Giardia (EPA 1623.1)"
+   ],
+   "detail": "Vermont lab ID VT 3100 · Vermont certification expires 3/8/2027.",
+   "group": "limited",
+   "source_name": "Vermont Department of Health, \"Laboratories Certified for Drinking Water Analysis\" (September 28, 2026)",
+   "source_url": "https://www.healthvermont.gov/sites/default/files/document/lsid-phl-DW-certified-laboratory-list.pdf",
+   "source_date": "2026-09-28",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "City of Rutland Water Laboratory",
+   "address": "94 Greens Hills Lane, Rutland, VT 05701",
+   "city": "Rutland",
+   "phone": "(802) 773-1863",
+   "website": null,
+   "lab_id": "VT 3700",
+   "accredited_for": [
+    "Bacteria: total coliform / E. coli (presence-absence)"
+   ],
+   "detail": "Vermont lab ID VT 3700 · Vermont certification expires 3/22/2027.",
+   "group": "limited",
+   "source_name": "Vermont Department of Health, \"Laboratories Certified for Drinking Water Analysis\" (September 28, 2026)",
+   "source_url": "https://www.healthvermont.gov/sites/default/files/document/lsid-phl-DW-certified-laboratory-list.pdf",
+   "source_date": "2026-09-28",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "EMSL Analytical, Inc.",
+   "address": "200 Route 130 North, Cinnaminson, NJ 08077",
+   "city": "Cinnaminson",
+   "phone": "(856) 858-4800 ext 2406",
+   "website": "https://emsl.com",
+   "lab_id": "VT 04006",
+   "accredited_for": [
+    "Inorganic chemicals (metals, nitrate, nitrite) (marked Partial)",
+    "Asbestos",
+    "PFAS (EPA 533, EPA 537.1 v2)",
+    "RAD column (radionuclides)"
+   ],
+   "detail": "Vermont lab ID VT 04006 · Vermont certification expires 10/3/2027.",
+   "group": "limited",
+   "source_name": "Vermont Department of Health, \"Laboratories Certified for Drinking Water Analysis\" (September 28, 2026)",
+   "source_url": "https://www.healthvermont.gov/sites/default/files/document/lsid-phl-DW-certified-laboratory-list.pdf",
+   "source_date": "2026-09-28",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Endyne, Inc",
+   "address": "553 Route 149 - Suite B, Lake George, NY 12845",
+   "city": "Lake George",
+   "phone": "(802) 355-4189",
+   "website": "https://endynelabs.com",
+   "lab_id": "VT 12199",
+   "accredited_for": [
+    "Bacteria: total coliform / E. coli (presence-absence)"
+   ],
+   "detail": "Vermont lab ID VT 12199 · Vermont certification expires 11/1/2026.",
+   "group": "limited",
+   "source_name": "Vermont Department of Health, \"Laboratories Certified for Drinking Water Analysis\" (September 28, 2026)",
+   "source_url": "https://www.healthvermont.gov/sites/default/files/document/lsid-phl-DW-certified-laboratory-list.pdf",
+   "source_date": "2026-09-28",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Eurofins Built Environment Testing East - Cary",
+   "address": "730 SE Maynard Road, Cary, NC 27511",
+   "city": "Cary",
+   "phone": "(561) 579-5669",
+   "website": "https://eurofinsus.com",
+   "lab_id": "VT 12048",
+   "accredited_for": [
+    "Asbestos"
+   ],
+   "detail": "Vermont lab ID VT 12048 · Vermont certification expires 12/7/2026.",
+   "group": "limited",
+   "source_name": "Vermont Department of Health, \"Laboratories Certified for Drinking Water Analysis\" (September 28, 2026)",
+   "source_url": "https://www.healthvermont.gov/sites/default/files/document/lsid-phl-DW-certified-laboratory-list.pdf",
+   "source_date": "2026-09-28",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Eurofins Lancaster Laboratories Environment Testing, LLC",
+   "address": "2425 New Holland Pike, Lancaster, PA 17601",
+   "city": "Lancaster",
+   "phone": "(717) 556-9413",
+   "website": "https://eurofinsus.com",
+   "lab_id": "VT 36037",
+   "accredited_for": [
+    "Inorganic chemicals (metals, nitrate, nitrite)",
+    "Trihalomethanes",
+    "Volatile organic compounds (VOCs)",
+    "Synthetic organics B (carbamates)",
+    "PFAS (EPA 533, EPA 537.1 v2)",
+    "Table WSR (non-community water system contaminants) (marked Partial)"
+   ],
+   "detail": "Vermont lab ID VT 36037 · Vermont certification expires 10/28/2026.",
+   "group": "limited",
+   "source_name": "Vermont Department of Health, \"Laboratories Certified for Drinking Water Analysis\" (September 28, 2026)",
+   "source_url": "https://www.healthvermont.gov/sites/default/files/document/lsid-phl-DW-certified-laboratory-list.pdf",
+   "source_date": "2026-09-28",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "GEL Laboratories, LLC",
+   "address": "2040 Savage Road, Charleston, SC 29407",
+   "city": "Charleston",
+   "phone": "(843) 556-8171",
+   "website": "https://gel.com/laboratories",
+   "lab_id": "VT 87156",
+   "accredited_for": [
+    "PFAS (EPA 533, EPA 537.1 v1)",
+    "RAD column (radionuclides)"
+   ],
+   "detail": "Vermont lab ID VT 87156 · Vermont certification expires 12/15/2026.",
+   "group": "limited",
+   "source_name": "Vermont Department of Health, \"Laboratories Certified for Drinking Water Analysis\" (September 28, 2026)",
+   "source_url": "https://www.healthvermont.gov/sites/default/files/document/lsid-phl-DW-certified-laboratory-list.pdf",
+   "source_date": "2026-09-28",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Maine Laboratories LLC, dba PFAS Laboratories",
+   "address": "25 Main St, Norridgewock, ME 04957",
+   "city": "Norridgewock",
+   "phone": "(207) 518-8030",
+   "website": "https://pfaslaboratories.com",
+   "lab_id": "VT 2247",
+   "accredited_for": [
+    "PFAS (EPA 537.1 v2)"
+   ],
+   "detail": "Vermont lab ID VT 2247 · Vermont certification expires 4/8/2027.",
+   "group": "limited",
+   "source_name": "Vermont Department of Health, \"Laboratories Certified for Drinking Water Analysis\" (September 28, 2026)",
+   "source_url": "https://www.healthvermont.gov/sites/default/files/document/lsid-phl-DW-certified-laboratory-list.pdf",
+   "source_date": "2026-09-28",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Microbac Laboratories, Inc. - Marietta",
+   "address": "158 Starlite Drive, Marietta, OH 45750",
+   "city": "Marietta",
+   "phone": "(800) 373-4071",
+   "website": null,
+   "lab_id": "VT 87551",
+   "accredited_for": [
+    "PFAS (EPA 533, EPA 537.1 v2)"
+   ],
+   "detail": "Vermont lab ID VT 87551 · Vermont certification expires 9/20/2027.",
+   "group": "limited",
+   "source_name": "Vermont Department of Health, \"Laboratories Certified for Drinking Water Analysis\" (September 28, 2026)",
+   "source_url": "https://www.healthvermont.gov/sites/default/files/document/lsid-phl-DW-certified-laboratory-list.pdf",
+   "source_date": "2026-09-28",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "NELAnalytical",
+   "address": "227 China Road, Winslow, ME 04901",
+   "city": "Winslow",
+   "phone": "(207) 873-7711",
+   "website": "https://nelabservices.com",
+   "lab_id": "VT 87820",
+   "accredited_for": [
+    "Bacteria: total coliform / E. coli (presence-absence)",
+    "Bacteria: quantitative coliform, E. coli, Cryptosporidium, Giardia"
+   ],
+   "detail": "Vermont lab ID VT 87820 · Vermont certification expires 4/22/2027.",
+   "group": "limited",
+   "source_name": "Vermont Department of Health, \"Laboratories Certified for Drinking Water Analysis\" (September 28, 2026)",
+   "source_url": "https://www.healthvermont.gov/sites/default/files/document/lsid-phl-DW-certified-laboratory-list.pdf",
+   "source_date": "2026-09-28",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Nelson Analytical Lab, Keene Division",
+   "address": "103 Monadnock Highway, N. Swanzey, NH 03431",
+   "city": "N. Swanzey",
+   "phone": "(603) 357-2577",
+   "website": "https://eai-labs.com",
+   "lab_id": "VT 100704",
+   "accredited_for": [
+    "Bacteria: total coliform / E. coli (presence-absence)",
+    "Bacteria: quantitative coliform, E. coli, Cryptosporidium, Giardia"
+   ],
+   "detail": "Vermont lab ID VT 100704 · Vermont certification expires 2/1/2027.",
+   "group": "limited",
+   "source_name": "Vermont Department of Health, \"Laboratories Certified for Drinking Water Analysis\" (September 28, 2026)",
+   "source_url": "https://www.healthvermont.gov/sites/default/files/document/lsid-phl-DW-certified-laboratory-list.pdf",
+   "source_date": "2026-09-28",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Pace Analytical Services LLC - Mansfield",
+   "address": "320 Forbes Blvd, Mansfield, MA 02048",
+   "city": "Mansfield",
+   "phone": "(508) 898-9220",
+   "website": "https://pacelabs.com",
+   "lab_id": "VT 0015",
+   "accredited_for": [
+    "Inorganic chemicals (metals, nitrate, nitrite) (marked Partial)",
+    "PFAS (EPA 533, EPA 537.1 v2)"
+   ],
+   "detail": "Vermont lab ID VT 0015 · Vermont certification expires 9/15/2027.",
+   "group": "limited",
+   "source_name": "Vermont Department of Health, \"Laboratories Certified for Drinking Water Analysis\" (September 28, 2026)",
+   "source_url": "https://www.healthvermont.gov/sites/default/files/document/lsid-phl-DW-certified-laboratory-list.pdf",
+   "source_date": "2026-09-28",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Pace Analytical Services, LLC - East Longmeadow",
+   "address": "39 Spruce Street, East Longmeadow, MA 01028",
+   "city": "East Longmeadow",
+   "phone": "(413) 525-2332",
+   "website": "https://pacelabs.com",
+   "lab_id": "VT 255716",
+   "accredited_for": [
+    "Inorganic chemicals (metals, nitrate, nitrite) (marked Partial)",
+    "Trihalomethanes",
+    "Volatile organic compounds (VOCs)",
+    "PFAS (EPA 533, EPA 537.1 v2)"
+   ],
+   "detail": "Vermont lab ID VT 255716 · Vermont certification expires 6/15/2027.",
+   "group": "limited",
+   "source_name": "Vermont Department of Health, \"Laboratories Certified for Drinking Water Analysis\" (September 28, 2026)",
+   "source_url": "https://www.healthvermont.gov/sites/default/files/document/lsid-phl-DW-certified-laboratory-list.pdf",
+   "source_date": "2026-09-28",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "SGS North America, Inc.",
+   "address": "5500 Business Drive, Wilmington, NC 28405",
+   "city": "Wilmington",
+   "phone": "(910) 667-0134",
+   "website": "https://sgs.com/en-us",
+   "lab_id": "VT 87634",
+   "accredited_for": [
+    "PFAS (EPA 533, EPA 537.1 v2)"
+   ],
+   "detail": "Vermont lab ID VT 87634 · Vermont certification expires 8/30/2027.",
+   "group": "limited",
+   "source_name": "Vermont Department of Health, \"Laboratories Certified for Drinking Water Analysis\" (September 28, 2026)",
+   "source_url": "https://www.healthvermont.gov/sites/default/files/document/lsid-phl-DW-certified-laboratory-list.pdf",
+   "source_date": "2026-09-28",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Vermont Agriculture and Environmental Laboratory",
+   "address": "163 Admin Drive, Randolph Center, VT 05061",
+   "city": "Randolph Center",
+   "phone": "(802) 585-6073",
+   "website": null,
+   "lab_id": "VT 3002",
+   "accredited_for": [
+    "Bacteria: total coliform / E. coli (presence-absence)",
+    "Bacteria: quantitative coliform, E. coli, Cryptosporidium, Giardia",
+    "PFAS (EPA 533)"
+   ],
+   "detail": "Vermont lab ID VT 3002 · Vermont certification expires 9/30/2027.",
+   "group": "limited",
+   "source_name": "Vermont Department of Health, \"Laboratories Certified for Drinking Water Analysis\" (September 28, 2026)",
+   "source_url": "https://www.healthvermont.gov/sites/default/files/document/lsid-phl-DW-certified-laboratory-list.pdf",
+   "source_date": "2026-09-28",
+   "last_verified": "2026-10-27"
+  },
+  {
+   "name": "Weck Laboratories, Inc.",
+   "address": "14859 Clark Avenue, Industry, CA 91745",
+   "city": "Industry",
+   "phone": "(626) 336-2139",
+   "website": "https://wecklabs.com",
+   "lab_id": "VT 4047",
+   "accredited_for": [
+    "PFAS (EPA 533, EPA 537.1 v1)"
+   ],
+   "detail": "Vermont lab ID VT 4047 · Vermont certification expires 8/15/2027.",
+   "group": "limited",
+   "source_name": "Vermont Department of Health, \"Laboratories Certified for Drinking Water Analysis\" (September 28, 2026)",
+   "source_url": "https://www.healthvermont.gov/sites/default/files/document/lsid-phl-DW-certified-laboratory-list.pdf",
+   "source_date": "2026-09-28",
+   "last_verified": "2026-10-27"
+  }
+ ]
+}
