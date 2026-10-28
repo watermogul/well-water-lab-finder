@@ -20,9 +20,9 @@ Known data caveats to revisit: Michigan lists are footed March 2026 (re-pull whe
 
 Still open:
 9. **New York: other counties** — Rockland, Chemung and others publish private-well lab lists; fetch each PDF and verify before listing. Also try to get a statewide ELAP drinking-water list another way (call/email Wadsworth ELAP is a user action).
+   - 2026-10-27 nightly run: passed over (not skipped for sourcing). It expands the existing /labs/new-york/ page rather than shipping a new page, and the statewide ELAP part needs a user action. Do it as a page-update run.
 
 ## State guides (free / low-cost programs and local risks, from state sources only)
-10. **Pennsylvania: free and low-cost private well testing programs** (county health departments, Penn State Extension). Verify each program on its own page first.
 11. **New Hampshire: arsenic, radon and uranium in bedrock wells** — from NHDES/DHHS pages.
 12. **Ohio: where to get a private well tested** — find the Ohio Dept. of Health / local health district pages and verify which labs accept homeowner samples (call list).
 13. **New York: private-well testing after a flood or drought** — NYS DOH source pages.
@@ -45,6 +45,14 @@ Still open:
 - **Maryland: county health department well-testing help** — MDE's Be Well Wise page points to local health departments and UMD Extension; verify each county's own page before listing.
 - **Maryland: certified water samplers** — MDE recommends a certified sampler for private/real-estate testing and publishes Current-Certified-Water-Samplers.pdf; check whether it's usable as a listing source.
 - **UMD Extension's 2019 homeowner lab list** includes Caswell Testing, Enviro-Chem, Martel and Environmental Testing Lab, which are not on MDE's 10/1/2026 in-state list. Do not list them unless re-verified.
+
+## New ideas (found while building the PA free/low-cost testing guide, 2026-10-27)
+- **PA free-testing guide: re-check for a 2026-27 Penn State / PA DOH session schedule.** None was published on 2026-10-27 (Safe Drinking Water Clinic page said "check back for future occurrences"). Add dates only from extension.psu.edu event pages.
+- **PA county programs not yet verified:** Chester County Health Dept (chesco.org/957 lists well-testing info and a lab list at chesco.org/978, but no county kit service was confirmed), Montgomery County, Erie County Dept of Health. Add each only from its own page. ACHD's own web pages return 403 to curl; the kit fee isn't printed on ACHD's May 2026 instructions PDF.
+- **PA DOH "How to Interpret Water Test Results" guide + "Private Well Water Testing Checklist" PDFs** (pa.gov, both return 200). Good primary sources for evergreen guide #15 (reading results).
+- **Penn State county test summaries** (agsci.psu.edu/.../drinking-water-test-summaries), possibly a "what's common in your PA county" page. Check the data format and date first.
+- **Bucks County's own accredited-lab PDF** (buckscounty.gov/DocumentCenter/View/27708). Cross-check against the PA DEP list on /labs/pennsylvania/.
+- **PA DOH PFAS and private wells fact sheet (Sept 2025)**, possibly a "PFAS in Pennsylvania wells" guide. It cites treatment cost ranges, which must be quoted with attribution only.
 
 ## Known gaps to close
 - Contact/corrections channel (needs an email or form from the owner).
