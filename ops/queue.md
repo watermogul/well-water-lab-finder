@@ -21,9 +21,9 @@ Known data caveats to revisit: Michigan lists are footed March 2026 (re-pull whe
 Still open:
 9. **New York: other counties** — Rockland, Chemung and others publish private-well lab lists; fetch each PDF and verify before listing. Also try to get a statewide ELAP drinking-water list another way (call/email Wadsworth ELAP is a user action).
    - 2026-10-27 nightly run: passed over (not skipped for sourcing). It expands the existing /labs/new-york/ page rather than shipping a new page, and the statewide ELAP part needs a user action. Do it as a page-update run.
+   - 2026-10-28 nightly run: passed over again for the same reason (page update, not a new page). Shipped #11 (NH arsenic/radon/uranium guide) instead.
 
 ## State guides (free / low-cost programs and local risks, from state sources only)
-11. **New Hampshire: arsenic, radon and uranium in bedrock wells** — from NHDES/DHHS pages.
 12. **Ohio: where to get a private well tested** — find the Ohio Dept. of Health / local health district pages and verify which labs accept homeowner samples (call list).
 13. **New York: private-well testing after a flood or drought** — NYS DOH source pages.
 
@@ -59,3 +59,10 @@ Still open:
 - Per-lab analyte detail for NH and NY.
 - A `/kits/` hub (nothing verified yet).
 - Individual lab pages (`/labs/{state}/{lab}/`): held back to avoid thin pages; add only with fee or service details from the lab's own page.
+
+## New ideas (found while building the NH arsenic/radon/uranium guide, 2026-10-28)
+- **NH page re-verification:** NHDES PDFs and pages return 403 to curl but load via the WebFetch tool. The NH lab list (/labs/new-hampshire/) can be re-checked that way. The April 2026 guidance still says "Lab list updated 9/20/2024".
+- **NH PFAS in private wells:** NHDES samples private wells for PFAS, with a Sampling Dashboard and a Private Well Testing Request Form on the NH PFAS Response page (per the April 2026 guidance). This could become a guide on free NHDES PFAS sampling. Verify on the PFAS Response page itself.
+- **NH PHL fee drift:** the 2021 arsenic fact sheet printed $15 for arsenic; the current PHL submittal form shows $17. When re-verifying /guides/how-much-does-well-water-testing-cost/, compare all NH PHL fees against the current form.
+- **Rock blasting and wells (NH):** the NHDES brochure says to test before blasting and several months to a year after. Look for an NHDES blasting/well fact sheet for a short guide.
+- **NHDES fact sheet URLs:** dwgb-2-1.pdf (Suggested Water Testing) now returns 404 to WebFetch, so it is not cited. Find its current location before citing it anywhere.
