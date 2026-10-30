@@ -22,9 +22,9 @@ Still open:
 9. **New York: other counties** — Rockland, Chemung and others publish private-well lab lists; fetch each PDF and verify before listing. Also try to get a statewide ELAP drinking-water list another way (call/email Wadsworth ELAP is a user action).
    - 2026-10-27 nightly run: passed over (not skipped for sourcing). It expands the existing /labs/new-york/ page rather than shipping a new page, and the statewide ELAP part needs a user action. Do it as a page-update run.
    - 2026-10-28 nightly run: passed over again for the same reason (page update, not a new page). Shipped #11 (NH arsenic/radon/uranium guide) instead.
+   - 2026-10-29 nightly run: passed over again (page update). Shipped #12 (Ohio where-to-test guide) instead. Suggest scheduling a dedicated page-update run for this.
 
 ## State guides (free / low-cost programs and local risks, from state sources only)
-12. **Ohio: where to get a private well tested** — find the Ohio Dept. of Health / local health district pages and verify which labs accept homeowner samples (call list).
 13. **New York: private-well testing after a flood or drought** — NYS DOH source pages.
 
 ## Evergreen guides
@@ -53,6 +53,14 @@ Still open:
 - **Penn State county test summaries** (agsci.psu.edu/.../drinking-water-test-summaries), possibly a "what's common in your PA county" page. Check the data format and date first.
 - **Bucks County's own accredited-lab PDF** (buckscounty.gov/DocumentCenter/View/27708). Cross-check against the PA DEP list on /labs/pennsylvania/.
 - **PA DOH PFAS and private wells fact sheet (Sept 2025)**, possibly a "PFAS in Pennsylvania wells" guide. It cites treatment cost ranges, which must be quoted with attribution only.
+
+## New ideas (found while building the Ohio where-to-test guide, 2026-10-29)
+- **Re-verify /labs/ohio/ against Ohio EPA's October 2026 Combined-Lab-List.pdf.** That page was built from the 2026-10-26 pull. Several labs on OSU's 2021 list are no longer on it: Brookside, Advanced Analytics, Archbold, Con-Test, Perry, Heidelberg NCWQR and Alloway Mansfield (now Eurofins).
+- **CWM Environmental lineage:** its old address and phone now appear under "Eurofins Environment Testing North Central (formerly Metiri)". Confirm this from Eurofins' or Ohio EPA's own page before listing it as CWM.
+- **More Ohio county health districts:** add rows to the guide's fee table one at a time, each from the district's own page or fee schedule. So far it has Wayne, Mercer, Logan and Highland.
+- **Highland County adopted 2026 fees:** the guide cites a PDF titled "Proposed 2026". Re-check for the adopted schedule.
+- **ODH nitrate and arsenic fact sheets + OSU water-test interpretation resources:** could become an Ohio "reading your results" guide (ties to evergreen #15).
+- **Heidelberg University NCWQR well-testing program:** it was on OSU's 2021 list but not on the Ohio EPA list. Check its own site for a current homeowner program before mentioning it.
 
 ## Known gaps to close
 - Contact/corrections channel (needs an email or form from the owner).
