@@ -23,9 +23,10 @@ Still open:
    - 2026-10-27 nightly run: passed over (not skipped for sourcing). It expands the existing /labs/new-york/ page rather than shipping a new page, and the statewide ELAP part needs a user action. Do it as a page-update run.
    - 2026-10-28 nightly run: passed over again for the same reason (page update, not a new page). Shipped #11 (NH arsenic/radon/uranium guide) instead.
    - 2026-10-29 nightly run: passed over again (page update). Shipped #12 (Ohio where-to-test guide) instead. Suggest scheduling a dedicated page-update run for this.
+   - 2026-10-30 nightly run: passed over again (page update). Shipped #13 (NY flood/drought guide) instead. All new-page queue items in "State guides" are now used; next nightly should take an evergreen guide (#14-#17) or do #9 as a page update.
 
 ## State guides (free / low-cost programs and local risks, from state sources only)
-13. **New York: private-well testing after a flood or drought** — NYS DOH source pages.
+(#13 NY flood/drought guide shipped 2026-10-30.)
 
 ## Evergreen guides
 14. **How to collect a well water sample (bacteria vs chemistry)** — from lab instructions (Penn State, NH PHL already fetched) and EPA.
@@ -38,7 +39,7 @@ Still open:
 19. **Mail-in kit comparison** (Tap Score, WaterTestingKits.com, others) — verify who runs the lab and its accreditation in your state before publishing. Apply to programs only after the user provides a live domain and payee details.
 
 ## Maintenance
-20. **Re-verification pass** — re-fetch PA DEP reports (DEP may publish a newer one), Ohio EPA list (monthly updates likely), NHDES lab list, Westchester list; bump `last_verified` only when re-compared. Consider moving NH to NHDES's live search once a scripted export is possible.
+20. **Re-verification pass** — re-fetch PA DEP reports (DEP may publish a newer one), Ohio EPA list (monthly updates likely), NHDES lab list, Westchester list; bump `last_verified` only when re-compared. **Done for PA on 2026-10-30** (reports unchanged, byte-identical). Next oldest: NH (list dated 2024-09-20), Westchester, Ohio. Consider moving NH to NHDES's live search once a scripted export is possible.
 
 ## New ideas (found while building Maryland, 2026-10-26)
 - **Maryland: out-of-state certified labs** near the PA/VA/DE lines — MDE's 10/1/2026 PDF lists 53 out-of-state labs (e.g. PA and VA labs with Micro + Inorganics). Could be a second section on /labs/maryland/; verify each from the same PDF.
@@ -74,3 +75,10 @@ Still open:
 - **NH PHL fee drift:** the 2021 arsenic fact sheet printed $15 for arsenic; the current PHL submittal form shows $17. When re-verifying /guides/how-much-does-well-water-testing-cost/, compare all NH PHL fees against the current form.
 - **Rock blasting and wells (NH):** the NHDES brochure says to test before blasting and several months to a year after. Look for an NHDES blasting/well fact sheet for a short guide.
 - **NHDES fact sheet URLs:** dwgb-2-1.pdf (Suggested Water Testing) now returns 404 to WebFetch, so it is not cited. Find its current location before citing it anywhere.
+
+## New ideas (found while building the NY flood/drought guide, 2026-10-30)
+- **NY certified bulk water haulers by county** — NYS DOH publishes the certified hauler list (health.ny.gov/environmental/water/drinking/bulkwater/bulkwter.htm). A page sorted by county, from that list only, with its date. The list does not say who delivers to private homes; state that.
+- **NY Private Well Risk Mapper / PFAS testing rebate pilot** — mentioned in the NYS DOH 2024-03-22 press release (Dutchess, Orange, Putnam, Suffolk, Ulster, Westchester). Verify current status on a DOH page before writing.
+- **NYS DOH Fact Sheet #3 (water quality testing)** — good primary source for evergreen #14 / #15 (condition-based test list).
+- **NYS DOH pub 6562 (printed 2/17) prints old Wadsworth/DEC URLs that have moved.** Don't cite those printed URLs; use current pages.
+- **PA live accredited-lab report** — DEP's Laboratory Reports page links an SSRS "Accredited Labs" report (cedatareporting.pa.gov/Reportserver/...Lab_Certification). If it can be exported (CSV/PDF) it may be newer than the June 2024 PDFs that /labs/pennsylvania/ uses. Check its date and the drinking-water filter before switching.

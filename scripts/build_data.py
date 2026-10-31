@@ -3,6 +3,7 @@ PA: /tmp/pa_labs.json from scripts/build_pa.py. OH: parsed from Ohio EPA list te
 NH and NY: hand-entered from the primary sources named in each file. Every listing carries source_url + last_verified."""
 import json,re
 V='2026-10-26'
+V_PA='2026-10-30'  # PA re-verified 2026-10-30: DEP page still links the same two June 2024 reports; re-downloaded PDFs are byte-identical (md5) to the 2026-10-26 copies; Penn State AASL page re-checked
 def fmt_phone(p):
     d=re.sub(r'\D','',p)
     return f'({d[:3]}) {d[3:6]}-{d[6:10]}' if len(d)>=10 else p
@@ -24,12 +25,12 @@ for l in pa:
         source_name='PA DEP drinking water lab accreditation reports (chemistry dated 2024-06-11; microbiology dated 2024-06-13)',
         source_url=PA_SRC[0] if l['in_chem_report'] else PA_SRC[1],
         source_url_2=PA_SRC[1] if (l['in_chem_report'] and l['in_micro_report']) else None,
-        source_date='2024-06-11 / 2024-06-13',last_verified=V)
+        source_date='2024-06-11 / 2024-06-13',last_verified=V_PA)
     if l['dep_lab_id']=='14-00588':
         l2['name']='Penn State Agricultural Analytical Services Laboratory'
         l2['address']='720 Tower Rd, University Park, PA 16802'
         l2['website']='https://agsci.psu.edu/aasl/water-testing/drinking-water-testing'
-        l2['note']='Mail-in kit (cooler, bottles, form) from many county extension offices; overnight shipping; bacteria sample must arrive within 30 hours and cannot be accepted on a Friday; results typically 10–14 business days. Fee table on the lab page (retrieved 2026-10-26). The PA DEP report lists this lab at a different address string; the street address shown here is from the lab\'s own page.'
+        l2['note']='Mail-in kit (cooler, bottles, form) from many county extension offices; overnight shipping; bacteria sample must arrive within 30 hours and cannot be accepted on a Friday; results typically 10–14 business days. Fee table on the lab page (retrieved 2026-10-26, re-checked 2026-10-30). The PA DEP report lists this lab at a different address string; the street address shown here is from the lab\'s own page.'
         l2['group']='main'
     if l['dep_lab_id'] in ('39-04427','33-00325'): l2['group']='limited'   # bottler / coal-analysis lab: not a typical homeowner lab
     if l['dep_lab_id']=='08-05636':
@@ -39,7 +40,7 @@ out.sort(key=lambda r:({'main':0,'public':1,'limited':2}[r['group']],r['city'].l
 json.dump(dict(state='Pennsylvania',slug='pennsylvania',abbr='PA',
   list_source=dict(name='Pennsylvania DEP — Laboratory Accreditation, drinking water reports',page_url='https://www.pa.gov/agencies/dep/residents/my-water/private-wells/water-testing',
      report_urls=PA_SRC,report_date='June 2024 (reports dated 2024-06-11 and 2024-06-13)'),
-  last_verified=V,labs=out),open('src/_data/labs/pennsylvania.json','w'),indent=1)
+  last_verified=V_PA,labs=out),open('src/_data/labs/pennsylvania.json','w'),indent=1)
 print('PA',len(out),{g:sum(1 for x in out if x['group']==g) for g in('main','public','limited')})
 # ---------- OH
 OH_SRC='https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf'
