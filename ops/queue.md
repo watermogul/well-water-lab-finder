@@ -24,14 +24,15 @@ Still open:
    - 2026-10-28 nightly run: passed over again for the same reason (page update, not a new page). Shipped #11 (NH arsenic/radon/uranium guide) instead.
    - 2026-10-29 nightly run: passed over again (page update). Shipped #12 (Ohio where-to-test guide) instead. Suggest scheduling a dedicated page-update run for this.
    - 2026-10-30 nightly run: passed over again (page update). Shipped #13 (NY flood/drought guide) instead. All new-page queue items in "State guides" are now used; next nightly should take an evergreen guide (#14-#17) or do #9 as a page update.
+   - 2026-10-31 nightly run: passed over again (page update). Shipped #14 (how to collect a well water sample) instead.
 
 ## State guides (free / low-cost programs and local risks, from state sources only)
 (#13 NY flood/drought guide shipped 2026-10-30.)
 
 ## Evergreen guides
-14. **How to collect a well water sample (bacteria vs chemistry)** — from lab instructions (Penn State, NH PHL already fetched) and EPA.
+(#14 how-to-collect-a-sample guide shipped 2026-10-31.)
 15. **Reading your results: maximum contaminant levels in plain English** — EPA MCL list (PA DEP also links PA_MCLs_06.pdf — check date).
-16. **Shock chlorination: when and how** — state extension/DEP source only.
+16. **Shock chlorination: when and how** — state extension/DEP source only. Candidate sources seen 2026-10-31: CSU Extension "Bacteria in Water Wells" (shock chlorination steps, 200 ppm, well-volume table; page modified 2026-07-24), TCEQ GI-432 "Disinfecting Your Private Well" (www.tceq.texas.gov/goto/gi-432, not yet fetched), NYS DOH 12-step well disinfection (already cited on the NY flood guide).
 17. **Buying a house with a well: what to test and when** — NHDES home-buyer test plus EPA.
 
 ## Kits and money pages (blocked until affiliate approval)
@@ -82,3 +83,9 @@ Still open:
 - **NYS DOH Fact Sheet #3 (water quality testing)** — good primary source for evergreen #14 / #15 (condition-based test list).
 - **NYS DOH pub 6562 (printed 2/17) prints old Wadsworth/DEC URLs that have moved.** Don't cite those printed URLs; use current pages.
 - **PA live accredited-lab report** — DEP's Laboratory Reports page links an SSRS "Accredited Labs" report (cedatareporting.pa.gov/Reportserver/...Lab_Certification). If it can be exported (CSV/PDF) it may be newer than the June 2024 PDFs that /labs/pennsylvania/ uses. Check its date and the drinking-water filter before switching.
+
+## New ideas (found while building the sampling guide, 2026-10-31)
+- **NH PHL submittal form changed (file created 2026-07-29):** the bacteria-sample flush step is now "run the water for 1 minute" after cleaning the rim (older form said 5 minutes); fees match /guides/how-much-does-well-water-testing-cost/ ($95 standard, $120 with radon, $17 bacteria, $35 basic). Radon and nitrate/nitrite hold time is 48 hours. Re-check the NH arsenic guide's PHL wording on its next re-verification.
+- **Colorado CDPHE "Collecting water samples" page** (cdphe.colorado.gov/laboratory-services/4-collecting-water-samples) has detailed state-lab rules (fill between 100 and 120 mL, alcohol not bleach on the faucet, 24-hour receipt) but returned 403 to curl and WebFetch on 2026-10-31. Not used. Try again or via browser before citing.
+- **TCEQ GI-433 points to a Texas accredited-lab list** (www.tceq.texas.gov/goto/certified_labs). Texas was skipped on 2026-10-27 for no downloadable list; re-check where this link lands.
+- **"What your bacteria result means" guide** — TCEQ GI-433 (absent / present / unsuitable for analysis) plus CSU (retest 1-2 weeks after disinfection) and NYS DOH. Fits with evergreen #15.
