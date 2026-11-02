@@ -25,13 +25,13 @@ Still open:
    - 2026-10-29 nightly run: passed over again (page update). Shipped #12 (Ohio where-to-test guide) instead. Suggest scheduling a dedicated page-update run for this.
    - 2026-10-30 nightly run: passed over again (page update). Shipped #13 (NY flood/drought guide) instead. All new-page queue items in "State guides" are now used; next nightly should take an evergreen guide (#14-#17) or do #9 as a page update.
    - 2026-10-31 nightly run: passed over again (page update). Shipped #14 (how to collect a well water sample) instead.
+   - 2026-11-01 nightly run: passed over again (page update). Shipped #15 (reading your results / MCLs) instead.
 
 ## State guides (free / low-cost programs and local risks, from state sources only)
 (#13 NY flood/drought guide shipped 2026-10-30.)
 
 ## Evergreen guides
-(#14 how-to-collect-a-sample guide shipped 2026-10-31.)
-15. **Reading your results: maximum contaminant levels in plain English** — EPA MCL list (PA DEP also links PA_MCLs_06.pdf — check date).
+(#14 how-to-collect-a-sample guide shipped 2026-10-31. #15 reading-results/MCL guide shipped 2026-11-01.)
 16. **Shock chlorination: when and how** — state extension/DEP source only. Candidate sources seen 2026-10-31: CSU Extension "Bacteria in Water Wells" (shock chlorination steps, 200 ppm, well-volume table; page modified 2026-07-24), TCEQ GI-432 "Disinfecting Your Private Well" (www.tceq.texas.gov/goto/gi-432, not yet fetched), NYS DOH 12-step well disinfection (already cited on the NY flood guide).
 17. **Buying a house with a well: what to test and when** — NHDES home-buyer test plus EPA.
 
@@ -89,3 +89,11 @@ Still open:
 - **Colorado CDPHE "Collecting water samples" page** (cdphe.colorado.gov/laboratory-services/4-collecting-water-samples) has detailed state-lab rules (fill between 100 and 120 mL, alcohol not bleach on the faucet, 24-hour receipt) but returned 403 to curl and WebFetch on 2026-10-31. Not used. Try again or via browser before citing.
 - **TCEQ GI-433 points to a Texas accredited-lab list** (www.tceq.texas.gov/goto/certified_labs). Texas was skipped on 2026-10-27 for no downloadable list; re-check where this link lands.
 - **"What your bacteria result means" guide** — TCEQ GI-433 (absent / present / unsuitable for analysis) plus CSU (retest 1-2 weeks after disinfection) and NYS DOH. Fits with evergreen #15.
+
+## New ideas (found while building the reading-results/MCL guide, 2026-11-01)
+- **Watch EPA's PFAS rulemaking.** On 2026-05-18 EPA proposed keeping the PFOA/PFOS MCLs (4.0 ppt) with an option to extend compliance to 2031, and rescinding the PFHxS/PFNA/HFPO-DA/Hazard Index MCLs. /guides/reading-well-water-test-results-mcls/ describes these as proposals. Update that section when EPA finalizes either rule (check https://www.epa.gov/sdwa/and-polyfluoroalkyl-substances-pfas).
+- **Lead action level change on 2027-11-01** (LCRI): EPA's table says the public-system lead action level becomes 0.010 mg/L. Update the MCL guide's lead row after that date.
+- **PA DEP MCL sheet (pa-mcls_06.pdf) is dated April 2006.** It is still linked from PA DOH's Sept 2024 guide. Not used. Look for a current PA DEP MCL list (PA adopted its own PFOA/PFOS MCLs) before citing any PA-specific numbers.
+- **Penn State Drinking Water Interpretation Tool (DWIT)**: named on extension.psu.edu (best-management-practices page). Not fetched tonight. Verify its current URL before linking it from the MCL guide.
+- **State-specific "reading your results" pages**: NH (NHDES standards, 5 ppb arsenic), Ohio (ODH nitrate/arsenic sheets, see Ohio ideas), and a "what your bacteria result means" page (see 2026-10-31 ideas) can each link back to the MCL guide.
+- **Penn State video transcript typo:** it says arsenic's standard is "0.10 milligrams per liter" (EPA MCL is 0.010). Noted on the page; not reported to Penn State (that would be a user action).
