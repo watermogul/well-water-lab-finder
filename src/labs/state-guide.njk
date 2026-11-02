@@ -1,0 +1,32 @@
+---
+layout: base.njk
+pagination:
+  data: stateGuides
+  size: 1
+  alias: gkey
+  addAllPagesToCollections: true
+permalink: "labs/{{ gkey }}/index.html"
+eleventyComputed:
+  title: "Well water testing in {{ stateGuides[gkey].name }}: official lab search and state program"
+  description: "Where {{ stateGuides[gkey].name }} well owners find a state-certified drinking-water lab, with official links, sourced fees where published, and what we could not verify. Checked {{ stateGuides[gkey].last_verified }}."
+---
+{% set g = stateGuides[gkey] %}
+<nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a> › <a href="/labs/">Labs</a> › {{ g.name }}</nav>
+<h1>Well water testing in {{ g.name }}: where to find a certified lab</h1>
+<p class="meta">Links checked: {{ g.last_verified }} · State list type: {{ g.list_type }}</p>
+<p>We do not list individual {{ g.name }} labs yet. {% if g.list_type == 'interactive search' %}{{ g.name }} publishes its certified labs through a search tool, so the official search is the most current place to look.{% else %}{{ g.name }} publishes a list we have not yet checked line by line, so we link to it rather than copy it.{% endif %} Use the official links below, and ask any lab to confirm that it is certified for drinking water for the tests you want and that it accepts samples from homeowners.</p>
+<h2>Official links</h2>
+<ul>{% for r in g.resources %}<li><a href="{{ r.url }}" rel="noopener">{{ r.label }}</a>{% if r.checked == 'blocked' %} <span class="small">(the site blocked our automated check on {{ g.last_verified }}; we found the link through the agency's own pages)</span>{% endif %}</li>{% endfor %}</ul>
+<h2>What the official sources say</h2>
+<ul>{% for f in g.facts %}<li>{{ f }}</li>{% endfor %}</ul>
+{% if g.fees.length %}
+<h2>Published fees</h2>
+<table><thead><tr><th>Test</th><th>Fee</th></tr></thead><tbody>
+{% for f in g.fees %}<tr><td>{{ f.test }} (<a href="{{ f.source }}" rel="noopener">source</a>)</td><td>{{ f.fee }}</td></tr>{% endfor %}
+</tbody></table>
+<p class="small">Fees as published on the source page on {{ g.last_verified }}. They can change; confirm before you send a sample.</p>
+{% endif %}
+<div class="notice"><strong>What we could not verify</strong>
+<ul>{% for u in g.unverified %}<li>{{ u }}</li>{% endfor %}</ul></div>
+<p>Next: <a href="/guides/what-to-test-well-water-for/">what to test your well water for</a> · <a href="/guides/how-to-collect-a-well-water-sample/">how to collect a sample</a> · <a href="/guides/how-much-does-well-water-testing-cost/">what testing costs</a>.</p>
+<p class="small">See <a href="/how-we-verify/">how we verify</a>.</p>

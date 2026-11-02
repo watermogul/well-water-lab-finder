@@ -97,3 +97,26 @@ Still open:
 - **Penn State Drinking Water Interpretation Tool (DWIT)**: named on extension.psu.edu (best-management-practices page). Not fetched tonight. Verify its current URL before linking it from the MCL guide.
 - **State-specific "reading your results" pages**: NH (NHDES standards, 5 ppb arsenic), Ohio (ODH nitrate/arsenic sheets, see Ohio ideas), and a "what your bacteria result means" page (see 2026-10-31 ideas) can each link back to the MCL guide.
 - **Penn State video transcript typo:** it says arsenic's standard is "0.10 milligrams per liter" (EPA MCL is 0.010). Noted on the page; not reported to Penn State (that would be a user action).
+
+
+## Added 2026-11-02: transcribe downloadable state lab lists into full listings
+- Illinois: https://epa.illinois.gov/topics/labs/lab-accreditation/accredited-labs.html
+- Georgia: https://epd.georgia.gov/document/pdf/laboratoriescertifiedbygeorgiamicrobiologicalmonitoring2025/download
+- Indiana: https://www.in.gov/idem/cleanwater/files/dw_cert_lab_in-state.pdf
+- Iowa: https://programs.iowadnr.gov/labcert/Home/LabListing
+- Kentucky: https://eec.ky.gov/Environmental-Protection/Water/PermitCert/LabCert/Pages/Drinking-Water-Lab-Certification-Program.aspx
+- Missouri: https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories
+- Alabama: https://adem.alabama.gov/water/drinking-water-branch/information-public-water-systems/adem-drinking-water-laboratory-certification-program
+- Colorado: https://cdphe.colorado.gov/dwlabs
+- Idaho: https://healthandwelfare.idaho.gov/providers/idaho-laboratories-and-testing/drinking-water-testing-and-certification
+- Montana: https://waterquality.montana.edu/well-ed/testing/certifiedlabs.html
+- Nebraska: https://dhhs.ne.gov/Public%20Health%20Lab%20Documents/certified%20labs.pdf
+- Louisiana: https://ldh.la.gov/page/laboratory-certification
+- Mississippi: https://msdh.ms.gov/safe-food-water-and-housing/water-supply/private-well-water-testing/water-supply-certification-labs
+- New Mexico: https://www.env.nm.gov/drinking_water/lab-certification/
+- Utah: https://deq.utah.gov/ddw/lab-sampling-resources
+- Wyoming: https://www.epa.gov/region8-waterops/certified-drinking-water-laboratories-systems-wyoming-and-tribal-lands-epa-region
+- South Dakota: https://danr.sd.gov/OfficeOfWater/DrinkingWater/LaboratoryCert.aspx
+- Hawaii: https://health.hawaii.gov/sdwb/files/2025/12/Certified_Labs_202512.pdf
+- Massachusetts: MassDEP private-well lab XLSX (mass.gov blocks curl; try browser)
+- Kentucky: certified-lab PDF link 404 on 2026-11-02; find new URL

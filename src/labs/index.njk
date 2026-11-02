@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: "Well water testing labs by state"
-description: "State-by-state lists of accredited drinking-water labs for private-well owners: Connecticut, Maine, Maryland, Michigan, Minnesota, New Hampshire, New York, Ohio, Pennsylvania, Rhode Island, Tennessee, Vermont, Virginia, West Virginia and Wisconsin."
+description: "Where to find a state-certified drinking-water lab for your private well in all 50 states: lab listings for 15 states and official lab-search links for the other 35."
 ---
 <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a> › Labs</nav>
 <h1>Well water testing labs by state</h1>
@@ -17,4 +17,13 @@ description: "State-by-state lists of accredited drinking-water labs for private
 {% endfor %}
 </tbody></table>
 <p class="small">Counts are split into main (commercial and independent labs), utility/agency labs that mostly serve their own customers, and limited-scope labs (for example, a single test, or out-of-state labs). The groups follow each state's own list; where we sorted labs by name, the state page says so. New York is limited to the labs registered with Westchester County; use the state's ELAP search for the rest of the state. See the <a href="/labs/new-york/">New York page</a>.</p>
-<p class="small">Not listed yet: states whose official lab list is only an interactive search (for example New Jersey and Massachusetts) or is not published as a list we could verify. We would rather leave a state out than guess.</p>
+<h2>Other states: official lab search and testing program</h2>
+<p>For these states we have not yet checked individual labs line by line. Each page links to the state's official certified-lab search or list and its private-well testing program, with fees only where an official page publishes them.</p>
+<table>
+<thead><tr><th>State</th><th>Official list type</th><th>Checked</th></tr></thead>
+<tbody>
+{% for key, g in stateGuides %}
+<tr><td><a href="/labs/{{ key }}/">{{ g.name }}</a></td><td>{{ g.list_type }}</td><td>{{ g.last_verified }}</td></tr>
+{% endfor %}
+</tbody></table>
+<p class="small">Not covered yet: the District of Columbia and US territories.</p>
