@@ -26,13 +26,13 @@ Still open:
    - 2026-10-30 nightly run: passed over again (page update). Shipped #13 (NY flood/drought guide) instead. All new-page queue items in "State guides" are now used; next nightly should take an evergreen guide (#14-#17) or do #9 as a page update.
    - 2026-10-31 nightly run: passed over again (page update). Shipped #14 (how to collect a well water sample) instead.
    - 2026-11-01 nightly run: passed over again (page update). Shipped #15 (reading your results / MCLs) instead.
+   - 2026-11-02 nightly run: passed over again (page update). Shipped #16 (shock chlorination) instead.
 
 ## State guides (free / low-cost programs and local risks, from state sources only)
 (#13 NY flood/drought guide shipped 2026-10-30.)
 
 ## Evergreen guides
-(#14 how-to-collect-a-sample guide shipped 2026-10-31. #15 reading-results/MCL guide shipped 2026-11-01.)
-16. **Shock chlorination: when and how** — state extension/DEP source only. Candidate sources seen 2026-10-31: CSU Extension "Bacteria in Water Wells" (shock chlorination steps, 200 ppm, well-volume table; page modified 2026-07-24), TCEQ GI-432 "Disinfecting Your Private Well" (www.tceq.texas.gov/goto/gi-432, not yet fetched), NYS DOH 12-step well disinfection (already cited on the NY flood guide).
+(#14 how-to-collect-a-sample guide shipped 2026-10-31. #15 reading-results/MCL guide shipped 2026-11-01. #16 shock chlorination guide shipped 2026-11-02.)
 17. **Buying a house with a well: what to test and when** — NHDES home-buyer test plus EPA.
 
 ## Kits and money pages (blocked until affiliate approval)
@@ -120,3 +120,9 @@ Still open:
 - Hawaii: https://health.hawaii.gov/sdwb/files/2025/12/Certified_Labs_202512.pdf
 - Massachusetts: MassDEP private-well lab XLSX (mass.gov blocks curl; try browser)
 - Kentucky: certified-lab PDF link 404 on 2026-11-02; find new URL
+
+## New ideas (found while building the shock chlorination guide, 2026-11-02)
+- **TCEQ approved-bleach list** (www.tceq.texas.gov/goto/bleach, cited in GI-432). Not fetched. Check before naming any brands.
+- **"Bacteria came back after chlorinating" guide**: CSU covers biofilm, well cap/casing/seal repair and septic causes. Pair it with a state well-inspection or contractor-licensing page.
+- **Iron bacteria in wells**: CSU covers detection and prevention. Could be a short evergreen guide; it needs a second extension source.
+- **Re-verification due**: pages built 2026-10-26 (NH, Ohio, NY/Westchester, MD) are now 7 days old and have not been re-verified. NH is the oldest list (2024-09-20). Do NH next, via WebFetch.
