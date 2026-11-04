@@ -27,13 +27,13 @@ Still open:
    - 2026-10-31 nightly run: passed over again (page update). Shipped #14 (how to collect a well water sample) instead.
    - 2026-11-01 nightly run: passed over again (page update). Shipped #15 (reading your results / MCLs) instead.
    - 2026-11-02 nightly run: passed over again (page update). Shipped #16 (shock chlorination) instead.
+   - 2026-11-03 nightly run: passed over again (page update). Shipped #17 (buying a house with a well) instead. No evergreen new-page items remain; next nightly should take a 'New ideas' item or do #9 as a page update.
 
 ## State guides (free / low-cost programs and local risks, from state sources only)
 (#13 NY flood/drought guide shipped 2026-10-30.)
 
 ## Evergreen guides
-(#14 how-to-collect-a-sample guide shipped 2026-10-31. #15 reading-results/MCL guide shipped 2026-11-01. #16 shock chlorination guide shipped 2026-11-02.)
-17. **Buying a house with a well: what to test and when** — NHDES home-buyer test plus EPA.
+(#14 how-to-collect-a-sample guide shipped 2026-10-31. #15 reading-results/MCL guide shipped 2026-11-01. #16 shock chlorination guide shipped 2026-11-02. #17 buying-a-house-with-a-well guide shipped 2026-11-03.)
 
 ## Kits and money pages (blocked until affiliate approval)
 18. **Tap Score review/comparison** — blocked: affiliate not applied for; need verified kit price and lab accreditation from their own pages (the product URL I tried returned 404).
@@ -126,3 +126,10 @@ Still open:
 - **"Bacteria came back after chlorinating" guide**: CSU covers biofilm, well cap/casing/seal repair and septic causes. Pair it with a state well-inspection or contractor-licensing page.
 - **Iron bacteria in wells**: CSU covers detection and prevention. Could be a short evergreen guide; it needs a second extension source.
 - **Re-verification due**: pages built 2026-10-26 (NH, Ohio, NY/Westchester, MD) are now 7 days old and have not been re-verified. NH is the oldest list (2024-09-20). Do NH next, via WebFetch.
+
+## New ideas (found while building the home-buyer guide, 2026-11-03)
+- **State sale-testing rules page**: Oregon (ORS 448.271, verified 2026-11-03) requires seller testing for arsenic, nitrate, coliform; NJ PWTA (dep.nj.gov/privatewells/pwta/ blocked WebFetch with Incapsula tonight; try browser); Rhode Island reportedly requires testing at sale (unverified). Build a per-state table only from each state's own page.
+- **Oregon domestic well guide**: OHA RET page links accredited labs and Well Report Query; could become an Oregon page from OHA sources.
+- **VDH 'Buying a Home with a Well' video** linked from the VDH private well page; VDH real-estate FAQ metadata says modified 2017. Look for a newer VDH page before relying on it further.
+- **Well yield/flow tests for buyers**: need a state or extension source with a method before writing.
+- **Re-verification still due**: NH lab list (/labs/new-hampshire/). NHDES April 2026 guidance fetched 2026-11-03 still says "Lab list updated 9/20/2024" (lab names unchanged at a glance); do a full row-by-row compare next run.
