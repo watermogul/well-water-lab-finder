@@ -27,6 +27,7 @@ Still open:
    - 2026-10-31 nightly run: passed over again (page update). Shipped #14 (how to collect a well water sample) instead.
    - 2026-11-01 nightly run: passed over again (page update). Shipped #15 (reading your results / MCLs) instead.
    - 2026-11-02 nightly run: passed over again (page update). Shipped #16 (shock chlorination) instead.
+   - 2026-11-04 nightly run: passed over again (page update). Shipped 'what your bacteria result means' guide (New ideas) instead.
    - 2026-11-03 nightly run: passed over again (page update). Shipped #17 (buying a house with a well) instead. No evergreen new-page items remain; next nightly should take a 'New ideas' item or do #9 as a page update.
 
 ## State guides (free / low-cost programs and local risks, from state sources only)
@@ -88,7 +89,6 @@ Still open:
 - **NH PHL submittal form changed (file created 2026-07-29):** the bacteria-sample flush step is now "run the water for 1 minute" after cleaning the rim (older form said 5 minutes); fees match /guides/how-much-does-well-water-testing-cost/ ($95 standard, $120 with radon, $17 bacteria, $35 basic). Radon and nitrate/nitrite hold time is 48 hours. Re-check the NH arsenic guide's PHL wording on its next re-verification.
 - **Colorado CDPHE "Collecting water samples" page** (cdphe.colorado.gov/laboratory-services/4-collecting-water-samples) has detailed state-lab rules (fill between 100 and 120 mL, alcohol not bleach on the faucet, 24-hour receipt) but returned 403 to curl and WebFetch on 2026-10-31. Not used. Try again or via browser before citing.
 - **TCEQ GI-433 points to a Texas accredited-lab list** (www.tceq.texas.gov/goto/certified_labs). Texas was skipped on 2026-10-27 for no downloadable list; re-check where this link lands.
-- **"What your bacteria result means" guide** — TCEQ GI-433 (absent / present / unsuitable for analysis) plus CSU (retest 1-2 weeks after disinfection) and NYS DOH. Fits with evergreen #15.
 
 ## New ideas (found while building the reading-results/MCL guide, 2026-11-01)
 - **Watch EPA's PFAS rulemaking.** On 2026-05-18 EPA proposed keeping the PFOA/PFOS MCLs (4.0 ppt) with an option to extend compliance to 2031, and rescinding the PFHxS/PFNA/HFPO-DA/Hazard Index MCLs. /guides/reading-well-water-test-results-mcls/ describes these as proposals. Update that section when EPA finalizes either rule (check https://www.epa.gov/sdwa/and-polyfluoroalkyl-substances-pfas).
@@ -133,3 +133,10 @@ Still open:
 - **VDH 'Buying a Home with a Well' video** linked from the VDH private well page; VDH real-estate FAQ metadata says modified 2017. Look for a newer VDH page before relying on it further.
 - **Well yield/flow tests for buyers**: need a state or extension source with a method before writing.
 - **Re-verification still due**: NH lab list (/labs/new-hampshire/). NHDES April 2026 guidance fetched 2026-11-03 still says "Lab list updated 9/20/2024" (lab names unchanged at a glance); do a full row-by-row compare next run.
+
+## New ideas (found while building the bacteria-result guide, 2026-11-04)
+- **NH lab-list re-verification is due by 2026-11-06** (PA was last re-verified 2026-10-30). Do NH row-by-row via WebFetch next run.
+- **Continuous disinfection guide (UV vs chlorination)**: Penn State Coliform Bacteria (2025-09-08) covers both with limits (UV not for >1,000 TC or >100 fecal coliform per 100 mL). Needs a second extension or state source; no equipment prices.
+- **Sanitary well caps / well-cap inspection**: Penn State and CSU both point to caps and casing; find a state or extension how-to with photos/specs.
+- **NYS DOH bacteria fact sheet**: health.ny.gov/.../bacteria_fact_sheet.htm returned 404 on 2026-11-04. Find the current NYS DOH coliform page before citing NY.
+- **Penn State 2006 survey (coliform ~35%, E. coli ~15% of 450 PA wells)**: possible PA-specific context; quote with its date only.
