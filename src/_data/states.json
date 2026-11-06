@@ -508,5 +508,47 @@
   ],
   "name": "Rhode Island",
   "abbr": "RI"
+ },
+ "georgia": {
+  "title": "Georgia labs certified for drinking-water microbiological monitoring (EPD list)",
+  "description": "The 16 commercial labs on Georgia EPD January 9, 2025 microbiological-monitoring certification list, with address, phone, lab ID and the source on every listing.",
+  "intro": [
+   "The Georgia Environmental Protection Division (EPD) publishes a PDF of commercial laboratories certified for microbiological monitoring of drinking water. The version transcribed here is dated January 9, 2025. Every lab on that list is certified for bacteria (microbiological monitoring); the PDF does not list chemistry certifications.",
+   "UGA's Agricultural and Environmental Services Lab (AESL) publishes its own homeowner water-test menu and fees, usually handled through a county Extension office. AESL is a separate UGA page from this EPD list; see the links below for current AESL fees."
+  ],
+  "caveats": [
+   "The EPD list is dated January 9, 2025. Certification can change after that date. Confirm with EPD or the lab before you send a sample.",
+   "This is a microbiological-monitoring list only. It does not say which labs are certified for nitrate, metals, lead, arsenic or other chemistry tests, and it does not say which labs accept samples from private-well owners. Call first.",
+   "Contact-person names printed on the PDF are not reproduced here.",
+   "Labs whose names read as a water utility, government lab or industrial plant, and labs with an out-of-state address, are listed in separate groups. Out-of-state labs appear on EPD's commercial list by reciprocity; confirm they will take a Georgia homeowner sample.",
+   "One street address (Waypoint Analytical) is printed in the PDF with no space between \"Avenue\" and \"103\"; we show it as printed and note it on that listing.",
+   "We did not verify prices, turnaround times or websites for any lab on this page, so none are shown."
+  ],
+  "main_heading": "Georgia-address commercial labs on the microbiological list",
+  "public_heading": "Water-utility and government labs on the same list",
+  "public_note": "These are on EPD's commercial microbiological list, but their names read as a water company or the state EPD lab. They may serve their own system or compliance work. Call before sending a private-well sample.",
+  "limited_heading": "Out-of-state labs and industrial labs on the same list",
+  "limited_note": "Out-of-state labs are certified for Georgia microbiological monitoring by reciprocity. The industrial / food-plant lab is on the commercial list but is unlikely to be set up for homeowners. Confirm before you call.",
+  "chips_label": "On the EPD list for:",
+  "resources": [
+   {
+    "label": "Georgia EPD: Commercial labs certified for microbiological monitoring (PDF, January 9, 2025)",
+    "url": "https://epd.georgia.gov/document/pdf/laboratoriescertifiedbygeorgiamicrobiologicalmonitoring2025/download"
+   },
+   {
+    "label": "Georgia EPD: Drinking water (Watershed Protection Branch)",
+    "url": "https://epd.georgia.gov/watershed-protection-branch/drinking-water"
+   },
+   {
+    "label": "UGA AESL: water analyses and published fees",
+    "url": "https://aesl.ces.uga.edu/water.html"
+   },
+   {
+    "label": "Georgia DPH: Well water",
+    "url": "https://dph.georgia.gov/environmental-health/well-water"
+   }
+  ],
+  "name": "Georgia",
+  "abbr": "GA"
  }
 }

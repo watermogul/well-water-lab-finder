@@ -8,7 +8,7 @@
   "report_date": "April 2026 document; lab list \"updated 9/20/2024\"",
   "search_url": "https://www4.des.state.nh.us/certifiedlabs/certified-method.aspx"
  },
- "last_verified": "2026-10-26",
+ "last_verified": "2026-11-05",
  "labs": [
   {
    "name": "Eurofins Environmental Testing Eastern Analytical",
@@ -24,7 +24,7 @@
    "source_name": "NHDES, Water Testing Guidance for Private Well Users (April 2026; lab list updated 2024-09-20)",
    "source_url": "https://www.des.nh.gov/sites/g/files/ehbemt341/files/documents/labs-private-wells.pdf",
    "source_date": "2024-09-20 (lab list)",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-11-05",
    "note": "The state PDF's table text is garbled around this row; the name shown is our best reading of \"Environmental Testing Eastern Analytical / Eurofins\". Confirm on the lab website."
   },
   {
@@ -41,7 +41,7 @@
    "source_name": "NHDES, Water Testing Guidance for Private Well Users (April 2026; lab list updated 2024-09-20)",
    "source_url": "https://www.des.nh.gov/sites/g/files/ehbemt341/files/documents/labs-private-wells.pdf",
    "source_date": "2024-09-20 (lab list)",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-11-05",
    "note": "State lab; offers homeowner well-water testing on a fee-for-service basis. Fee table: see the cost guide. Fee form: https://nhphl.qualtraxcloud.com/ShowDocument.aspx?ID=7907 (retrieved 2026-10-26; the form itself prints no date).",
    "fee_source_url": "https://nhphl.qualtraxcloud.com/ShowDocument.aspx?ID=7907"
   },
@@ -59,7 +59,7 @@
    "source_name": "NHDES, Water Testing Guidance for Private Well Users (April 2026; lab list updated 2024-09-20)",
    "source_url": "https://www.des.nh.gov/sites/g/files/ehbemt341/files/documents/labs-private-wells.pdf",
    "source_date": "2024-09-20 (lab list)",
-   "last_verified": "2026-10-26"
+   "last_verified": "2026-11-05"
   },
   {
    "name": "Endyne Inc.",
@@ -75,7 +75,7 @@
    "source_name": "NHDES, Water Testing Guidance for Private Well Users (April 2026; lab list updated 2024-09-20)",
    "source_url": "https://www.des.nh.gov/sites/g/files/ehbemt341/files/documents/labs-private-wells.pdf",
    "source_date": "2024-09-20 (lab list)",
-   "last_verified": "2026-10-26"
+   "last_verified": "2026-11-05"
   },
   {
    "name": "Seacoast Analytical Services LLC",
@@ -91,7 +91,7 @@
    "source_name": "NHDES, Water Testing Guidance for Private Well Users (April 2026; lab list updated 2024-09-20)",
    "source_url": "https://www.des.nh.gov/sites/g/files/ehbemt341/files/documents/labs-private-wells.pdf",
    "source_date": "2024-09-20 (lab list)",
-   "last_verified": "2026-10-26"
+   "last_verified": "2026-11-05"
   },
   {
    "name": "Nelson Analytical LLC (Manchester)",
@@ -107,7 +107,7 @@
    "source_name": "NHDES, Water Testing Guidance for Private Well Users (April 2026; lab list updated 2024-09-20)",
    "source_url": "https://www.des.nh.gov/sites/g/files/ehbemt341/files/documents/labs-private-wells.pdf",
    "source_date": "2024-09-20 (lab list)",
-   "last_verified": "2026-10-26"
+   "last_verified": "2026-11-05"
   },
   {
    "name": "Nelson Analytical (Keene)",
@@ -123,7 +123,7 @@
    "source_name": "NHDES, Water Testing Guidance for Private Well Users (April 2026; lab list updated 2024-09-20)",
    "source_url": "https://www.des.nh.gov/sites/g/files/ehbemt341/files/documents/labs-private-wells.pdf",
    "source_date": "2024-09-20 (lab list)",
-   "last_verified": "2026-10-26"
+   "last_verified": "2026-11-05"
   },
   {
    "name": "Eurofins Portsmouth",
@@ -139,7 +139,7 @@
    "source_name": "NHDES, Water Testing Guidance for Private Well Users (April 2026; lab list updated 2024-09-20)",
    "source_url": "https://www.des.nh.gov/sites/g/files/ehbemt341/files/documents/labs-private-wells.pdf",
    "source_date": "2024-09-20 (lab list)",
-   "last_verified": "2026-10-26"
+   "last_verified": "2026-11-05"
   },
   {
    "name": "New England Radon Ltd.",
@@ -155,7 +155,24 @@
    "source_name": "NHDES, Water Testing Guidance for Private Well Users (April 2026; lab list updated 2024-09-20)",
    "source_url": "https://www.des.nh.gov/sites/g/files/ehbemt341/files/documents/labs-private-wells.pdf",
    "source_date": "2024-09-20 (lab list)",
-   "last_verified": "2026-10-26"
+   "last_verified": "2026-11-05"
+  },
+  {
+   "name": "Nelson Analytical (Maine)",
+   "address": "120 York Street, Kennebunk, ME",
+   "city": "Kennebunk",
+   "phone": "(207) 467-3478",
+   "drop_off": "Kennebunk, ME",
+   "website": "https://nelsonanalytical.com",
+   "group": "main",
+   "accredited_for": [
+    "NHELAP-accredited; NHDES lists it as serving NH private-well users (specific analytes: use the NHDES search linked above)"
+   ],
+   "source_name": "NHDES, Water Testing Guidance for Private Well Users (April 2026; lab list updated 2024-09-20)",
+   "source_url": "https://www.des.nh.gov/sites/g/files/ehbemt341/files/documents/labs-private-wells.pdf",
+   "source_date": "2024-09-20 (lab list)",
+   "last_verified": "2026-11-05",
+   "note": "Out-of-state NHDES private-well list row; re-verified 2026-11-05 against labs-private-wells.pdf."
   }
  ]
 }

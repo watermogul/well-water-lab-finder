@@ -1,1050 +1,1000 @@
 {
- "new-jersey": {
-  "name": "New Jersey",
-  "abbr": "NJ",
-  "list_type": "interactive search",
-  "resources": [
-   {
-    "label": "NJDEP Office of Quality Assurance: Certified Laboratories (real-time Data Miner lists)",
-    "url": "https://dep.nj.gov/dsr/oqa/certified-laboratories/",
-    "kind": "lab list",
-    "checked": "loaded"
-   },
-   {
-    "label": "NJDEP: Private Well Testing Act (PWTA)",
-    "url": "https://dep.nj.gov/privatewells/pwta/",
-    "kind": "program",
-    "checked": "loaded"
-   }
-  ],
-  "facts": [
-   "NJDEP's Office of Quality Assurance says its certified-lab lists are generated in real time from its Data Miner site, including \"Certified Drinking Water Labs\" and \"PWTA Laboratories Certified for Sampling\".",
-   "Under the Private Well Testing Act, wells must be tested when a property with a well is sold, and landlords must test every five years (NJDEP PWTA page).",
-   "NJDEP says to confirm a lab's status from its certificate and Annual Certified Parameter List, or by calling OQA at 609-292-3950."
-  ],
-  "fees": [],
-  "unverified": [
-   "We did not copy the Data Miner lists because they change daily and are generated on request.",
-   "We found no NJDEP-published fee schedule for homeowner testing."
-  ],
-  "last_verified": "2026-11-02"
- },
- "massachusetts": {
-  "name": "Massachusetts",
-  "abbr": "MA",
-  "list_type": "interactive search",
-  "resources": [
-   {
-    "label": "MassDEP: Find a certified laboratory for water testing",
-    "url": "https://www.mass.gov/how-to/find-a-certified-laboratory-for-water-testing",
-    "kind": "how-to",
-    "checked": "blocked"
-   },
-   {
-    "label": "MassDEP certified laboratory search database",
-    "url": "https://eeaonline.eea.state.ma.us/DEP/Labcert/labcert.aspx",
-    "kind": "lab list",
-    "checked": "loaded"
-   },
-   {
-    "label": "MassDEP: Private wells",
-    "url": "https://www.mass.gov/private-wells",
-    "kind": "program",
-    "checked": "blocked"
-   }
-  ],
-  "facts": [
-   "MassDEP's lab database is searchable by region, analyte and matrix; choose \"Potable (DrinkingWater)\" to limit results to drinking water.",
-   "Private wells in Massachusetts are regulated by the local board of health, which may set its own testing rules.",
-   "MassDEP says municipal treatment-plant labs generally do not take samples from private consumers other than local residents.",
-   "MassDEP's how-to page also links a spreadsheet of certified labs that offer services to private well owners."
-  ],
-  "fees": [],
-  "unverified": [
-   "mass.gov blocked our automated checker on 2026-11-02, so we have not yet transcribed MassDEP's private-well lab spreadsheet. We will add it as listings once we can verify it.",
-   "No state fee schedule; labs set their own prices."
-  ],
-  "last_verified": "2026-11-02"
- },
- "north-carolina": {
-  "name": "North Carolina",
-  "abbr": "NC",
-  "list_type": "interactive search",
-  "resources": [
-   {
-    "label": "NC State Laboratory of Public Health: certified drinking water lab search",
-    "url": "https://slphreporting.dph.ncdhhs.gov/Certification/CertifiedLaboratory.asp",
-    "kind": "lab list",
-    "checked": "loaded"
-   },
-   {
-    "label": "NCDHHS: Private well water testing FAQs",
-    "url": "https://epi.dph.ncdhhs.gov/oee/wellwater/faqs.html",
-    "kind": "program",
-    "checked": "loaded"
-   }
-  ],
-  "facts": [
-   "NCDHHS says new private wells must be tested by the State Laboratory of Public Health (arranged through your county health department) or a state-certified commercial lab, within 30 days of completion.",
-   "For existing wells, NCDHHS says to contact your county Environmental Health program or a certified commercial lab; procedures and fees vary by county."
-  ],
-  "fees": [],
-  "unverified": [
-   "County fees vary and we have not collected them.",
-   "The state search lets you pick contaminants; we did not copy its results."
-  ],
-  "last_verified": "2026-11-02"
- },
- "illinois": {
-  "name": "Illinois",
-  "abbr": "IL",
-  "list_type": "downloadable list (not yet transcribed here)",
-  "resources": [
-   {
-    "label": "Illinois EPA: Accredited labs (IL ELAP chemistry and IDPH microbiology lists)",
-    "url": "https://epa.illinois.gov/topics/labs/lab-accreditation/accredited-labs.html",
-    "kind": "lab list",
-    "checked": "loaded"
-   },
-   {
-    "label": "Illinois EPA: Well water testing",
-    "url": "https://epa.illinois.gov/topics/drinking-water/private-well-users/well-water-testing.html",
-    "kind": "program",
-    "checked": "loaded"
-   }
-  ],
-  "facts": [
-   "Illinois EPA says IL ELAP accredits labs for chemical analysis and IDPH accredits labs for microbiological analysis, and links both lists.",
-   "Illinois EPA says coliform bacteria and nitrate should be tested yearly and that most local health departments can do this; certified labs may be the only option for other chemicals."
-  ],
-  "fees": [],
-  "unverified": [
-   "We have not yet transcribed the Illinois lists into listings; they are queued.",
-   "No statewide fee schedule found."
-  ],
-  "last_verified": "2026-11-02"
- },
- "texas": {
-  "name": "Texas",
-  "abbr": "TX",
-  "list_type": "interactive search",
-  "resources": [
-   {
-    "label": "TCEQ: Steps to locate an accredited environmental laboratory",
-    "url": "https://www.tceq.texas.gov/assistance/resources/steps-to-locate-an-accredited-laboratory",
-    "kind": "how-to",
-    "checked": "loaded"
-   },
-   {
-    "label": "TCEQ: Environmental laboratory (NELAP) accreditation",
-    "url": "https://www.tceq.texas.gov/agency/qa/env_lab_accreditation.html",
-    "kind": "lab list",
-    "checked": "loaded"
-   },
-   {
-    "label": "TCEQ: How is my drinking water quality? (private wells)",
-    "url": "https://www.tceq.texas.gov/drinkingwater/my-drinking-water-quality",
-    "kind": "program",
-    "checked": "loaded"
-   }
-  ],
-  "facts": [
-   "TCEQ's instructions: in the accreditation database choose TCEQ as the accreditation body, Active = Yes, matrix \"drinking water\", then the analyte, then filter by your city.",
-   "TCEQ recommends using an accredited drinking-water laboratory to test private well water."
-  ],
-  "fees": [],
-  "unverified": [
-   "Search results are not copied here because they are generated on request.",
-   "No state fee schedule; labs set prices."
-  ],
-  "last_verified": "2026-11-02"
- },
- "california": {
-  "name": "California",
-  "abbr": "CA",
-  "list_type": "interactive search",
-  "resources": [
-   {
-    "label": "State Water Board: Environmental Laboratory Accreditation Program (ELAP)",
-    "url": "https://www.waterboards.ca.gov/drinking_water/certlic/labs/",
-    "kind": "lab list",
-    "checked": "loaded"
-   },
-   {
-    "label": "State Water Board GAMA: Domestic well testing",
-    "url": "https://www.waterboards.ca.gov/water_issues/programs/gama/domestic_wells_testing.html",
-    "kind": "program",
-    "checked": "loaded"
-   }
-  ],
-  "facts": [
-   "California's lab accreditation program is ELAP, run by the State Water Resources Control Board.",
-   "The GAMA domestic-well page is the Water Board's guidance for private (domestic) well owners."
-  ],
-  "fees": [],
-  "unverified": [
-   "We did not transcribe the ELAP list; it is published through an interactive map.",
-   "No state fee schedule; labs set prices."
-  ],
-  "last_verified": "2026-11-02"
- },
- "georgia": {
-  "name": "Georgia",
-  "abbr": "GA",
-  "list_type": "downloadable list (not yet transcribed here)",
-  "resources": [
-   {
-    "label": "Georgia EPD: Commercial labs certified for microbiological monitoring (Jan. 9, 2025 PDF)",
-    "url": "https://epd.georgia.gov/document/pdf/laboratoriescertifiedbygeorgiamicrobiologicalmonitoring2025/download",
-    "kind": "lab list",
-    "checked": "loaded"
-   },
-   {
-    "label": "UGA Agricultural & Environmental Services Lab: water analyses and fees",
-    "url": "https://aesl.ces.uga.edu/water.html",
-    "kind": "fees",
-    "checked": "loaded"
-   },
-   {
-    "label": "Georgia DPH: Well water",
-    "url": "https://dph.georgia.gov/environmental-health/well-water",
-    "kind": "program",
-    "checked": "loaded"
-   }
-  ],
-  "facts": [
-   "UGA's lab (AESL) publishes its own water test menu and fees; samples are usually sent through your county UGA Extension office."
-  ],
-  "fees": [
-   {
-    "test": "UGA AESL W1 Basic Water Test",
-    "fee": "$20.00",
-    "source": "https://aesl.ces.uga.edu/water.html"
-   },
-   {
-    "test": "UGA AESL W6 Nitrate-N",
-    "fee": "$12.00",
-    "source": "https://aesl.ces.uga.edu/water.html"
-   },
-   {
-    "test": "UGA AESL W33B Home Loan Closing package",
-    "fee": "$90.00",
-    "source": "https://aesl.ces.uga.edu/water.html"
-   }
-  ],
-  "unverified": [
-   "The EPD list is dated January 2025 and covers bacteria only; we have not transcribed it because it may be stale.",
-   "UGA fees are marked with an asterisk on UGA's page; read UGA's notes before relying on them."
-  ],
-  "last_verified": "2026-11-02"
- },
- "south-carolina": {
-  "name": "South Carolina",
-  "abbr": "SC",
-  "list_type": "interactive search",
-  "resources": [
-   {
-    "label": "SCDES: Commercial Environmental Laboratory Mapping (CELMapp)",
-    "url": "https://des.sc.gov/programs/bureau-regional-laboratory-services/environmental-laboratory-certification/commercial-environmental-laboratory-mapping-celmapp",
-    "kind": "lab list",
-    "checked": "loaded"
-   },
-   {
-    "label": "SCDES: Well water quality testing services",
-    "url": "https://www.des.sc.gov/programs/bureau-water/residential-wells/well-water-quality-testing-services",
-    "kind": "program",
-    "checked": "loaded"
-   }
-  ],
-  "facts": [
-   "SCDES publishes certified commercial labs on an interactive map (CELMapp) and runs its own well-testing service."
-  ],
-  "fees": [],
-  "unverified": [
-   "The SCDES testing-services page loads through scripts our checker could not read, so we have not confirmed its current fees or intake schedule. Check that page directly."
-  ],
-  "last_verified": "2026-11-02"
- },
- "indiana": {
-  "name": "Indiana",
-  "abbr": "IN",
-  "list_type": "downloadable list (not yet transcribed here)",
-  "resources": [
-   {
-    "label": "IDEM: Indiana certified drinking water laboratories (PDF)",
-    "url": "https://www.in.gov/idem/cleanwater/files/dw_cert_lab_in-state.pdf",
-    "kind": "lab list",
-    "checked": "loaded"
-   },
-   {
-    "label": "IDOH Laboratory: Well water testing",
-    "url": "https://www.in.gov/health/laboratories/testing/well-water",
-    "kind": "program",
-    "checked": "loaded"
-   },
-   {
-    "label": "IDOH: Well water quality and testing",
-    "url": "https://www.in.gov/health/eph/well-water-quality-and-testing/",
-    "kind": "program",
-    "checked": "loaded"
-   }
-  ],
-  "facts": [
-   "The Indiana Department of Health laboratory accepts private well samples; see its well-water page for tests offered."
-  ],
-  "fees": [],
-  "unverified": [
-   "We have not yet transcribed the IDEM PDF into listings; it is queued.",
-   "We have not copied IDOH lab fees yet."
-  ],
-  "last_verified": "2026-11-02"
- },
- "iowa": {
-  "name": "Iowa",
-  "abbr": "IA",
-  "list_type": "downloadable list (not yet transcribed here)",
-  "resources": [
-   {
-    "label": "Iowa DNR LabCert: list of certified labs",
-    "url": "https://programs.iowadnr.gov/labcert/Home/LabListing",
-    "kind": "lab list",
-    "checked": "loaded"
-   },
-   {
-    "label": "Iowa DNR: Well testing",
-    "url": "https://www.iowadnr.gov/environmental-protection/water-quality/private-well-program/well-testing",
-    "kind": "program",
-    "checked": "loaded"
-   },
-   {
-    "label": "Iowa HHS: Private Well Grants program",
-    "url": "https://hhs.iowa.gov/health-prevention/environmental-health/private-well-grants",
-    "kind": "program",
-    "checked": "loaded"
-   }
-  ],
-  "facts": [
-   "Iowa HHS runs a Private Well Grants program through county environmental health offices; ask your county what testing it covers."
-  ],
-  "fees": [],
-  "unverified": [
-   "We have not yet transcribed the DNR list into listings; it is queued.",
-   "What each county's grant pays for varies; we have not collected it."
-  ],
-  "last_verified": "2026-11-02"
- },
- "kentucky": {
-  "name": "Kentucky",
-  "abbr": "KY",
-  "list_type": "downloadable list (not yet transcribed here)",
-  "resources": [
-   {
-    "label": "Kentucky EEC: Drinking water lab certification program",
-    "url": "https://eec.ky.gov/Environmental-Protection/Water/PermitCert/LabCert/Pages/Drinking-Water-Lab-Certification-Program.aspx",
-    "kind": "lab list",
-    "checked": "loaded"
-   },
-   {
-    "label": "Kentucky EEC: Water well information for owners",
-    "url": "https://eec.ky.gov/Environmental-Protection/Water/GW/Pages/GWOwnerAssist.aspx",
-    "kind": "program",
-    "checked": "loaded"
-   }
-  ],
-  "facts": [
-   "Kentucky's Energy and Environment Cabinet certifies drinking-water labs and publishes a certified-lab list from its program page."
-  ],
-  "fees": [],
-  "unverified": [
-   "The direct link to Kentucky's certified-lab PDF returned \"not found\" on 2026-11-02, so we link the program page instead and have not transcribed the list."
-  ],
-  "last_verified": "2026-11-02"
- },
- "missouri": {
-  "name": "Missouri",
-  "abbr": "MO",
-  "list_type": "downloadable list (not yet transcribed here)",
-  "resources": [
-   {
-    "label": "Missouri DNR: Certified laboratories (chemical and microbiological lists)",
-    "url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories",
-    "kind": "lab list",
-    "checked": "loaded"
-   },
-   {
-    "label": "Missouri DHSS: Private drinking water",
-    "url": "https://health.mo.gov/prevention/environmental-factors/private-drinking-water",
-    "kind": "program",
-    "checked": "loaded"
-   }
-  ],
-  "facts": [
-   "Missouri DHSS's State Public Health Laboratory offers private-well testing; DHSS says kits come through your local public health agency."
-  ],
-  "fees": [],
-  "unverified": [
-   "We have not yet transcribed DNR's lists into listings; queued.",
-   "We have not copied DHSS fees."
-  ],
-  "last_verified": "2026-11-02"
- },
- "alabama": {
-  "name": "Alabama",
-  "abbr": "AL",
-  "list_type": "downloadable list (not yet transcribed here)",
-  "resources": [
-   {
-    "label": "ADEM: Drinking water laboratory certification program",
-    "url": "https://adem.alabama.gov/water/drinking-water-branch/information-public-water-systems/adem-drinking-water-laboratory-certification-program",
-    "kind": "lab list",
-    "checked": "loaded"
-   },
-   {
-    "label": "ADEM: Information for consumers",
-    "url": "https://adem.alabama.gov/water/drinking-water-branch/information-consumers",
-    "kind": "program",
-    "checked": "loaded"
-   },
-   {
-    "label": "Auburn University: Alabama Private Well Program",
-    "url": "https://aaes.auburn.edu/wrc/alabama-private-well-program/",
-    "kind": "program",
-    "checked": "loaded"
-   }
-  ],
-  "facts": [
-   "ADEM publishes its certified drinking-water lab lists on its certification program page."
-  ],
-  "fees": [],
-  "unverified": [
-   "We have not yet transcribed ADEM's lists; queued.",
-   "No statewide fee schedule found."
-  ],
-  "last_verified": "2026-11-02"
- },
- "florida": {
-  "name": "Florida",
-  "abbr": "FL",
-  "list_type": "interactive search",
-  "resources": [
-   {
-    "label": "Florida DEP: NELAP certified laboratory search",
-    "url": "https://floridadep.gov/dear/florida-dep-laboratory/content/nelap-certified-laboratory-search",
-    "kind": "lab list",
-    "checked": "blocked"
-   },
-   {
-    "label": "Florida DOH: Private well water testing",
-    "url": "https://www.floridahealth.gov/community-environmental-public-health/environmental-public-health/water-quality/drinking-water/private-wells/",
-    "kind": "program",
-    "checked": "loaded"
-   },
-   {
-    "label": "Florida DOH Bureau of Public Health Laboratories: Well water testing",
-    "url": "https://www.floridahealth.gov/community-environmental-public-health/public-health-laboratories/laboratory-services/environmental-laboratory-services/well-water-testing/",
-    "kind": "fees",
-    "checked": "loaded"
-   }
-  ],
-  "facts": [
-   "Florida DOH's Bureau of Public Health Laboratories (Jacksonville and Miami labs) tests private well water for E. coli and coliforms, with a stated processing time of 48 hours."
-  ],
-  "fees": [
-   {
-    "test": "E. coli and coliforms, private testing through Florida DOH BPHL",
-    "fee": "$40",
-    "source": "https://www.floridahealth.gov/community-environmental-public-health/public-health-laboratories/laboratory-services/environmental-laboratory-services/well-water-testing/"
-   }
-  ],
-  "unverified": [
-   "Your county health department may charge a different amount; ask them.",
-   "We did not copy the NELAP search results."
-  ],
-  "last_verified": "2026-11-02"
- },
- "washington": {
-  "name": "Washington",
-  "abbr": "WA",
-  "list_type": "interactive search",
-  "resources": [
-   {
-    "label": "Washington Ecology: Lab Search",
-    "url": "https://apps.ecology.wa.gov/laboratorysearch/",
-    "kind": "lab list",
-    "checked": "loaded"
-   },
-   {
-    "label": "Washington DOH: Nitrate and coliform testing labs (331-798, March 2026 PDF)",
-    "url": "https://doh.wa.gov/sites/default/files/2026-03/331-798.pdf",
-    "kind": "lab list",
-    "checked": "loaded"
-   },
-   {
-    "label": "Washington Ecology: Testing drinking water",
-    "url": "https://ecology.wa.gov/water-shorelines/water-supply/wells/testing-drinking-water",
-    "kind": "program",
-    "checked": "loaded"
-   }
-  ],
-  "facts": [
-   "Washington DOH publishes a list of nitrate and coliform testing labs (publication 331-798, dated March 2026)."
-  ],
-  "fees": [],
-  "unverified": [
-   "We have not yet transcribed DOH 331-798 into listings; queued."
-  ],
-  "last_verified": "2026-11-02"
- },
- "oregon": {
-  "name": "Oregon",
-  "abbr": "OR",
-  "list_type": "interactive search",
-  "resources": [
-   {
-    "label": "OHA ORELAP: Drinking water testing (find an accredited lab)",
-    "url": "https://www.oregon.gov/oha/ph/laboratoryservices/environmentallaboratoryaccreditation/pages/drinkingwatertesting.aspx",
-    "kind": "lab list",
-    "checked": "loaded"
-   },
-   {
-    "label": "OHA Domestic Well Safety: Well testing and regulations",
-    "url": "https://www.oregon.gov/oha/PH/HEALTHYENVIRONMENTS/DRINKINGWATER/SOURCEWATER/DOMESTICWELLSAFETY/Pages/Testing-Regulations.aspx",
-    "kind": "program",
-    "checked": "loaded"
-   }
-  ],
-  "facts": [
-   "Oregon requires domestic-well testing in real-estate transactions; see OHA's testing and regulations page for what is required."
-  ],
-  "fees": [],
-  "unverified": [
-   "We did not copy ORELAP search results.",
-   "No state fee schedule; labs set prices."
-  ],
-  "last_verified": "2026-11-02"
- },
- "colorado": {
-  "name": "Colorado",
-  "abbr": "CO",
-  "list_type": "downloadable list (not yet transcribed here)",
-  "resources": [
-   {
-    "label": "CDPHE: Drinking water lab certification",
-    "url": "https://cdphe.colorado.gov/dwlabs",
-    "kind": "lab list",
-    "checked": "loaded"
-   },
-   {
-    "label": "CDPHE: Drinking water: private wells",
-    "url": "https://cdphe.colorado.gov/drinking-water-private-wells",
-    "kind": "program",
-    "checked": "loaded"
-   }
-  ],
-  "facts": [
-   "CDPHE's drinking-water lab certification page publishes Colorado's certified labs."
-  ],
-  "fees": [],
-  "unverified": [
-   "We have not yet transcribed Colorado's list; queued.",
-   "We have not confirmed current CDPHE state-lab fees."
-  ],
-  "last_verified": "2026-11-02"
- },
- "idaho": {
-  "name": "Idaho",
-  "abbr": "ID",
-  "list_type": "downloadable list (not yet transcribed here)",
-  "resources": [
-   {
-    "label": "Idaho DHW: Drinking water testing and certification",
-    "url": "https://healthandwelfare.idaho.gov/providers/idaho-laboratories-and-testing/drinking-water-testing-and-certification",
-    "kind": "lab list",
-    "checked": "loaded"
-   },
-   {
-    "label": "Idaho DHW: Drinking water and private wells",
-    "url": "https://healthandwelfare.idaho.gov/health-wellness/environmental-health/drinking-water-and-private-wells",
-    "kind": "program",
-    "checked": "loaded"
-   }
-  ],
-  "facts": [
-   "Idaho's Bureau of Laboratories maintains the certified drinking-water lab directory."
-  ],
-  "fees": [],
-  "unverified": [
-   "Not yet transcribed; queued.",
-   "No state fee schedule collected."
-  ],
-  "last_verified": "2026-11-02"
- },
- "montana": {
-  "name": "Montana",
-  "abbr": "MT",
-  "list_type": "downloadable list (not yet transcribed here)",
-  "resources": [
-   {
-    "label": "MSU Extension: Certified Montana drinking water labs",
-    "url": "https://waterquality.montana.edu/well-ed/testing/certifiedlabs.html",
-    "kind": "lab list",
-    "checked": "loaded"
-   },
-   {
-    "label": "Montana DPHHS State Environmental Laboratory",
-    "url": "https://dphhs.mt.gov/publichealth/laboratoryservices/environmentallaboratory/index",
-    "kind": "program",
-    "checked": "blocked"
-   }
-  ],
-  "facts": [
-   "Montana State University Extension keeps a list of certified drinking-water labs for well owners; the DPHHS state environmental lab also takes private well samples."
-  ],
-  "fees": [],
-  "unverified": [
-   "The DPHHS lab page returned a server error to our checker on 2026-11-02.",
-   "MSU's list not yet transcribed; queued."
-  ],
-  "last_verified": "2026-11-02"
- },
- "nebraska": {
-  "name": "Nebraska",
-  "abbr": "NE",
-  "list_type": "downloadable list (not yet transcribed here)",
-  "resources": [
-   {
-    "label": "Nebraska DHHS: Certified labs (PDF)",
-    "url": "https://dhhs.ne.gov/Public%20Health%20Lab%20Documents/certified%20labs.pdf",
-    "kind": "lab list",
-    "checked": "loaded"
-   },
-   {
-    "label": "Nebraska Extension G1614: Certified water testing laboratories in Nebraska",
-    "url": "https://extensionpubs.unl.edu/publication/g1614/na/html/view",
-    "kind": "program",
-    "checked": "loaded"
-   }
-  ],
-  "facts": [
-   "Nebraska DHHS publishes its certified-lab list as a PDF."
-  ],
-  "fees": [],
-  "unverified": [
-   "Not yet transcribed; queued.",
-   "No state fee schedule collected."
-  ],
-  "last_verified": "2026-11-02"
- },
- "kansas": {
-  "name": "Kansas",
-  "abbr": "KS",
-  "list_type": "interactive search",
-  "resources": [
-   {
-    "label": "KDHE approved laboratories search (LAMS)",
-    "url": "https://ab.qamanager.com/publicparameters/11",
-    "kind": "lab list",
-    "checked": "loaded"
-   },
-   {
-    "label": "KDHE: Private well resource map",
-    "url": "https://www.kdhe.ks.gov/1851/Private-Well-Resource-Map",
-    "kind": "program",
-    "checked": "blocked"
-   }
-  ],
-  "facts": [
-   "KDHE lists its accredited labs in an online search (LAMS)."
-  ],
-  "fees": [],
-  "unverified": [
-   "kdhe.ks.gov blocked our checker on 2026-11-02.",
-   "No fees collected."
-  ],
-  "last_verified": "2026-11-02"
- },
- "oklahoma": {
-  "name": "Oklahoma",
-  "abbr": "OK",
-  "list_type": "interactive search",
-  "resources": [
-   {
-    "label": "Oklahoma DEQ: Search for an accredited laboratory",
-    "url": "https://oklahoma.gov/deq/divisions/state-environmental-laboratory-services/laboratory-accreditation/search-for-an-accredited-laboratory.html",
-    "kind": "lab list",
-    "checked": "loaded"
-   },
-   {
-    "label": "Oklahoma DEQ: Home water testing (PDF)",
-    "url": "https://oklahoma.gov/content/dam/ok/en/deq/documents/deqmainresources/HomeWaterTesting.pdf",
-    "kind": "program",
-    "checked": "loaded"
-   }
-  ],
-  "facts": [
-   "Oklahoma DEQ's accredited-lab search is the official way to find a lab; DEQ's State Environmental Laboratory also offers home water testing."
-  ],
-  "fees": [],
-  "unverified": [
-   "No fees collected.",
-   "Search results not copied."
-  ],
-  "last_verified": "2026-11-02"
- },
- "arkansas": {
-  "name": "Arkansas",
-  "abbr": "AR",
-  "list_type": "interactive search",
-  "resources": [
-   {
-    "label": "Arkansas DEQ: Accredited laboratories list (SEEK)",
-    "url": "https://adeq.state.ar.us/techsvs/lab_cert/labcert-seek.aspx",
-    "kind": "lab list",
-    "checked": "loaded"
-   },
-   {
-    "label": "Arkansas Department of Health: Water microbiology laboratory",
-    "url": "https://healthy.arkansas.gov/programs-services/public-health-safety/arkansas-public-health-laboratory/water-microbiology-laboratory/",
-    "kind": "program",
-    "checked": "blocked"
-   }
-  ],
-  "facts": [
-   "The Arkansas Department of Health's public health lab runs private-well bacteria testing; kits come through local health units."
-  ],
-  "fees": [],
-  "unverified": [
-   "The Department of Health site blocked our checker on 2026-11-02, so we have not confirmed its current fee or details."
-  ],
-  "last_verified": "2026-11-02"
- },
- "louisiana": {
-  "name": "Louisiana",
-  "abbr": "LA",
-  "list_type": "downloadable list (not yet transcribed here)",
-  "resources": [
-   {
-    "label": "LDH: Laboratory certification",
-    "url": "https://ldh.la.gov/page/laboratory-certification",
-    "kind": "lab list",
-    "checked": "loaded"
-   },
-   {
-    "label": "LDH: Private well testing information",
-    "url": "https://ldh.la.gov/page/well-testing-information",
-    "kind": "program",
-    "checked": "loaded"
-   }
-  ],
-  "facts": [
-   "LDH offers bacteriological testing of private wells; orders can be placed online or at a parish health unit (LDH well-testing page)."
-  ],
-  "fees": [
-   {
-    "test": "Bacteriological test, sanitarian-collected (includes lab analysis)",
-    "fee": "$150",
-    "source": "https://ldh.la.gov/page/well-testing-information"
-   },
-   {
-    "test": "Bacteriological test, owner-collected and dropped at parish health unit or lab",
-    "fee": "$40 per sample",
-    "source": "https://ldh.la.gov/page/well-testing-information"
-   }
-  ],
-  "unverified": [
-   "LDH's certified chemistry-lab list not yet transcribed; queued."
-  ],
-  "last_verified": "2026-11-02"
- },
- "mississippi": {
-  "name": "Mississippi",
-  "abbr": "MS",
-  "list_type": "downloadable list (not yet transcribed here)",
-  "resources": [
-   {
-    "label": "MSDH: Labs for private well water testing",
-    "url": "https://msdh.ms.gov/safe-food-water-and-housing/water-supply/private-well-water-testing/water-supply-certification-labs",
-    "kind": "lab list",
-    "checked": "loaded"
-   },
-   {
-    "label": "MSDH: Private well water testing",
-    "url": "https://msdh.ms.gov/page/30,18658,76,762.html",
-    "kind": "program",
-    "checked": "loaded"
-   }
-  ],
-  "facts": [
-   "MSDH publishes a page of certified labs for private well testing."
-  ],
-  "fees": [],
-  "unverified": [
-   "Not yet transcribed; queued.",
-   "No fees collected."
-  ],
-  "last_verified": "2026-11-02"
- },
- "new-mexico": {
-  "name": "New Mexico",
-  "abbr": "NM",
-  "list_type": "downloadable list (not yet transcribed here)",
-  "resources": [
-   {
-    "label": "NMED Drinking Water Bureau: Laboratory certification",
-    "url": "https://www.env.nm.gov/drinking_water/lab-certification/",
-    "kind": "lab list",
-    "checked": "loaded"
-   },
-   {
-    "label": "NMED: Private wells",
-    "url": "https://www.env.nm.gov/drinking_water/private-wells-2/",
-    "kind": "program",
-    "checked": "loaded"
-   }
-  ],
-  "facts": [
-   "NMED certifies drinking-water labs by test group; confirm a lab is certified for the tests you need and takes private samples."
-  ],
-  "fees": [],
-  "unverified": [
-   "Not yet transcribed; queued.",
-   "We have not confirmed details of any free NMED screening events."
-  ],
-  "last_verified": "2026-11-02"
- },
- "arizona": {
-  "name": "Arizona",
-  "abbr": "AZ",
-  "list_type": "interactive search",
-  "resources": [
-   {
-    "label": "ADHS: Licensed commercial drinking water laboratories search",
-    "url": "https://ells-lab-search.azdhs.gov/drinkingwatertestinglabsvs2/drinkingwatersearchcontentpage",
-    "kind": "lab list",
-    "checked": "loaded"
-   }
-  ],
-  "facts": [
-   "ADHS licenses Arizona's environmental labs and offers a drinking-water lab search."
-  ],
-  "fees": [],
-  "unverified": [
-   "We have not found an ADHS private-well program page that loads today.",
-   "No fees collected."
-  ],
-  "last_verified": "2026-11-02"
- },
- "nevada": {
-  "name": "Nevada",
-  "abbr": "NV",
-  "list_type": "interactive search",
-  "resources": [
-   {
-    "label": "NDEP: Laboratory certification",
-    "url": "https://www.ndep.nv.gov/water/lab-certification",
-    "kind": "lab list",
-    "checked": "loaded"
-   },
-   {
-    "label": "NDEP: Private wells",
-    "url": "https://www.ndep.nv.gov/water/drinking-water/information-for-consumers/private-wells",
-    "kind": "program",
-    "checked": "loaded"
-   }
-  ],
-  "facts": [
-   "NDEP runs Nevada's lab certification program and has a private-wells page for consumers."
-  ],
-  "fees": [],
-  "unverified": [
-   "No fees collected; search results not copied."
-  ],
-  "last_verified": "2026-11-02"
- },
- "utah": {
-  "name": "Utah",
-  "abbr": "UT",
-  "list_type": "downloadable list (not yet transcribed here)",
-  "resources": [
-   {
-    "label": "Utah DEQ Division of Drinking Water: Lab and sampling resources",
-    "url": "https://deq.utah.gov/ddw/lab-sampling-resources",
-    "kind": "lab list",
-    "checked": "loaded"
-   },
-   {
-    "label": "Utah Public Health Laboratory: Private wells",
-    "url": "https://uphl.utah.gov/environmental-chemistry-program/env_chem_privatewells/",
-    "kind": "program",
-    "checked": "loaded"
-   }
-  ],
-  "facts": [
-   "Utah's Division of Drinking Water publishes certified-lab resources; the Utah Public Health Laboratory has a private-well page."
-  ],
-  "fees": [],
-  "unverified": [
-   "Not yet transcribed; queued.",
-   "No fees collected."
-  ],
-  "last_verified": "2026-11-02"
- },
- "wyoming": {
-  "name": "Wyoming",
-  "abbr": "WY",
-  "list_type": "downloadable list (not yet transcribed here)",
-  "resources": [
-   {
-    "label": "EPA Region 8: Certified drinking water laboratories for Wyoming",
-    "url": "https://www.epa.gov/region8-waterops/certified-drinking-water-laboratories-systems-wyoming-and-tribal-lands-epa-region",
-    "kind": "lab list",
-    "checked": "loaded"
-   },
-   {
-    "label": "Wyoming Department of Health: Water testing",
-    "url": "https://health.wyo.gov/publichealth/lab/microbiology-lab/water/",
-    "kind": "program",
-    "checked": "loaded"
-   }
-  ],
-  "facts": [
-   "In Wyoming, drinking-water lab certification is handled by EPA Region 8, which publishes the list."
-  ],
-  "fees": [],
-  "unverified": [
-   "Not yet transcribed; queued.",
-   "No fees collected."
-  ],
-  "last_verified": "2026-11-02"
- },
- "south-dakota": {
-  "name": "South Dakota",
-  "abbr": "SD",
-  "list_type": "downloadable list (not yet transcribed here)",
-  "resources": [
-   {
-    "label": "SD DANR: Drinking water laboratory certification",
-    "url": "https://danr.sd.gov/OfficeOfWater/DrinkingWater/LaboratoryCert.aspx",
-    "kind": "lab list",
-    "checked": "loaded"
-   },
-   {
-    "label": "SD Department of Health: Test a private well",
-    "url": "https://doh.sd.gov/laboratory/environmental-testing/test-a-private-well/",
-    "kind": "program",
-    "checked": "loaded"
-   }
-  ],
-  "facts": [
-   "The South Dakota Department of Health laboratory tests private wells; see its page for how to request bottles."
-  ],
-  "fees": [],
-  "unverified": [
-   "Not yet transcribed; queued.",
-   "No fees collected."
-  ],
-  "last_verified": "2026-11-02"
- },
- "north-dakota": {
-  "name": "North Dakota",
-  "abbr": "ND",
-  "list_type": "interactive search",
-  "resources": [
-   {
-    "label": "ND HHS Laboratory: Water testing",
-    "url": "https://www.hhs.nd.gov/Laboratory-services/water-testing",
-    "kind": "program",
-    "checked": "loaded"
-   },
-   {
-    "label": "ND DEQ: Private well testing brochure (PDF)",
-    "url": "https://deq.nd.gov/Publications/WQ/1_GW/General/WellTestingBrochure.pdf",
-    "kind": "program",
-    "checked": "loaded"
-   }
-  ],
-  "facts": [
-   "ND HHS says samples must reach the lab within 30 hours, should be mailed Monday to Wednesday, and are not accepted on Fridays. Results are satisfactory or unsatisfactory."
-  ],
-  "fees": [
-   {
-    "test": "Private-well bacteria test, ND HHS Laboratory",
-    "fee": "$27.00",
-    "source": "https://www.hhs.nd.gov/Laboratory-services/water-testing"
-   }
-  ],
-  "unverified": [
-   "We did not find a current state-published list of certified labs beyond the state lab."
-  ],
-  "last_verified": "2026-11-02"
- },
- "alaska": {
-  "name": "Alaska",
-  "abbr": "AK",
-  "list_type": "interactive search",
-  "resources": [
-   {
-    "label": "Alaska DEC: Labs certified for chemical analyses of drinking water",
-    "url": "https://dec.alaska.gov/eh/lab/chem-lab-cert-status/",
-    "kind": "lab list",
-    "checked": "blocked"
-   },
-   {
-    "label": "Alaska DEC: Private wells",
-    "url": "https://dec.alaska.gov/eh/dw/dwp/private-wells",
-    "kind": "program",
-    "checked": "blocked"
-   }
-  ],
-  "facts": [
-   "Alaska DEC certifies drinking-water labs and publishes their status."
-  ],
-  "fees": [],
-  "unverified": [
-   "dec.alaska.gov blocked our checker on 2026-11-02; we could not read the list."
-  ],
-  "last_verified": "2026-11-02"
- },
- "hawaii": {
-  "name": "Hawaii",
-  "abbr": "HI",
-  "list_type": "downloadable list (not yet transcribed here)",
-  "resources": [
-   {
-    "label": "Hawaii DOH Safe Drinking Water Branch: Certified labs (Dec. 2025 PDF)",
-    "url": "https://health.hawaii.gov/sdwb/files/2025/12/Certified_Labs_202512.pdf",
-    "kind": "lab list",
-    "checked": "loaded"
-   }
-  ],
-  "facts": [
-   "Hawaii DOH's list marks which in-state labs do not accept private samples."
-  ],
-  "fees": [],
-  "unverified": [
-   "Not yet transcribed; queued."
-  ],
-  "last_verified": "2026-11-02"
- },
- "delaware": {
-  "name": "Delaware",
-  "abbr": "DE",
-  "list_type": "interactive search",
-  "resources": [
-   {
-    "label": "Delaware Office of Drinking Water: Lab certification",
-    "url": "https://www.dhss.delaware.gov/dph/hsp/dwlabcert.html",
-    "kind": "lab list",
-    "checked": "blocked"
-   }
-  ],
-  "facts": [
-   "Delaware's Office of Drinking Water lists approved labs."
-  ],
-  "fees": [],
-  "unverified": [
-   "The Delaware site blocked our checker on 2026-11-02; we could not confirm the list or any fees."
-  ],
-  "last_verified": "2026-11-02"
- }
+  "new-jersey": {
+    "name": "New Jersey",
+    "abbr": "NJ",
+    "list_type": "interactive search",
+    "resources": [
+      {
+        "label": "NJDEP Office of Quality Assurance: Certified Laboratories (real-time Data Miner lists)",
+        "url": "https://dep.nj.gov/dsr/oqa/certified-laboratories/",
+        "kind": "lab list",
+        "checked": "loaded"
+      },
+      {
+        "label": "NJDEP: Private Well Testing Act (PWTA)",
+        "url": "https://dep.nj.gov/privatewells/pwta/",
+        "kind": "program",
+        "checked": "loaded"
+      }
+    ],
+    "facts": [
+      "NJDEP's Office of Quality Assurance says its certified-lab lists are generated in real time from its Data Miner site, including \"Certified Drinking Water Labs\" and \"PWTA Laboratories Certified for Sampling\".",
+      "Under the Private Well Testing Act, wells must be tested when a property with a well is sold, and landlords must test every five years (NJDEP PWTA page).",
+      "NJDEP says to confirm a lab's status from its certificate and Annual Certified Parameter List, or by calling OQA at 609-292-3950."
+    ],
+    "fees": [],
+    "unverified": [
+      "We did not copy the Data Miner lists because they change daily and are generated on request.",
+      "We found no NJDEP-published fee schedule for homeowner testing."
+    ],
+    "last_verified": "2026-11-02"
+  },
+  "massachusetts": {
+    "name": "Massachusetts",
+    "abbr": "MA",
+    "list_type": "interactive search",
+    "resources": [
+      {
+        "label": "MassDEP: Find a certified laboratory for water testing",
+        "url": "https://www.mass.gov/how-to/find-a-certified-laboratory-for-water-testing",
+        "kind": "how-to",
+        "checked": "blocked"
+      },
+      {
+        "label": "MassDEP certified laboratory search database",
+        "url": "https://eeaonline.eea.state.ma.us/DEP/Labcert/labcert.aspx",
+        "kind": "lab list",
+        "checked": "loaded"
+      },
+      {
+        "label": "MassDEP: Private wells",
+        "url": "https://www.mass.gov/private-wells",
+        "kind": "program",
+        "checked": "blocked"
+      }
+    ],
+    "facts": [
+      "MassDEP's lab database is searchable by region, analyte and matrix; choose \"Potable (DrinkingWater)\" to limit results to drinking water.",
+      "Private wells in Massachusetts are regulated by the local board of health, which may set its own testing rules.",
+      "MassDEP says municipal treatment-plant labs generally do not take samples from private consumers other than local residents.",
+      "MassDEP's how-to page also links a spreadsheet of certified labs that offer services to private well owners."
+    ],
+    "fees": [],
+    "unverified": [
+      "mass.gov blocked our automated checker on 2026-11-02, so we have not yet transcribed MassDEP's private-well lab spreadsheet. We will add it as listings once we can verify it.",
+      "No state fee schedule; labs set their own prices."
+    ],
+    "last_verified": "2026-11-02"
+  },
+  "north-carolina": {
+    "name": "North Carolina",
+    "abbr": "NC",
+    "list_type": "interactive search",
+    "resources": [
+      {
+        "label": "NC State Laboratory of Public Health: certified drinking water lab search",
+        "url": "https://slphreporting.dph.ncdhhs.gov/Certification/CertifiedLaboratory.asp",
+        "kind": "lab list",
+        "checked": "loaded"
+      },
+      {
+        "label": "NCDHHS: Private well water testing FAQs",
+        "url": "https://epi.dph.ncdhhs.gov/oee/wellwater/faqs.html",
+        "kind": "program",
+        "checked": "loaded"
+      }
+    ],
+    "facts": [
+      "NCDHHS says new private wells must be tested by the State Laboratory of Public Health (arranged through your county health department) or a state-certified commercial lab, within 30 days of completion.",
+      "For existing wells, NCDHHS says to contact your county Environmental Health program or a certified commercial lab; procedures and fees vary by county."
+    ],
+    "fees": [],
+    "unverified": [
+      "County fees vary and we have not collected them.",
+      "The state search lets you pick contaminants; we did not copy its results."
+    ],
+    "last_verified": "2026-11-02"
+  },
+  "illinois": {
+    "name": "Illinois",
+    "abbr": "IL",
+    "list_type": "downloadable list (not yet transcribed here)",
+    "resources": [
+      {
+        "label": "Illinois EPA: Accredited labs (IL ELAP chemistry and IDPH microbiology lists)",
+        "url": "https://epa.illinois.gov/topics/labs/lab-accreditation/accredited-labs.html",
+        "kind": "lab list",
+        "checked": "loaded"
+      },
+      {
+        "label": "Illinois EPA: Well water testing",
+        "url": "https://epa.illinois.gov/topics/drinking-water/private-well-users/well-water-testing.html",
+        "kind": "program",
+        "checked": "loaded"
+      }
+    ],
+    "facts": [
+      "Illinois EPA says IL ELAP accredits labs for chemical analysis and IDPH accredits labs for microbiological analysis, and links both lists.",
+      "Illinois EPA says coliform bacteria and nitrate should be tested yearly and that most local health departments can do this; certified labs may be the only option for other chemicals."
+    ],
+    "fees": [],
+    "unverified": [
+      "We have not yet transcribed the Illinois lists into listings; they are queued.",
+      "No statewide fee schedule found."
+    ],
+    "last_verified": "2026-11-02"
+  },
+  "texas": {
+    "name": "Texas",
+    "abbr": "TX",
+    "list_type": "interactive search",
+    "resources": [
+      {
+        "label": "TCEQ: Steps to locate an accredited environmental laboratory",
+        "url": "https://www.tceq.texas.gov/assistance/resources/steps-to-locate-an-accredited-laboratory",
+        "kind": "how-to",
+        "checked": "loaded"
+      },
+      {
+        "label": "TCEQ: Environmental laboratory (NELAP) accreditation",
+        "url": "https://www.tceq.texas.gov/agency/qa/env_lab_accreditation.html",
+        "kind": "lab list",
+        "checked": "loaded"
+      },
+      {
+        "label": "TCEQ: How is my drinking water quality? (private wells)",
+        "url": "https://www.tceq.texas.gov/drinkingwater/my-drinking-water-quality",
+        "kind": "program",
+        "checked": "loaded"
+      }
+    ],
+    "facts": [
+      "TCEQ's instructions: in the accreditation database choose TCEQ as the accreditation body, Active = Yes, matrix \"drinking water\", then the analyte, then filter by your city.",
+      "TCEQ recommends using an accredited drinking-water laboratory to test private well water."
+    ],
+    "fees": [],
+    "unverified": [
+      "Search results are not copied here because they are generated on request.",
+      "No state fee schedule; labs set prices."
+    ],
+    "last_verified": "2026-11-02"
+  },
+  "california": {
+    "name": "California",
+    "abbr": "CA",
+    "list_type": "interactive search",
+    "resources": [
+      {
+        "label": "State Water Board: Environmental Laboratory Accreditation Program (ELAP)",
+        "url": "https://www.waterboards.ca.gov/drinking_water/certlic/labs/",
+        "kind": "lab list",
+        "checked": "loaded"
+      },
+      {
+        "label": "State Water Board GAMA: Domestic well testing",
+        "url": "https://www.waterboards.ca.gov/water_issues/programs/gama/domestic_wells_testing.html",
+        "kind": "program",
+        "checked": "loaded"
+      }
+    ],
+    "facts": [
+      "California's lab accreditation program is ELAP, run by the State Water Resources Control Board.",
+      "The GAMA domestic-well page is the Water Board's guidance for private (domestic) well owners."
+    ],
+    "fees": [],
+    "unverified": [
+      "We did not transcribe the ELAP list; it is published through an interactive map.",
+      "No state fee schedule; labs set prices."
+    ],
+    "last_verified": "2026-11-02"
+  },
+  "south-carolina": {
+    "name": "South Carolina",
+    "abbr": "SC",
+    "list_type": "interactive search",
+    "resources": [
+      {
+        "label": "SCDES: Commercial Environmental Laboratory Mapping (CELMapp)",
+        "url": "https://des.sc.gov/programs/bureau-regional-laboratory-services/environmental-laboratory-certification/commercial-environmental-laboratory-mapping-celmapp",
+        "kind": "lab list",
+        "checked": "loaded"
+      },
+      {
+        "label": "SCDES: Well water quality testing services",
+        "url": "https://www.des.sc.gov/programs/bureau-water/residential-wells/well-water-quality-testing-services",
+        "kind": "program",
+        "checked": "loaded"
+      }
+    ],
+    "facts": [
+      "SCDES publishes certified commercial labs on an interactive map (CELMapp) and runs its own well-testing service."
+    ],
+    "fees": [],
+    "unverified": [
+      "The SCDES testing-services page loads through scripts our checker could not read, so we have not confirmed its current fees or intake schedule. Check that page directly."
+    ],
+    "last_verified": "2026-11-02"
+  },
+  "indiana": {
+    "name": "Indiana",
+    "abbr": "IN",
+    "list_type": "downloadable list (not yet transcribed here)",
+    "resources": [
+      {
+        "label": "IDEM: Indiana certified drinking water laboratories (PDF)",
+        "url": "https://www.in.gov/idem/cleanwater/files/dw_cert_lab_in-state.pdf",
+        "kind": "lab list",
+        "checked": "loaded"
+      },
+      {
+        "label": "IDOH Laboratory: Well water testing",
+        "url": "https://www.in.gov/health/laboratories/testing/well-water",
+        "kind": "program",
+        "checked": "loaded"
+      },
+      {
+        "label": "IDOH: Well water quality and testing",
+        "url": "https://www.in.gov/health/eph/well-water-quality-and-testing/",
+        "kind": "program",
+        "checked": "loaded"
+      }
+    ],
+    "facts": [
+      "The Indiana Department of Health laboratory accepts private well samples; see its well-water page for tests offered."
+    ],
+    "fees": [],
+    "unverified": [
+      "We have not yet transcribed the IDEM PDF into listings; it is queued.",
+      "We have not copied IDOH lab fees yet."
+    ],
+    "last_verified": "2026-11-02"
+  },
+  "iowa": {
+    "name": "Iowa",
+    "abbr": "IA",
+    "list_type": "downloadable list (not yet transcribed here)",
+    "resources": [
+      {
+        "label": "Iowa DNR LabCert: list of certified labs",
+        "url": "https://programs.iowadnr.gov/labcert/Home/LabListing",
+        "kind": "lab list",
+        "checked": "loaded"
+      },
+      {
+        "label": "Iowa DNR: Well testing",
+        "url": "https://www.iowadnr.gov/environmental-protection/water-quality/private-well-program/well-testing",
+        "kind": "program",
+        "checked": "loaded"
+      },
+      {
+        "label": "Iowa HHS: Private Well Grants program",
+        "url": "https://hhs.iowa.gov/health-prevention/environmental-health/private-well-grants",
+        "kind": "program",
+        "checked": "loaded"
+      }
+    ],
+    "facts": [
+      "Iowa HHS runs a Private Well Grants program through county environmental health offices; ask your county what testing it covers."
+    ],
+    "fees": [],
+    "unverified": [
+      "We have not yet transcribed the DNR list into listings; it is queued.",
+      "What each county's grant pays for varies; we have not collected it."
+    ],
+    "last_verified": "2026-11-02"
+  },
+  "kentucky": {
+    "name": "Kentucky",
+    "abbr": "KY",
+    "list_type": "downloadable list (not yet transcribed here)",
+    "resources": [
+      {
+        "label": "Kentucky EEC: Drinking water lab certification program",
+        "url": "https://eec.ky.gov/Environmental-Protection/Water/PermitCert/LabCert/Pages/Drinking-Water-Lab-Certification-Program.aspx",
+        "kind": "lab list",
+        "checked": "loaded"
+      },
+      {
+        "label": "Kentucky EEC: Water well information for owners",
+        "url": "https://eec.ky.gov/Environmental-Protection/Water/GW/Pages/GWOwnerAssist.aspx",
+        "kind": "program",
+        "checked": "loaded"
+      }
+    ],
+    "facts": [
+      "Kentucky's Energy and Environment Cabinet certifies drinking-water labs and publishes a certified-lab list from its program page."
+    ],
+    "fees": [],
+    "unverified": [
+      "The direct link to Kentucky's certified-lab PDF returned \"not found\" on 2026-11-02, so we link the program page instead and have not transcribed the list."
+    ],
+    "last_verified": "2026-11-02"
+  },
+  "missouri": {
+    "name": "Missouri",
+    "abbr": "MO",
+    "list_type": "downloadable list (not yet transcribed here)",
+    "resources": [
+      {
+        "label": "Missouri DNR: Certified laboratories (chemical and microbiological lists)",
+        "url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories",
+        "kind": "lab list",
+        "checked": "loaded"
+      },
+      {
+        "label": "Missouri DHSS: Private drinking water",
+        "url": "https://health.mo.gov/prevention/environmental-factors/private-drinking-water",
+        "kind": "program",
+        "checked": "loaded"
+      }
+    ],
+    "facts": [
+      "Missouri DHSS's State Public Health Laboratory offers private-well testing; DHSS says kits come through your local public health agency."
+    ],
+    "fees": [],
+    "unverified": [
+      "We have not yet transcribed DNR's lists into listings; queued.",
+      "We have not copied DHSS fees."
+    ],
+    "last_verified": "2026-11-02"
+  },
+  "alabama": {
+    "name": "Alabama",
+    "abbr": "AL",
+    "list_type": "downloadable list (not yet transcribed here)",
+    "resources": [
+      {
+        "label": "ADEM: Drinking water laboratory certification program",
+        "url": "https://adem.alabama.gov/water/drinking-water-branch/information-public-water-systems/adem-drinking-water-laboratory-certification-program",
+        "kind": "lab list",
+        "checked": "loaded"
+      },
+      {
+        "label": "ADEM: Information for consumers",
+        "url": "https://adem.alabama.gov/water/drinking-water-branch/information-consumers",
+        "kind": "program",
+        "checked": "loaded"
+      },
+      {
+        "label": "Auburn University: Alabama Private Well Program",
+        "url": "https://aaes.auburn.edu/wrc/alabama-private-well-program/",
+        "kind": "program",
+        "checked": "loaded"
+      }
+    ],
+    "facts": [
+      "ADEM publishes its certified drinking-water lab lists on its certification program page."
+    ],
+    "fees": [],
+    "unverified": [
+      "We have not yet transcribed ADEM's lists; queued.",
+      "No statewide fee schedule found."
+    ],
+    "last_verified": "2026-11-02"
+  },
+  "florida": {
+    "name": "Florida",
+    "abbr": "FL",
+    "list_type": "interactive search",
+    "resources": [
+      {
+        "label": "Florida DEP: NELAP certified laboratory search",
+        "url": "https://floridadep.gov/dear/florida-dep-laboratory/content/nelap-certified-laboratory-search",
+        "kind": "lab list",
+        "checked": "blocked"
+      },
+      {
+        "label": "Florida DOH: Private well water testing",
+        "url": "https://www.floridahealth.gov/community-environmental-public-health/environmental-public-health/water-quality/drinking-water/private-wells/",
+        "kind": "program",
+        "checked": "loaded"
+      },
+      {
+        "label": "Florida DOH Bureau of Public Health Laboratories: Well water testing",
+        "url": "https://www.floridahealth.gov/community-environmental-public-health/public-health-laboratories/laboratory-services/environmental-laboratory-services/well-water-testing/",
+        "kind": "fees",
+        "checked": "loaded"
+      }
+    ],
+    "facts": [
+      "Florida DOH's Bureau of Public Health Laboratories (Jacksonville and Miami labs) tests private well water for E. coli and coliforms, with a stated processing time of 48 hours."
+    ],
+    "fees": [
+      {
+        "test": "E. coli and coliforms, private testing through Florida DOH BPHL",
+        "fee": "$40",
+        "source": "https://www.floridahealth.gov/community-environmental-public-health/public-health-laboratories/laboratory-services/environmental-laboratory-services/well-water-testing/"
+      }
+    ],
+    "unverified": [
+      "Your county health department may charge a different amount; ask them.",
+      "We did not copy the NELAP search results."
+    ],
+    "last_verified": "2026-11-02"
+  },
+  "washington": {
+    "name": "Washington",
+    "abbr": "WA",
+    "list_type": "interactive search",
+    "resources": [
+      {
+        "label": "Washington Ecology: Lab Search",
+        "url": "https://apps.ecology.wa.gov/laboratorysearch/",
+        "kind": "lab list",
+        "checked": "loaded"
+      },
+      {
+        "label": "Washington DOH: Nitrate and coliform testing labs (331-798, March 2026 PDF)",
+        "url": "https://doh.wa.gov/sites/default/files/2026-03/331-798.pdf",
+        "kind": "lab list",
+        "checked": "loaded"
+      },
+      {
+        "label": "Washington Ecology: Testing drinking water",
+        "url": "https://ecology.wa.gov/water-shorelines/water-supply/wells/testing-drinking-water",
+        "kind": "program",
+        "checked": "loaded"
+      }
+    ],
+    "facts": [
+      "Washington DOH publishes a list of nitrate and coliform testing labs (publication 331-798, dated March 2026)."
+    ],
+    "fees": [],
+    "unverified": [
+      "We have not yet transcribed DOH 331-798 into listings; queued."
+    ],
+    "last_verified": "2026-11-02"
+  },
+  "oregon": {
+    "name": "Oregon",
+    "abbr": "OR",
+    "list_type": "interactive search",
+    "resources": [
+      {
+        "label": "OHA ORELAP: Drinking water testing (find an accredited lab)",
+        "url": "https://www.oregon.gov/oha/ph/laboratoryservices/environmentallaboratoryaccreditation/pages/drinkingwatertesting.aspx",
+        "kind": "lab list",
+        "checked": "loaded"
+      },
+      {
+        "label": "OHA Domestic Well Safety: Well testing and regulations",
+        "url": "https://www.oregon.gov/oha/PH/HEALTHYENVIRONMENTS/DRINKINGWATER/SOURCEWATER/DOMESTICWELLSAFETY/Pages/Testing-Regulations.aspx",
+        "kind": "program",
+        "checked": "loaded"
+      }
+    ],
+    "facts": [
+      "Oregon requires domestic-well testing in real-estate transactions; see OHA's testing and regulations page for what is required."
+    ],
+    "fees": [],
+    "unverified": [
+      "We did not copy ORELAP search results.",
+      "No state fee schedule; labs set prices."
+    ],
+    "last_verified": "2026-11-02"
+  },
+  "colorado": {
+    "name": "Colorado",
+    "abbr": "CO",
+    "list_type": "downloadable list (not yet transcribed here)",
+    "resources": [
+      {
+        "label": "CDPHE: Drinking water lab certification",
+        "url": "https://cdphe.colorado.gov/dwlabs",
+        "kind": "lab list",
+        "checked": "loaded"
+      },
+      {
+        "label": "CDPHE: Drinking water: private wells",
+        "url": "https://cdphe.colorado.gov/drinking-water-private-wells",
+        "kind": "program",
+        "checked": "loaded"
+      }
+    ],
+    "facts": [
+      "CDPHE's drinking-water lab certification page publishes Colorado's certified labs."
+    ],
+    "fees": [],
+    "unverified": [
+      "We have not yet transcribed Colorado's list; queued.",
+      "We have not confirmed current CDPHE state-lab fees."
+    ],
+    "last_verified": "2026-11-02"
+  },
+  "idaho": {
+    "name": "Idaho",
+    "abbr": "ID",
+    "list_type": "downloadable list (not yet transcribed here)",
+    "resources": [
+      {
+        "label": "Idaho DHW: Drinking water testing and certification",
+        "url": "https://healthandwelfare.idaho.gov/providers/idaho-laboratories-and-testing/drinking-water-testing-and-certification",
+        "kind": "lab list",
+        "checked": "loaded"
+      },
+      {
+        "label": "Idaho DHW: Drinking water and private wells",
+        "url": "https://healthandwelfare.idaho.gov/health-wellness/environmental-health/drinking-water-and-private-wells",
+        "kind": "program",
+        "checked": "loaded"
+      }
+    ],
+    "facts": [
+      "Idaho's Bureau of Laboratories maintains the certified drinking-water lab directory."
+    ],
+    "fees": [],
+    "unverified": [
+      "Not yet transcribed; queued.",
+      "No state fee schedule collected."
+    ],
+    "last_verified": "2026-11-02"
+  },
+  "montana": {
+    "name": "Montana",
+    "abbr": "MT",
+    "list_type": "downloadable list (not yet transcribed here)",
+    "resources": [
+      {
+        "label": "MSU Extension: Certified Montana drinking water labs",
+        "url": "https://waterquality.montana.edu/well-ed/testing/certifiedlabs.html",
+        "kind": "lab list",
+        "checked": "loaded"
+      },
+      {
+        "label": "Montana DPHHS State Environmental Laboratory",
+        "url": "https://dphhs.mt.gov/publichealth/laboratoryservices/environmentallaboratory/index",
+        "kind": "program",
+        "checked": "blocked"
+      }
+    ],
+    "facts": [
+      "Montana State University Extension keeps a list of certified drinking-water labs for well owners; the DPHHS state environmental lab also takes private well samples."
+    ],
+    "fees": [],
+    "unverified": [
+      "The DPHHS lab page returned a server error to our checker on 2026-11-02.",
+      "MSU's list not yet transcribed; queued."
+    ],
+    "last_verified": "2026-11-02"
+  },
+  "nebraska": {
+    "name": "Nebraska",
+    "abbr": "NE",
+    "list_type": "downloadable list (not yet transcribed here)",
+    "resources": [
+      {
+        "label": "Nebraska DHHS: Certified labs (PDF)",
+        "url": "https://dhhs.ne.gov/Public%20Health%20Lab%20Documents/certified%20labs.pdf",
+        "kind": "lab list",
+        "checked": "loaded"
+      },
+      {
+        "label": "Nebraska Extension G1614: Certified water testing laboratories in Nebraska",
+        "url": "https://extensionpubs.unl.edu/publication/g1614/na/html/view",
+        "kind": "program",
+        "checked": "loaded"
+      }
+    ],
+    "facts": [
+      "Nebraska DHHS publishes its certified-lab list as a PDF."
+    ],
+    "fees": [],
+    "unverified": [
+      "Not yet transcribed; queued.",
+      "No state fee schedule collected."
+    ],
+    "last_verified": "2026-11-02"
+  },
+  "kansas": {
+    "name": "Kansas",
+    "abbr": "KS",
+    "list_type": "interactive search",
+    "resources": [
+      {
+        "label": "KDHE approved laboratories search (LAMS)",
+        "url": "https://ab.qamanager.com/publicparameters/11",
+        "kind": "lab list",
+        "checked": "loaded"
+      },
+      {
+        "label": "KDHE: Private well resource map",
+        "url": "https://www.kdhe.ks.gov/1851/Private-Well-Resource-Map",
+        "kind": "program",
+        "checked": "blocked"
+      }
+    ],
+    "facts": [
+      "KDHE lists its accredited labs in an online search (LAMS)."
+    ],
+    "fees": [],
+    "unverified": [
+      "kdhe.ks.gov blocked our checker on 2026-11-02.",
+      "No fees collected."
+    ],
+    "last_verified": "2026-11-02"
+  },
+  "oklahoma": {
+    "name": "Oklahoma",
+    "abbr": "OK",
+    "list_type": "interactive search",
+    "resources": [
+      {
+        "label": "Oklahoma DEQ: Search for an accredited laboratory",
+        "url": "https://oklahoma.gov/deq/divisions/state-environmental-laboratory-services/laboratory-accreditation/search-for-an-accredited-laboratory.html",
+        "kind": "lab list",
+        "checked": "loaded"
+      },
+      {
+        "label": "Oklahoma DEQ: Home water testing (PDF)",
+        "url": "https://oklahoma.gov/content/dam/ok/en/deq/documents/deqmainresources/HomeWaterTesting.pdf",
+        "kind": "program",
+        "checked": "loaded"
+      }
+    ],
+    "facts": [
+      "Oklahoma DEQ's accredited-lab search is the official way to find a lab; DEQ's State Environmental Laboratory also offers home water testing."
+    ],
+    "fees": [],
+    "unverified": [
+      "No fees collected.",
+      "Search results not copied."
+    ],
+    "last_verified": "2026-11-02"
+  },
+  "arkansas": {
+    "name": "Arkansas",
+    "abbr": "AR",
+    "list_type": "interactive search",
+    "resources": [
+      {
+        "label": "Arkansas DEQ: Accredited laboratories list (SEEK)",
+        "url": "https://adeq.state.ar.us/techsvs/lab_cert/labcert-seek.aspx",
+        "kind": "lab list",
+        "checked": "loaded"
+      },
+      {
+        "label": "Arkansas Department of Health: Water microbiology laboratory",
+        "url": "https://healthy.arkansas.gov/programs-services/public-health-safety/arkansas-public-health-laboratory/water-microbiology-laboratory/",
+        "kind": "program",
+        "checked": "blocked"
+      }
+    ],
+    "facts": [
+      "The Arkansas Department of Health's public health lab runs private-well bacteria testing; kits come through local health units."
+    ],
+    "fees": [],
+    "unverified": [
+      "The Department of Health site blocked our checker on 2026-11-02, so we have not confirmed its current fee or details."
+    ],
+    "last_verified": "2026-11-02"
+  },
+  "louisiana": {
+    "name": "Louisiana",
+    "abbr": "LA",
+    "list_type": "downloadable list (not yet transcribed here)",
+    "resources": [
+      {
+        "label": "LDH: Laboratory certification",
+        "url": "https://ldh.la.gov/page/laboratory-certification",
+        "kind": "lab list",
+        "checked": "loaded"
+      },
+      {
+        "label": "LDH: Private well testing information",
+        "url": "https://ldh.la.gov/page/well-testing-information",
+        "kind": "program",
+        "checked": "loaded"
+      }
+    ],
+    "facts": [
+      "LDH offers bacteriological testing of private wells; orders can be placed online or at a parish health unit (LDH well-testing page)."
+    ],
+    "fees": [
+      {
+        "test": "Bacteriological test, sanitarian-collected (includes lab analysis)",
+        "fee": "$150",
+        "source": "https://ldh.la.gov/page/well-testing-information"
+      },
+      {
+        "test": "Bacteriological test, owner-collected and dropped at parish health unit or lab",
+        "fee": "$40 per sample",
+        "source": "https://ldh.la.gov/page/well-testing-information"
+      }
+    ],
+    "unverified": [
+      "LDH's certified chemistry-lab list not yet transcribed; queued."
+    ],
+    "last_verified": "2026-11-02"
+  },
+  "mississippi": {
+    "name": "Mississippi",
+    "abbr": "MS",
+    "list_type": "downloadable list (not yet transcribed here)",
+    "resources": [
+      {
+        "label": "MSDH: Labs for private well water testing",
+        "url": "https://msdh.ms.gov/safe-food-water-and-housing/water-supply/private-well-water-testing/water-supply-certification-labs",
+        "kind": "lab list",
+        "checked": "loaded"
+      },
+      {
+        "label": "MSDH: Private well water testing",
+        "url": "https://msdh.ms.gov/page/30,18658,76,762.html",
+        "kind": "program",
+        "checked": "loaded"
+      }
+    ],
+    "facts": [
+      "MSDH publishes a page of certified labs for private well testing."
+    ],
+    "fees": [],
+    "unverified": [
+      "Not yet transcribed; queued.",
+      "No fees collected."
+    ],
+    "last_verified": "2026-11-02"
+  },
+  "new-mexico": {
+    "name": "New Mexico",
+    "abbr": "NM",
+    "list_type": "downloadable list (not yet transcribed here)",
+    "resources": [
+      {
+        "label": "NMED Drinking Water Bureau: Laboratory certification",
+        "url": "https://www.env.nm.gov/drinking_water/lab-certification/",
+        "kind": "lab list",
+        "checked": "loaded"
+      },
+      {
+        "label": "NMED: Private wells",
+        "url": "https://www.env.nm.gov/drinking_water/private-wells-2/",
+        "kind": "program",
+        "checked": "loaded"
+      }
+    ],
+    "facts": [
+      "NMED certifies drinking-water labs by test group; confirm a lab is certified for the tests you need and takes private samples."
+    ],
+    "fees": [],
+    "unverified": [
+      "Not yet transcribed; queued.",
+      "We have not confirmed details of any free NMED screening events."
+    ],
+    "last_verified": "2026-11-02"
+  },
+  "arizona": {
+    "name": "Arizona",
+    "abbr": "AZ",
+    "list_type": "interactive search",
+    "resources": [
+      {
+        "label": "ADHS: Licensed commercial drinking water laboratories search",
+        "url": "https://ells-lab-search.azdhs.gov/drinkingwatertestinglabsvs2/drinkingwatersearchcontentpage",
+        "kind": "lab list",
+        "checked": "loaded"
+      }
+    ],
+    "facts": [
+      "ADHS licenses Arizona's environmental labs and offers a drinking-water lab search."
+    ],
+    "fees": [],
+    "unverified": [
+      "We have not found an ADHS private-well program page that loads today.",
+      "No fees collected."
+    ],
+    "last_verified": "2026-11-02"
+  },
+  "nevada": {
+    "name": "Nevada",
+    "abbr": "NV",
+    "list_type": "interactive search",
+    "resources": [
+      {
+        "label": "NDEP: Laboratory certification",
+        "url": "https://www.ndep.nv.gov/water/lab-certification",
+        "kind": "lab list",
+        "checked": "loaded"
+      },
+      {
+        "label": "NDEP: Private wells",
+        "url": "https://www.ndep.nv.gov/water/drinking-water/information-for-consumers/private-wells",
+        "kind": "program",
+        "checked": "loaded"
+      }
+    ],
+    "facts": [
+      "NDEP runs Nevada's lab certification program and has a private-wells page for consumers."
+    ],
+    "fees": [],
+    "unverified": [
+      "No fees collected; search results not copied."
+    ],
+    "last_verified": "2026-11-02"
+  },
+  "utah": {
+    "name": "Utah",
+    "abbr": "UT",
+    "list_type": "downloadable list (not yet transcribed here)",
+    "resources": [
+      {
+        "label": "Utah DEQ Division of Drinking Water: Lab and sampling resources",
+        "url": "https://deq.utah.gov/ddw/lab-sampling-resources",
+        "kind": "lab list",
+        "checked": "loaded"
+      },
+      {
+        "label": "Utah Public Health Laboratory: Private wells",
+        "url": "https://uphl.utah.gov/environmental-chemistry-program/env_chem_privatewells/",
+        "kind": "program",
+        "checked": "loaded"
+      }
+    ],
+    "facts": [
+      "Utah's Division of Drinking Water publishes certified-lab resources; the Utah Public Health Laboratory has a private-well page."
+    ],
+    "fees": [],
+    "unverified": [
+      "Not yet transcribed; queued.",
+      "No fees collected."
+    ],
+    "last_verified": "2026-11-02"
+  },
+  "wyoming": {
+    "name": "Wyoming",
+    "abbr": "WY",
+    "list_type": "downloadable list (not yet transcribed here)",
+    "resources": [
+      {
+        "label": "EPA Region 8: Certified drinking water laboratories for Wyoming",
+        "url": "https://www.epa.gov/region8-waterops/certified-drinking-water-laboratories-systems-wyoming-and-tribal-lands-epa-region",
+        "kind": "lab list",
+        "checked": "loaded"
+      },
+      {
+        "label": "Wyoming Department of Health: Water testing",
+        "url": "https://health.wyo.gov/publichealth/lab/microbiology-lab/water/",
+        "kind": "program",
+        "checked": "loaded"
+      }
+    ],
+    "facts": [
+      "In Wyoming, drinking-water lab certification is handled by EPA Region 8, which publishes the list."
+    ],
+    "fees": [],
+    "unverified": [
+      "Not yet transcribed; queued.",
+      "No fees collected."
+    ],
+    "last_verified": "2026-11-02"
+  },
+  "south-dakota": {
+    "name": "South Dakota",
+    "abbr": "SD",
+    "list_type": "downloadable list (not yet transcribed here)",
+    "resources": [
+      {
+        "label": "SD DANR: Drinking water laboratory certification",
+        "url": "https://danr.sd.gov/OfficeOfWater/DrinkingWater/LaboratoryCert.aspx",
+        "kind": "lab list",
+        "checked": "loaded"
+      },
+      {
+        "label": "SD Department of Health: Test a private well",
+        "url": "https://doh.sd.gov/laboratory/environmental-testing/test-a-private-well/",
+        "kind": "program",
+        "checked": "loaded"
+      }
+    ],
+    "facts": [
+      "The South Dakota Department of Health laboratory tests private wells; see its page for how to request bottles."
+    ],
+    "fees": [],
+    "unverified": [
+      "Not yet transcribed; queued.",
+      "No fees collected."
+    ],
+    "last_verified": "2026-11-02"
+  },
+  "north-dakota": {
+    "name": "North Dakota",
+    "abbr": "ND",
+    "list_type": "interactive search",
+    "resources": [
+      {
+        "label": "ND HHS Laboratory: Water testing",
+        "url": "https://www.hhs.nd.gov/Laboratory-services/water-testing",
+        "kind": "program",
+        "checked": "loaded"
+      },
+      {
+        "label": "ND DEQ: Private well testing brochure (PDF)",
+        "url": "https://deq.nd.gov/Publications/WQ/1_GW/General/WellTestingBrochure.pdf",
+        "kind": "program",
+        "checked": "loaded"
+      }
+    ],
+    "facts": [
+      "ND HHS says samples must reach the lab within 30 hours, should be mailed Monday to Wednesday, and are not accepted on Fridays. Results are satisfactory or unsatisfactory."
+    ],
+    "fees": [
+      {
+        "test": "Private-well bacteria test, ND HHS Laboratory",
+        "fee": "$27.00",
+        "source": "https://www.hhs.nd.gov/Laboratory-services/water-testing"
+      }
+    ],
+    "unverified": [
+      "We did not find a current state-published list of certified labs beyond the state lab."
+    ],
+    "last_verified": "2026-11-02"
+  },
+  "alaska": {
+    "name": "Alaska",
+    "abbr": "AK",
+    "list_type": "interactive search",
+    "resources": [
+      {
+        "label": "Alaska DEC: Labs certified for chemical analyses of drinking water",
+        "url": "https://dec.alaska.gov/eh/lab/chem-lab-cert-status/",
+        "kind": "lab list",
+        "checked": "blocked"
+      },
+      {
+        "label": "Alaska DEC: Private wells",
+        "url": "https://dec.alaska.gov/eh/dw/dwp/private-wells",
+        "kind": "program",
+        "checked": "blocked"
+      }
+    ],
+    "facts": [
+      "Alaska DEC certifies drinking-water labs and publishes their status."
+    ],
+    "fees": [],
+    "unverified": [
+      "dec.alaska.gov blocked our checker on 2026-11-02; we could not read the list."
+    ],
+    "last_verified": "2026-11-02"
+  },
+  "hawaii": {
+    "name": "Hawaii",
+    "abbr": "HI",
+    "list_type": "downloadable list (not yet transcribed here)",
+    "resources": [
+      {
+        "label": "Hawaii DOH Safe Drinking Water Branch: Certified labs (Dec. 2025 PDF)",
+        "url": "https://health.hawaii.gov/sdwb/files/2025/12/Certified_Labs_202512.pdf",
+        "kind": "lab list",
+        "checked": "loaded"
+      }
+    ],
+    "facts": [
+      "Hawaii DOH's list marks which in-state labs do not accept private samples."
+    ],
+    "fees": [],
+    "unverified": [
+      "Not yet transcribed; queued."
+    ],
+    "last_verified": "2026-11-02"
+  },
+  "delaware": {
+    "name": "Delaware",
+    "abbr": "DE",
+    "list_type": "interactive search",
+    "resources": [
+      {
+        "label": "Delaware Office of Drinking Water: Lab certification",
+        "url": "https://www.dhss.delaware.gov/dph/hsp/dwlabcert.html",
+        "kind": "lab list",
+        "checked": "blocked"
+      }
+    ],
+    "facts": [
+      "Delaware's Office of Drinking Water lists approved labs."
+    ],
+    "fees": [],
+    "unverified": [
+      "The Delaware site blocked our checker on 2026-11-02; we could not confirm the list or any fees."
+    ],
+    "last_verified": "2026-11-02"
+  }
 }

@@ -1,0 +1,269 @@
+{
+ "state": "Georgia",
+ "slug": "georgia",
+ "abbr": "GA",
+ "list_source": {
+  "name": "Georgia EPD, \"Commercial Laboratories Certified by Georgia for Microbiological Monitoring\" (January 9, 2025)",
+  "page_url": "https://epd.georgia.gov/document/pdf/laboratoriescertifiedbygeorgiamicrobiologicalmonitoring2025/download",
+  "program_url": "https://epd.georgia.gov/watershed-protection-branch/drinking-water",
+  "report_date": "List dated January 9, 2025"
+ },
+ "last_verified": "2026-11-05",
+ "labs": [
+  {
+   "name": "American Water Services",
+   "address": "9482 Duncan Bridge Road, Cleveland, GA 30528",
+   "city": "Cleveland",
+   "phone": "(706) 348-6215",
+   "accredited_for": [
+    "Microbiological monitoring (bacteria)"
+   ],
+   "detail": "Georgia lab ID M087 (as printed). Certified on this list for microbiological monitoring only (bacteria).",
+   "group": "main",
+   "source_name": "Georgia EPD, \"Commercial Laboratories Certified by Georgia for Microbiological Monitoring\" (January 9, 2025)",
+   "source_url": "https://epd.georgia.gov/document/pdf/laboratoriescertifiedbygeorgiamicrobiologicalmonitoring2025/download",
+   "source_date": "2025-01-09",
+   "last_verified": "2026-11-05",
+   "lab_id": "M087"
+  },
+  {
+   "name": "Coastal H2O",
+   "address": "115 Oglethorpe Professional Court, Suite 8, Savannah, GA 31406",
+   "city": "Savannah",
+   "phone": "(912) 352-4311",
+   "accredited_for": [
+    "Microbiological monitoring (bacteria)"
+   ],
+   "detail": "Georgia lab ID 600 (as printed). Certified on this list for microbiological monitoring only (bacteria).",
+   "group": "main",
+   "source_name": "Georgia EPD, \"Commercial Laboratories Certified by Georgia for Microbiological Monitoring\" (January 9, 2025)",
+   "source_url": "https://epd.georgia.gov/document/pdf/laboratoriescertifiedbygeorgiamicrobiologicalmonitoring2025/download",
+   "source_date": "2025-01-09",
+   "last_verified": "2026-11-05",
+   "lab_id": "600"
+  },
+  {
+   "name": "Crystal River Water Services",
+   "address": "218 Jordan Road, Norman Park, GA 31771",
+   "city": "Norman Park",
+   "phone": "(229) 985-2999",
+   "accredited_for": [
+    "Microbiological monitoring (bacteria)"
+   ],
+   "detail": "Georgia lab ID 353 (as printed). Certified on this list for microbiological monitoring only (bacteria).",
+   "group": "main",
+   "source_name": "Georgia EPD, \"Commercial Laboratories Certified by Georgia for Microbiological Monitoring\" (January 9, 2025)",
+   "source_url": "https://epd.georgia.gov/document/pdf/laboratoriescertifiedbygeorgiamicrobiologicalmonitoring2025/download",
+   "source_date": "2025-01-09",
+   "last_verified": "2026-11-05",
+   "lab_id": "353"
+  },
+  {
+   "name": "Eurofins Atlanta",
+   "address": "3785 Presidential Pkwy, Atlanta, GA 30340",
+   "city": "Atlanta",
+   "phone": "(770) 457-8177",
+   "accredited_for": [
+    "Microbiological monitoring (bacteria)"
+   ],
+   "detail": "Georgia lab ID 800 (as printed). Certified on this list for microbiological monitoring only (bacteria).",
+   "group": "main",
+   "source_name": "Georgia EPD, \"Commercial Laboratories Certified by Georgia for Microbiological Monitoring\" (January 9, 2025)",
+   "source_url": "https://epd.georgia.gov/document/pdf/laboratoriescertifiedbygeorgiamicrobiologicalmonitoring2025/download",
+   "source_date": "2025-01-09",
+   "last_verified": "2026-11-05",
+   "lab_id": "800"
+  },
+  {
+   "name": "Food and Dairy Research Associates",
+   "address": "11 Central Avenue, Commerce, GA 30529",
+   "city": "Commerce",
+   "phone": "(706) 335-9703",
+   "accredited_for": [
+    "Microbiological monitoring (bacteria)"
+   ],
+   "detail": "Georgia lab ID 830 (as printed). Certified on this list for microbiological monitoring only (bacteria).",
+   "group": "main",
+   "source_name": "Georgia EPD, \"Commercial Laboratories Certified by Georgia for Microbiological Monitoring\" (January 9, 2025)",
+   "source_url": "https://epd.georgia.gov/document/pdf/laboratoriescertifiedbygeorgiamicrobiologicalmonitoring2025/download",
+   "source_date": "2025-01-09",
+   "last_verified": "2026-11-05",
+   "lab_id": "830"
+  },
+  {
+   "name": "Spectrum Laboratories-Savannah",
+   "address": "1108 Airport Park Drive, Garden City, GA 31408",
+   "city": "Garden City",
+   "phone": "(912) 238-5050",
+   "accredited_for": [
+    "Microbiological monitoring (bacteria)"
+   ],
+   "detail": "Georgia lab ID 833 (as printed). Certified on this list for microbiological monitoring only (bacteria).",
+   "group": "main",
+   "source_name": "Georgia EPD, \"Commercial Laboratories Certified by Georgia for Microbiological Monitoring\" (January 9, 2025)",
+   "source_url": "https://epd.georgia.gov/document/pdf/laboratoriescertifiedbygeorgiamicrobiologicalmonitoring2025/download",
+   "source_date": "2025-01-09",
+   "last_verified": "2026-11-05",
+   "lab_id": "833"
+  },
+  {
+   "name": "Tindal Enterprises/Altamaha Laboratories",
+   "address": "829 SW Central Avenue, Blackshear, GA 31516",
+   "city": "Blackshear",
+   "phone": "(912) 449-0999",
+   "accredited_for": [
+    "Microbiological monitoring (bacteria)"
+   ],
+   "detail": "Georgia lab ID 834 (as printed). Certified on this list for microbiological monitoring only (bacteria).",
+   "group": "main",
+   "source_name": "Georgia EPD, \"Commercial Laboratories Certified by Georgia for Microbiological Monitoring\" (January 9, 2025)",
+   "source_url": "https://epd.georgia.gov/document/pdf/laboratoriescertifiedbygeorgiamicrobiologicalmonitoring2025/download",
+   "source_date": "2025-01-09",
+   "last_verified": "2026-11-05",
+   "lab_id": "834"
+  },
+  {
+   "name": "UGA Feed and Environmental Water",
+   "address": "2300 College Station Road, Athens, GA 30602",
+   "city": "Athens",
+   "phone": "(706) 542-5350",
+   "accredited_for": [
+    "Microbiological monitoring (bacteria)"
+   ],
+   "detail": "No Georgia lab ID printed on the January 9, 2025 list. Certified on this list for microbiological monitoring only (bacteria).",
+   "group": "main",
+   "source_name": "Georgia EPD, \"Commercial Laboratories Certified by Georgia for Microbiological Monitoring\" (January 9, 2025)",
+   "source_url": "https://epd.georgia.gov/document/pdf/laboratoriescertifiedbygeorgiamicrobiologicalmonitoring2025/download",
+   "source_date": "2025-01-09",
+   "last_verified": "2026-11-05"
+  },
+  {
+   "name": "Waypoint Analytical",
+   "address": "202 Hamilton Avenue103 Carroll Circle, Bremen, GA 30110",
+   "city": "Bremen",
+   "phone": "(770) 832-2171",
+   "accredited_for": [
+    "Microbiological monitoring (bacteria)"
+   ],
+   "detail": "Georgia lab ID 810 (as printed). Certified on this list for microbiological monitoring only (bacteria).",
+   "group": "main",
+   "source_name": "Georgia EPD, \"Commercial Laboratories Certified by Georgia for Microbiological Monitoring\" (January 9, 2025)",
+   "source_url": "https://epd.georgia.gov/document/pdf/laboratoriescertifiedbygeorgiamicrobiologicalmonitoring2025/download",
+   "source_date": "2025-01-09",
+   "last_verified": "2026-11-05",
+   "lab_id": "810",
+   "note": "The EPD PDF prints the street line as \"202 Hamilton Avenue103 Carroll Circle\" with no break between Avenue and 103; shown as printed. Confirm the street address with the lab."
+  },
+  {
+   "name": "Woodward Sapp",
+   "address": "4774 New Jesup Highway, Brunswick, GA 31520",
+   "city": "Brunswick",
+   "phone": "(912) 265-2603",
+   "accredited_for": [
+    "Microbiological monitoring (bacteria)"
+   ],
+   "detail": "Georgia lab ID M088 (as printed). Certified on this list for microbiological monitoring only (bacteria).",
+   "group": "main",
+   "source_name": "Georgia EPD, \"Commercial Laboratories Certified by Georgia for Microbiological Monitoring\" (January 9, 2025)",
+   "source_url": "https://epd.georgia.gov/document/pdf/laboratoriescertifiedbygeorgiamicrobiologicalmonitoring2025/download",
+   "source_date": "2025-01-09",
+   "last_verified": "2026-11-05",
+   "lab_id": "M088"
+  },
+  {
+   "name": "GA Environmental Protection Division",
+   "address": "5804 Peachtree Corners East, Norcross, GA 30092",
+   "city": "Norcross",
+   "phone": "(470) 524-0577",
+   "accredited_for": [
+    "Microbiological monitoring (bacteria)"
+   ],
+   "detail": "Listed as EPA Certified (no GA Lab # printed). Certified on this list for microbiological monitoring only (bacteria). Name reads as a water utility, government or agency lab.",
+   "group": "public",
+   "source_name": "Georgia EPD, \"Commercial Laboratories Certified by Georgia for Microbiological Monitoring\" (January 9, 2025)",
+   "source_url": "https://epd.georgia.gov/document/pdf/laboratoriescertifiedbygeorgiamicrobiologicalmonitoring2025/download",
+   "source_date": "2025-01-09",
+   "last_verified": "2026-11-05"
+  },
+  {
+   "name": "Piedmont Water Company",
+   "address": "1030 Old Kings Highway, Greensboro, GA 30642",
+   "city": "Greensboro",
+   "phone": "(706) 473-8296",
+   "accredited_for": [
+    "Microbiological monitoring (bacteria)"
+   ],
+   "detail": "Georgia lab ID M094 (as printed). Certified on this list for microbiological monitoring only (bacteria). Name reads as a water utility, government or agency lab.",
+   "group": "public",
+   "source_name": "Georgia EPD, \"Commercial Laboratories Certified by Georgia for Microbiological Monitoring\" (January 9, 2025)",
+   "source_url": "https://epd.georgia.gov/document/pdf/laboratoriescertifiedbygeorgiamicrobiologicalmonitoring2025/download",
+   "source_date": "2025-01-09",
+   "last_verified": "2026-11-05",
+   "lab_id": "M094"
+  },
+  {
+   "name": "Ackurit Labs",
+   "address": "3345 North Monroe Street, Suite B, Tallahassee, FL 32303",
+   "city": "Tallahassee",
+   "phone": "(850) 562-7751",
+   "accredited_for": [
+    "Microbiological monitoring (bacteria)"
+   ],
+   "detail": "Georgia lab ID C053 (as printed). Certified on this list for microbiological monitoring only (bacteria). Out-of-state lab on Georgia's commercial microbiological list (FL).",
+   "group": "limited",
+   "source_name": "Georgia EPD, \"Commercial Laboratories Certified by Georgia for Microbiological Monitoring\" (January 9, 2025)",
+   "source_url": "https://epd.georgia.gov/document/pdf/laboratoriescertifiedbygeorgiamicrobiologicalmonitoring2025/download",
+   "source_date": "2025-01-09",
+   "last_verified": "2026-11-05",
+   "lab_id": "C053"
+  },
+  {
+   "name": "Environmental Resource Analysts",
+   "address": "2975 Brown Court, Auburn, AL 36830",
+   "city": "Auburn",
+   "phone": "(334) 502-3444",
+   "accredited_for": [
+    "Microbiological monitoring (bacteria)"
+   ],
+   "detail": "Georgia lab ID 836 (as printed). Certified on this list for microbiological monitoring only (bacteria). Out-of-state lab on Georgia's commercial microbiological list (AL).",
+   "group": "limited",
+   "source_name": "Georgia EPD, \"Commercial Laboratories Certified by Georgia for Microbiological Monitoring\" (January 9, 2025)",
+   "source_url": "https://epd.georgia.gov/document/pdf/laboratoriescertifiedbygeorgiamicrobiologicalmonitoring2025/download",
+   "source_date": "2025-01-09",
+   "last_verified": "2026-11-05",
+   "lab_id": "836"
+  },
+  {
+   "name": "Microbac Laboratories",
+   "address": "505 East Broadway Ave., Maryville, TN 37804",
+   "city": "Maryville",
+   "phone": "(865) 977-1200",
+   "accredited_for": [
+    "Microbiological monitoring (bacteria)"
+   ],
+   "detail": "Georgia lab ID 980 (as printed). Certified on this list for microbiological monitoring only (bacteria). Out-of-state lab on Georgia's commercial microbiological list (TN).",
+   "group": "limited",
+   "source_name": "Georgia EPD, \"Commercial Laboratories Certified by Georgia for Microbiological Monitoring\" (January 9, 2025)",
+   "source_url": "https://epd.georgia.gov/document/pdf/laboratoriescertifiedbygeorgiamicrobiologicalmonitoring2025/download",
+   "source_date": "2025-01-09",
+   "last_verified": "2026-11-05",
+   "lab_id": "980"
+  },
+  {
+   "name": "Tyson Foods",
+   "address": "4480 Keith Bridge Road, Cumming, GA 30041",
+   "city": "Cumming",
+   "phone": "(770) 887-6011",
+   "accredited_for": [
+    "Microbiological monitoring (bacteria)"
+   ],
+   "detail": "Georgia lab ID 832 (as printed). Certified on this list for microbiological monitoring only (bacteria). Industrial / food-plant lab on the commercial list; homeowner acceptance is unverified.",
+   "group": "limited",
+   "source_name": "Georgia EPD, \"Commercial Laboratories Certified by Georgia for Microbiological Monitoring\" (January 9, 2025)",
+   "source_url": "https://epd.georgia.gov/document/pdf/laboratoriescertifiedbygeorgiamicrobiologicalmonitoring2025/download",
+   "source_date": "2025-01-09",
+   "last_verified": "2026-11-05",
+   "lab_id": "832"
+  }
+ ]
+}

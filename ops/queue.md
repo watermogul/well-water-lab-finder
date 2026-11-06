@@ -29,6 +29,7 @@ Still open:
    - 2026-11-02 nightly run: passed over again (page update). Shipped #16 (shock chlorination) instead.
    - 2026-11-04 nightly run: passed over again (page update). Shipped 'what your bacteria result means' guide (New ideas) instead.
    - 2026-11-03 nightly run: passed over again (page update). Shipped #17 (buying a house with a well) instead. No evergreen new-page items remain; next nightly should take a 'New ideas' item or do #9 as a page update.
+   - 2026-11-05 nightly run: passed over again (page update, not a new page). Expanded Georgia microbiological lab list into a full /labs/georgia/ listing instead. Continuous-disinfection evergreen and other New ideas remain for later runs.
 
 ## State guides (free / low-cost programs and local risks, from state sources only)
 (#13 NY flood/drought guide shipped 2026-10-30.)
@@ -41,7 +42,7 @@ Still open:
 19. **Mail-in kit comparison** (Tap Score, WaterTestingKits.com, others) — verify who runs the lab and its accreditation in your state before publishing. Apply to programs only after the user provides a live domain and payee details.
 
 ## Maintenance
-20. **Re-verification pass** — re-fetch PA DEP reports (DEP may publish a newer one), Ohio EPA list (monthly updates likely), NHDES lab list, Westchester list; bump `last_verified` only when re-compared. **Done for PA on 2026-10-30** (reports unchanged, byte-identical). Next oldest: NH (list dated 2024-09-20), Westchester, Ohio. Consider moving NH to NHDES's live search once a scripted export is possible.
+20. **Re-verification pass** — re-fetch PA DEP reports (DEP may publish a newer one), Ohio EPA list (monthly updates likely), NHDES lab list, Westchester list; bump `last_verified` only when re-compared. **Done for PA on 2026-10-30** (reports unchanged, byte-identical). **Done for NH on 2026-11-05** (labs-private-wells.pdf still April 2026 / lab list updated 9/20/2024; existing 9 rows unchanged; added missing Nelson Analytical Maine/Kennebunk row from same PDF). Next oldest: Westchester, Ohio. Consider moving NH to NHDES's live search once a scripted export is possible.
 
 ## New ideas (found while building Maryland, 2026-10-26)
 - **Maryland: out-of-state certified labs** near the PA/VA/DE lines — MDE's 10/1/2026 PDF lists 53 out-of-state labs (e.g. PA and VA labs with Micro + Inorganics). Could be a second section on /labs/maryland/; verify each from the same PDF.
@@ -101,7 +102,7 @@ Still open:
 
 ## Added 2026-11-02: transcribe downloadable state lab lists into full listings
 - Illinois: https://epa.illinois.gov/topics/labs/lab-accreditation/accredited-labs.html
-- Georgia: https://epd.georgia.gov/document/pdf/laboratoriescertifiedbygeorgiamicrobiologicalmonitoring2025/download
+- **Georgia: SHIPPED 2026-11-05** as full /labs/georgia/ listing (16 labs from Jan 9, 2025 microbiological PDF; bacteria only; out-of-state + industrial grouped as limited; Waypoint address noted as printed with glued Avenue103). PDF: https://epd.georgia.gov/document/pdf/laboratoriescertifiedbygeorgiamicrobiologicalmonitoring2025/download
 - Indiana: https://www.in.gov/idem/cleanwater/files/dw_cert_lab_in-state.pdf
 - Iowa: https://programs.iowadnr.gov/labcert/Home/LabListing
 - Kentucky: https://eec.ky.gov/Environmental-Protection/Water/PermitCert/LabCert/Pages/Drinking-Water-Lab-Certification-Program.aspx
@@ -125,18 +126,25 @@ Still open:
 - **TCEQ approved-bleach list** (www.tceq.texas.gov/goto/bleach, cited in GI-432). Not fetched. Check before naming any brands.
 - **"Bacteria came back after chlorinating" guide**: CSU covers biofilm, well cap/casing/seal repair and septic causes. Pair it with a state well-inspection or contractor-licensing page.
 - **Iron bacteria in wells**: CSU covers detection and prevention. Could be a short evergreen guide; it needs a second extension source.
-- **Re-verification due**: pages built 2026-10-26 (NH, Ohio, NY/Westchester, MD) are now 7 days old and have not been re-verified. NH is the oldest list (2024-09-20). Do NH next, via WebFetch.
+- **Re-verification**: NH done 2026-11-05. Still due: Ohio, NY/Westchester, MD (pages built 2026-10-26).
 
 ## New ideas (found while building the home-buyer guide, 2026-11-03)
 - **State sale-testing rules page**: Oregon (ORS 448.271, verified 2026-11-03) requires seller testing for arsenic, nitrate, coliform; NJ PWTA (dep.nj.gov/privatewells/pwta/ blocked WebFetch with Incapsula tonight; try browser); Rhode Island reportedly requires testing at sale (unverified). Build a per-state table only from each state's own page.
 - **Oregon domestic well guide**: OHA RET page links accredited labs and Well Report Query; could become an Oregon page from OHA sources.
 - **VDH 'Buying a Home with a Well' video** linked from the VDH private well page; VDH real-estate FAQ metadata says modified 2017. Look for a newer VDH page before relying on it further.
 - **Well yield/flow tests for buyers**: need a state or extension source with a method before writing.
-- **Re-verification still due**: NH lab list (/labs/new-hampshire/). NHDES April 2026 guidance fetched 2026-11-03 still says "Lab list updated 9/20/2024" (lab names unchanged at a glance); do a full row-by-row compare next run.
+- **NH re-verification done 2026-11-05**: NHDES April 2026 guidance still says "Lab list updated 9/20/2024"; row-by-row compare complete; Nelson Maine row added.
 
 ## New ideas (found while building the bacteria-result guide, 2026-11-04)
-- **NH lab-list re-verification is due by 2026-11-06** (PA was last re-verified 2026-10-30). Do NH row-by-row via WebFetch next run.
+- **NH lab-list re-verification done 2026-11-05** (was due by 2026-11-06). PDF footnote still 9/20/2024; added Nelson Maine row.
 - **Continuous disinfection guide (UV vs chlorination)**: Penn State Coliform Bacteria (2025-09-08) covers both with limits (UV not for >1,000 TC or >100 fecal coliform per 100 mL). Needs a second extension or state source; no equipment prices.
 - **Sanitary well caps / well-cap inspection**: Penn State and CSU both point to caps and casing; find a state or extension how-to with photos/specs.
 - **NYS DOH bacteria fact sheet**: health.ny.gov/.../bacteria_fact_sheet.htm returned 404 on 2026-11-04. Find the current NYS DOH coliform page before citing NY.
 - **Penn State 2006 survey (coliform ~35%, E. coli ~15% of 450 PA wells)**: possible PA-specific context; quote with its date only.
+
+## New ideas (found while expanding Georgia labs, 2026-11-05)
+- **Georgia chemistry lab list:** the EPD PDF used tonight is microbiological monitoring only. Look for a separate EPD certified-chemistry / inorganic labs list before claiming full well panels for Georgia labs.
+- **Indiana next:** https://www.in.gov/idem/cleanwater/files/dw_cert_lab_in-state.pdf fetched cleanly tonight (revised 11/7/2025) and is titled "Labs that accept samples from the public" with chemistry + micro — strong next full-listing candidate after Georgia.
+- **Nebraska / Hawaii PDFs** also fetched 200 tonight (NE short coliform/nitrate list; HI Nov 20, 2025 directory with in-state private-sample labs + many out-of-state). Iowa LabCert listing HTML also loaded.
+- **UGA AESL vs EPD "UGA Feed and Environmental Water":** AESL publishes homeowner fees (W1 $20*, W6 $12*, W33B $90*, W35 coliform $40) at aesl.ces.uga.edu/water.html; EPD list names "UGA Feed and Environmental Water" at 2300 College Station Road without a GA Lab #. Do not merge fee rows onto the EPD listing without confirming they are the same lab on a primary source.
+- **Continuous disinfection guide** still open (Penn State Coliform Bacteria 2025-09-08 + second extension/state source); no equipment prices.
