@@ -550,5 +550,47 @@
   ],
   "name": "Georgia",
   "abbr": "GA"
+ },
+ "indiana": {
+  "title": "Indiana certified drinking-water labs that accept samples from the public",
+  "description": "The 49 in-state Indiana labs on the state list of certified drinking-water labs that accept samples from the public (revised 11/7/2025), with county, lab ID, tests and the source on every listing. Plus IDOH lab well-kit fees.",
+  "intro": [
+   "Indiana publishes a PDF titled \"Indiana Certified Drinking Water Laboratories\" (revised 11/7/2025), hosted on the IDEM website and linked from the Indiana Department of Health (IDOH) drinking-water lab certification program. It splits in-state labs into \"Labs that accept samples from the public\" and labs that do not. This page lists all 49 labs in the first group, with the county and the tests each is certified for, as printed.",
+   "IDOH also tests private wells itself. Its Laboratory well water page (checked 2026-11-06) lists, for private citizens using well water for drinking: $10.00 for bacteria, $10.00 for nitrate, $10.00 for fluoride and $20.00 for arsenic, lead and copper, not including shipping. Kits are ordered online through Access Indiana and samples go to the IDOH Laboratory, 550 W 16th St, Suite B, Indianapolis. The same page recommends testing well water every year for bacteria and nitrate, and at least every 5 years for fluoride, arsenic, lead and copper.",
+   "IDOH's well water quality page notes that glacial deposits of arsenic and naturally occurring methane exist throughout Indiana, and recommends at minimum annual testing of private wells."
+  ],
+  "caveats": [
+   "The state list is dated November 7, 2025. Certifications can change. Confirm with the lab before you collect a sample.",
+   "\"Accepts samples from the public\" is the state's wording. It does not tell you a lab's price, hours or kit process. Call first.",
+   "Many labs are certified for bacteria only. If you need nitrate, arsenic, lead or other chemistry, check the tests printed on each listing.",
+   "The 31 in-state labs the PDF lists under \"Labs that do not accept samples from the public\" (mostly water utilities) are not shown.",
+   "Out-of-state labs approved for Indiana drinking water are in a separate table on the IDOH certification page (linked below); they are not transcribed here.",
+   "Websites printed in the PDF are wrapped mid-word and were not checked, so they are not linked. We did not verify prices or turnaround times for any lab on this page, so none are shown except the IDOH fees quoted above.",
+   "Two lab IDs are printed for two different labs each (M-20-01 for two Elkhart County labs; C-49-06 for two Indianapolis labs); all are shown as printed."
+  ],
+  "main_heading": "Commercial and independent labs that accept samples from the public",
+  "public_heading": "Utility, city and health-department labs that also accept samples from the public",
+  "public_note": "These are on the state's \"accept samples from the public\" list, but they are run by a water utility, city, county health department or IDOH. Several are bacteria only. Call for fees and hours.",
+  "chips_label": "Certified on the Indiana list for (well-relevant tests):",
+  "resources": [
+   {
+    "label": "Indiana Certified Drinking Water Laboratories (PDF, revised 11/7/2025)",
+    "url": "https://www.in.gov/idem/cleanwater/files/dw_cert_lab_in-state.pdf"
+   },
+   {
+    "label": "IDOH Laboratory: Drinking water laboratory certification (includes out-of-state lab table)",
+    "url": "https://www.in.gov/health/laboratories/drinking-water-laboratory-certification"
+   },
+   {
+    "label": "IDOH Laboratory: Well water testing (fees and kit ordering)",
+    "url": "https://www.in.gov/health/laboratories/testing/well-water"
+   },
+   {
+    "label": "IDOH Environmental Public Health: Well water quality and testing",
+    "url": "https://www.in.gov/health/eph/well-water-quality-and-testing/"
+   }
+  ],
+  "name": "Indiana",
+  "abbr": "IN"
  }
 }

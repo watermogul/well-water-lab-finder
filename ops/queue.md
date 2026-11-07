@@ -29,6 +29,7 @@ Still open:
    - 2026-11-02 nightly run: passed over again (page update). Shipped #16 (shock chlorination) instead.
    - 2026-11-04 nightly run: passed over again (page update). Shipped 'what your bacteria result means' guide (New ideas) instead.
    - 2026-11-03 nightly run: passed over again (page update). Shipped #17 (buying a house with a well) instead. No evergreen new-page items remain; next nightly should take a 'New ideas' item or do #9 as a page update.
+   - 2026-11-06 nightly run: passed over again (page update). Skipped Illinois (stale/expired IDPH list), shipped Indiana full listing instead.
    - 2026-11-05 nightly run: passed over again (page update, not a new page). Expanded Georgia microbiological lab list into a full /labs/georgia/ listing instead. Continuous-disinfection evergreen and other New ideas remain for later runs.
 
 ## State guides (free / low-cost programs and local risks, from state sources only)
@@ -101,9 +102,9 @@ Still open:
 
 
 ## Added 2026-11-02: transcribe downloadable state lab lists into full listings
-- Illinois: https://epa.illinois.gov/topics/labs/lab-accreditation/accredited-labs.html
+- Illinois: https://epa.illinois.gov/topics/labs/lab-accreditation/accredited-labs.html — **skipped 2026-11-06**: page links IDPH "Certified Water Microbiology Laboratories" (revision date 2025-12-04, 70 labs: 26 commercial, 40 municipal, 4 health dept) but 37 of the 70 printed expiration dates (Dec 2025-Oct 2026) are already past, so current status can't be verified from it; the IEPA "Primary/Secondary Labs - Chemical" PDF (created 2025-12-09, modified 2026-03-16) is a general NELAP list (wastewater/industrial labs included) with no drinking-water fields. Retry when IDPH posts a newer micro list, or list only unexpired rows with a clear caveat.
 - **Georgia: SHIPPED 2026-11-05** as full /labs/georgia/ listing (16 labs from Jan 9, 2025 microbiological PDF; bacteria only; out-of-state + industrial grouped as limited; Waypoint address noted as printed with glued Avenue103). PDF: https://epd.georgia.gov/document/pdf/laboratoriescertifiedbygeorgiamicrobiologicalmonitoring2025/download
-- Indiana: https://www.in.gov/idem/cleanwater/files/dw_cert_lab_in-state.pdf
+- **Indiana: SHIPPED 2026-11-06** as full /labs/indiana/ listing (49 in-state labs from the "accept samples from the public" section of the 11/7/2025 PDF; builder scripts/build_in.py + scripts/extract_in_tables.py, needs pdfplumber; IDOH kit fees on page). PDF: https://www.in.gov/idem/cleanwater/files/dw_cert_lab_in-state.pdf
 - Iowa: https://programs.iowadnr.gov/labcert/Home/LabListing
 - Kentucky: https://eec.ky.gov/Environmental-Protection/Water/PermitCert/LabCert/Pages/Drinking-Water-Lab-Certification-Program.aspx
 - Missouri: https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories
@@ -144,7 +145,15 @@ Still open:
 
 ## New ideas (found while expanding Georgia labs, 2026-11-05)
 - **Georgia chemistry lab list:** the EPD PDF used tonight is microbiological monitoring only. Look for a separate EPD certified-chemistry / inorganic labs list before claiming full well panels for Georgia labs.
-- **Indiana next:** https://www.in.gov/idem/cleanwater/files/dw_cert_lab_in-state.pdf fetched cleanly tonight (revised 11/7/2025) and is titled "Labs that accept samples from the public" with chemistry + micro — strong next full-listing candidate after Georgia.
+- ~~Indiana next~~ shipped 2026-11-06.
 - **Nebraska / Hawaii PDFs** also fetched 200 tonight (NE short coliform/nitrate list; HI Nov 20, 2025 directory with in-state private-sample labs + many out-of-state). Iowa LabCert listing HTML also loaded.
 - **UGA AESL vs EPD "UGA Feed and Environmental Water":** AESL publishes homeowner fees (W1 $20*, W6 $12*, W33B $90*, W35 coliform $40) at aesl.ces.uga.edu/water.html; EPD list names "UGA Feed and Environmental Water" at 2300 College Station Road without a GA Lab #. Do not merge fee rows onto the EPD listing without confirming they are the same lab on a primary source.
 - **Continuous disinfection guide** still open (Penn State Coliform Bacteria 2025-09-08 + second extension/state source); no equipment prices.
+
+## New ideas (found while building Indiana labs, 2026-11-06)
+- **Indiana out-of-state labs:** the IDOH certification page (https://www.in.gov/health/laboratories/drinking-water-laboratory-certification) has a live HTML table of out-of-state labs approved for Indiana drinking water (chemistry by state, plus a radiological table incl. uranium/radium labs). Could be a second section on /labs/indiana/; note American Water Central Lab (Belleville IL) is marked "does not accept samples from the public". The table repeats some rows (Pace Madisonville KY, Element Lafayette LA) — de-duplicate and say so.
+- **Indiana radiological labs:** IDOH lists Eurofins South Bend (gross alpha/beta, radium, uranium) and IDOH (uranium by mass) as in-state radiological labs. Not on the 11/7/2025 PDF; add only from the IDOH page.
+- **Indiana arsenic/methane guide:** IDOH EPH page says glacial arsenic deposits and naturally occurring methane exist throughout Indiana. Pair with IDOH/IDEM or Purdue Extension sources for a short guide; no treatment prices.
+- **IDOH kit fees on the cost guide:** /guides/how-much-does-well-water-testing-cost/ could add the IDOH private-citizen fees ($10 bacteria, $10 nitrate, $10 fluoride, $20 arsenic/lead/copper, plus shipping), quoted with the page URL and check date.
+- **Illinois retry:** see the 2026-11-02 list entry (IDPH micro list has many expired rows as printed). Also check IDPH's own private-well testing page for local health department kits.
+- **Re-verification due soon:** Ohio, NY/Westchester and MD (built 2026-10-26) have never been re-verified; NH was re-verified 2026-11-05 and PA 2026-10-30. Next run with time should re-verify Ohio (Combined-Lab-List.pdf is monthly).

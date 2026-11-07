@@ -215,40 +215,6 @@
     ],
     "last_verified": "2026-11-02"
   },
-  "indiana": {
-    "name": "Indiana",
-    "abbr": "IN",
-    "list_type": "downloadable list (not yet transcribed here)",
-    "resources": [
-      {
-        "label": "IDEM: Indiana certified drinking water laboratories (PDF)",
-        "url": "https://www.in.gov/idem/cleanwater/files/dw_cert_lab_in-state.pdf",
-        "kind": "lab list",
-        "checked": "loaded"
-      },
-      {
-        "label": "IDOH Laboratory: Well water testing",
-        "url": "https://www.in.gov/health/laboratories/testing/well-water",
-        "kind": "program",
-        "checked": "loaded"
-      },
-      {
-        "label": "IDOH: Well water quality and testing",
-        "url": "https://www.in.gov/health/eph/well-water-quality-and-testing/",
-        "kind": "program",
-        "checked": "loaded"
-      }
-    ],
-    "facts": [
-      "The Indiana Department of Health laboratory accepts private well samples; see its well-water page for tests offered."
-    ],
-    "fees": [],
-    "unverified": [
-      "We have not yet transcribed the IDEM PDF into listings; it is queued.",
-      "We have not copied IDOH lab fees yet."
-    ],
-    "last_verified": "2026-11-02"
-  },
   "iowa": {
     "name": "Iowa",
     "abbr": "IA",
