@@ -31,6 +31,7 @@ Still open:
    - 2026-11-03 nightly run: passed over again (page update). Shipped #17 (buying a house with a well) instead. No evergreen new-page items remain; next nightly should take a 'New ideas' item or do #9 as a page update.
    - 2026-11-06 nightly run: passed over again (page update). Skipped Illinois (stale/expired IDPH list), shipped Indiana full listing instead.
    - 2026-11-05 nightly run: passed over again (page update, not a new page). Expanded Georgia microbiological lab list into a full /labs/georgia/ listing instead. Continuous-disinfection evergreen and other New ideas remain for later runs.
+   - 2026-11-07 nightly run: passed over again (page update). Shipped Iowa full listing (next item in the 2026-11-02 transcription list) instead.
 
 ## State guides (free / low-cost programs and local risks, from state sources only)
 (#13 NY flood/drought guide shipped 2026-10-30.)
@@ -105,7 +106,7 @@ Still open:
 - Illinois: https://epa.illinois.gov/topics/labs/lab-accreditation/accredited-labs.html — **skipped 2026-11-06**: page links IDPH "Certified Water Microbiology Laboratories" (revision date 2025-12-04, 70 labs: 26 commercial, 40 municipal, 4 health dept) but 37 of the 70 printed expiration dates (Dec 2025-Oct 2026) are already past, so current status can't be verified from it; the IEPA "Primary/Secondary Labs - Chemical" PDF (created 2025-12-09, modified 2026-03-16) is a general NELAP list (wastewater/industrial labs included) with no drinking-water fields. Retry when IDPH posts a newer micro list, or list only unexpired rows with a clear caveat.
 - **Georgia: SHIPPED 2026-11-05** as full /labs/georgia/ listing (16 labs from Jan 9, 2025 microbiological PDF; bacteria only; out-of-state + industrial grouped as limited; Waypoint address noted as printed with glued Avenue103). PDF: https://epd.georgia.gov/document/pdf/laboratoriescertifiedbygeorgiamicrobiologicalmonitoring2025/download
 - **Indiana: SHIPPED 2026-11-06** as full /labs/indiana/ listing (49 in-state labs from the "accept samples from the public" section of the 11/7/2025 PDF; builder scripts/build_in.py + scripts/extract_in_tables.py, needs pdfplumber; IDOH kit fees on page). PDF: https://www.in.gov/idem/cleanwater/files/dw_cert_lab_in-state.pdf
-- Iowa: https://programs.iowadnr.gov/labcert/Home/LabListing
+- **Iowa: SHIPPED 2026-11-07** as full /labs/iowa/ listing (58 labs with the Drinking Water program from Iowa DNR LabCert "List of Certified Labs", generated 11/7/2026; main 11 commercial in-state, public 27, out-of-state 20; cert period/status from each DNR Lab Details record; six-test chips from DNR public search with Program = Drinking Water; builder scripts/build_ia.py, raw files in /workspace/src-ia). List: https://programs.iowadnr.gov/labcert/Home/LabListing
 - Kentucky: https://eec.ky.gov/Environmental-Protection/Water/PermitCert/LabCert/Pages/Drinking-Water-Lab-Certification-Program.aspx
 - Missouri: https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories
 - Alabama: https://adem.alabama.gov/water/drinking-water-branch/information-public-water-systems/adem-drinking-water-laboratory-certification-program
@@ -157,3 +158,12 @@ Still open:
 - **IDOH kit fees on the cost guide:** /guides/how-much-does-well-water-testing-cost/ could add the IDOH private-citizen fees ($10 bacteria, $10 nitrate, $10 fluoride, $20 arsenic/lead/copper, plus shipping), quoted with the page URL and check date.
 - **Illinois retry:** see the 2026-11-02 list entry (IDPH micro list has many expired rows as printed). Also check IDPH's own private-well testing page for local health department kits.
 - **Re-verification due soon:** Ohio, NY/Westchester and MD (built 2026-10-26) have never been re-verified; NH was re-verified 2026-11-05 and PA 2026-10-30. Next run with time should re-verify Ohio (Combined-Lab-List.pdf is monthly).
+
+## New ideas (found while building Iowa labs, 2026-11-07)
+- **Iowa Private Well Grants guide:** Iowa DNR Well Testing page (metadata 2026-02-04) lists PWG funding amounts per service ($400 shock chlorination, $600 well assessment, $700 well plugging, $400 cistern plugging, $2,000 well reconstruction/renovation) with DNR forms, plus free county testing for bacteria, nitrate, arsenic, manganese. DNR PWG guidance PDF (updated July 8, 2026, /media/4621) defines qualifying wells/work. Good primary sources for a "free well testing and well grants in Iowa" guide; quote amounts with page date only.
+- **Iowa county environmental health contacts:** DNR links a published Google Sheet of county contacts. A per-county table is possible, but verify against each county's own page before listing phone numbers.
+- **SHL Well Water Quality and Home Treatment Systems Guide** (shl.uiowa.edu, file path 2023-11) has a coliform action-response flowchart. Possible second source for the continuous-disinfection / "bacteria came back" guides.
+- **Iowa PFAS:** DNR "Private Wells and PFAS Overview" PDF (/media/4619); DNR says PFAS testing requires DNR pre-approval. Read the PDF before writing.
+- **Iowa listing caveats to re-check on next pull:** QC Analytical Services (lab 113) record shows period ending Oct 1, 2026 but status Certified; Eurofins TestAmerica St. Louis (373) period starts Dec 1, 2026; EMSL Cinnaminson (419) ZIP printed as 80779; Des Moines Water Works, Davy, Microbac Northbrook marked Provisional.
+- **More Iowa test chips:** LabCert public search (GET /labcert/Home/PublicSearchResults with program=1&analyteName=<id>) can add fluoride, uranium, radium, atrazine etc. Note it filters by program (verified: nitrate under Nonpotable only is excluded).
+- **Re-verification due by ~2026-11-12:** NH was re-verified 2026-11-05; Ohio (monthly Combined-Lab-List.pdf), NY/Westchester and MD (built 2026-10-26) still never re-verified. Next night with time should do Ohio.
