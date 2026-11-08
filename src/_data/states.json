@@ -592,5 +592,62 @@
   ],
   "name": "Indiana",
   "abbr": "IN"
+ },
+ "iowa": {
+  "title": "Iowa certified drinking-water labs for private well testing (Iowa DNR list)",
+  "description": "All 58 labs Iowa DNR certifies for drinking water (DNR LabCert list generated 11/7/2026), with lab number, certification period, which common well tests each is certified for, and how to get free testing through your county.",
+  "intro": [
+   "Iowa DNR keeps its lab certification list in an online system called LabCert. On November 7, 2026 its \"List of Certified Labs\" showed 154 labs; 58 of them hold the Drinking Water program, and those are the labs listed here. Iowa DNR's Well Testing page says all water testing should be done by DNR certified drinking water laboratories.",
+   "For each lab we also opened its DNR \"Lab Details\" record (certification period and status) and ran the DNR public search with Program set to Drinking Water for six common well tests: total coliform, E. coli, nitrate, arsenic, manganese and lead. The chips on each listing show which of those six the DNR search returned for that lab. A lab may be certified for other tests too; the DNR search is the full record.",
+   "Free testing first: Iowa DNR's Well Testing page (page metadata updated 2026-02-04) says the Private Well Grants program provides free water testing to private well owners and users for bacteria (E. coli/coliform) and nitrate, recommended every year, and arsenic and manganese, recommended every 3 years. You arrange it through your county environmental health office (DNR links a county contact list). The DNR's guidance for counties (updated July 8, 2026) says the county health specialist must collect the samples, and homeowners cannot be reimbursed for sampling they did themselves. Iowa HHS, which administers the grants, says to contact your local environmental public health office to see if your county participates.",
+   "The State Hygienic Laboratory at the University of Iowa says on its Private Well Water page that Iowa residents may be able to get well water tested at no cost through the Private Well Grants program, and recommends testing for total coliform bacteria, E. coli and nitrate every year, and for arsenic and manganese at least once during the life of the well. (DNR's page says every 3 years for arsenic and manganese; both are quoted as written.) DNR's page also says PFAS testing requires pre-approval from DNR."
+  ],
+  "caveats": [
+   "The DNR list is live and changes. We copied it on November 7, 2026. Confirm certification with the lab, or in the DNR search, before you collect a sample.",
+   "Being certified for drinking water does not mean a lab takes samples from homeowners. Neither the DNR list nor the lab records say which labs do. Call first and ask about kits, fees and drop-off hours.",
+   "Groups are based only on the \"Lab Type\" column DNR prints (Commercial, Government, Public, Industrial/Private) and the lab's state. Out-of-state labs certified by Iowa DNR are listed last.",
+   "The six-test chips come from the DNR search on November 7, 2026. If a chip is missing, the DNR search did not return that lab for that test under the Drinking Water program.",
+   "One record shows a certification period that ended October 1, 2026 while still marked \"Certified\", one shows a period that starts December 1, 2026, and three are marked \"Provisional\". These are noted on the listings.",
+   "Websites appear on only a few DNR records and were not checked, so none are linked. We did not verify prices or turnaround times for any lab, so none are shown.",
+   "The 96 labs on the DNR list without the Drinking Water program (wastewater, sludge, contaminated-site and underground tank programs only) are not shown."
+  ],
+  "main_heading": "Commercial labs in Iowa certified for drinking water",
+  "public_heading": "Government, utility, health-department and other Iowa labs certified for drinking water",
+  "public_note": "DNR lists these as Government, Public or Industrial/Private labs. Several are city water or wastewater labs, county health departments, or the State Hygienic Laboratory. The source does not say whether each takes homeowner samples. Call first.",
+  "limited_heading": "Out-of-state labs certified by Iowa DNR for drinking water",
+  "limited_note": "These labs are outside Iowa but hold Iowa DNR drinking-water certification. Most are large commercial labs. Ask about shipping and sample hold times before you collect.",
+  "chips_label": "DNR search (Drinking Water program) returns this lab for:",
+  "resources": [
+   {
+    "label": "Iowa DNR LabCert: List of Certified Labs (live, generated 11/7/2026 when checked)",
+    "url": "https://programs.iowadnr.gov/labcert/Home/LabListing"
+   },
+   {
+    "label": "Iowa DNR LabCert: public lab and analyte search",
+    "url": "https://programs.iowadnr.gov/labcert/Home/PublicSearch"
+   },
+   {
+    "label": "Iowa DNR: Well Testing (Private Well Grants testing, what to test)",
+    "url": "https://www.iowadnr.gov/environmental-protection/water-quality/private-well-program/well-testing"
+   },
+   {
+    "label": "Iowa DNR: Private Well Grants guidance on qualifying expenses (PDF, updated July 8, 2026)",
+    "url": "https://www.iowadnr.gov/media/4621/download?inline"
+   },
+   {
+    "label": "Iowa DNR: county environmental health contacts (Google Sheet linked from the DNR Well Testing page)",
+    "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSN9_vM3stj69X3-4qojMfxrkIGuP4dkCfZYo1DI9g8FSyJrs4SbfRYuDRPulMxStPClHPxdB1io1GR/pubhtml"
+   },
+   {
+    "label": "Iowa HHS: Private Well Grants Program",
+    "url": "https://hhs.iowa.gov/health-prevention/environmental-health/private-well-grants"
+   },
+   {
+    "label": "State Hygienic Laboratory at the University of Iowa: Private Well Water",
+    "url": "https://shl.uiowa.edu/environmental-testing/private-well-water"
+   }
+  ],
+  "name": "Iowa",
+  "abbr": "IA"
  }
 }

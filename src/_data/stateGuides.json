@@ -215,40 +215,6 @@
     ],
     "last_verified": "2026-11-02"
   },
-  "iowa": {
-    "name": "Iowa",
-    "abbr": "IA",
-    "list_type": "downloadable list (not yet transcribed here)",
-    "resources": [
-      {
-        "label": "Iowa DNR LabCert: list of certified labs",
-        "url": "https://programs.iowadnr.gov/labcert/Home/LabListing",
-        "kind": "lab list",
-        "checked": "loaded"
-      },
-      {
-        "label": "Iowa DNR: Well testing",
-        "url": "https://www.iowadnr.gov/environmental-protection/water-quality/private-well-program/well-testing",
-        "kind": "program",
-        "checked": "loaded"
-      },
-      {
-        "label": "Iowa HHS: Private Well Grants program",
-        "url": "https://hhs.iowa.gov/health-prevention/environmental-health/private-well-grants",
-        "kind": "program",
-        "checked": "loaded"
-      }
-    ],
-    "facts": [
-      "Iowa HHS runs a Private Well Grants program through county environmental health offices; ask your county what testing it covers."
-    ],
-    "fees": [],
-    "unverified": [
-      "We have not yet transcribed the DNR list into listings; it is queued.",
-      "What each county's grant pays for varies; we have not collected it."
-    ],
-    "last_verified": "2026-11-02"
-  },
   "kentucky": {
     "name": "Kentucky",
     "abbr": "KY",
