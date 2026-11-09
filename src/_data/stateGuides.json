@@ -242,34 +242,6 @@
     ],
     "last_verified": "2026-11-02"
   },
-  "missouri": {
-    "name": "Missouri",
-    "abbr": "MO",
-    "list_type": "downloadable list (not yet transcribed here)",
-    "resources": [
-      {
-        "label": "Missouri DNR: Certified laboratories (chemical and microbiological lists)",
-        "url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories",
-        "kind": "lab list",
-        "checked": "loaded"
-      },
-      {
-        "label": "Missouri DHSS: Private drinking water",
-        "url": "https://health.mo.gov/prevention/environmental-factors/private-drinking-water",
-        "kind": "program",
-        "checked": "loaded"
-      }
-    ],
-    "facts": [
-      "Missouri DHSS's State Public Health Laboratory offers private-well testing; DHSS says kits come through your local public health agency."
-    ],
-    "fees": [],
-    "unverified": [
-      "We have not yet transcribed DNR's lists into listings; queued.",
-      "We have not copied DHSS fees."
-    ],
-    "last_verified": "2026-11-02"
-  },
   "alabama": {
     "name": "Alabama",
     "abbr": "AL",

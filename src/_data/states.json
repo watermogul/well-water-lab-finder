@@ -649,5 +649,65 @@
   ],
   "name": "Iowa",
   "abbr": "IA"
+ },
+ "missouri": {
+  "title": "Missouri certified drinking-water labs for private well testing (Missouri DNR lists)",
+  "description": "All 87 labs on Missouri DNR's certified microbiological and chemical drinking-water lab lists (copied 11/8/2026), with certificate numbers, expiration dates, which common well tests each list covers, and how to get a state lab kit through your local health agency.",
+  "intro": [
+   "Missouri DNR publishes two live lists of labs certified for drinking-water testing: a microbiological (bacteria) list, whose labs are certified by the Missouri Department of Health and Senior Services (DHSS), and a chemical list, whose labs are certified by DNR. On November 8, 2026 the lists had 68 and 26 entries. We merged entries that share the same street address and ZIP, which gives the 87 labs below (6 appear on both lists).",
+   "DNR's own wording matters for well owners: \"Analysis of water samples from private residences or private wells does not have to be done by a certified laboratory.\" DNR adds that other labs that chose not to be certified \"may produce equivalent results if they have adequate quality assurance or quality control in place.\" DNR also says labs listed as commercial \"do perform compliance analyses for hire\" and suggests contacting more than one lab for pricing.",
+   "State lab option first: DHSS says the Missouri State Public Health Laboratory (MSPHL) offers both bacteria and chemical private drinking water testing, and recommends testing your well once each year for total coliform bacteria, E. coli and nitrates. Kits come from your local public health agency (LPHA) or State District Health Offices, and DHSS also has an online kit request form. For bacteria, the MSPHL page says a $10 handling fee (check or money order only) must be included with the sample, results are presence/absence, and samples must reach the lab with testing started within 48 hours of collection; the MSPHL statewide courier to Jefferson City is free. DHSS says it does not offer private well testing for real estate transactions; for that, use a private lab such as those below.",
+   "For chemistry, the MSPHL Metals in Water page says private-water samples \"must be submitted by an Environmental Public Health Specialist, Lead Assessor, or Environmental Specialist employed by a Public Health Agency\", and that when public health is not at risk, testing should be done by a private lab certified by DNR. DHSS notes Missouri's history of lead mining and recommends a metals test if you live where mining is happening or has happened. The MSPHL chemistry fee field reads \"N/A\"; we did not find a chemistry price on DHSS pages, so none is shown."
+  ],
+  "caveats": [
+   "The DNR lists are live and change. We copied them on November 8, 2026 (spreadsheets plus the web pages). Confirm certification with the lab before you collect a sample.",
+   "Being certified does not mean a lab takes samples from homeowners. Neither list says which labs do. Call first and ask about bottles, fees, hold times and drop-off hours.",
+   "Groups use only the \"Commercial\" column DNR prints and the lab's state: Missouri labs marked commercial on either list, then Missouri labs not marked commercial (mostly city water plants), then out-of-state labs.",
+   "Chips: \"Bacteria\" means the lab is on the microbiological list (the list does not break that down by test). Nitrate, arsenic, lead, fluoride, uranium and PFAS (PFOA) chips mean that parameter appears in the lab's entry on the DNR chemical list. A missing chip means it did not appear there.",
+   "5 certificate expiration dates shown by DNR had already passed on November 8, 2026 while the lab was still listed, including the State Public Health Laboratory's microbiological entry (Jul 31, 2026). These are noted on the listings as printed.",
+   "Phone numbers are the contact numbers DNR lists. Contact names and emails are not shown. We did not verify prices, turnaround times or websites for any lab, so none are shown."
+  ],
+  "main_heading": "Missouri labs listed as commercial",
+  "public_heading": "Missouri water-utility and other labs not listed as commercial",
+  "public_note": "DNR does not mark these labs as commercial. Most are city or regional water plants doing their own system's compliance testing. The source does not say whether any take homeowner samples. Call first.",
+  "limited_heading": "Out-of-state labs on Missouri's lists",
+  "limited_note": "These labs are outside Missouri but appear on DNR's lists. Most are large commercial labs. Ask about shipping and sample hold times before you collect, especially for bacteria.",
+  "chips_label": "On Missouri's certified lists for:",
+  "resources": [
+   {
+    "label": "Missouri DNR: Certified Laboratories (overview)",
+    "url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories"
+   },
+   {
+    "label": "Missouri DNR: Certified Microbiological Laboratories (live list, spreadsheet download)",
+    "url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological"
+   },
+   {
+    "label": "Missouri DNR: Certified Chemical Laboratories (live list with testing parameters, spreadsheet download)",
+    "url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/chemical"
+   },
+   {
+    "label": "Missouri DHSS: Private Drinking Water",
+    "url": "https://health.mo.gov/prevention/environmental-factors/private-drinking-water"
+   },
+   {
+    "label": "Missouri DHSS: Well Water Test Kit Information and Services (kit request)",
+    "url": "https://health.mo.gov/prevention/environmental-factors/private-drinking-water/well-water-test-kit-information-and-services"
+   },
+   {
+    "label": "Missouri State Public Health Laboratory: Private Drinking Water Bacteriological Testing ($10 handling fee, 48-hour rule)",
+    "url": "https://health.mo.gov/state-public-health-laboratory/private-drinking-water-bacteriological-testing"
+   },
+   {
+    "label": "Missouri State Public Health Laboratory: Metals in Water",
+    "url": "https://health.mo.gov/state-public-health-laboratory/metals-water"
+   },
+   {
+    "label": "Missouri DHSS: Find your local public health agency",
+    "url": "https://health.mo.gov/local/find-your-local-public-health-agency"
+   }
+  ],
+  "name": "Missouri",
+  "abbr": "MO"
  }
 }

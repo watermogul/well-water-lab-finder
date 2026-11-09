@@ -1,0 +1,1497 @@
+{
+ "state": "Missouri",
+ "slug": "missouri",
+ "abbr": "MO",
+ "list_source": {
+  "name": "Missouri DNR certified drinking-water laboratory lists (microbiological and chemical)",
+  "page_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories",
+  "program_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+  "report_date": "Live DNR lists, copied November 8, 2026"
+ },
+ "last_verified": "2026-11-08",
+ "labs": [
+  {
+   "name": "Alpha Engineering and Surveying LLC",
+   "address": "1037 Osage Beach Road, Osage Beach, MO 65065",
+   "city": "Osage Beach",
+   "phone": "(573) 348-9799",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 940, expiration date Aug 31, 2028, listed as commercial: Yes.",
+   "group": "main",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "940"
+  },
+  {
+   "name": "Associated Electric Cooperatives Inc. (AECI)",
+   "address": "Thomas Hill Energy Center, Power Division, 5693 Highway F, Clifton Hill, MO 65244",
+   "city": "Clifton Hill",
+   "phone": "(660) 261-3283",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 1020, expiration date Feb 28, 2028, listed as commercial: Yes.",
+   "group": "main",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "1020"
+  },
+  {
+   "name": "Blue Valley Laboratories Inc.",
+   "address": "814 E. 16th St., Kansas City, MO 64108",
+   "city": "Kansas City",
+   "phone": "(816) 471-4719",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 410, expiration date Jul 31, 2029, listed as commercial: Yes.",
+   "group": "main",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "410"
+  },
+  {
+   "name": "Brothers Lab Services",
+   "address": "10 Kimler Drive, Suite G, Maryland Heights, MO 63043",
+   "city": "Maryland Heights",
+   "phone": "(888) 893-6578",
+   "accredited_for": [
+    "Nitrate",
+    "Arsenic",
+    "Lead",
+    "Fluoride"
+   ],
+   "detail": "Chemical list: certificate 11020, expiration date Apr 30, 2028, listed as commercial: Yes, 14 testing parameters listed.",
+   "group": "main",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/chemical",
+   "source_name": "Missouri DNR: Certified Chemical Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "11020"
+  },
+  {
+   "name": "Christian County Health Department Water Lab",
+   "address": "301 E. Brick St., PO Box 340, Ozark, MO 65721",
+   "city": "Ozark",
+   "phone": "(417) 581-7285",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 810, expiration date Sep 30, 2027, listed as commercial: Yes.",
+   "group": "main",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "810",
+   "note": "The DNR record includes a P.O. box; call for a drop-off address."
+  },
+  {
+   "name": "City of Independence Water Department",
+   "address": "14700 Cement City Road, Sugar Creek, MO 64058",
+   "city": "Sugar Creek",
+   "phone": "(816) 325-7708",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 70, expiration date Oct 31, 2027, listed as commercial: Yes.",
+   "group": "main",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "70"
+  },
+  {
+   "name": "City of St. Louis-Howard Bend Laboratory",
+   "address": "14769 Olive Blvd., Chesterfield, MO 63017",
+   "city": "Chesterfield",
+   "phone": "(314) 256-5723",
+   "accredited_for": [
+    "Bacteria (microbiological list)",
+    "Nitrate",
+    "Fluoride"
+   ],
+   "detail": "Microbiological list: certificate 241, expiration date Aug 31, 2027, listed as commercial: Yes. Chemical list: certificate 241, expiration date Mar 31, 2029, listed as commercial: No, 8 testing parameters listed.",
+   "group": "main",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "241, 241",
+   "source_url_2": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/chemical",
+   "source_name_2": "Missouri DNR: Certified Chemical Laboratories"
+  },
+  {
+   "name": "Columbia Water and Light Department Power Plant",
+   "address": "1501 Business Loop 70 E., Columbia, MO 65201",
+   "city": "Columbia",
+   "phone": "(573) 874-6242",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 37, expiration date Feb 28, 2028, listed as commercial: Yes.",
+   "group": "main",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "37"
+  },
+  {
+   "name": "Eastern Missouri Water Lab",
+   "address": "7086 Highway FF, Lonedell, MO 63060",
+   "city": "Lonedell",
+   "phone": "(636) 775-2889",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 10110, expiration date Nov 30, 2027, listed as commercial: Yes.",
+   "group": "main",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "10110"
+  },
+  {
+   "name": "EMSL Analytical Inc.-St. Louis",
+   "address": "100 Green Park Industrial Court, St. Louis, MO 63123",
+   "city": "St. Louis",
+   "phone": "(314) 577-0150",
+   "accredited_for": [
+    "Bacteria (microbiological list)",
+    "Nitrate",
+    "Arsenic",
+    "Lead",
+    "Fluoride"
+   ],
+   "detail": "Microbiological list: certificate 165, expiration date Aug 31, 2029, listed as commercial: Yes. Chemical list: certificate 165, expiration date May 31, 2027, listed as commercial: Yes, 14 testing parameters listed.",
+   "group": "main",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "165, 165",
+   "source_url_2": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/chemical",
+   "source_name_2": "Missouri DNR: Certified Chemical Laboratories"
+  },
+  {
+   "name": "Engineering Surveys & Services",
+   "address": "1113 Fay St., Columbia, MO 65201",
+   "city": "Columbia",
+   "phone": "(573) 449-2646",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 160, expiration date Apr 30, 2028, listed as commercial: Yes.",
+   "group": "main",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "160"
+  },
+  {
+   "name": "Environmental Analysis South",
+   "address": "4000 E. Jackson Blvd., Jackson, MO 63755",
+   "city": "Jackson",
+   "phone": "(573) 204-8817",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 660, expiration date Feb 28, 2028, listed as commercial: Yes.",
+   "group": "main",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "660"
+  },
+  {
+   "name": "Eurofins St. Louis Laboratory",
+   "address": "13715 Rider Trail N., Earth City, MO 63045",
+   "city": "Earth City",
+   "phone": "(314) 298-8566",
+   "accredited_for": [
+    "Uranium"
+   ],
+   "detail": "Chemical list: certificate 780, expiration date Jun 30, 2028, listed as commercial: Yes, 7 testing parameters listed.",
+   "group": "main",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/chemical",
+   "source_name": "Missouri DNR: Certified Chemical Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "780",
+   "note": "Its entry on the DNR chemical list does not include nitrate, arsenic or lead. See that list for the parameters it does cover."
+  },
+  {
+   "name": "Fort Leonard Wood Department of Public Health-U.S. Army",
+   "address": "126 Missouri Ave., Building 310, Suite 124, Fort Leonard Wood, MO 65473",
+   "city": "Fort Leonard Wood",
+   "phone": "(573) 329-1909",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 750, expiration date Mar 31, 2027, listed as commercial: Yes.",
+   "group": "main",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "750"
+  },
+  {
+   "name": "Franklin County Lab",
+   "address": "7419 Highway 47, Suite A, Union, MO 63084",
+   "city": "Union",
+   "phone": "(636) 583-9288",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 700, expiration date Oct 31, 2028, listed as commercial: Yes.",
+   "group": "main",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "700"
+  },
+  {
+   "name": "IIA Lab Services LLC",
+   "address": "2810 Clark Ave., St. Louis, MO 63103",
+   "city": "St. Louis",
+   "phone": "(314) 531-8080",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 690, expiration date Jul 31, 2028, listed as commercial: Yes.",
+   "group": "main",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "690"
+  },
+  {
+   "name": "Kansas City Water Services Laboratory",
+   "address": "2 NE 32nd Ave., Kansas City, MO 64116",
+   "city": "Kansas City",
+   "phone": "(816) 513-7008",
+   "accredited_for": [
+    "Bacteria (microbiological list)",
+    "Nitrate",
+    "Arsenic",
+    "Lead",
+    "Fluoride"
+   ],
+   "detail": "Microbiological list: certificate 130, expiration date Oct 31, 2027, listed as commercial: Yes. Chemical list: certificate 130, expiration date Apr 30, 2027, listed as commercial: No, 70 testing parameters listed.",
+   "group": "main",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "130, 130",
+   "source_url_2": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/chemical",
+   "source_name_2": "Missouri DNR: Certified Chemical Laboratories"
+  },
+  {
+   "name": "Laclede County Health Department Laboratory",
+   "address": "405 Harwood Ave., Lebanon, MO 65536",
+   "city": "Lebanon",
+   "phone": "(417) 532-3477",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 820, expiration date Jul 31, 2027, listed as commercial: Yes.",
+   "group": "main",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "820"
+  },
+  {
+   "name": "Lake of the Ozarks Water Services",
+   "address": "380 W. US Hwy 54, Camdenton, MO 65020",
+   "city": "Camdenton",
+   "phone": "(573) 346-2092",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 950, expiration date Oct 31, 2027, listed as commercial: Yes.",
+   "group": "main",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "950"
+  },
+  {
+   "name": "LO Environmental",
+   "address": "1071 Industrial Drive, Osage Beach, MO 65065",
+   "city": "Osage Beach",
+   "phone": "(573) 964-6956",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 75, expiration date Jul 31, 2029, listed as commercial: Yes.",
+   "group": "main",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "75"
+  },
+  {
+   "name": "Milk Regulatory Consultants",
+   "address": "13213 Minnie St., Russellville, MO 65074",
+   "city": "Russellville",
+   "phone": "(573) 338-1785",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 325, expiration date Oct 31, 2026, listed as commercial: Yes.",
+   "group": "main",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "325",
+   "note": "The expiration date DNR shows for certificate 325 (Oct 31, 2026) has already passed, but the lab was still on the list on 2026-11-08. Confirm current certification with the lab or DNR before you test."
+  },
+  {
+   "name": "Missouri American Water Co.-Branson Metro Laboratory",
+   "address": "300 Terrace Road, Branson, MO 65616",
+   "city": "Branson",
+   "phone": "(417) 626-8509",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 10060, expiration date Jul 31, 2028, listed as commercial: Yes.",
+   "group": "main",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "10060"
+  },
+  {
+   "name": "Missouri American Water Co.-Jefferson City",
+   "address": "906 W. High St., Jefferson City, MO 65109",
+   "city": "Jefferson City",
+   "phone": "(573) 636-8616",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 80, expiration date Dec 31, 2028, listed as commercial: Yes.",
+   "group": "main",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "80"
+  },
+  {
+   "name": "Missouri American Water Co.-Joplin",
+   "address": "1118 W. 21st St., Joplin, MO 64803",
+   "city": "Joplin",
+   "phone": "(417) 626-8509",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 100, expiration date Jan 31, 2027, listed as commercial: Yes.",
+   "group": "main",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "100"
+  },
+  {
+   "name": "Missouri American Water Co.-St. Louis County",
+   "address": "901 Hog Hollow Road, Chesterfield, MO 63017",
+   "city": "Chesterfield",
+   "phone": "(314) 469-6050",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 250, expiration date Aug 31, 2027, listed as commercial: Yes.",
+   "group": "main",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "250"
+  },
+  {
+   "name": "Missouri American Water Co.-Warrensburg",
+   "address": "1705 Montserrat Park Road, Warrensburg, MO 64093",
+   "city": "Warrensburg",
+   "phone": "(417) 626-8509",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 10080, expiration date Mar 31, 2029, listed as commercial: Yes.",
+   "group": "main",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "10080"
+  },
+  {
+   "name": "Missouri Department of Health & Senior Services-State Public Health Laboratory",
+   "address": "101 N. Chestnut St., P.O. Box 570, Jefferson City, MO 65101",
+   "city": "Jefferson City",
+   "phone": "(573) 751-3334",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 3, expiration date Jul 31, 2026, listed as commercial: Yes.",
+   "group": "main",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "3",
+   "note": "The expiration date DNR shows for certificate 3 (Jul 31, 2026) has already passed, but the lab was still on the list on 2026-11-08. Confirm current certification with the lab or DNR before you test. The DNR record includes a P.O. box; call for a drop-off address. For homeowners, DHSS says the State Public Health Laboratory tests private wells using kits you get from your local public health agency (or the DHSS online kit request form); see the Missouri section at the top of this page."
+  },
+  {
+   "name": "Monett City Water Plant",
+   "address": "Eisenhower Facility, 217 Fifth St., Monett, MO 65708",
+   "city": "Monett",
+   "phone": "(417) 235-7455",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 610, expiration date Apr 30, 2027, listed as commercial: Yes.",
+   "group": "main",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "610"
+  },
+  {
+   "name": "Newton County Health Department Laboratory",
+   "address": "812 W. Harmony St., Neosho, MO 64850",
+   "city": "Neosho",
+   "phone": "(417) 451-6549",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 1000, expiration date May 31, 2027, listed as commercial: Yes.",
+   "group": "main",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "1000"
+  },
+  {
+   "name": "North Central Missouri Regional Water Commission",
+   "address": "21299 Highway 5, Milan, MO 63556",
+   "city": "Milan",
+   "phone": "(660) 256-3807",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 11030, expiration date Jun 30, 2027, listed as commercial: Yes.",
+   "group": "main",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "11030"
+  },
+  {
+   "name": "Pace Analytical Services LLC-Hazelwood",
+   "address": "944 Anglum Road, Hazelwood, MO 63040",
+   "city": "Hazelwood",
+   "phone": "(314) 432-0550",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 1050, expiration date May 31, 2029, listed as commercial: Yes.",
+   "group": "main",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "1050"
+  },
+  {
+   "name": "PACE Analytical Services LLC-Springfield",
+   "address": "1805 W. Sunset St., Springfield, MO 65807",
+   "city": "Springfield",
+   "phone": "(417) 864-8924",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 10130, expiration date Mar 31, 2028, listed as commercial: Yes.",
+   "group": "main",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "10130"
+  },
+  {
+   "name": "Perfect Water Testing",
+   "address": "1600 W. Scenic Rivers Blvd., PO Box 95, Salem, MO 65560",
+   "city": "Salem",
+   "phone": "(573) 729-6451",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 265, expiration date Nov 30, 2028, listed as commercial: Yes.",
+   "group": "main",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "265",
+   "note": "The DNR record includes a P.O. box; call for a drop-off address."
+  },
+  {
+   "name": "Premium Waters Inc. Central Laboratory",
+   "address": "4301 N.W. Mattox Road, Riverside, MO 64150",
+   "city": "Riverside",
+   "phone": "(816) 285-5745",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 10140, expiration date Aug 31, 2028, listed as commercial: Yes.",
+   "group": "main",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "10140"
+  },
+  {
+   "name": "R.M. Wester and Associates Inc.",
+   "address": "215 Indacom Drive, St. Peters, MO 63376",
+   "city": "St. Peters",
+   "phone": "(636) 928-9628",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 360, expiration date Jun 30, 2028, listed as commercial: Yes.",
+   "group": "main",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "360"
+  },
+  {
+   "name": "Springfield-Greene County Public Health Center",
+   "address": "227 E. Chestnut Expressway, Springfield, MO 65802",
+   "city": "Springfield",
+   "phone": "(417) 864-1670",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 280, expiration date Nov 30, 2027, listed as commercial: Yes.",
+   "group": "main",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "280"
+  },
+  {
+   "name": "St. Louis County Department of Health",
+   "address": "6121 N. Hanley Road, Berkeley, MO 63134",
+   "city": "Berkeley",
+   "phone": "(314) 615-6834",
+   "accredited_for": [
+    "Bacteria (microbiological list)",
+    "Uranium",
+    "Lead"
+   ],
+   "detail": "Microbiological list: certificate 260, expiration date Nov 30, 2028, listed as commercial: Yes. Chemical list: certificate R7 MO R01, expiration date Jul 31, 2026, listed as commercial: Yes, 5 testing parameters listed. Chemical list: certificate 11010, expiration date Jan 31, 2027, listed as commercial: Yes, 2 testing parameters listed.",
+   "group": "main",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "260, R7 MO R01, 11010",
+   "source_url_2": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/chemical",
+   "source_name_2": "Missouri DNR: Certified Chemical Laboratories",
+   "note": "The expiration date DNR shows for certificate R7 MO R01 (Jul 31, 2026) has already passed, but the lab was still on the list on 2026-11-08. Confirm current certification with the lab or DNR before you test. Listed under more than one name at the same address (St. Louis County Department of Health; St. Louis County Department of Health-Environmental Health Laboratories; St. Louis County Department of Public Health-Environmental Health Laboratory); shown together here. Other contact phone(s) on the DNR lists: (314) 615-6836, (314) 615-6833."
+  },
+  {
+   "name": "Stone County Health Center",
+   "address": "701 Old Wilderness Road, Reeds Spring, MO 65737",
+   "city": "Reeds Spring",
+   "phone": "(417) 357-8200",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 840, expiration date Jun 30, 2028, listed as commercial: Yes.",
+   "group": "main",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "840"
+  },
+  {
+   "name": "Taney County Health Department Laboratory",
+   "address": "320 Rinehart Road, Branson, MO 65616",
+   "city": "Branson",
+   "phone": "(417) 334-4544",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 990, expiration date Jun 30, 2029, listed as commercial: Yes.",
+   "group": "main",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "990"
+  },
+  {
+   "name": "The Truman Laboratory",
+   "address": "107 N. Jefferson St., Neosho, MO 64850",
+   "city": "Neosho",
+   "phone": "(914) 588-8711",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 11000, expiration date Jan 31, 2027, listed as commercial: Yes.",
+   "group": "main",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "11000"
+  },
+  {
+   "name": "Total Water Laboratories LLC",
+   "address": "515 S. Old S. Highway 5, Camdenton, MO 65020",
+   "city": "Camdenton",
+   "phone": "(833) 688-6606",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 17, expiration date Dec 31, 2027, listed as commercial: Yes.",
+   "group": "main",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "17"
+  },
+  {
+   "name": "Tri-County Water Authority",
+   "address": "28405 E. Blue Valley Road, Independence, MO 64058",
+   "city": "Independence",
+   "phone": "(816) 796-4100",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 960, expiration date Apr 30, 2028, listed as commercial: Yes.",
+   "group": "main",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "960"
+  },
+  {
+   "name": "Water Analysis Inc.",
+   "address": "1206 E. 17th St., Joplin, MO 64804",
+   "city": "Joplin",
+   "phone": "(417) 623-2626",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 680, expiration date Aug 31, 2029, listed as commercial: Yes.",
+   "group": "main",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "680"
+  },
+  {
+   "name": "Water Smart Testing LLC",
+   "address": "10510 B Research Drive, Rolla, MO 65401",
+   "city": "Rolla",
+   "phone": "(573) 201-6256",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 10120, expiration date Jan 31, 2028, listed as commercial: Yes.",
+   "group": "main",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "10120"
+  },
+  {
+   "name": "American Water - MSG Ft. Leonard Wood Water Treatment Plant",
+   "address": "14915 Piney Hills Drive, Ft. Leonard Wood, MO 65473",
+   "city": "Ft. Leonard Wood",
+   "phone": "(573) 596-0589",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 38, expiration date Dec 31, 2027, listed as commercial: No.",
+   "group": "public",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "38"
+  },
+  {
+   "name": "Boonville Water Treatment Plant",
+   "address": "901 Riviera Drive, Boonville, MO 65233",
+   "city": "Boonville",
+   "phone": "(660) 882-4021",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 15, expiration date Nov 30, 2026, listed as commercial: No.",
+   "group": "public",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "15"
+  },
+  {
+   "name": "Chillicothe Municipal Utilities Laboratory",
+   "address": "1425 Waterworks Road, PO Box 140, Chillicothe, MO 64601",
+   "city": "Chillicothe",
+   "phone": "(660) 646-0562",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 20, expiration date Apr 30, 2028, listed as commercial: No.",
+   "group": "public",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "20",
+   "note": "The DNR record includes a P.O. box; call for a drop-off address."
+  },
+  {
+   "name": "City of Excelsior Springs Public Works",
+   "address": "29805 N.E. 108th St., Excelsior Springs, MO 64024",
+   "city": "Excelsior Springs",
+   "phone": "(816) 630-6824",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 135, expiration date Feb 28, 2029, listed as commercial: No.",
+   "group": "public",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "135"
+  },
+  {
+   "name": "City of Liberty Water Treatment Plant",
+   "address": "1920 Clay Brooke Drive, Liberty, MO 64068",
+   "city": "Liberty",
+   "phone": "(816) 439-4561",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 156, expiration date Jun 30, 2029, listed as commercial: No.",
+   "group": "public",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "156"
+  },
+  {
+   "name": "City of St. Louis-Chain of Rocks Laboratory",
+   "address": "10450 Riverview Blvd., St. Louis, MO 63137",
+   "city": "St. Louis",
+   "phone": "(314) 592-8221",
+   "accredited_for": [
+    "Arsenic",
+    "Lead",
+    "Fluoride"
+   ],
+   "detail": "Chemical list: certificate 240, expiration date Sep 30, 2029, listed as commercial: No, 53 testing parameters listed.",
+   "group": "public",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/chemical",
+   "source_name": "Missouri DNR: Certified Chemical Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "240"
+  },
+  {
+   "name": "City of Wentzville Water Division Laboratory",
+   "address": "1295 Interstate Drive, Wentzville, MO 63385",
+   "city": "Wentzville",
+   "phone": "(636) 639-7563",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 11060, expiration date Feb 28, 2029, listed as commercial: No.",
+   "group": "public",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "11060"
+  },
+  {
+   "name": "City Utilities of Springfield",
+   "address": "2601 S. Blackman Road, PO Box 551, Springfield, MO 65809",
+   "city": "Springfield",
+   "phone": "(417) 831-8822",
+   "accredited_for": [
+    "Bacteria (microbiological list)",
+    "Nitrate",
+    "Arsenic",
+    "Lead",
+    "Fluoride"
+   ],
+   "detail": "Microbiological list: certificate 290, expiration date May 31, 2028, listed as commercial: No. Chemical list: certificate 290, expiration date Dec 31, 2027, listed as commercial: No, 13 testing parameters listed.",
+   "group": "public",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "290, 290",
+   "source_url_2": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/chemical",
+   "source_name_2": "Missouri DNR: Certified Chemical Laboratories",
+   "note": "The DNR record includes a P.O. box; call for a drop-off address."
+  },
+  {
+   "name": "Clarence Cannon Wholesale Water Commission Laboratory",
+   "address": "34146 Route U, Stoutsville, MO 65283",
+   "city": "Stoutsville",
+   "phone": "(573) 672-3237",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 740, expiration date Jan 31, 2029, listed as commercial: No.",
+   "group": "public",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "740"
+  },
+  {
+   "name": "Hannibal Filter Plant",
+   "address": "Riverview Park, Hannibal, MO 63401",
+   "city": "Hannibal",
+   "phone": "(573) 221-8050",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 50, expiration date Jun 30, 2027, listed as commercial: No.",
+   "group": "public",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "50"
+  },
+  {
+   "name": "Kirksville Water Plant",
+   "address": "Attn: WIP Dennae Dvorak, 201 S. Franklin, Kirksville, MO 63501",
+   "city": "Kirksville",
+   "phone": "(660) 665-3720",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 145, expiration date Jan 31, 2028, listed as commercial: No.",
+   "group": "public",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "145"
+  },
+  {
+   "name": "Kirkwood Water Department",
+   "address": "2020 Marshall Road, Kirkwood, MO 63122",
+   "city": "Kirkwood",
+   "phone": "(314) 822-5890",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 150, expiration date Dec 31, 2026, listed as commercial: No.",
+   "group": "public",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "150"
+  },
+  {
+   "name": "Macon Municipal Utilities",
+   "address": "1201 Noll Drive, Macon, MO 63552",
+   "city": "Macon",
+   "phone": "(660) 385-3849",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 730, expiration date Oct 31, 2028, listed as commercial: No.",
+   "group": "public",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "730"
+  },
+  {
+   "name": "Marshall Municipal Utilities Laboratory",
+   "address": "75 E. Morgan St., Marshall, MO 65340",
+   "city": "Marshall",
+   "phone": "(660) 886-6966",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 670, expiration date Nov 30, 2027, listed as commercial: No.",
+   "group": "public",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "670"
+  },
+  {
+   "name": "Missouri American Water Co.-St. Joseph Water Plant",
+   "address": "800 N.E. County Line Road, St. Joseph, MO 64505",
+   "city": "St. Joseph",
+   "phone": "(816) 223-1671",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 210, expiration date Dec 31, 2026, listed as commercial: No.",
+   "group": "public",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "210"
+  },
+  {
+   "name": "Missouri Department of Natural Resources-Environmental Services CAS Laboratory",
+   "address": "2710 W. Main St., P.O. Box 176, Jefferson City, MO 65102",
+   "city": "Jefferson City",
+   "phone": "(573) 526-3315",
+   "accredited_for": [
+    "Nitrate",
+    "Arsenic",
+    "Lead",
+    "Fluoride"
+   ],
+   "detail": "Chemical list: certificate R7 MO C01, expiration date Jul 31, 2026, listed as commercial: No, 69 testing parameters listed.",
+   "group": "public",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/chemical",
+   "source_name": "Missouri DNR: Certified Chemical Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "R7 MO C01",
+   "note": "The expiration date DNR shows for certificate R7 MO C01 (Jul 31, 2026) has already passed, but the lab was still on the list on 2026-11-08. Confirm current certification with the lab or DNR before you test. The DNR record includes a P.O. box; call for a drop-off address."
+  },
+  {
+   "name": "Nevada Water Treatment Plant",
+   "address": "1300 W. Cherry St., Nevada, MO 64772",
+   "city": "Nevada",
+   "phone": "(417) 448-5117",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 650, expiration date May 31, 2028, listed as commercial: No.",
+   "group": "public",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "650"
+  },
+  {
+   "name": "Perryville Water Treatment Plant",
+   "address": "3698 Highway T, Perryville, MO 63775",
+   "city": "Perryville",
+   "phone": "(573) 547-2060",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 10050, expiration date Feb 28, 2028, listed as commercial: No.",
+   "group": "public",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "10050"
+  },
+  {
+   "name": "Sedalia Water Department Laboratory",
+   "address": "28200 Water Works Road, PO Box 806, Sedalia, MO 65301",
+   "city": "Sedalia",
+   "phone": "(660) 826-1236",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 270, expiration date Mar 31, 2028, listed as commercial: No.",
+   "group": "public",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "270",
+   "note": "The DNR record includes a P.O. box; call for a drop-off address."
+  },
+  {
+   "name": "Sikeston Water Plant",
+   "address": "401 N. West St., PO Box 370, Sikeston, MO 63801",
+   "city": "Sikeston",
+   "phone": "(573) 475-3245",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 271, expiration date May 31, 2029, listed as commercial: No.",
+   "group": "public",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "271",
+   "note": "The DNR record includes a P.O. box; call for a drop-off address."
+  },
+  {
+   "name": "St. Jude Industrial Park",
+   "address": "P.O. Box 441, New Madrid, MO 63869",
+   "city": "New Madrid",
+   "phone": "(573) 643-2784",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 190, expiration date Jul 31, 2027, listed as commercial: No.",
+   "group": "public",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "190",
+   "note": "The DNR record includes a P.O. box; call for a drop-off address."
+  },
+  {
+   "name": "Trenton Municipal Utilities",
+   "address": "1043 W. Crowder, PO Box 108, Trenton, MO 64683",
+   "city": "Trenton",
+   "phone": "(660) 359-2281",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 350, expiration date Jan 31, 2028, listed as commercial: No.",
+   "group": "public",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "350",
+   "note": "The DNR record includes a P.O. box; call for a drop-off address."
+  },
+  {
+   "name": "ALS Group USA-Holland",
+   "address": "3352 128th Ave., Holland, MI 49424",
+   "city": "Holland",
+   "phone": "(616) 399-6070",
+   "accredited_for": [
+    "PFAS (PFOA)"
+   ],
+   "detail": "Chemical list: certificate 01262, expiration date Nov 30, 2027, listed as commercial: Yes, 31 testing parameters listed.",
+   "group": "limited",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/chemical",
+   "source_name": "Missouri DNR: Certified Chemical Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "01262",
+   "note": "Its entry on the DNR chemical list does not include nitrate, arsenic or lead. See that list for the parameters it does cover."
+  },
+  {
+   "name": "American Water Central Laboratory",
+   "address": "1115 S. Illinois St., Belleville, IL 62220-3153",
+   "city": "Belleville",
+   "phone": "(618) 222-4053",
+   "accredited_for": [
+    "Nitrate",
+    "Arsenic",
+    "Lead",
+    "Fluoride",
+    "Uranium",
+    "PFAS (PFOA)"
+   ],
+   "detail": "Chemical list: certificate 10020, expiration date Oct 31, 2027, listed as commercial: No, 85 testing parameters listed.",
+   "group": "limited",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/chemical",
+   "source_name": "Missouri DNR: Certified Chemical Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "10020"
+  },
+  {
+   "name": "Brighton Analytical LLC",
+   "address": "2105 Pless Drive, Brighton, MI 48114",
+   "city": "Brighton",
+   "phone": "(810) 229-7575",
+   "accredited_for": [
+    "Nitrate",
+    "Arsenic",
+    "Lead",
+    "Fluoride"
+   ],
+   "detail": "Chemical list: certificate 11050, expiration date Dec 31, 2027, listed as commercial: Yes, 17 testing parameters listed.",
+   "group": "limited",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/chemical",
+   "source_name": "Missouri DNR: Certified Chemical Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "11050"
+  },
+  {
+   "name": "Culligan Analytical Laboratory",
+   "address": "9399 W. Higgins Road, Suite 1100, Rosemont, IL 60018",
+   "city": "Rosemont",
+   "phone": "(847) 430-2800",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 1060, expiration date Sep 30, 2029, listed as commercial: Yes.",
+   "group": "limited",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "1060"
+  },
+  {
+   "name": "EMSL Analytical Inc.-Indianapolis",
+   "address": "6340 Castleplace Drive, Indianapolis, IN 46250",
+   "city": "Indianapolis",
+   "phone": "(317) 803-2997",
+   "accredited_for": [
+    "Arsenic",
+    "Lead",
+    "Fluoride"
+   ],
+   "detail": "Chemical list: certificate 10180, expiration date Mar 31, 2029, listed as commercial: Yes, 15 testing parameters listed.",
+   "group": "limited",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/chemical",
+   "source_name": "Missouri DNR: Certified Chemical Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "10180"
+  },
+  {
+   "name": "Environmental Hazards Services LLC",
+   "address": "7469 White Pine Road, North Chesterfield, VA 23237",
+   "city": "North Chesterfield",
+   "phone": "(804) 275-4788",
+   "accredited_for": [
+    "Lead"
+   ],
+   "detail": "Chemical list: certificate 11040, expiration date Nov 30, 2027, listed as commercial: Yes, 2 testing parameters listed.",
+   "group": "limited",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/chemical",
+   "source_name": "Missouri DNR: Certified Chemical Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "11040"
+  },
+  {
+   "name": "Eurofins CEI",
+   "address": "730 S.E. Maynard Road, Cary, NC 27511",
+   "city": "Cary",
+   "phone": "(919) 481-1413",
+   "accredited_for": [],
+   "detail": "Chemical list: certificate 10150, expiration date Oct 31, 2028, listed as commercial: Yes, 1 testing parameters listed.",
+   "group": "limited",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/chemical",
+   "source_name": "Missouri DNR: Certified Chemical Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "10150",
+   "note": "Its entry on the DNR chemical list does not include nitrate, arsenic or lead. See that list for the parameters it does cover."
+  },
+  {
+   "name": "Eurofins Lancaster Laboratories Environment Testing LLC",
+   "address": "2425 New Holland Pike, Lancaster, PA 17601",
+   "city": "Lancaster",
+   "phone": "(717) 556-7327",
+   "accredited_for": [
+    "Nitrate",
+    "Arsenic",
+    "Lead",
+    "Fluoride"
+   ],
+   "detail": "Chemical list: certificate 450, expiration date Jan 31, 2028, listed as commercial: Yes, 45 testing parameters listed.",
+   "group": "limited",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/chemical",
+   "source_name": "Missouri DNR: Certified Chemical Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "450"
+  },
+  {
+   "name": "Eurofins South Bend",
+   "address": "110 S. Hill St., South Bend, IN 46617-2702",
+   "city": "South Bend",
+   "phone": "(574) 472-5515",
+   "accredited_for": [
+    "Nitrate",
+    "Arsenic",
+    "Lead",
+    "Fluoride",
+    "Uranium"
+   ],
+   "detail": "Chemical list: certificate 880, expiration date Sep 30, 2027, listed as commercial: Yes, 86 testing parameters listed.",
+   "group": "limited",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/chemical",
+   "source_name": "Missouri DNR: Certified Chemical Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "880"
+  },
+  {
+   "name": "Microbac Laboratories Inc.-Centerville",
+   "address": "205 E. Van Buren St., Centerville, IA 52544",
+   "city": "Centerville",
+   "phone": "(641) 792-8451",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 300, expiration date Feb 28, 2029, listed as commercial: Yes.",
+   "group": "limited",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "300"
+  },
+  {
+   "name": "Microbac Laboratories Inc.-Kansas",
+   "address": "8557 Long St., Lenexa, KS 66215",
+   "city": "Lenexa",
+   "phone": "(913) 321-7856",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 140, expiration date Apr 30, 2027, listed as commercial: Yes.",
+   "group": "limited",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "140"
+  },
+  {
+   "name": "Microbac Laboratories Inc.-Newton",
+   "address": "600 E. 17th St. South, Suite B, Newton, IA 50208",
+   "city": "Newton",
+   "phone": "(641) 792-7989",
+   "accredited_for": [
+    "Nitrate",
+    "Arsenic",
+    "Lead",
+    "Fluoride"
+   ],
+   "detail": "Chemical list: certificate 10170, expiration date Apr 30, 2029, listed as commercial: Yes, 15 testing parameters listed.",
+   "group": "limited",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/chemical",
+   "source_name": "Missouri DNR: Certified Chemical Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "10170"
+  },
+  {
+   "name": "National Testing Laboratories Ltd.",
+   "address": "556 S. Mansfield St., Ypsilanti, MI 48197",
+   "city": "Ypsilanti",
+   "phone": "(734) 483-8333",
+   "accredited_for": [
+    "Nitrate",
+    "Arsenic",
+    "Lead",
+    "Fluoride",
+    "Uranium"
+   ],
+   "detail": "Chemical list: certificate 500, expiration date Dec 31, 2027, listed as commercial: Yes, 78 testing parameters listed.",
+   "group": "limited",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/chemical",
+   "source_name": "Missouri DNR: Certified Chemical Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "500"
+  },
+  {
+   "name": "Pace Analytical National Center for Testing and Innovation",
+   "address": "12065 Lebanon Road, Mount Juliet, TN 37122",
+   "city": "Mount Juliet",
+   "phone": "(615) 773-9657",
+   "accredited_for": [
+    "Nitrate",
+    "Arsenic",
+    "Lead",
+    "Fluoride",
+    "Uranium"
+   ],
+   "detail": "Chemical list: certificate 340, expiration date Sep 30, 2028, listed as commercial: Yes, 60 testing parameters listed.",
+   "group": "limited",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/chemical",
+   "source_name": "Missouri DNR: Certified Chemical Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "340"
+  },
+  {
+   "name": "Pace Analytical Services Inc.-Kansas",
+   "address": "808 W. McKay St., Frontenac, KS 66763",
+   "city": "Frontenac",
+   "phone": "(913) 563-1444",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 10070, expiration date Apr 30, 2027, listed as commercial: Yes.",
+   "group": "limited",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "10070"
+  },
+  {
+   "name": "Pace Analytical Services LLC-Florida",
+   "address": "8 E. Tower Circle, Ormond Beach, FL 32174",
+   "city": "Ormond Beach",
+   "phone": "(386) 672-5668",
+   "accredited_for": [
+    "Nitrate",
+    "Arsenic",
+    "Lead",
+    "Fluoride",
+    "Uranium",
+    "PFAS (PFOA)"
+   ],
+   "detail": "Chemical list: certificate 236, expiration date Jun 30, 2028, listed as commercial: Yes, 85 testing parameters listed.",
+   "group": "limited",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/chemical",
+   "source_name": "Missouri DNR: Certified Chemical Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "236"
+  },
+  {
+   "name": "Pace Analytical Services LLC-Greensburg",
+   "address": "1638 Roseytown Road, Suites 2, 3 and 4, Greensburg, PA 15601",
+   "city": "Greensburg",
+   "phone": "(724) 850-5630",
+   "accredited_for": [
+    "Uranium"
+   ],
+   "detail": "Chemical list: certificate 235, expiration date Dec 31, 2027, listed as commercial: Yes, 8 testing parameters listed.",
+   "group": "limited",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/chemical",
+   "source_name": "Missouri DNR: Certified Chemical Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "235",
+   "note": "Its entry on the DNR chemical list does not include nitrate, arsenic or lead. See that list for the parameters it does cover."
+  },
+  {
+   "name": "Pace Analytical Services LLC-Illinois",
+   "address": "2231 W. Altorfer Drive, Peoria, IL 61615",
+   "city": "Peoria",
+   "phone": "(309) 683-1736",
+   "accredited_for": [
+    "Nitrate",
+    "Arsenic",
+    "Lead",
+    "Fluoride",
+    "PFAS (PFOA)"
+   ],
+   "detail": "Chemical list: certificate 870, expiration date Jun 30, 2028, listed as commercial: Yes, 81 testing parameters listed.",
+   "group": "limited",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/chemical",
+   "source_name": "Missouri DNR: Certified Chemical Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "870"
+  },
+  {
+   "name": "Pace Analytical Services LLC-Minneapolis",
+   "address": "1700 Elm St. SE, Minneapolis, MN 55414",
+   "city": "Minneapolis",
+   "phone": "(612) 607-1700",
+   "accredited_for": [],
+   "detail": "Chemical list: certificate 10100, expiration date Aug 31, 2027, listed as commercial: Yes, 1 testing parameters listed.",
+   "group": "limited",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/chemical",
+   "source_name": "Missouri DNR: Certified Chemical Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "10100",
+   "note": "Its entry on the DNR chemical list does not include nitrate, arsenic or lead. See that list for the parameters it does cover."
+  },
+  {
+   "name": "Rathbun Regional Water Association",
+   "address": "16166 Highway J29, Centerville, IA 52544",
+   "city": "Centerville",
+   "phone": "(641) 647-2416",
+   "accredited_for": [
+    "Bacteria (microbiological list)"
+   ],
+   "detail": "Microbiological list: certificate 10160, expiration date Jan 31, 2029, listed as commercial: Yes.",
+   "group": "limited",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "10160"
+  },
+  {
+   "name": "Teklab Inc.",
+   "address": "5445 Horseshoe Lake Road, Collinsville, IL 62234",
+   "city": "Collinsville",
+   "phone": "(618) 344-1004",
+   "accredited_for": [
+    "Bacteria (microbiological list)",
+    "Nitrate",
+    "Arsenic",
+    "Lead",
+    "Fluoride"
+   ],
+   "detail": "Microbiological list: certificate 930, expiration date Oct 31, 2026, listed as commercial: Yes. Chemical list: certificate 930, expiration date Jan 31, 2028, listed as commercial: Yes, 17 testing parameters listed.",
+   "group": "limited",
+   "source_url": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/microbiological",
+   "source_name": "Missouri DNR: Certified Microbiological Laboratories",
+   "source_date": "2026-11-08",
+   "last_verified": "2026-11-08",
+   "lab_id": "930, 930",
+   "source_url_2": "https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories/chemical",
+   "source_name_2": "Missouri DNR: Certified Chemical Laboratories",
+   "note": "The expiration date DNR shows for certificate 930 (Oct 31, 2026) has already passed, but the lab was still on the list on 2026-11-08. Confirm current certification with the lab or DNR before you test."
+  }
+ ]
+}
