@@ -32,6 +32,7 @@ Still open:
    - 2026-11-06 nightly run: passed over again (page update). Skipped Illinois (stale/expired IDPH list), shipped Indiana full listing instead.
    - 2026-11-05 nightly run: passed over again (page update, not a new page). Expanded Georgia microbiological lab list into a full /labs/georgia/ listing instead. Continuous-disinfection evergreen and other New ideas remain for later runs.
    - 2026-11-07 nightly run: passed over again (page update). Shipped Iowa full listing (next item in the 2026-11-02 transcription list) instead.
+   - 2026-11-08 nightly run: passed over again (page update). Skipped Kentucky (no current official full list), shipped Missouri full listing instead.
 
 ## State guides (free / low-cost programs and local risks, from state sources only)
 (#13 NY flood/drought guide shipped 2026-10-30.)
@@ -107,8 +108,8 @@ Still open:
 - **Georgia: SHIPPED 2026-11-05** as full /labs/georgia/ listing (16 labs from Jan 9, 2025 microbiological PDF; bacteria only; out-of-state + industrial grouped as limited; Waypoint address noted as printed with glued Avenue103). PDF: https://epd.georgia.gov/document/pdf/laboratoriescertifiedbygeorgiamicrobiologicalmonitoring2025/download
 - **Indiana: SHIPPED 2026-11-06** as full /labs/indiana/ listing (49 in-state labs from the "accept samples from the public" section of the 11/7/2025 PDF; builder scripts/build_in.py + scripts/extract_in_tables.py, needs pdfplumber; IDOH kit fees on page). PDF: https://www.in.gov/idem/cleanwater/files/dw_cert_lab_in-state.pdf
 - **Iowa: SHIPPED 2026-11-07** as full /labs/iowa/ listing (58 labs with the Drinking Water program from Iowa DNR LabCert "List of Certified Labs", generated 11/7/2026; main 11 commercial in-state, public 27, out-of-state 20; cert period/status from each DNR Lab Details record; six-test chips from DNR public search with Program = Drinking Water; builder scripts/build_ia.py, raw files in /workspace/src-ia). List: https://programs.iowadnr.gov/labcert/Home/LabListing
-- Kentucky: https://eec.ky.gov/Environmental-Protection/Water/PermitCert/LabCert/Pages/Drinking-Water-Lab-Certification-Program.aspx
-- Missouri: https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories
+- Kentucky: https://eec.ky.gov/Environmental-Protection/Water/PermitCert/LabCert/Pages/Drinking-Water-Lab-Certification-Program.aspx — **skipped 2026-11-08**: the program page links no lab list (it only mentions "the Drinking Water Laboratory List"); .../LabCert/Documents/KYCertifiedDWLaboratoryList.pdf returns 404. The only full list found is a "2025 KY Certified Drinking Water Laboratory List" re-hosted by Greenup County Health Dept (greenupchdky.gov), not a current state copy. EEC does host current narrow lists: Lead-Certified DW Labs (revised 05/04/2026, .../DWProfessionals/ComplianceDocuments/LeadCertifiedLabs.pdf) and 2026 Certified DW PFAS Lab List (revised 1/23/2026, .../Water/Protection/Documents/KYCertifiedDWPFASLabList.pdf). Retry when EEC re-posts the full list, or ask DOWLabCertification@ky.gov for it (user action).
+- **Missouri: SHIPPED 2026-11-08** as full /labs/missouri/ listing (87 labs from DNR micro 68 + chem 26 live lists, merged on street+ZIP; builder scripts/build_mo.py, raw files in /workspace/src-mo). Lists: https://dnr.mo.gov/water/business-industry-other-entities/certified-laboratories
 - Alabama: https://adem.alabama.gov/water/drinking-water-branch/information-public-water-systems/adem-drinking-water-laboratory-certification-program
 - Colorado: https://cdphe.colorado.gov/dwlabs
 - Idaho: https://healthandwelfare.idaho.gov/providers/idaho-laboratories-and-testing/drinking-water-testing-and-certification
@@ -122,7 +123,7 @@ Still open:
 - South Dakota: https://danr.sd.gov/OfficeOfWater/DrinkingWater/LaboratoryCert.aspx
 - Hawaii: https://health.hawaii.gov/sdwb/files/2025/12/Certified_Labs_202512.pdf
 - Massachusetts: MassDEP private-well lab XLSX (mass.gov blocks curl; try browser)
-- Kentucky: certified-lab PDF link 404 on 2026-11-02; find new URL
+- Kentucky: certified-lab PDF link 404 on 2026-11-02 and again 2026-11-08 (see above)
 
 ## New ideas (found while building the shock chlorination guide, 2026-11-02)
 - **TCEQ approved-bleach list** (www.tceq.texas.gov/goto/bleach, cited in GI-432). Not fetched. Check before naming any brands.
@@ -167,3 +168,12 @@ Still open:
 - **Iowa listing caveats to re-check on next pull:** QC Analytical Services (lab 113) record shows period ending Oct 1, 2026 but status Certified; Eurofins TestAmerica St. Louis (373) period starts Dec 1, 2026; EMSL Cinnaminson (419) ZIP printed as 80779; Des Moines Water Works, Davy, Microbac Northbrook marked Provisional.
 - **More Iowa test chips:** LabCert public search (GET /labcert/Home/PublicSearchResults with program=1&analyteName=<id>) can add fluoride, uranium, radium, atrazine etc. Note it filters by program (verified: nitrate under Nonpotable only is excluded).
 - **Re-verification due by ~2026-11-12:** NH was re-verified 2026-11-05; Ohio (monthly Combined-Lab-List.pdf), NY/Westchester and MD (built 2026-10-26) still never re-verified. Next night with time should do Ohio.
+
+## New ideas (found while building Missouri labs, 2026-11-08)
+- **Missouri State Public Health Laboratory micro certificate shows Jul 31, 2026 expiration** on the DNR list (still listed 2026-11-08). Re-check on the next Missouri pull; DNR CAS lab and St. Louis County R7 MO R01 chem entries also show Jul 31, 2026, Teklab micro and Milk Regulatory Consultants Oct 31, 2026.
+- **Missouri private well sampling maps** (health.mo.gov/.../private-well-sampling-maps): DHSS county maps of wells tested and 10 contaminants. Possible "what's common in Missouri wells" guide; check data dates first.
+- **Missouri lead-mining areas and wells:** DHSS kit page says lead occurs in groundwater in mining areas and recommends metals testing there; DHSS also posts "Radionuclides in Missouri Groundwater" (PDF dated 2026/03). Short Missouri guide from DHSS sources only.
+- **MSPHL forms and instructions (Lab34 sampling instructions, Lab-177 private water form 2026/06, Lab-10H coliform/E. coli explanation 2026/08):** could feed the sampling and bacteria-result guides with a Missouri row (48-hour receipt rule vs 30 hours for public supplies).
+- **Kentucky narrow lists:** EEC Lead-Certified labs (05/04/2026) and PFAS labs (1/23/2026) are current; a Kentucky lead/PFAS testing section could be added to /labs/kentucky/ from those two PDFs while the full list is missing.
+- **Each Missouri DNR lab entry links a per-lab "parameters" document** (dnr.mo.gov/document/...-parameters-<date>); not used. Could give per-lab micro test detail (coliform vs E. coli) if the documents open as text.
+
