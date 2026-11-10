@@ -242,40 +242,6 @@
     ],
     "last_verified": "2026-11-02"
   },
-  "alabama": {
-    "name": "Alabama",
-    "abbr": "AL",
-    "list_type": "downloadable list (not yet transcribed here)",
-    "resources": [
-      {
-        "label": "ADEM: Drinking water laboratory certification program",
-        "url": "https://adem.alabama.gov/water/drinking-water-branch/information-public-water-systems/adem-drinking-water-laboratory-certification-program",
-        "kind": "lab list",
-        "checked": "loaded"
-      },
-      {
-        "label": "ADEM: Information for consumers",
-        "url": "https://adem.alabama.gov/water/drinking-water-branch/information-consumers",
-        "kind": "program",
-        "checked": "loaded"
-      },
-      {
-        "label": "Auburn University: Alabama Private Well Program",
-        "url": "https://aaes.auburn.edu/wrc/alabama-private-well-program/",
-        "kind": "program",
-        "checked": "loaded"
-      }
-    ],
-    "facts": [
-      "ADEM publishes its certified drinking-water lab lists on its certification program page."
-    ],
-    "fees": [],
-    "unverified": [
-      "We have not yet transcribed ADEM's lists; queued.",
-      "No statewide fee schedule found."
-    ],
-    "last_verified": "2026-11-02"
-  },
   "florida": {
     "name": "Florida",
     "abbr": "FL",

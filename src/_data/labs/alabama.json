@@ -1,0 +1,1067 @@
+{
+ "state": "Alabama",
+ "slug": "alabama",
+ "abbr": "AL",
+ "list_source": {
+  "name": "ADEM certified drinking-water laboratory lists (bacteriological, in-state chemical, out-of-state chemical, PFAS)",
+  "page_url": "https://adem.alabama.gov/water/drinking-water-branch/information-public-water-systems/adem-drinking-water-laboratory-certification-program",
+  "program_url": "https://adem.alabama.gov/water/drinking-water-branch/information-public-water-systems/adem-drinking-water-laboratory-certification-program",
+  "report_date": "In-state lists revised April 7, 2026; out-of-state and PFAS lists October 3, 2025"
+ },
+ "last_verified": "2026-11-09",
+ "labs": [
+  {
+   "name": "Environmental Resource Analysts",
+   "address": "2975 Brown Court, Auburn, AL 36830",
+   "city": "Auburn",
+   "phone": "(334) 502-3444",
+   "accredited_for": [
+    "Bacteria (ADEM bacteriological list)",
+    "Chemistry (ADEM in-state chemical list)"
+   ],
+   "detail": "On ADEM's Certified Bacteriological Laboratories (revised April 7, 2026); ADEM's In State Certified Chemical Laboratories (revised April 7, 2026).",
+   "group": "main",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2026-04/BacteriologicalLabs.pdf",
+   "source_name": "ADEM: Certified Bacteriological Laboratories (revised April 7, 2026)",
+   "source_date": "2026-04-07",
+   "last_verified": "2026-11-09",
+   "source_url_2": "https://adem.alabama.gov/sites/default/files/2026-04/InStateChemicalLabs.pdf",
+   "source_name_2": "ADEM: In State Certified Chemical Laboratories (revised April 7, 2026)"
+  },
+  {
+   "name": "Guardian Systems",
+   "address": "1108 Ashville Road, Leeds, AL 35094",
+   "city": "Leeds",
+   "phone": "(205) 699-6647",
+   "accredited_for": [
+    "Bacteria (ADEM bacteriological list)",
+    "Chemistry (ADEM in-state chemical list)"
+   ],
+   "detail": "On ADEM's Certified Bacteriological Laboratories (revised April 7, 2026); ADEM's In State Certified Chemical Laboratories (revised April 7, 2026).",
+   "group": "main",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2026-04/BacteriologicalLabs.pdf",
+   "source_name": "ADEM: Certified Bacteriological Laboratories (revised April 7, 2026)",
+   "source_date": "2026-04-07",
+   "last_verified": "2026-11-09",
+   "source_url_2": "https://adem.alabama.gov/sites/default/files/2026-04/InStateChemicalLabs.pdf",
+   "source_name_2": "ADEM: In State Certified Chemical Laboratories (revised April 7, 2026)"
+  },
+  {
+   "name": "Mobile Branch Laboratory",
+   "address": "757 Museum Dr, Mobile, AL 36608",
+   "city": "Mobile",
+   "phone": "(251) 344-6049",
+   "accredited_for": [
+    "Bacteria (ADEM bacteriological list)"
+   ],
+   "detail": "On ADEM's Certified Bacteriological Laboratories (revised April 7, 2026).",
+   "group": "main",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2026-04/BacteriologicalLabs.pdf",
+   "source_name": "ADEM: Certified Bacteriological Laboratories (revised April 7, 2026)",
+   "source_date": "2026-04-07",
+   "last_verified": "2026-11-09",
+   "note": "This is an Alabama Department of Public Health (ADPH) Bureau of Clinical Laboratories lab (same address as on ADPH's private-water sample form). For private wells it tests for total coliform bacteria including E. coli only, using bottles from your county health department; ADPH's form says the fee is currently waived. See the Alabama section at the top of this page."
+  },
+  {
+   "name": "Pace Analytical National Decatur",
+   "address": "2220 Beltline Road SW, Decatur, AL 35601",
+   "city": "Decatur",
+   "phone": "(256) 350-0846",
+   "accredited_for": [
+    "Bacteria (ADEM bacteriological list)"
+   ],
+   "detail": "On ADEM's Certified Bacteriological Laboratories (revised April 7, 2026).",
+   "group": "main",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2026-04/BacteriologicalLabs.pdf",
+   "source_name": "ADEM: Certified Bacteriological Laboratories (revised April 7, 2026)",
+   "source_date": "2026-04-07",
+   "last_verified": "2026-11-09"
+  },
+  {
+   "name": "Pace Analytical Services",
+   "address": "3516 Greensboro Avenue, Tuscaloosa, AL 35401",
+   "city": "Tuscaloosa",
+   "phone": "(205) 345-0816",
+   "accredited_for": [
+    "Bacteria (ADEM bacteriological list)"
+   ],
+   "detail": "On ADEM's Certified Bacteriological Laboratories (revised April 7, 2026).",
+   "group": "main",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2026-04/BacteriologicalLabs.pdf",
+   "source_name": "ADEM: Certified Bacteriological Laboratories (revised April 7, 2026)",
+   "source_date": "2026-04-07",
+   "last_verified": "2026-11-09"
+  },
+  {
+   "name": "Pace Analytical Services - Mobile",
+   "address": "4320 Midmost Drive, Mobile, AL 36609",
+   "city": "Mobile",
+   "phone": "(504) 305-3611",
+   "accredited_for": [
+    "Bacteria (ADEM bacteriological list)"
+   ],
+   "detail": "On ADEM's Certified Bacteriological Laboratories (revised April 7, 2026).",
+   "group": "main",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2026-04/BacteriologicalLabs.pdf",
+   "source_name": "ADEM: Certified Bacteriological Laboratories (revised April 7, 2026)",
+   "source_date": "2026-04-07",
+   "last_verified": "2026-11-09"
+  },
+  {
+   "name": "Polyenvironmental Corporation",
+   "address": "1885 Headland Avenue, Dothan, AL 36303",
+   "city": "Dothan",
+   "phone": "(334) 793-4700",
+   "accredited_for": [
+    "Bacteria (ADEM bacteriological list)"
+   ],
+   "detail": "On ADEM's Certified Bacteriological Laboratories (revised April 7, 2026).",
+   "group": "main",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2026-04/BacteriologicalLabs.pdf",
+   "source_name": "ADEM: Certified Bacteriological Laboratories (revised April 7, 2026)",
+   "source_date": "2026-04-07",
+   "last_verified": "2026-11-09"
+  },
+  {
+   "name": "Prattville Branch Laboratory",
+   "address": "204 Legends Court, Prattville, AL 36066",
+   "city": "Prattville",
+   "phone": "(334) 260-3400",
+   "accredited_for": [
+    "Bacteria (ADEM bacteriological list)"
+   ],
+   "detail": "On ADEM's Certified Bacteriological Laboratories (revised April 7, 2026).",
+   "group": "main",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2026-04/BacteriologicalLabs.pdf",
+   "source_name": "ADEM: Certified Bacteriological Laboratories (revised April 7, 2026)",
+   "source_date": "2026-04-07",
+   "last_verified": "2026-11-09",
+   "note": "This is an Alabama Department of Public Health (ADPH) Bureau of Clinical Laboratories lab (same address as on ADPH's private-water sample form). For private wells it tests for total coliform bacteria including E. coli only, using bottles from your county health department; ADPH's form says the fee is currently waived. See the Alabama section at the top of this page. ADPH's form prints (334) 290-3201 for the Prattville Laboratory."
+  },
+  {
+   "name": "Safety Environmental Services",
+   "address": "989 Yeager Parkway, Pelham, AL 35080",
+   "city": "Pelham",
+   "phone": "(205) 823-6200",
+   "accredited_for": [
+    "Bacteria (ADEM bacteriological list)"
+   ],
+   "detail": "On ADEM's Certified Bacteriological Laboratories (revised April 7, 2026).",
+   "group": "main",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2026-04/BacteriologicalLabs.pdf",
+   "source_name": "ADEM: Certified Bacteriological Laboratories (revised April 7, 2026)",
+   "source_date": "2026-04-07",
+   "last_verified": "2026-11-09"
+  },
+  {
+   "name": "Southern Environmental Testing",
+   "address": "P O Box 2084, Decatur, AL 35602",
+   "city": "Decatur",
+   "phone": "(256) 280-2567",
+   "accredited_for": [
+    "Bacteria (ADEM bacteriological list)"
+   ],
+   "detail": "On ADEM's Certified Bacteriological Laboratories (revised April 7, 2026).",
+   "group": "main",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2026-04/BacteriologicalLabs.pdf",
+   "source_name": "ADEM: Certified Bacteriological Laboratories (revised April 7, 2026)",
+   "source_date": "2026-04-07",
+   "last_verified": "2026-11-09",
+   "note": "ADEM prints a P.O. box; call for a drop-off address."
+  },
+  {
+   "name": "Southern Environmental Testing",
+   "address": "3103 Northington Court, Florence, AL 35630",
+   "city": "Florence",
+   "phone": "(256) 740-5532",
+   "accredited_for": [
+    "Bacteria (ADEM bacteriological list)",
+    "Chemistry (ADEM in-state chemical list)"
+   ],
+   "detail": "On ADEM's Certified Bacteriological Laboratories (revised April 7, 2026); ADEM's In State Certified Chemical Laboratories (revised April 7, 2026).",
+   "group": "main",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2026-04/BacteriologicalLabs.pdf",
+   "source_name": "ADEM: Certified Bacteriological Laboratories (revised April 7, 2026)",
+   "source_date": "2026-04-07",
+   "last_verified": "2026-11-09",
+   "source_url_2": "https://adem.alabama.gov/sites/default/files/2026-04/InStateChemicalLabs.pdf",
+   "source_name_2": "ADEM: In State Certified Chemical Laboratories (revised April 7, 2026)",
+   "note": "Listed under more than one name at this address (Southern Environmental Testing; Southern Environmental Testing - Florence); shown together here. Street printed differently on the lists (3103 Northington Court; 3103 Norhtington Court)."
+  },
+  {
+   "name": "Southern Environmental Testing - Decatur",
+   "address": "2919 Fairground Road SW, Decatur, AL 35603",
+   "city": "Decatur",
+   "phone": "(256) 280-2577",
+   "accredited_for": [
+    "Chemistry (ADEM in-state chemical list)"
+   ],
+   "detail": "On ADEM's In State Certified Chemical Laboratories (revised April 7, 2026).",
+   "group": "main",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2026-04/InStateChemicalLabs.pdf",
+   "source_name": "ADEM: In State Certified Chemical Laboratories (revised April 7, 2026)",
+   "source_date": "2026-04-07",
+   "last_verified": "2026-11-09"
+  },
+  {
+   "name": "Sutherland Environmental Testing Laboratory",
+   "address": "2515 Fifth Avenue South, Birmingham, AL 35233",
+   "city": "Birmingham",
+   "phone": "(205) 581-9500",
+   "accredited_for": [
+    "Chemistry (ADEM in-state chemical list)"
+   ],
+   "detail": "On ADEM's In State Certified Chemical Laboratories (revised April 7, 2026).",
+   "group": "main",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2026-04/InStateChemicalLabs.pdf",
+   "source_name": "ADEM: In State Certified Chemical Laboratories (revised April 7, 2026)",
+   "source_date": "2026-04-07",
+   "last_verified": "2026-11-09"
+  },
+  {
+   "name": "Albertville Bacteriological laboratory",
+   "address": "600 Water Plant Road, Albertville, AL 35951",
+   "city": "Albertville",
+   "phone": "(256) 878-3762",
+   "accredited_for": [
+    "Bacteria (ADEM bacteriological list)"
+   ],
+   "detail": "On ADEM's Certified Bacteriological Laboratories (revised April 7, 2026).",
+   "group": "public",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2026-04/BacteriologicalLabs.pdf",
+   "source_name": "ADEM: Certified Bacteriological Laboratories (revised April 7, 2026)",
+   "source_date": "2026-04-07",
+   "last_verified": "2026-11-09"
+  },
+  {
+   "name": "Alexander City Sugar Creek Laboratory",
+   "address": "2515 Sugar Creek Road, Alexander City, AL 35010",
+   "city": "Alexander City",
+   "phone": "(256) 409-2031",
+   "accredited_for": [
+    "Bacteria (ADEM bacteriological list)"
+   ],
+   "detail": "On ADEM's Certified Bacteriological Laboratories (revised April 7, 2026).",
+   "group": "public",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2026-04/BacteriologicalLabs.pdf",
+   "source_name": "ADEM: Certified Bacteriological Laboratories (revised April 7, 2026)",
+   "source_date": "2026-04-07",
+   "last_verified": "2026-11-09"
+  },
+  {
+   "name": "Anniston Water Works Laboratory",
+   "address": "P O Box 2268, Anniston, AL 36202",
+   "city": "Anniston",
+   "phone": "(256) 241-5032",
+   "accredited_for": [
+    "Bacteria (ADEM bacteriological list)"
+   ],
+   "detail": "On ADEM's Certified Bacteriological Laboratories (revised April 7, 2026).",
+   "group": "public",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2026-04/BacteriologicalLabs.pdf",
+   "source_name": "ADEM: Certified Bacteriological Laboratories (revised April 7, 2026)",
+   "source_date": "2026-04-07",
+   "last_verified": "2026-11-09",
+   "note": "ADEM prints a P.O. box; call for a drop-off address."
+  },
+  {
+   "name": "Bessemer Utilities Lab",
+   "address": "1600 1st Avenue North, Bessemer, AL 35020",
+   "city": "Bessemer",
+   "phone": "(205) 481-4333",
+   "accredited_for": [
+    "Bacteria (ADEM bacteriological list)"
+   ],
+   "detail": "On ADEM's Certified Bacteriological Laboratories (revised April 7, 2026).",
+   "group": "public",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2026-04/BacteriologicalLabs.pdf",
+   "source_name": "ADEM: Certified Bacteriological Laboratories (revised April 7, 2026)",
+   "source_date": "2026-04-07",
+   "last_verified": "2026-11-09",
+   "note": "Printed twice on the bacteriological list (as \"Bessemer Utilities Lab\" and \"Bessemer Utilities LAboratory\") with the same address and phone; shown once."
+  },
+  {
+   "name": "Bridgeport Water Treatment Plant Laboratory",
+   "address": "P O Box 36, Bridgeport, AL 35740",
+   "city": "Bridgeport",
+   "phone": "(256) 495-2594",
+   "accredited_for": [
+    "Bacteria (ADEM bacteriological list)"
+   ],
+   "detail": "On ADEM's Certified Bacteriological Laboratories (revised April 7, 2026).",
+   "group": "public",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2026-04/BacteriologicalLabs.pdf",
+   "source_name": "ADEM: Certified Bacteriological Laboratories (revised April 7, 2026)",
+   "source_date": "2026-04-07",
+   "last_verified": "2026-11-09",
+   "note": "ADEM prints a P.O. box; call for a drop-off address."
+  },
+  {
+   "name": "Chattahochee Valley Water Supply District",
+   "address": "102 S.E. 12th Street, Lanett, AL 36863",
+   "city": "Lanett",
+   "phone": "(334) 644-3777",
+   "accredited_for": [
+    "Bacteria (ADEM bacteriological list)"
+   ],
+   "detail": "On ADEM's Certified Bacteriological Laboratories (revised April 7, 2026).",
+   "group": "public",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2026-04/BacteriologicalLabs.pdf",
+   "source_name": "ADEM: Certified Bacteriological Laboratories (revised April 7, 2026)",
+   "source_date": "2026-04-07",
+   "last_verified": "2026-11-09"
+  },
+  {
+   "name": "Five Star Filter Plant Bacteriological Laboratory",
+   "address": "251 Lakeview Drive, Wetumpka, AL 36092",
+   "city": "Wetumpka",
+   "phone": "(334) 567-1366",
+   "accredited_for": [
+    "Bacteria (ADEM bacteriological list)"
+   ],
+   "detail": "On ADEM's Certified Bacteriological Laboratories (revised April 7, 2026).",
+   "group": "public",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2026-04/BacteriologicalLabs.pdf",
+   "source_name": "ADEM: Certified Bacteriological Laboratories (revised April 7, 2026)",
+   "source_date": "2026-04-07",
+   "last_verified": "2026-11-09"
+  },
+  {
+   "name": "Gadsden Water Works Laboratory",
+   "address": "515 Albert Rains Blvd., Gadsden, AL 35901",
+   "city": "Gadsden",
+   "phone": "(256) 543-2884 ext 219",
+   "accredited_for": [
+    "Bacteria (ADEM bacteriological list)"
+   ],
+   "detail": "On ADEM's Certified Bacteriological Laboratories (revised April 7, 2026).",
+   "group": "public",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2026-04/BacteriologicalLabs.pdf",
+   "source_name": "ADEM: Certified Bacteriological Laboratories (revised April 7, 2026)",
+   "source_date": "2026-04-07",
+   "last_verified": "2026-11-09"
+  },
+  {
+   "name": "Houston County Regional Water Lab",
+   "address": "1781 East Cottonwood Highway, Dothan, AL 36301",
+   "city": "Dothan",
+   "phone": "(334) 678-2810",
+   "accredited_for": [
+    "Bacteria (ADEM bacteriological list)"
+   ],
+   "detail": "On ADEM's Certified Bacteriological Laboratories (revised April 7, 2026).",
+   "group": "public",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2026-04/BacteriologicalLabs.pdf",
+   "source_name": "ADEM: Certified Bacteriological Laboratories (revised April 7, 2026)",
+   "source_date": "2026-04-07",
+   "last_verified": "2026-11-09",
+   "note": "The Houston County Health Department well-water page (last updated August 21, 2025) tells residents to contact this lab for self-collection instructions and lists a $15.00 testing fee per sample."
+  },
+  {
+   "name": "Huntsville Utilities Laboratory",
+   "address": "14000 South Memorial Parkway, Huntsville, AL 35803",
+   "city": "Huntsville",
+   "phone": "(256) 650-6374",
+   "accredited_for": [
+    "Bacteria (ADEM bacteriological list)"
+   ],
+   "detail": "On ADEM's Certified Bacteriological Laboratories (revised April 7, 2026).",
+   "group": "public",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2026-04/BacteriologicalLabs.pdf",
+   "source_name": "ADEM: Certified Bacteriological Laboratories (revised April 7, 2026)",
+   "source_date": "2026-04-07",
+   "last_verified": "2026-11-09"
+  },
+  {
+   "name": "Limestone County Bacteriological Laboratory",
+   "address": "17218 Highway 72 West, Athens, AL 35612",
+   "city": "Athens",
+   "phone": "(256) 233-6445 x125",
+   "accredited_for": [
+    "Bacteria (ADEM bacteriological list)"
+   ],
+   "detail": "On ADEM's Certified Bacteriological Laboratories (revised April 7, 2026).",
+   "group": "public",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2026-04/BacteriologicalLabs.pdf",
+   "source_name": "ADEM: Certified Bacteriological Laboratories (revised April 7, 2026)",
+   "source_date": "2026-04-07",
+   "last_verified": "2026-11-09"
+  },
+  {
+   "name": "Living Water Services",
+   "address": "150 Piper Lane, Alabaster, AL 35007",
+   "city": "Alabaster",
+   "phone": "(205) 985-2113",
+   "accredited_for": [
+    "Bacteria (ADEM bacteriological list)"
+   ],
+   "detail": "On ADEM's Certified Bacteriological Laboratories (revised April 7, 2026).",
+   "group": "public",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2026-04/BacteriologicalLabs.pdf",
+   "source_name": "ADEM: Certified Bacteriological Laboratories (revised April 7, 2026)",
+   "source_date": "2026-04-07",
+   "last_verified": "2026-11-09",
+   "note": "The name does not show whether this is a commercial lab or a water system's own lab. Call first."
+  },
+  {
+   "name": "Madison County Water Department Laboratory",
+   "address": "845 Mountain Fork Road, New Market, AL 35761",
+   "city": "New Market",
+   "phone": "(256) 379-2754",
+   "accredited_for": [
+    "Bacteria (ADEM bacteriological list)"
+   ],
+   "detail": "On ADEM's Certified Bacteriological Laboratories (revised April 7, 2026).",
+   "group": "public",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2026-04/BacteriologicalLabs.pdf",
+   "source_name": "ADEM: Certified Bacteriological Laboratories (revised April 7, 2026)",
+   "source_date": "2026-04-07",
+   "last_verified": "2026-11-09"
+  },
+  {
+   "name": "Mobile Water Service Laboratory",
+   "address": "348 McGregor Ave, Mobile, AL 36603",
+   "city": "Mobile",
+   "phone": "(251) 378-3521",
+   "accredited_for": [
+    "Bacteria (ADEM bacteriological list)"
+   ],
+   "detail": "On ADEM's Certified Bacteriological Laboratories (revised April 7, 2026).",
+   "group": "public",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2026-04/BacteriologicalLabs.pdf",
+   "source_name": "ADEM: Certified Bacteriological Laboratories (revised April 7, 2026)",
+   "source_date": "2026-04-07",
+   "last_verified": "2026-11-09"
+  },
+  {
+   "name": "Montgomery Industrial Waste Laboartory",
+   "address": "2000 Interstate Park Drive, Montgomery, AL 36109",
+   "city": "Montgomery",
+   "phone": "(334) 206-1706",
+   "accredited_for": [
+    "Bacteria (ADEM bacteriological list)",
+    "Chemistry (ADEM in-state chemical list)"
+   ],
+   "detail": "On ADEM's Certified Bacteriological Laboratories (revised April 7, 2026); ADEM's In State Certified Chemical Laboratories (revised April 7, 2026).",
+   "group": "public",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2026-04/BacteriologicalLabs.pdf",
+   "source_name": "ADEM: Certified Bacteriological Laboratories (revised April 7, 2026)",
+   "source_date": "2026-04-07",
+   "last_verified": "2026-11-09",
+   "source_url_2": "https://adem.alabama.gov/sites/default/files/2026-04/InStateChemicalLabs.pdf",
+   "source_name_2": "ADEM: In State Certified Chemical Laboratories (revised April 7, 2026)",
+   "note": "Listed under more than one name at this address (Montgomery Industrial Waste Laboartory; Montgomery Environmental Services Laboratory); shown together here."
+  },
+  {
+   "name": "Montgomery Water Works Laboratory",
+   "address": "5301 Jack Drive, Montgomery, AL 36110",
+   "city": "Montgomery",
+   "phone": "(334) 206-3484",
+   "accredited_for": [
+    "Bacteria (ADEM bacteriological list)"
+   ],
+   "detail": "On ADEM's Certified Bacteriological Laboratories (revised April 7, 2026).",
+   "group": "public",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2026-04/BacteriologicalLabs.pdf",
+   "source_name": "ADEM: Certified Bacteriological Laboratories (revised April 7, 2026)",
+   "source_date": "2026-04-07",
+   "last_verified": "2026-11-09"
+  },
+  {
+   "name": "Opelika Water Treatment Plant Laboratroy",
+   "address": "4055 Water Street, Opelika, AL 36801",
+   "city": "Opelika",
+   "phone": "(334) 705-5500",
+   "accredited_for": [
+    "Bacteria (ADEM bacteriological list)"
+   ],
+   "detail": "On ADEM's Certified Bacteriological Laboratories (revised April 7, 2026).",
+   "group": "public",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2026-04/BacteriologicalLabs.pdf",
+   "source_name": "ADEM: Certified Bacteriological Laboratories (revised April 7, 2026)",
+   "source_date": "2026-04-07",
+   "last_verified": "2026-11-09",
+   "note": "Other phone(s) on the ADEM lists: (334) 749-7653."
+  },
+  {
+   "name": "Smiths Water Laboratory",
+   "address": "141 Lee Road 315, Smiths, AL 36877",
+   "city": "Smiths",
+   "phone": "(334) 290-3124",
+   "accredited_for": [
+    "Bacteria (ADEM bacteriological list)"
+   ],
+   "detail": "On ADEM's Certified Bacteriological Laboratories (revised April 7, 2026).",
+   "group": "public",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2026-04/BacteriologicalLabs.pdf",
+   "source_name": "ADEM: Certified Bacteriological Laboratories (revised April 7, 2026)",
+   "source_date": "2026-04-07",
+   "last_verified": "2026-11-09"
+  },
+  {
+   "name": "Tuscaloosa Water Dept Laboratory",
+   "address": "1125 Jack Warner Parkway NE, Tuscaloosa, AL 35404-1056",
+   "city": "Tuscaloosa",
+   "phone": "(205) 248-5630",
+   "accredited_for": [
+    "Bacteria (ADEM bacteriological list)"
+   ],
+   "detail": "On ADEM's Certified Bacteriological Laboratories (revised April 7, 2026).",
+   "group": "public",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2026-04/BacteriologicalLabs.pdf",
+   "source_name": "ADEM: Certified Bacteriological Laboratories (revised April 7, 2026)",
+   "source_date": "2026-04-07",
+   "last_verified": "2026-11-09"
+  },
+  {
+   "name": "Advanced Environmental Laboratories, Inc.",
+   "address": "6681 Southpoint Parkway, Jacksonville, FL 32216",
+   "city": "Jacksonville",
+   "phone": "(407) 491-1509",
+   "accredited_for": [
+    "Chemistry (ADEM out-of-state chemical list)"
+   ],
+   "detail": "On ADEM's Out of State Certified Laboratories (chemical, revised October 3, 2025).",
+   "group": "limited",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2025-10/OutofStateChemicalLabs_0.pdf",
+   "source_name": "ADEM: Out of State Certified Laboratories (chemical, revised October 3, 2025)",
+   "source_date": "2025-10-03",
+   "last_verified": "2026-11-09",
+   "note": "Other phone(s) on the ADEM lists: (904) 363-9350."
+  },
+  {
+   "name": "Alliance Technical Group, Inc.",
+   "address": "3310 Win Street, Cuyahoga Falls, OH 44223",
+   "city": "Cuyahoga Falls",
+   "phone": "(330) 253-8211",
+   "accredited_for": [
+    "Chemistry (ADEM out-of-state chemical list)"
+   ],
+   "detail": "On ADEM's Out of State Certified Laboratories (chemical, revised October 3, 2025).",
+   "group": "limited",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2025-10/OutofStateChemicalLabs_0.pdf",
+   "source_name": "ADEM: Out of State Certified Laboratories (chemical, revised October 3, 2025)",
+   "source_date": "2025-10-03",
+   "last_verified": "2026-11-09",
+   "note": "Alliance Technical Group (out-of-state chemical list, ZIP 44223) and Summit Environmental Technologies (PFAS list, ZIP 44313) are both printed at 3310 Win Street with the same phone, but with different ZIPs, so we did not merge them."
+  },
+  {
+   "name": "ALS Environmental",
+   "address": "3352 128th Avenue, Holland, MI 49424",
+   "city": "Holland",
+   "phone": "(616) 399-6070",
+   "accredited_for": [
+    "Chemistry (ADEM out-of-state chemical list)",
+    "PFAS (ADEM PFAS list, EPA Method 537.1)"
+   ],
+   "detail": "On ADEM's Out of State Certified Laboratories (chemical, revised October 3, 2025); ADEM's Certified PFAS Labs, EPA Method 537.1 (updated October 3, 2025).",
+   "group": "limited",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2025-10/OutofStateChemicalLabs_0.pdf",
+   "source_name": "ADEM: Out of State Certified Laboratories (chemical, revised October 3, 2025)",
+   "source_date": "2025-10-03",
+   "last_verified": "2026-11-09",
+   "source_url_2": "https://adem.alabama.gov/sites/default/files/2025-10/CertifiedPFASLabs.pdf",
+   "source_name_2": "ADEM: Certified PFAS Labs, EPA Method 537.1 (updated October 3, 2025)"
+  },
+  {
+   "name": "Analytical Industrial Research Laboratories",
+   "address": "1550 37th Street, Cleveland, TN 37312",
+   "city": "Cleveland",
+   "phone": "(423) 476-7766",
+   "accredited_for": [
+    "Chemistry (ADEM out-of-state chemical list)"
+   ],
+   "detail": "On ADEM's Out of State Certified Laboratories (chemical, revised October 3, 2025).",
+   "group": "limited",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2025-10/OutofStateChemicalLabs_0.pdf",
+   "source_name": "ADEM: Out of State Certified Laboratories (chemical, revised October 3, 2025)",
+   "source_date": "2025-10-03",
+   "last_verified": "2026-11-09"
+  },
+  {
+   "name": "Babcock Laboratories, Inc.",
+   "address": "6100 Quail Valley Court, Riverside, CA 92507",
+   "city": "Riverside",
+   "phone": "(951) 653-3351",
+   "accredited_for": [
+    "Chemistry (ADEM out-of-state chemical list)",
+    "PFAS (ADEM PFAS list, EPA Method 537.1)"
+   ],
+   "detail": "On ADEM's Out of State Certified Laboratories (chemical, revised October 3, 2025); ADEM's Certified PFAS Labs, EPA Method 537.1 (updated October 3, 2025).",
+   "group": "limited",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2025-10/OutofStateChemicalLabs_0.pdf",
+   "source_name": "ADEM: Out of State Certified Laboratories (chemical, revised October 3, 2025)",
+   "source_date": "2025-10-03",
+   "last_verified": "2026-11-09",
+   "source_url_2": "https://adem.alabama.gov/sites/default/files/2025-10/CertifiedPFASLabs.pdf",
+   "source_name_2": "ADEM: Certified PFAS Labs, EPA Method 537.1 (updated October 3, 2025)"
+  },
+  {
+   "name": "Columbus Water Works",
+   "address": "1420 54th Street, Columbus, GA 31904",
+   "city": "Columbus",
+   "phone": "(706) 649-3480",
+   "accredited_for": [
+    "Chemistry (ADEM out-of-state chemical list)"
+   ],
+   "detail": "On ADEM's Out of State Certified Laboratories (chemical, revised October 3, 2025).",
+   "group": "limited",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2025-10/OutofStateChemicalLabs_0.pdf",
+   "source_name": "ADEM: Out of State Certified Laboratories (chemical, revised October 3, 2025)",
+   "source_date": "2025-10-03",
+   "last_verified": "2026-11-09"
+  },
+  {
+   "name": "Eberline Services - Oak Ridge Laboratory",
+   "address": "601 Scarboro Road, Oak Ridge, TN 37830",
+   "city": "Oak Ridge",
+   "phone": "(865) 294-5018",
+   "accredited_for": [
+    "Chemistry (ADEM out-of-state chemical list)"
+   ],
+   "detail": "On ADEM's Out of State Certified Laboratories (chemical, revised October 3, 2025).",
+   "group": "limited",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2025-10/OutofStateChemicalLabs_0.pdf",
+   "source_name": "ADEM: Out of State Certified Laboratories (chemical, revised October 3, 2025)",
+   "source_date": "2025-10-03",
+   "last_verified": "2026-11-09"
+  },
+  {
+   "name": "EMSL",
+   "address": "200 Route 130 North, Cinnaminson, NJ 08077",
+   "city": "Cinnaminson",
+   "phone": "(856) 303-2562",
+   "accredited_for": [
+    "Chemistry (ADEM out-of-state chemical list)",
+    "PFAS (ADEM PFAS list, EPA Method 537.1)"
+   ],
+   "detail": "On ADEM's Out of State Certified Laboratories (chemical, revised October 3, 2025); ADEM's Certified PFAS Labs, EPA Method 537.1 (updated October 3, 2025).",
+   "group": "limited",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2025-10/OutofStateChemicalLabs_0.pdf",
+   "source_name": "ADEM: Out of State Certified Laboratories (chemical, revised October 3, 2025)",
+   "source_date": "2025-10-03",
+   "last_verified": "2026-11-09",
+   "source_url_2": "https://adem.alabama.gov/sites/default/files/2025-10/CertifiedPFASLabs.pdf",
+   "source_name_2": "ADEM: Certified PFAS Labs, EPA Method 537.1 (updated October 3, 2025)"
+  },
+  {
+   "name": "Enthalpy Analytical, LLC",
+   "address": "2714 Echange Drive, Wilmington, NC 28405",
+   "city": "Wilmington",
+   "phone": "(910) 212-5856",
+   "accredited_for": [
+    "Chemistry (ADEM out-of-state chemical list)",
+    "PFAS (ADEM PFAS list, EPA Method 537.1)"
+   ],
+   "detail": "On ADEM's Out of State Certified Laboratories (chemical, revised October 3, 2025); ADEM's Certified PFAS Labs, EPA Method 537.1 (updated October 3, 2025).",
+   "group": "limited",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2025-10/OutofStateChemicalLabs_0.pdf",
+   "source_name": "ADEM: Out of State Certified Laboratories (chemical, revised October 3, 2025)",
+   "source_date": "2025-10-03",
+   "last_verified": "2026-11-09",
+   "source_url_2": "https://adem.alabama.gov/sites/default/files/2025-10/CertifiedPFASLabs.pdf",
+   "source_name_2": "ADEM: Certified PFAS Labs, EPA Method 537.1 (updated October 3, 2025)",
+   "note": "Street printed differently on the lists (2714 Echange Drive; 2714 Exchange Drive). Other phone(s) on the ADEM lists: (919) 850-4392."
+  },
+  {
+   "name": "Eurofins CEI, Inc.",
+   "address": "730 SE Maynard Road, Cary, NC 27511",
+   "city": "Cary",
+   "phone": "(919) 481-1413",
+   "accredited_for": [
+    "Chemistry (ADEM out-of-state chemical list)"
+   ],
+   "detail": "On ADEM's Out of State Certified Laboratories (chemical, revised October 3, 2025).",
+   "group": "limited",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2025-10/OutofStateChemicalLabs_0.pdf",
+   "source_name": "ADEM: Out of State Certified Laboratories (chemical, revised October 3, 2025)",
+   "source_date": "2025-10-03",
+   "last_verified": "2026-11-09"
+  },
+  {
+   "name": "Eurofins Eaton Analytical",
+   "address": "941 Corporate Center Drive, Pomona, CA 91768",
+   "city": "Pomona",
+   "phone": "(626) 386-1100",
+   "accredited_for": [
+    "Chemistry (ADEM out-of-state chemical list)",
+    "PFAS (ADEM PFAS list, EPA Method 537.1)"
+   ],
+   "detail": "On ADEM's Out of State Certified Laboratories (chemical, revised October 3, 2025); ADEM's Certified PFAS Labs, EPA Method 537.1 (updated October 3, 2025).",
+   "group": "limited",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2025-10/OutofStateChemicalLabs_0.pdf",
+   "source_name": "ADEM: Out of State Certified Laboratories (chemical, revised October 3, 2025)",
+   "source_date": "2025-10-03",
+   "last_verified": "2026-11-09",
+   "source_url_2": "https://adem.alabama.gov/sites/default/files/2025-10/CertifiedPFASLabs.pdf",
+   "source_name_2": "ADEM: Certified PFAS Labs, EPA Method 537.1 (updated October 3, 2025)",
+   "note": "Listed under more than one name at this address (Eurofins Eaton Analytical; Eurofins Eaton Analytical, LLC. – Pomona); shown together here. Street printed differently on the lists (941 Corporate Center Drive; 941 Corporate Center Dr)."
+  },
+  {
+   "name": "Eurofins Eaton Analytical - South Bend",
+   "address": "110 South Hill Street, South Bend, IN 46617",
+   "city": "South Bend",
+   "phone": "(574) 472-5523",
+   "accredited_for": [
+    "Chemistry (ADEM out-of-state chemical list)",
+    "PFAS (ADEM PFAS list, EPA Method 537.1)"
+   ],
+   "detail": "On ADEM's Out of State Certified Laboratories (chemical, revised October 3, 2025); ADEM's Certified PFAS Labs, EPA Method 537.1 (updated October 3, 2025).",
+   "group": "limited",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2025-10/OutofStateChemicalLabs_0.pdf",
+   "source_name": "ADEM: Out of State Certified Laboratories (chemical, revised October 3, 2025)",
+   "source_date": "2025-10-03",
+   "last_verified": "2026-11-09",
+   "source_url_2": "https://adem.alabama.gov/sites/default/files/2025-10/CertifiedPFASLabs.pdf",
+   "source_name_2": "ADEM: Certified PFAS Labs, EPA Method 537.1 (updated October 3, 2025)",
+   "note": "Listed under more than one name at this address (Eurofins Eaton Analytical - South Bend; Eurofins Eaton Analytical, LLC. – South Bend); shown together here."
+  },
+  {
+   "name": "Eurofins Lancaster Laboratories Env Testing",
+   "address": "2425 New Holland Pike, Lancaster, PA 17601",
+   "city": "Lancaster",
+   "phone": "(717) 556-9413",
+   "accredited_for": [
+    "Chemistry (ADEM out-of-state chemical list)",
+    "PFAS (ADEM PFAS list, EPA Method 537.1)"
+   ],
+   "detail": "On ADEM's Out of State Certified Laboratories (chemical, revised October 3, 2025); ADEM's Certified PFAS Labs, EPA Method 537.1 (updated October 3, 2025).",
+   "group": "limited",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2025-10/OutofStateChemicalLabs_0.pdf",
+   "source_name": "ADEM: Out of State Certified Laboratories (chemical, revised October 3, 2025)",
+   "source_date": "2025-10-03",
+   "last_verified": "2026-11-09",
+   "source_url_2": "https://adem.alabama.gov/sites/default/files/2025-10/CertifiedPFASLabs.pdf",
+   "source_name_2": "ADEM: Certified PFAS Labs, EPA Method 537.1 (updated October 3, 2025)",
+   "note": "Other phone(s) on the ADEM lists: (717) 556-7227."
+  },
+  {
+   "name": "Eurofins Orlando",
+   "address": "481 Newburyport Avenue, Altamonte Springs, FL 32715",
+   "city": "Altamonte Springs",
+   "phone": "(407) 339-5984",
+   "accredited_for": [
+    "Chemistry (ADEM out-of-state chemical list)"
+   ],
+   "detail": "On ADEM's Out of State Certified Laboratories (chemical, revised October 3, 2025).",
+   "group": "limited",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2025-10/OutofStateChemicalLabs_0.pdf",
+   "source_name": "ADEM: Out of State Certified Laboratories (chemical, revised October 3, 2025)",
+   "source_date": "2025-10-03",
+   "last_verified": "2026-11-09"
+  },
+  {
+   "name": "Eurofins Pensacola",
+   "address": "3355 McLemore Drive, Pensacola, FL 32514",
+   "city": "Pensacola",
+   "phone": "(850) 474-1001 ext 6242",
+   "accredited_for": [
+    "Chemistry (ADEM out-of-state chemical list)"
+   ],
+   "detail": "On ADEM's Out of State Certified Laboratories (chemical, revised October 3, 2025).",
+   "group": "limited",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2025-10/OutofStateChemicalLabs_0.pdf",
+   "source_name": "ADEM: Out of State Certified Laboratories (chemical, revised October 3, 2025)",
+   "source_date": "2025-10-03",
+   "last_verified": "2026-11-09"
+  },
+  {
+   "name": "Eurofins Savannah",
+   "address": "5102 LaRoche Avenue, Savannah, GA 31404",
+   "city": "Savannah",
+   "phone": "(912) 354-7858",
+   "accredited_for": [
+    "Chemistry (ADEM out-of-state chemical list)"
+   ],
+   "detail": "On ADEM's Out of State Certified Laboratories (chemical, revised October 3, 2025).",
+   "group": "limited",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2025-10/OutofStateChemicalLabs_0.pdf",
+   "source_name": "ADEM: Out of State Certified Laboratories (chemical, revised October 3, 2025)",
+   "source_date": "2025-10-03",
+   "last_verified": "2026-11-09"
+  },
+  {
+   "name": "Fibertec Environmental Services",
+   "address": "1914 Holloway Drive, Holt, MI 48842",
+   "city": "Holt",
+   "phone": "(517) 699-0345",
+   "accredited_for": [
+    "Chemistry (ADEM out-of-state chemical list)"
+   ],
+   "detail": "On ADEM's Out of State Certified Laboratories (chemical, revised October 3, 2025).",
+   "group": "limited",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2025-10/OutofStateChemicalLabs_0.pdf",
+   "source_name": "ADEM: Out of State Certified Laboratories (chemical, revised October 3, 2025)",
+   "source_date": "2025-10-03",
+   "last_verified": "2026-11-09"
+  },
+  {
+   "name": "Florida Radiochemistry Services, Inc.",
+   "address": "5456 Hoffner Ave., Suite 201, Orlando, FL 32812",
+   "city": "Orlando",
+   "phone": "(407) 382-7733",
+   "accredited_for": [
+    "Chemistry (ADEM out-of-state chemical list)"
+   ],
+   "detail": "On ADEM's Out of State Certified Laboratories (chemical, revised October 3, 2025).",
+   "group": "limited",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2025-10/OutofStateChemicalLabs_0.pdf",
+   "source_name": "ADEM: Out of State Certified Laboratories (chemical, revised October 3, 2025)",
+   "source_date": "2025-10-03",
+   "last_verified": "2026-11-09"
+  },
+  {
+   "name": "Future Labs Inc.",
+   "address": "5756 Stewart Street, Milton, FL 32583",
+   "city": "Milton",
+   "phone": "(850) 623-6110",
+   "accredited_for": [
+    "Chemistry (ADEM out-of-state chemical list)"
+   ],
+   "detail": "On ADEM's Out of State Certified Laboratories (chemical, revised October 3, 2025).",
+   "group": "limited",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2025-10/OutofStateChemicalLabs_0.pdf",
+   "source_name": "ADEM: Out of State Certified Laboratories (chemical, revised October 3, 2025)",
+   "source_date": "2025-10-03",
+   "last_verified": "2026-11-09"
+  },
+  {
+   "name": "GEL Laboratories, LLC",
+   "address": "P O Box 30712, Charleston, SC 29417",
+   "city": "Charleston",
+   "phone": "(843) 556-8171",
+   "accredited_for": [
+    "Chemistry (ADEM out-of-state chemical list)",
+    "PFAS (ADEM PFAS list, EPA Method 537.1)"
+   ],
+   "detail": "On ADEM's Out of State Certified Laboratories (chemical, revised October 3, 2025); ADEM's Certified PFAS Labs, EPA Method 537.1 (updated October 3, 2025).",
+   "group": "limited",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2025-10/OutofStateChemicalLabs_0.pdf",
+   "source_name": "ADEM: Out of State Certified Laboratories (chemical, revised October 3, 2025)",
+   "source_date": "2025-10-03",
+   "last_verified": "2026-11-09",
+   "source_url_2": "https://adem.alabama.gov/sites/default/files/2025-10/CertifiedPFASLabs.pdf",
+   "source_name_2": "ADEM: Certified PFAS Labs, EPA Method 537.1 (updated October 3, 2025)",
+   "note": "ADEM prints a P.O. box; call for a drop-off address."
+  },
+  {
+   "name": "Gulf Coast Analytical Laboratories, LLC",
+   "address": "7979 Innovation Park Drive, Baton Rouge, LA 70769",
+   "city": "Baton Rouge",
+   "phone": "(225) 769-4900",
+   "accredited_for": [
+    "PFAS (ADEM PFAS list, EPA Method 537.1)"
+   ],
+   "detail": "On ADEM's Certified PFAS Labs, EPA Method 537.1 (updated October 3, 2025).",
+   "group": "limited",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2025-10/CertifiedPFASLabs.pdf",
+   "source_name": "ADEM: Certified PFAS Labs, EPA Method 537.1 (updated October 3, 2025)",
+   "source_date": "2025-10-03",
+   "last_verified": "2026-11-09"
+  },
+  {
+   "name": "KNL Environmental Testing",
+   "address": "3202 North Florida Avenue, Tampa, FL 33603",
+   "city": "Tampa",
+   "phone": "(813) 229-2879",
+   "accredited_for": [
+    "Chemistry (ADEM out-of-state chemical list)"
+   ],
+   "detail": "On ADEM's Out of State Certified Laboratories (chemical, revised October 3, 2025).",
+   "group": "limited",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2025-10/OutofStateChemicalLabs_0.pdf",
+   "source_name": "ADEM: Out of State Certified Laboratories (chemical, revised October 3, 2025)",
+   "source_date": "2025-10-03",
+   "last_verified": "2026-11-09"
+  },
+  {
+   "name": "Metiri Group - Geneva",
+   "address": "1950 S. Batavia Ave, Suite 150, Geneva, IL 60134",
+   "city": "Geneva",
+   "phone": "(504) 273-5859",
+   "accredited_for": [
+    "Chemistry (ADEM out-of-state chemical list)"
+   ],
+   "detail": "On ADEM's Out of State Certified Laboratories (chemical, revised October 3, 2025).",
+   "group": "limited",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2025-10/OutofStateChemicalLabs_0.pdf",
+   "source_name": "ADEM: Out of State Certified Laboratories (chemical, revised October 3, 2025)",
+   "source_date": "2025-10-03",
+   "last_verified": "2026-11-09"
+  },
+  {
+   "name": "Micro Methods Laboratory, Inc.",
+   "address": "6500 Sunplex Drive, Ocean Springs, MS 39564",
+   "city": "Ocean Springs",
+   "phone": "(228) 875-6420",
+   "accredited_for": [
+    "Chemistry (ADEM out-of-state chemical list)"
+   ],
+   "detail": "On ADEM's Out of State Certified Laboratories (chemical, revised October 3, 2025).",
+   "group": "limited",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2025-10/OutofStateChemicalLabs_0.pdf",
+   "source_name": "ADEM: Out of State Certified Laboratories (chemical, revised October 3, 2025)",
+   "source_date": "2025-10-03",
+   "last_verified": "2026-11-09"
+  },
+  {
+   "name": "National Testing Laboratories",
+   "address": "556 South Mansfield, Ypsilanti, MI 48197",
+   "city": "Ypsilanti",
+   "phone": "(734) 483-8333",
+   "accredited_for": [
+    "Chemistry (ADEM out-of-state chemical list)"
+   ],
+   "detail": "On ADEM's Out of State Certified Laboratories (chemical, revised October 3, 2025).",
+   "group": "limited",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2025-10/OutofStateChemicalLabs_0.pdf",
+   "source_name": "ADEM: Out of State Certified Laboratories (chemical, revised October 3, 2025)",
+   "source_date": "2025-10-03",
+   "last_verified": "2026-11-09"
+  },
+  {
+   "name": "Nielson Research Corporation",
+   "address": "245 South Grape Street, Medford, OR 97501",
+   "city": "Medford",
+   "phone": "(541) 770-5678",
+   "accredited_for": [
+    "Chemistry (ADEM out-of-state chemical list)"
+   ],
+   "detail": "On ADEM's Out of State Certified Laboratories (chemical, revised October 3, 2025).",
+   "group": "limited",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2025-10/OutofStateChemicalLabs_0.pdf",
+   "source_name": "ADEM: Out of State Certified Laboratories (chemical, revised October 3, 2025)",
+   "source_date": "2025-10-03",
+   "last_verified": "2026-11-09"
+  },
+  {
+   "name": "Pace Analytical National",
+   "address": "12065 Lebanon Road, Mt Juliet, TN 37122",
+   "city": "Mt Juliet",
+   "phone": "(615) 758-5858",
+   "accredited_for": [
+    "Chemistry (ADEM out-of-state chemical list)"
+   ],
+   "detail": "On ADEM's Out of State Certified Laboratories (chemical, revised October 3, 2025).",
+   "group": "limited",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2025-10/OutofStateChemicalLabs_0.pdf",
+   "source_name": "ADEM: Out of State Certified Laboratories (chemical, revised October 3, 2025)",
+   "source_date": "2025-10-03",
+   "last_verified": "2026-11-09"
+  },
+  {
+   "name": "Pace Analytical Services, Inc.",
+   "address": "1700 Elm Street, Suite 200, Minneapolis, MN 55414",
+   "city": "Minneapolis",
+   "phone": "(612) 607-6352",
+   "accredited_for": [
+    "Chemistry (ADEM out-of-state chemical list)"
+   ],
+   "detail": "On ADEM's Out of State Certified Laboratories (chemical, revised October 3, 2025).",
+   "group": "limited",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2025-10/OutofStateChemicalLabs_0.pdf",
+   "source_name": "ADEM: Out of State Certified Laboratories (chemical, revised October 3, 2025)",
+   "source_date": "2025-10-03",
+   "last_verified": "2026-11-09"
+  },
+  {
+   "name": "Pace Analytical Services, Inc. - Pittsburgh",
+   "address": "1638 Roseytown Road, Greensburg, PA 15601",
+   "city": "Greensburg",
+   "phone": "(724) 850-5630",
+   "accredited_for": [
+    "Chemistry (ADEM out-of-state chemical list)"
+   ],
+   "detail": "On ADEM's Out of State Certified Laboratories (chemical, revised October 3, 2025).",
+   "group": "limited",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2025-10/OutofStateChemicalLabs_0.pdf",
+   "source_name": "ADEM: Out of State Certified Laboratories (chemical, revised October 3, 2025)",
+   "source_date": "2025-10-03",
+   "last_verified": "2026-11-09"
+  },
+  {
+   "name": "Pace Analytical Services, Madisonville, KY",
+   "address": "825 Industrial Road, Madisonville, KY 42431",
+   "city": "Madisonville",
+   "phone": "(270) 821-7375 ext. 107",
+   "accredited_for": [
+    "Chemistry (ADEM out-of-state chemical list)"
+   ],
+   "detail": "On ADEM's Out of State Certified Laboratories (chemical, revised October 3, 2025).",
+   "group": "limited",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2025-10/OutofStateChemicalLabs_0.pdf",
+   "source_name": "ADEM: Out of State Certified Laboratories (chemical, revised October 3, 2025)",
+   "source_date": "2025-10-03",
+   "last_verified": "2026-11-09"
+  },
+  {
+   "name": "Pace Analytical Services-Florida",
+   "address": "8 East Tower Circle, Ormond Beach, FL 32174",
+   "city": "Ormond Beach",
+   "phone": "(386) 672-5668",
+   "accredited_for": [
+    "Chemistry (ADEM out-of-state chemical list)",
+    "PFAS (ADEM PFAS list, EPA Method 537.1)"
+   ],
+   "detail": "On ADEM's Out of State Certified Laboratories (chemical, revised October 3, 2025); ADEM's Certified PFAS Labs, EPA Method 537.1 (updated October 3, 2025).",
+   "group": "limited",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2025-10/OutofStateChemicalLabs_0.pdf",
+   "source_name": "ADEM: Out of State Certified Laboratories (chemical, revised October 3, 2025)",
+   "source_date": "2025-10-03",
+   "last_verified": "2026-11-09",
+   "source_url_2": "https://adem.alabama.gov/sites/default/files/2025-10/CertifiedPFASLabs.pdf",
+   "source_name_2": "ADEM: Certified PFAS Labs, EPA Method 537.1 (updated October 3, 2025)",
+   "note": "Listed under more than one name at this address (Pace Analytical Services-Florida; Pace Analytical - Ormond Beach); shown together here."
+  },
+  {
+   "name": "SGS North America, Inc. - Orlando",
+   "address": "4405 Vineland Rd, Suite C-15, Orlando, FL 32811",
+   "city": "Orlando",
+   "phone": "(407) 425-6700 ext. 14928",
+   "accredited_for": [
+    "Chemistry (ADEM out-of-state chemical list)",
+    "PFAS (ADEM PFAS list, EPA Method 537.1)"
+   ],
+   "detail": "On ADEM's Out of State Certified Laboratories (chemical, revised October 3, 2025); ADEM's Certified PFAS Labs, EPA Method 537.1 (updated October 3, 2025).",
+   "group": "limited",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2025-10/OutofStateChemicalLabs_0.pdf",
+   "source_name": "ADEM: Out of State Certified Laboratories (chemical, revised October 3, 2025)",
+   "source_date": "2025-10-03",
+   "last_verified": "2026-11-09",
+   "source_url_2": "https://adem.alabama.gov/sites/default/files/2025-10/CertifiedPFASLabs.pdf",
+   "source_name_2": "ADEM: Certified PFAS Labs, EPA Method 537.1 (updated October 3, 2025)",
+   "note": "Listed under more than one name at this address (SGS North America, Inc. - Orlando; SGS North America, Inc.- Orlando); shown together here. Other phone(s) on the ADEM lists: (407) 425-0707."
+  },
+  {
+   "name": "Summit Environmental Technologies, Inc.",
+   "address": "3310 Win Street, Cuyahoga Falla, OH 44313",
+   "city": "Cuyahoga Falla",
+   "phone": "(330) 253-8211",
+   "accredited_for": [
+    "PFAS (ADEM PFAS list, EPA Method 537.1)"
+   ],
+   "detail": "On ADEM's Certified PFAS Labs, EPA Method 537.1 (updated October 3, 2025).",
+   "group": "limited",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2025-10/CertifiedPFASLabs.pdf",
+   "source_name": "ADEM: Certified PFAS Labs, EPA Method 537.1 (updated October 3, 2025)",
+   "source_date": "2025-10-03",
+   "last_verified": "2026-11-09",
+   "note": "Alliance Technical Group (out-of-state chemical list, ZIP 44223) and Summit Environmental Technologies (PFAS list, ZIP 44313) are both printed at 3310 Win Street with the same phone, but with different ZIPs, so we did not merge them."
+  },
+  {
+   "name": "Waypoint Analytical",
+   "address": "2790 Whitten Road, Memphis, TN 38133",
+   "city": "Memphis",
+   "phone": "(901) 213-2447",
+   "accredited_for": [
+    "Chemistry (ADEM out-of-state chemical list)"
+   ],
+   "detail": "On ADEM's Out of State Certified Laboratories (chemical, revised October 3, 2025).",
+   "group": "limited",
+   "source_url": "https://adem.alabama.gov/sites/default/files/2025-10/OutofStateChemicalLabs_0.pdf",
+   "source_name": "ADEM: Out of State Certified Laboratories (chemical, revised October 3, 2025)",
+   "source_date": "2025-10-03",
+   "last_verified": "2026-11-09"
+  }
+ ]
+}

@@ -709,5 +709,82 @@
   ],
   "name": "Missouri",
   "abbr": "MO"
+ },
+ "alabama": {
+  "title": "Alabama certified drinking-water labs for private well testing (ADEM lists, April 2026)",
+  "description": "All 66 labs on ADEM's four certified drinking-water lab lists (in-state lists revised 4/7/2026), plus the free ADPH state lab bacteria test for private wells and what it does not cover.",
+  "intro": [
+   "Alabama's Department of Environmental Management (ADEM) certifies labs to test drinking water and posts four lists on its Laboratory Certification Program page: certified bacteriological labs and in-state certified chemical labs (both revised April 7, 2026), out-of-state certified chemical labs (revised October 3, 2025), and labs certified for PFAS by EPA Method 537.1 (updated October 3, 2025). ADEM says consumers \"may also consider the use of a certified laboratory to test private wells\", that the lists \"contain both commercial laboratories that provide services to the public and water systems that have their own laboratories\", and that \"You should check with the lab to verify that they are currently certified before using.\"",
+   "Together the four lists have 81 entries. After dropping one duplicate row and combining entries with the same street number and ZIP, that gives the 66 labs below: 32 in Alabama and 34 out of state.",
+   "Free state bacteria test first: the Alabama Department of Public Health (ADPH) says about 800,000 people, or 20 percent of Alabamians, depend on private water supplies such as wells. ADPH's Bureau of Clinical Laboratories tests private well water for total coliform bacteria, including E. coli, at its Prattville and Mobile labs. Its collection instructions for private water samples (form CL-27, file updated September 2026) say \"The fee is currently waived for each private water sample tested by the laboratory.\" You must use the sterilized bottles from your county health department or the lab office, fill to the 100 mL mark after running the water at least 3 minutes, and deliver the sample yourself, Monday through Thursday, 7:30 am to 4:00 pm. Samples over 30 hours old when received are not tested. ADPH's well water page says results are available about 24 hours after the sample is received, and that your county health department can send an environmentalist to collect the sample, for which \"There may be a collection fee.\"",
+   "What the free test does not cover: the same ADPH form says the Bureau of Clinical Laboratories \"does not perform any chemical analysis of private well water,\" and that its report \"does not meet any regulatory or financial institution requirements such as mortgage\". For nitrate, metals or other chemistry, use a lab on ADEM's chemical lists below; Alabama Extension (ACES) gives the same advice. If a lender or buyer needs a report, ask a certified private lab whether its report meets their requirements. ADEM says it has no authority over private wells and no funding to test them.",
+   "County fees vary. For example, the Houston County Health Department page (last updated August 21, 2025) lists a $30.00 fee for an environmentalist to collect the sample and a $15.00 testing fee per sample at the Houston County Regional Water Laboratory. That is a county lab, not the ADPH state lab, and its page is older than the ADPH form. Call your county health department for its current process and fees."
+  ],
+  "caveats": [
+   "Certification is not the same as taking homeowner samples. ADEM's lists do not say which labs accept samples from the public, test prices, or what each lab is certified for beyond the list it is on. Call first and ask about bottles, fees, hold times and drop-off hours.",
+   "The out-of-state chemical and PFAS lists were last revised October 3, 2025, more than a year before we checked them. Confirm current Alabama certification with the lab or ADEM (Drinking Water Branch, (334) 271-7773, as printed on ADEM's page).",
+   "ADEM does not mark labs as commercial. We put in-state labs in the first group when their name is clearly a testing business, plus the two ADPH state labs. Everything else in Alabama (mostly water utilities and water boards) is in the second group. Out-of-state labs are in the third group. This grouping is ours, by name.",
+   "Chips show only which ADEM list a lab is on. ADEM's lists do not break certification down by test (for example nitrate or arsenic), so we do not show that.",
+   "Phone numbers are as printed by ADEM. Contact names, emails and fax numbers are not shown. Typos in the source (for example \"Laboartory\", \"Laboratroy\", \"Norhtington\", \"Cuyahoga Falla\") are kept as printed.",
+   "We did not verify prices, turnaround times or websites for any lab, so none are shown."
+  ],
+  "main_heading": "Alabama commercial labs and ADPH state labs",
+  "public_heading": "Alabama water-utility and other labs on ADEM's lists",
+  "public_note": "Most of these are run by a city water works, water board or utility for its own compliance testing. ADEM does not say whether any take homeowner samples. Call first.",
+  "limited_heading": "Out-of-state labs on ADEM's chemical and PFAS lists",
+  "limited_note": "These labs are outside Alabama but are on ADEM's out-of-state chemical list (October 3, 2025) or PFAS list (October 3, 2025). Ask about shipping, bottles and hold times before you collect.",
+  "chips_label": "On ADEM's certified lists:",
+  "resources": [
+   {
+    "label": "ADEM: Drinking Water Laboratory Certification Program (all four lists)",
+    "url": "https://adem.alabama.gov/water/drinking-water-branch/information-public-water-systems/adem-drinking-water-laboratory-certification-program"
+   },
+   {
+    "label": "ADEM: Certified Bacteriological Laboratories (PDF, revised April 7, 2026)",
+    "url": "https://adem.alabama.gov/sites/default/files/2026-04/BacteriologicalLabs.pdf"
+   },
+   {
+    "label": "ADEM: In State Certified Chemical Laboratories (PDF, revised April 7, 2026)",
+    "url": "https://adem.alabama.gov/sites/default/files/2026-04/InStateChemicalLabs.pdf"
+   },
+   {
+    "label": "ADEM: Out of State Certified Laboratories (PDF, revised October 3, 2025)",
+    "url": "https://adem.alabama.gov/sites/default/files/2025-10/OutofStateChemicalLabs_0.pdf"
+   },
+   {
+    "label": "ADEM: Certified PFAS Labs (PDF, updated October 3, 2025)",
+    "url": "https://adem.alabama.gov/sites/default/files/2025-10/CertifiedPFASLabs.pdf"
+   },
+   {
+    "label": "ADEM: Information for Consumers (private wells)",
+    "url": "https://adem.alabama.gov/water/drinking-water-branch/information-consumers"
+   },
+   {
+    "label": "ADPH: Well Water (testing and well disinfection)",
+    "url": "https://www.alabamapublichealth.gov/environmental/well-water.html"
+   },
+   {
+    "label": "ADPH Bureau of Clinical Laboratories: Sanitary Bacteriology (private well forms)",
+    "url": "https://www.alabamapublichealth.gov/bcl/sanitary-bacteriology.html"
+   },
+   {
+    "label": "ADPH: Collection Instructions for Private Water Samples (PDF, fee waived, 30-hour rule)",
+    "url": "https://www.alabamapublichealth.gov/bcl/assets/private-water-sample-form-ada.pdf"
+   },
+   {
+    "label": "ADPH Houston County: Well Water Testing (county fees, updated August 21, 2025)",
+    "url": "https://www.alabamapublichealth.gov/houston/well-water.html"
+   },
+   {
+    "label": "Alabama Extension: Where to Get Your Well Water Tested (county health department contacts)",
+    "url": "https://www.aces.edu/blog/topics/private-well-program/where-to-get-your-well-water-tested/"
+   },
+   {
+    "label": "Alabama Extension: Step-by-Step Guide to Getting Your Well Water Tested",
+    "url": "https://www.aces.edu/blog/topics/fish-water/step-by-step-guide-to-getting-your-well-water-tested/"
+   }
+  ],
+  "name": "Alabama",
+  "abbr": "AL"
  }
 }
