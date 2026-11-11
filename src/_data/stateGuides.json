@@ -371,34 +371,6 @@
     ],
     "last_verified": "2026-11-02"
   },
-  "idaho": {
-    "name": "Idaho",
-    "abbr": "ID",
-    "list_type": "downloadable list (not yet transcribed here)",
-    "resources": [
-      {
-        "label": "Idaho DHW: Drinking water testing and certification",
-        "url": "https://healthandwelfare.idaho.gov/providers/idaho-laboratories-and-testing/drinking-water-testing-and-certification",
-        "kind": "lab list",
-        "checked": "loaded"
-      },
-      {
-        "label": "Idaho DHW: Drinking water and private wells",
-        "url": "https://healthandwelfare.idaho.gov/health-wellness/environmental-health/drinking-water-and-private-wells",
-        "kind": "program",
-        "checked": "loaded"
-      }
-    ],
-    "facts": [
-      "Idaho's Bureau of Laboratories maintains the certified drinking-water lab directory."
-    ],
-    "fees": [],
-    "unverified": [
-      "Not yet transcribed; queued.",
-      "No state fee schedule collected."
-    ],
-    "last_verified": "2026-11-02"
-  },
   "montana": {
     "name": "Montana",
     "abbr": "MT",

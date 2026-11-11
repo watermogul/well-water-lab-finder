@@ -786,5 +786,57 @@
   ],
   "name": "Alabama",
   "abbr": "AL"
+ },
+ "idaho": {
+  "title": "Idaho certified drinking-water labs for private well testing (state certificates, Nov 2026)",
+  "description": "All 33 labs with an Idaho drinking-water certificate posted by the Idaho Bureau of Laboratories, what each in-state lab is certified to test (bacteria, nitrate, arsenic, uranium), and state lab fees.",
+  "intro": [
+   "Idaho does not publish a single list of certified drinking-water labs. Instead, the Idaho Bureau of Laboratories (IBL), part of the Idaho Department of Health and Welfare (IDHW), posts each lab's certificate in a public document folder linked from its Drinking Water Testing and Certification page (\"View Idaho and Out of State Drinking Water Certificates for Inorganics, Organics, Microbiology, and Radiochemistry\"). We opened every certificate in that folder on November 10, 2026. Together they cover 33 labs, 11 in Idaho and 22 out of state. Each listing below shows the certificates and effective dates as printed, and links the certificate itself.",
+   "IDHW says about 30% of Idaho residents use private wells as their main source of drinking water, that private wells are not regulated, and that well owners should test for bacteria and nitrate once a year and for other contaminants, including metals and chemicals, every 3 to 5 years. Its Drinking Water and Private Wells page (updated November 2, 2026) lists eight labs under \"Idaho Certified Laboratories\"; those eight are the first group below.",
+   "Free state testing (currently sold out): IDHW's private wells page announces \"Free Idaho Private Well Water Testing (Available Fall 2026)\" for nitrate, fluoride, arsenic, lead, uranium, manganese, chromium, nickel, copper, zinc, selenium, cadmium and barium. Bacteria are not on that list. Kits are requested through the Idaho Health Tools site, one kit per household every five years, and results are shared on IDHW's groundwater map without names or addresses. IDHW warns processing \"may take up to two months.\" When we checked on November 10, 2026 the Idaho Health Tools listing was marked \"Sold Out\" and said testing is offered \"while funding lasts.\"",
+   "Paying the state lab directly: IBL's Private Well Owner Drinking Water Analysis Submission Form (revised August 21, 2024, as posted in IBL's forms folder) lists these prices: total coliform/E. coli $21, nitrate $20, fluoride $20, arsenic $23, lead $23, uranium $23, copper $13, manganese $13, iron $13, hardness $28, TDS $16, and gross alpha/beta by quote. The form says bacteria samples must reach the lab within 30 hours of collection in a sterile bottle from IBL, nitrate must be tested within 48 hours, and bottles come from IBL or your local public health district. The form is more than two years old, so confirm prices with IBL at (208) 334-2235 before you send a sample."
+  ],
+  "caveats": [
+   "Certification is not the same as taking homeowner samples. Certificates say what a lab is certified to test for public water systems; they do not say who accepts samples from the public, prices or turnaround. Call first and ask about bottles, fees and drop-off hours.",
+   "Chips for Idaho labs come from each certificate: an analyte is shown only if the certificate marks it \"C\" (certified). Chips for out-of-state labs show only which certificate types are posted, not individual tests.",
+   "Some posted certificates had already expired when we checked (for example SVL Analytical's 2025 inorganic certificate and Eurofins Edge Analytical's certificates). These are flagged on each listing. The folder may lag behind renewals, so ask the lab or IBL for current status.",
+   "The grouping is ours: the first group is the eight labs on IDHW's private wells page; the second is the other Idaho certificate holders (two city labs and a hospital lab); the third is labs outside Idaho, which hold Idaho certificates by reciprocity.",
+   "Phone numbers for the first group are from IDHW's private wells page. The certificates do not print phone numbers, so none are shown for the other labs.",
+   "We did not verify prices (except IBL's published form), turnaround times or websites for any lab, so none are shown."
+  ],
+  "main_heading": "Idaho labs on IDHW's private well page (7 commercial labs and the state lab)",
+  "public_heading": "Other Idaho labs with a posted certificate (city and hospital labs)",
+  "public_note": "These hold bacteria certificates only. They are run by a city or a hospital. The certificates do not say whether they take homeowner samples. Call first.",
+  "limited_heading": "Out-of-state labs with Idaho certificates",
+  "limited_note": "These labs are outside Idaho and hold Idaho certificates by reciprocity. Ask about shipping, bottles and hold times before you collect. IBL's own form requires bacteria samples to arrive within 30 hours of collection; ask each lab for its limit.",
+  "chips_label": "Certified in Idaho for (from the posted certificates):",
+  "resources": [
+   {
+    "label": "IDHW: Drinking Water Testing and Certification (Idaho Bureau of Laboratories)",
+    "url": "https://healthandwelfare.idaho.gov/providers/idaho-laboratories-and-testing/drinking-water-testing-and-certification"
+   },
+   {
+    "label": "IBL: Drinking Water Lab Certification folder (all certificates)",
+    "url": "https://publicdocuments.dhw.idaho.gov/WebLink/Browse.aspx?id=2940&dbid=0&repo=PUBLIC-DOCUMENTS"
+   },
+   {
+    "label": "IDHW: Drinking Water and Private Wells (testing advice, lab table, free testing program)",
+    "url": "https://healthandwelfare.idaho.gov/health-wellness/environmental-health/drinking-water-and-private-wells"
+   },
+   {
+    "label": "IBL: Private Well Owner Drinking Water Analysis Submission Form (PDF, revised 08/21/2024, prices)",
+    "url": "https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=15082&dbid=0&repo=PUBLIC-DOCUMENTS"
+   },
+   {
+    "label": "Idaho Health Tools: Idaho Private Well Water Testing (free kit; marked Sold Out on 2026-11-10)",
+    "url": "https://healthtools.dhw.idaho.gov/collections/other-environmental-health/products/idaho-private-well-water-testing"
+   },
+   {
+    "label": "IDHW: Public Health Districts (local contacts and sample bottles)",
+    "url": "https://healthandwelfare.idaho.gov/health-wellness/community-health/public-health-districts"
+   }
+  ],
+  "name": "Idaho",
+  "abbr": "ID"
  }
 }

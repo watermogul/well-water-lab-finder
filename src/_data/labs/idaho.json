@@ -1,0 +1,589 @@
+{
+ "state": "Idaho",
+ "slug": "idaho",
+ "abbr": "ID",
+ "list_source": {
+  "name": "Idaho Bureau of Laboratories drinking-water lab certificates (folder \"Drinking Water Lab Certification\")",
+  "page_url": "https://publicdocuments.dhw.idaho.gov/WebLink/Browse.aspx?id=2940&dbid=0&repo=PUBLIC-DOCUMENTS",
+  "program_url": "https://healthandwelfare.idaho.gov/providers/idaho-laboratories-and-testing/drinking-water-testing-and-certification",
+  "report_date": "Certificates posted between December 2024 and October 30, 2026; folder checked November 10, 2026"
+ },
+ "last_verified": "2026-11-10",
+ "labs": [
+  {
+   "name": "Idaho Bureau of Laboratories (state lab)",
+   "address": "2220 Old Penitentiary Road, Boise, ID 83712",
+   "city": "Boise",
+   "phone": "(208) 334-2235",
+   "accredited_for": [
+    "Bacteria (total coliform, E. coli)",
+    "Nitrate",
+    "Fluoride",
+    "Arsenic",
+    "Lead",
+    "Uranium",
+    "Organics (VOCs, pesticides, herbicides)"
+   ],
+   "detail": "EPA lab ID ID00018. Certificates posted by the Idaho Bureau of Laboratories: Chemistry (EPA Region 10 letter, March 24, 2025; renewal due 2027); Microbiology (EPA Region 10 letter, May 23, 2025; renewal due 2027).",
+   "group": "main",
+   "source_url": "https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=36256&dbid=0&repo=PUBLIC-DOCUMENTS",
+   "source_name": "IBL certificate folder: Chemistry",
+   "source_date": "2026-03-31",
+   "last_verified": "2026-11-10",
+   "source_url_2": "https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=15082&dbid=0&repo=PUBLIC-DOCUMENTS",
+   "source_name_2": "IBL Private Well Owner Drinking Water Analysis Submission Form (revised 08/21/2024)",
+   "note": "The state lab is certified by EPA Region 10, not by its own program. It takes private well samples with its Private Well Owner submission form (see fees in the Idaho section above). EPA lab number ID00018 is printed on that form. Other certificate files: Microbiology (EPA Region 10 letter (https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=36257&dbid=0&repo=PUBLIC-DOCUMENTS)."
+  },
+  {
+   "name": "Analytical Laboratories, Inc.",
+   "address": "1804 North 33rd Street, Boise, ID 83703",
+   "city": "Boise",
+   "phone": "(208) 342-5515",
+   "accredited_for": [
+    "Bacteria (total coliform, E. coli)",
+    "Nitrate",
+    "Fluoride",
+    "Arsenic",
+    "Lead",
+    "Uranium",
+    "VOCs (EPA 524.2)"
+   ],
+   "detail": "EPA lab ID ID00020. Certificates posted by the Idaho Bureau of Laboratories: Microbiological, July 1, 2026 to June 30, 2027; Inorganic, 1/1/2026 to 12/31/2026; Organic, 4/1/26 to 3/31/27.",
+   "group": "main",
+   "source_url": "https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=5125&dbid=0&repo=PUBLIC-DOCUMENTS",
+   "source_name": "IBL certificate folder: Microbiological",
+   "source_date": "2026-07-09",
+   "last_verified": "2026-11-10",
+   "source_url_2": "https://healthandwelfare.idaho.gov/health-wellness/environmental-health/drinking-water-and-private-wells",
+   "source_name_2": "IDHW Drinking Water and Private Wells page, \"Idaho Certified Laboratories\" table (phone; page updated 2026-11-02)",
+   "note": "Its organic certificate covers VOCs, trihalomethanes, glyphosate, carbofuran, oxamyl, diquat, endothall and haloacetic acids. The pesticides group (atrazine, alachlor and others) is marked \"Certification Not Requested\". Other certificate files: Inorganic (https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=5073&dbid=0&repo=PUBLIC-DOCUMENTS), Organic (https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=5251&dbid=0&repo=PUBLIC-DOCUMENTS)."
+  },
+  {
+   "name": "Anatek Labs, Inc. (Moscow)",
+   "address": "1282 Alturas Drive, Moscow, ID 83843",
+   "city": "Moscow",
+   "phone": "(208) 883-2839",
+   "accredited_for": [
+    "Bacteria (total coliform, E. coli)",
+    "Nitrate",
+    "Fluoride",
+    "Arsenic",
+    "Lead",
+    "Uranium",
+    "Organics (VOCs, pesticides, herbicides)",
+    "PFAS (EPA 533, 537.1)"
+   ],
+   "detail": "EPA lab ID ID00013. Certificates posted by the Idaho Bureau of Laboratories: Microbiological, January 1, 2026 to December 31, 2026; Inorganic, 11/1/2026 to 10/31/2027; Organic incl. PFAS, 11/1/26 to 10/31/27.",
+   "group": "main",
+   "source_url": "https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=5126&dbid=0&repo=PUBLIC-DOCUMENTS",
+   "source_name": "IBL certificate folder: Microbiological",
+   "source_date": "2026-10-27",
+   "last_verified": "2026-11-10",
+   "source_url_2": "https://healthandwelfare.idaho.gov/health-wellness/environmental-health/drinking-water-and-private-wells",
+   "source_name_2": "IDHW Drinking Water and Private Wells page, \"Idaho Certified Laboratories\" table (phone; page updated 2026-11-02)",
+   "note": "Other certificate files: Inorganic (https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=5074&dbid=0&repo=PUBLIC-DOCUMENTS), Organic incl. PFAS (https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=22629&dbid=0&repo=PUBLIC-DOCUMENTS)."
+  },
+  {
+   "name": "IAS EnviroChem",
+   "address": "3314 Pole Line Road, Pocatello, ID 83201",
+   "city": "Pocatello",
+   "phone": "(208) 237-3300",
+   "accredited_for": [
+    "Bacteria (total coliform, E. coli)",
+    "Nitrate",
+    "Fluoride",
+    "Arsenic",
+    "Lead",
+    "Uranium"
+   ],
+   "detail": "EPA lab ID ID00952. Certificates posted by the Idaho Bureau of Laboratories: Microbiological, October 1, 2026 to September 30, 2027; Inorganic, 11/1/2026 to 10/31/2027.",
+   "group": "main",
+   "source_url": "https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=5202&dbid=0&repo=PUBLIC-DOCUMENTS",
+   "source_name": "IBL certificate folder: Microbiological",
+   "source_date": "2026-10-30",
+   "last_verified": "2026-11-10",
+   "source_url_2": "https://healthandwelfare.idaho.gov/health-wellness/environmental-health/drinking-water-and-private-wells",
+   "source_name_2": "IDHW Drinking Water and Private Wells page, \"Idaho Certified Laboratories\" table (phone; page updated 2026-11-02)",
+   "note": "Other certificate files: Inorganic (https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=5112&dbid=0&repo=PUBLIC-DOCUMENTS)."
+  },
+  {
+   "name": "Magic Valley Labs, Inc.",
+   "address": "210 Addison Avenue, Twin Falls, ID 83301",
+   "city": "Twin Falls",
+   "phone": "(208) 733-4250",
+   "accredited_for": [
+    "Bacteria (total coliform, E. coli)",
+    "Nitrate",
+    "Fluoride"
+   ],
+   "detail": "EPA lab ID ID00911. Certificates posted by the Idaho Bureau of Laboratories: Microbiological, January 1, 2026 to December 31, 2026; Inorganic, 1/1/2026 to 12/31/2026.",
+   "group": "main",
+   "source_url": "https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=5209&dbid=0&repo=PUBLIC-DOCUMENTS",
+   "source_name": "IBL certificate folder: Microbiological",
+   "source_date": "2026-02-12",
+   "last_verified": "2026-11-10",
+   "source_url_2": "https://healthandwelfare.idaho.gov/health-wellness/environmental-health/drinking-water-and-private-wells",
+   "source_name_2": "IDHW Drinking Water and Private Wells page, \"Idaho Certified Laboratories\" table (phone; page updated 2026-11-02)",
+   "note": "Its inorganic certificate covers nitrate, nitrite and fluoride only. Arsenic, lead, uranium and the other metals are marked \"Certification Not Requested\". Other certificate files: Inorganic (https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=5115&dbid=0&repo=PUBLIC-DOCUMENTS)."
+  },
+  {
+   "name": "Teton Microbiology Laboratory, Inc.",
+   "address": "300 S. Freeman Ave., Idaho Falls, ID 83401",
+   "city": "Idaho Falls",
+   "phone": "(208) 529-0077",
+   "accredited_for": [
+    "Bacteria (total coliform, E. coli)"
+   ],
+   "detail": "EPA lab ID ID00969. Certificates posted by the Idaho Bureau of Laboratories: Microbiological, October 1, 2026 to September 30, 2027.",
+   "group": "main",
+   "source_url": "https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=5232&dbid=0&repo=PUBLIC-DOCUMENTS",
+   "source_name": "IBL certificate folder: Microbiological",
+   "source_date": "2026-10-05",
+   "last_verified": "2026-11-10",
+   "source_url_2": "https://healthandwelfare.idaho.gov/health-wellness/environmental-health/drinking-water-and-private-wells",
+   "source_name_2": "IDHW Drinking Water and Private Wells page, \"Idaho Certified Laboratories\" table (phone; page updated 2026-11-02)",
+   "note": "Only a microbiological (bacteria) certificate is posted for this lab."
+  },
+  {
+   "name": "SVL Analytical, Inc.",
+   "address": "One Government Gulch, Kellogg, ID 83837",
+   "city": "Kellogg",
+   "phone": "(208) 784-1258",
+   "accredited_for": [
+    "Nitrate",
+    "Fluoride",
+    "Arsenic",
+    "Lead",
+    "Uranium"
+   ],
+   "detail": "EPA lab ID ID00019. Certificates posted by the Idaho Bureau of Laboratories: Inorganic, 1/1/2025 to 12/31/2025 (expired as posted).",
+   "group": "main",
+   "source_url": "https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=5122&dbid=0&repo=PUBLIC-DOCUMENTS",
+   "source_name": "IBL certificate folder: Inorganic",
+   "source_date": "2024-12-03",
+   "last_verified": "2026-11-10",
+   "source_url_2": "https://healthandwelfare.idaho.gov/health-wellness/environmental-health/drinking-water-and-private-wells",
+   "source_name_2": "IDHW Drinking Water and Private Wells page, \"Idaho Certified Laboratories\" table (phone; page updated 2026-11-02)",
+   "note": "The only certificate posted for SVL is its 2025 inorganic certificate, which ran to December 31, 2025. IDHW still lists SVL on its private well page (updated November 2, 2026). Ask the lab for its current Idaho certificate before you rely on it. No bacteria certificate is posted."
+  },
+  {
+   "name": "Accurate Testing Labs, LLC",
+   "address": "7950 Meadowlark Way, Suite H, Coeur d'Alene, ID 83815",
+   "city": "Coeur d'Alene",
+   "phone": "(208) 762-8378",
+   "accredited_for": [
+    "Bacteria (total coliform, E. coli)",
+    "Nitrate",
+    "Fluoride",
+    "Arsenic",
+    "Lead"
+   ],
+   "detail": "EPA lab ID ID00912. Certificates posted by the Idaho Bureau of Laboratories: Microbiological, January 1, 2026 to December 31, 2026; Inorganic, 1/1/2026 to 12/31/2026.",
+   "group": "main",
+   "source_url": "https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=5124&dbid=0&repo=PUBLIC-DOCUMENTS",
+   "source_name": "IBL certificate folder: Microbiological",
+   "source_date": "2026-02-12",
+   "last_verified": "2026-11-10",
+   "source_url_2": "https://healthandwelfare.idaho.gov/health-wellness/environmental-health/drinking-water-and-private-wells",
+   "source_name_2": "IDHW Drinking Water and Private Wells page, \"Idaho Certified Laboratories\" table (phone; page updated 2026-11-02)",
+   "note": "Uranium is marked \"Certification Not Requested\" on its inorganic certificate. Its microbiological certificate prints the address as 7950 Meadowlark Way, Coeur d'Alene, ID 83814 (no suite, different ZIP). Other certificate files: Inorganic (https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=14291&dbid=0&repo=PUBLIC-DOCUMENTS)."
+  },
+  {
+   "name": "City of Idaho Falls Wastewater Treatment Laboratory",
+   "address": "P.O. Box 50220, Idaho Falls, ID 83405",
+   "city": "Idaho Falls",
+   "accredited_for": [
+    "Bacteria (total coliform, E. coli)"
+   ],
+   "detail": "EPA lab ID ID00908. Certificates posted by the Idaho Bureau of Laboratories: Microbiological, October 1, 2026 to September 30, 2027.",
+   "group": "public",
+   "source_url": "https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=31500&dbid=0&repo=PUBLIC-DOCUMENTS",
+   "source_name": "IBL certificate folder: Microbiological",
+   "source_date": "2026-10-05",
+   "last_verified": "2026-11-10"
+  },
+  {
+   "name": "City of Pocatello Water Pollution Control Laboratory",
+   "address": "P.O. Box 4169, Pocatello, ID 83205",
+   "city": "Pocatello",
+   "accredited_for": [
+    "Bacteria (total coliform, E. coli)"
+   ],
+   "detail": "EPA lab ID ID00028. Certificates posted by the Idaho Bureau of Laboratories: Microbiological, October 1, 2026 to September 30, 2027.",
+   "group": "public",
+   "source_url": "https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=5223&dbid=0&repo=PUBLIC-DOCUMENTS",
+   "source_name": "IBL certificate folder: Microbiological",
+   "source_date": "2026-10-05",
+   "last_verified": "2026-11-10"
+  },
+  {
+   "name": "Steele Memorial Medical Center",
+   "address": "203 S. Daisy St., Salmon, ID 83467",
+   "city": "Salmon",
+   "accredited_for": [
+    "Bacteria (total coliform, E. coli)"
+   ],
+   "detail": "EPA lab ID ID00909. Certificates posted by the Idaho Bureau of Laboratories: Microbiological, October 1, 2026 to September 30, 2027.",
+   "group": "public",
+   "source_url": "https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=5229&dbid=0&repo=PUBLIC-DOCUMENTS",
+   "source_name": "IBL certificate folder: Microbiological",
+   "source_date": "2026-10-05",
+   "last_verified": "2026-11-10"
+  },
+  {
+   "name": "ACZ Laboratories, Inc.",
+   "address": "2773 Downhill Dr., Steamboat Springs, CO 80487",
+   "city": "Steamboat Springs",
+   "accredited_for": [
+    "Inorganics certificate",
+    "Radiochemistry certificate"
+   ],
+   "detail": "EPA lab ID CO00028. Idaho certificates posted: Inorganic, 10/1/2026 to 9/30/2027; Radiochemical, 10/1/2026 to 9/30/2027.",
+   "group": "limited",
+   "source_url": "https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=5070&dbid=0&repo=PUBLIC-DOCUMENTS",
+   "source_name": "IBL certificate folder: ACZ Laboratories, Inc. inorganic certificate",
+   "source_date": "2026-10-15",
+   "last_verified": "2026-11-10",
+   "note": "Other certificate files: Radiochemical (https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=5264&dbid=0&repo=PUBLIC-DOCUMENTS)."
+  },
+  {
+   "name": "Alliance Technical Group, LLC - Akron",
+   "address": "3310 Win Street, Cuyahoga Falls, OH 44223",
+   "city": "Cuyahoga Falls",
+   "accredited_for": [
+    "Inorganics certificate",
+    "Organics certificate",
+    "Radiochemistry certificate"
+   ],
+   "detail": "EPA lab ID OH00923. Idaho certificates posted: Inorganic, 6/1/2026 to 5/31/2027; Organic, 6/1/2026 to 5/31/2027; Radiochemical, 6/1/2026 to 5/31/2027.",
+   "group": "limited",
+   "source_url": "https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=32268&dbid=0&repo=PUBLIC-DOCUMENTS",
+   "source_name": "IBL certificate folder: Alliance Technical Group, LLC - Akron inorganic certificate",
+   "source_date": "2026-06-02",
+   "last_verified": "2026-11-10",
+   "note": "Other certificate files: Organic (https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=32311&dbid=0&repo=PUBLIC-DOCUMENTS), Radiochemical (https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=32372&dbid=0&repo=PUBLIC-DOCUMENTS)."
+  },
+  {
+   "name": "ALS Environmental - Cincinnati, OH",
+   "address": "4388 Glendale-Milford Road, Cincinnati, OH 45242",
+   "city": "Cincinnati",
+   "accredited_for": [
+    "Inorganics certificate"
+   ],
+   "detail": "EPA lab ID OH01323. Idaho certificates posted: Inorganic, 4/1/2026 to 3/31/2027.",
+   "group": "limited",
+   "source_url": "https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=5071&dbid=0&repo=PUBLIC-DOCUMENTS",
+   "source_name": "IBL certificate folder: ALS Environmental - Cincinnati, OH inorganic certificate",
+   "source_date": "2026-03-27",
+   "last_verified": "2026-11-10"
+  },
+  {
+   "name": "Anatek Labs, Inc. - Spokane",
+   "address": "504 E. Sprague Ave., Suite D, Spokane, WA 99202",
+   "city": "Spokane",
+   "accredited_for": [
+    "Bacteria certificate",
+    "Inorganics certificate",
+    "Organics certificate",
+    "Radiochemistry certificate"
+   ],
+   "detail": "EPA lab ID WA00169. Idaho certificates posted: Microbiological, January 1, 2026 to December 31, 2026; Inorganic, 1/1/2026 to 12/31/2026; Organic, 1/1/2026 to 12/31/26; Radiochemical, 1/1/2026 to 12/31/2026.",
+   "group": "limited",
+   "source_url": "https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=5127&dbid=0&repo=PUBLIC-DOCUMENTS",
+   "source_name": "IBL certificate folder: Anatek Labs, Inc. - Spokane microbiological certificate",
+   "source_date": "2026-04-16",
+   "last_verified": "2026-11-10",
+   "note": "Other certificate files: Inorganic (https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=5075&dbid=0&repo=PUBLIC-DOCUMENTS), Organic (https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=5253&dbid=0&repo=PUBLIC-DOCUMENTS), Radiochemical (https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=5267&dbid=0&repo=PUBLIC-DOCUMENTS)."
+  },
+  {
+   "name": "Chemtech-Ford, LLC",
+   "address": "9632 S 500 W, Sandy, UT 84070",
+   "city": "Sandy",
+   "accredited_for": [
+    "Inorganics certificate",
+    "Organics certificate"
+   ],
+   "detail": "EPA lab ID UT00027. Idaho certificates posted: Inorganic, 2/1/2026 to 1/31/2027; Organic, 2/1/26 to 1/31/27.",
+   "group": "limited",
+   "source_url": "https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=35645&dbid=0&repo=PUBLIC-DOCUMENTS",
+   "source_name": "IBL certificate folder: Chemtech-Ford, LLC inorganic certificate",
+   "source_date": "2026-03-06",
+   "last_verified": "2026-11-10",
+   "note": "Other certificate files: Organic (https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=36127&dbid=0&repo=PUBLIC-DOCUMENTS)."
+  },
+  {
+   "name": "EMSL Analytical, Inc.",
+   "address": "200 Route 130 North, Cinnaminson, NJ 08077",
+   "city": "Cinnaminson",
+   "accredited_for": [
+    "Inorganics certificate",
+    "Organics certificate",
+    "Radiochemistry certificate"
+   ],
+   "detail": "EPA lab ID NJ00337. Idaho certificates posted: Inorganic, 7/1/2026 to 6/30/2027; Organic, 6/1/2026 to 6/30/2027; Radiochemical, 7/1/2026 to 6/30/2027.",
+   "group": "limited",
+   "source_url": "https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=5085&dbid=0&repo=PUBLIC-DOCUMENTS",
+   "source_name": "IBL certificate folder: EMSL Analytical, Inc. inorganic certificate",
+   "source_date": "2026-07-08",
+   "last_verified": "2026-11-10",
+   "note": "Other certificate files: Organic (https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=36903&dbid=0&repo=PUBLIC-DOCUMENTS), Radiochemical (https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=26763&dbid=0&repo=PUBLIC-DOCUMENTS)."
+  },
+  {
+   "name": "Energy Laboratories, Inc. (Billings)",
+   "address": "1120 South 27th Street, Billings, MT 59101",
+   "city": "Billings",
+   "accredited_for": [
+    "Inorganics certificate",
+    "Organics certificate"
+   ],
+   "detail": "EPA lab ID MT00005. Idaho certificates posted: Inorganic, 1/1/2026 to 12/31/2026; Organic, 1/1/2026 to 12/31/2026.",
+   "group": "limited",
+   "source_url": "https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=5106&dbid=0&repo=PUBLIC-DOCUMENTS",
+   "source_name": "IBL certificate folder: Energy Laboratories, Inc. (Billings) inorganic certificate",
+   "source_date": "2026-03-06",
+   "last_verified": "2026-11-10",
+   "note": "The organics certificate prints the name as \"Energy Laboratory, Inc.\" Other certificate files: Organic (https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=24197&dbid=0&repo=PUBLIC-DOCUMENTS)."
+  },
+  {
+   "name": "Energy Laboratories, Inc. (Casper)",
+   "address": "2393 Salt Creek Highway, Casper, WY 82601",
+   "city": "Casper",
+   "accredited_for": [
+    "Inorganics certificate",
+    "Organics certificate",
+    "Radiochemistry certificate"
+   ],
+   "detail": "EPA lab ID WY00002. Idaho certificates posted: Inorganic, 8/1/2026 to 7/31/2027; Organic, 8/1/26 to 7/31/2027; Radiochemical, 8/1/2026 to 7/31/2027.",
+   "group": "limited",
+   "source_url": "https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=5100&dbid=0&repo=PUBLIC-DOCUMENTS",
+   "source_name": "IBL certificate folder: Energy Laboratories, Inc. (Casper) inorganic certificate",
+   "source_date": "2026-07-08",
+   "last_verified": "2026-11-10",
+   "note": "Other certificate files: Organic (https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=5255&dbid=0&repo=PUBLIC-DOCUMENTS), Radiochemical (https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=5268&dbid=0&repo=PUBLIC-DOCUMENTS)."
+  },
+  {
+   "name": "Eurofins Built Environment Testing East",
+   "address": "730 SE Maynard Road, Cary, NC 27511",
+   "city": "Cary",
+   "accredited_for": [
+    "Inorganics certificate"
+   ],
+   "detail": "EPA lab ID NC02074. Idaho certificates posted: Inorganic, 2/1/2026 to 1/31/2027.",
+   "group": "limited",
+   "source_url": "https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=35559&dbid=0&repo=PUBLIC-DOCUMENTS",
+   "source_name": "IBL certificate folder: Eurofins Built Environment Testing East inorganic certificate",
+   "source_date": "2026-01-07",
+   "last_verified": "2026-11-10"
+  },
+  {
+   "name": "Eurofins Eaton Analytical, LLC - Pomona",
+   "address": "941 Corporate Center Dr., Pomona, CA 91768",
+   "city": "Pomona",
+   "accredited_for": [
+    "Bacteria certificate",
+    "Inorganics certificate",
+    "Organics certificate",
+    "PFAS certificate (expired)"
+   ],
+   "detail": "EPA lab ID CA00006. Idaho certificates posted: Microbiological, April 1, 2026 to March 31, 2027; Inorganic, 2/1/2026 to 1/31/2027; Organic, 2/1/2026 to 1/31/2027; PFAS, 2/1/2025 to 1/31/2026 (expired as posted).",
+   "group": "limited",
+   "source_url": "https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=25741&dbid=0&repo=PUBLIC-DOCUMENTS",
+   "source_name": "IBL certificate folder: Eurofins Eaton Analytical, LLC - Pomona microbiological certificate",
+   "source_date": "2026-04-16",
+   "last_verified": "2026-11-10",
+   "note": "Other certificate files: Inorganic (https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=25239&dbid=0&repo=PUBLIC-DOCUMENTS), Organic (https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=25240&dbid=0&repo=PUBLIC-DOCUMENTS), PFAS (https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=33945&dbid=0&repo=PUBLIC-DOCUMENTS)."
+  },
+  {
+   "name": "Eurofins Edge Analytical",
+   "address": "1620 S. Walnut Street, Burlington, WA 98233",
+   "city": "Burlington",
+   "accredited_for": [
+    "Inorganics certificate (expired)",
+    "Organics certificate (expired)"
+   ],
+   "detail": "EPA lab ID WA00097. Idaho certificates posted: Inorganic, 2/1/2025 to 1/31/2026 (expired as posted); Organic, 2/1/2025 to 1/31/2026 (expired as posted).",
+   "group": "limited",
+   "source_url": "https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=32431&dbid=0&repo=PUBLIC-DOCUMENTS",
+   "source_name": "IBL certificate folder: Eurofins Edge Analytical inorganic certificate",
+   "source_date": "2025-02-04",
+   "last_verified": "2026-11-10",
+   "note": "Every certificate posted for this lab had expired before we checked. Ask the lab or IBL whether it is still certified for Idaho. Other certificate files: Organic (https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=32433&dbid=0&repo=PUBLIC-DOCUMENTS)."
+  },
+  {
+   "name": "Eurofins Environment Testing Northwest / Eurofins Environment Testing - Spokane",
+   "address": "11922 East First Avenue, Spokane Valley, WA 99206",
+   "city": "Spokane Valley",
+   "accredited_for": [
+    "Bacteria certificate",
+    "Inorganics certificate"
+   ],
+   "detail": "EPA lab ID WA01220. Idaho certificates posted: Microbiological, March 2, 2026 to March 1, 2027; Inorganic, 1/1/2026 to 12/31/2026.",
+   "group": "limited",
+   "source_url": "https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=36367&dbid=0&repo=PUBLIC-DOCUMENTS",
+   "source_name": "IBL certificate folder: Eurofins Environment Testing Northwest / Eurofins Environment Testing - Spokane microbiological certificate",
+   "source_date": "2026-04-16",
+   "last_verified": "2026-11-10",
+   "note": "The bacteria certificate is issued to \"Eurofins Environment Testing - Spokane\" (filed in the folder as Eurofins Eaton Analytical Spokane) and the inorganic certificate to \"Eurofins Environment Testing Northwest\"; both print the same address and EPA ID, so they are shown as one lab. Other certificate files: Inorganic (https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=35560&dbid=0&repo=PUBLIC-DOCUMENTS)."
+  },
+  {
+   "name": "Eurofins South Bend",
+   "address": "110 South Hill Street, South Bend, IN 46617",
+   "city": "South Bend",
+   "accredited_for": [
+    "Inorganics certificate",
+    "Organics certificate",
+    "Radiochemistry certificate"
+   ],
+   "detail": "EPA lab ID IN00035. Idaho certificates posted: Inorganic, 1/1/2026 to 12/31/2026; Organic, 1/1/2026 to 12/31/2026; Radiochemical, 1/1/2026 to 12/31/2026.",
+   "group": "limited",
+   "source_url": "https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=35582&dbid=0&repo=PUBLIC-DOCUMENTS",
+   "source_name": "IBL certificate folder: Eurofins South Bend inorganic certificate",
+   "source_date": "2026-01-12",
+   "last_verified": "2026-11-10",
+   "note": "Other certificate files: Organic (https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=35583&dbid=0&repo=PUBLIC-DOCUMENTS), Radiochemical (https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=35584&dbid=0&repo=PUBLIC-DOCUMENTS)."
+  },
+  {
+   "name": "GEL Laboratories, LLC",
+   "address": "2040 Savage Road, Charleston, SC 29407",
+   "city": "Charleston",
+   "accredited_for": [
+    "Inorganics certificate",
+    "Organics certificate",
+    "PFAS certificate (expired)",
+    "Radiochemistry certificate"
+   ],
+   "detail": "EPA lab ID SC00012. Idaho certificates posted: Inorganic, 4/1/2026 to 3/31/2027; Organic, 4/1/2026 to 3/31/2027; PFAS, 4/1/2025 to 3/31/2026 (expired as posted); Radiochemical, 4/1/2026 to 3/31/2027.",
+   "group": "limited",
+   "source_url": "https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=5111&dbid=0&repo=PUBLIC-DOCUMENTS",
+   "source_name": "IBL certificate folder: GEL Laboratories, LLC inorganic certificate",
+   "source_date": "2026-03-06",
+   "last_verified": "2026-11-10",
+   "note": "Other certificate files: Organic (https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=5259&dbid=0&repo=PUBLIC-DOCUMENTS), PFAS (https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=33115&dbid=0&repo=PUBLIC-DOCUMENTS), Radiochemical (https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=5274&dbid=0&repo=PUBLIC-DOCUMENTS)."
+  },
+  {
+   "name": "National Testing Laboratories, Ltd.",
+   "address": "556 South Mansfield Street, Ypsilanti, MI 48197",
+   "city": "Ypsilanti",
+   "accredited_for": [
+    "Inorganics certificate",
+    "Organics certificate"
+   ],
+   "detail": "EPA lab ID MI00044. Idaho certificates posted: Inorganic, 1/1/2026 to 12/31/2026; Organic, 1/1/2026 to 12/31/2026.",
+   "group": "limited",
+   "source_url": "https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=5116&dbid=0&repo=PUBLIC-DOCUMENTS",
+   "source_name": "IBL certificate folder: National Testing Laboratories, Ltd. inorganic certificate",
+   "source_date": "2026-02-18",
+   "last_verified": "2026-11-10",
+   "note": "Other certificate files: Organic (https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=5260&dbid=0&repo=PUBLIC-DOCUMENTS)."
+  },
+  {
+   "name": "Pace Analytical National Center for Testing & Innovation",
+   "address": "12065 Lebanon Road, Mt. Juliet, TN 37122",
+   "city": "Mt. Juliet",
+   "accredited_for": [
+    "Inorganics certificate",
+    "Organics certificate",
+    "Radiochemistry certificate"
+   ],
+   "detail": "EPA lab ID TN00003. Idaho certificates posted: Inorganic, 10/1/2026 to 9/30/2027; Organic, 10/1/2026 to 9/30/2027; Radiochemical, 10/1/2026 to 9/30/2027.",
+   "group": "limited",
+   "source_url": "https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=5119&dbid=0&repo=PUBLIC-DOCUMENTS",
+   "source_name": "IBL certificate folder: Pace Analytical National Center for Testing & Innovation inorganic certificate",
+   "source_date": "2026-09-22",
+   "last_verified": "2026-11-10",
+   "note": "Other certificate files: Organic (https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=5262&dbid=0&repo=PUBLIC-DOCUMENTS), Radiochemical (https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=5278&dbid=0&repo=PUBLIC-DOCUMENTS)."
+  },
+  {
+   "name": "Pace Analytical Services, LLC (Minneapolis)",
+   "address": "1700 Elm Street SE, Suite 200, Minneapolis, MN 55414",
+   "city": "Minneapolis",
+   "accredited_for": [
+    "Inorganics certificate",
+    "Organics certificate"
+   ],
+   "detail": "EPA lab ID MN00064. Idaho certificates posted: Inorganic, 1/1/2026 to 12/31/2026; Organic, 1/1/2026 to 12/31/2026.",
+   "group": "limited",
+   "source_url": "https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=5118&dbid=0&repo=PUBLIC-DOCUMENTS",
+   "source_name": "IBL certificate folder: Pace Analytical Services, LLC (Minneapolis) inorganic certificate",
+   "source_date": "2026-01-07",
+   "last_verified": "2026-11-10",
+   "note": "Other certificate files: Organic (https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=5261&dbid=0&repo=PUBLIC-DOCUMENTS)."
+  },
+  {
+   "name": "Pace Analytical Services, LLC (Sheridan, WY)",
+   "address": "1673 Terra Avenue, Sheridan, WY 82801",
+   "city": "Sheridan",
+   "accredited_for": [
+    "Inorganics certificate"
+   ],
+   "detail": "EPA lab ID WY00005. Idaho certificates posted: Inorganic, 7/1/2026 to 6/30/2027.",
+   "group": "limited",
+   "source_url": "https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=11386&dbid=0&repo=PUBLIC-DOCUMENTS",
+   "source_name": "IBL certificate folder: Pace Analytical Services, LLC (Sheridan, WY) inorganic certificate",
+   "source_date": "2026-06-08",
+   "last_verified": "2026-11-10"
+  },
+  {
+   "name": "Pace Analytical Services, LLC - Greensburg",
+   "address": "1638 Roseytown Road, Suites 2, 3 & 4, Greensburg, PA 15601",
+   "city": "Greensburg",
+   "accredited_for": [
+    "Radiochemistry certificate"
+   ],
+   "detail": "EPA lab ID PA01457. Idaho certificates posted: Radiochemical, 4/1/2026 to 3/31/2027.",
+   "group": "limited",
+   "source_url": "https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=5277&dbid=0&repo=PUBLIC-DOCUMENTS",
+   "source_name": "IBL certificate folder: Pace Analytical Services, LLC - Greensburg radiochemical certificate",
+   "source_date": "2026-03-18",
+   "last_verified": "2026-11-10"
+  },
+  {
+   "name": "Teton County Water Laboratory",
+   "address": "460 E. Pearl, Jackson, WY 83001",
+   "city": "Jackson",
+   "accredited_for": [
+    "Bacteria certificate"
+   ],
+   "detail": "EPA lab ID WY00934. Idaho certificates posted: Microbiological, April 1, 2026 to December 31, 2027.",
+   "group": "limited",
+   "source_url": "https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=33813&dbid=0&repo=PUBLIC-DOCUMENTS",
+   "source_name": "IBL certificate folder: Teton County Water Laboratory microbiological certificate",
+   "source_date": "2026-06-10",
+   "last_verified": "2026-11-10"
+  },
+  {
+   "name": "Tshimakain Creek Laboratories, LLC",
+   "address": "5505 E Broadway Ave. #102, Spokane Valley, WA 99212",
+   "city": "Spokane Valley",
+   "accredited_for": [
+    "Bacteria certificate",
+    "Inorganics certificate"
+   ],
+   "detail": "EPA lab ID WA01260. Idaho certificates posted: Microbiological, May 1, 2026 to November 21, 2026; Inorganic, 5/1/2026 to 4/30/2027.",
+   "group": "limited",
+   "source_url": "https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=30366&dbid=0&repo=PUBLIC-DOCUMENTS",
+   "source_name": "IBL certificate folder: Tshimakain Creek Laboratories, LLC microbiological certificate",
+   "source_date": "2026-06-10",
+   "last_verified": "2026-11-10",
+   "note": "Its bacteria certificate ends November 21, 2026. Other certificate files: Inorganic (https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=29610&dbid=0&repo=PUBLIC-DOCUMENTS)."
+  },
+  {
+   "name": "Weck Laboratories, Inc.",
+   "address": "14859 Clark Avenue, Industry, CA 91745",
+   "city": "Industry",
+   "accredited_for": [
+    "Inorganics certificate",
+    "Organics certificate",
+    "PFAS certificate",
+    "Radiochemistry certificate"
+   ],
+   "detail": "EPA lab ID CA00211. Idaho certificates posted: Inorganic, 6/1/2026 to 5/31/2027; Organic, 6/1/2026 to 5/31/2027; PFAS, 6/1/2026 to 5/31/2027; Radiochemical, 6/1/2026 to 5/31/2027.",
+   "group": "limited",
+   "source_url": "https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=36711&dbid=0&repo=PUBLIC-DOCUMENTS",
+   "source_name": "IBL certificate folder: Weck Laboratories, Inc. inorganic certificate",
+   "source_date": "2026-06-03",
+   "last_verified": "2026-11-10",
+   "note": "Other certificate files: Organic (https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=32446&dbid=0&repo=PUBLIC-DOCUMENTS), PFAS (https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=35615&dbid=0&repo=PUBLIC-DOCUMENTS), Radiochemical (https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=36712&dbid=0&repo=PUBLIC-DOCUMENTS)."
+  }
+ ]
+}
