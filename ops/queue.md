@@ -46,7 +46,7 @@ Still open:
 19. **Mail-in kit comparison** (Tap Score, WaterTestingKits.com, others) — verify who runs the lab and its accreditation in your state before publishing. Apply to programs only after the user provides a live domain and payee details.
 
 ## Maintenance
-20. **Re-verification pass** — re-fetch PA DEP reports (DEP may publish a newer one), Ohio EPA list (monthly updates likely), NHDES lab list, Westchester list; bump `last_verified` only when re-compared. **Done for PA on 2026-10-30** (reports unchanged, byte-identical). **Done for NH on 2026-11-05** (labs-private-wells.pdf still April 2026 / lab list updated 9/20/2024; existing 9 rows unchanged; added missing Nelson Analytical Maine/Kennebunk row from same PDF). Next oldest: Westchester, Ohio. **Ohio list has changed:** on 2026-11-09 the Combined-Lab-List.pdf at the OH_SRC URL was a new file (created 2026-10-30, md5 ab2501bd...; our copy in /workspace/src is the 2026-09-30 file, md5 2f93046e...). /labs/ohio/ says "Oct 2026" and was built from the 2026-09-30 file. Re-parse and diff row by row on the next re-verification run (not done 2026-11-09: not cheap). Consider moving NH to NHDES's live search once a scripted export is possible.
+20. **Re-verification pass** — re-fetch PA DEP reports (DEP may publish a newer one), Ohio EPA list (monthly updates likely), NHDES lab list, Westchester list; bump `last_verified` only when re-compared. **Done for PA on 2026-10-30** (reports unchanged, byte-identical). **Done for NH on 2026-11-05** (labs-private-wells.pdf still April 2026 / lab list updated 9/20/2024; existing 9 rows unchanged; added missing Nelson Analytical Maine/Kennebunk row from same PDF). **Done for Ohio on 2026-11-11**: Combined-Lab-List.pdf now headed "November 2026" (created 2026-10-30, md5 ab2501bd707e83d86ac0071798af02a8; copy in /workspace/src/oh2611/). Whitespace-normalized text diff vs the 2026-09-30 file: only change is removal of Eurofins Environment Testing North Central (formerly Metiri), Cleveland. /labs/ohio/ rebuilt as a full 75-lab listing (scripts/parse_oh.py + scripts/build_oh.py). Next oldest: Westchester (NY), then MD (built 2026-10-26). Consider moving NH to NHDES's live search once a scripted export is possible.
 
 ## New ideas (found while building Maryland, 2026-10-26)
 - **Maryland: out-of-state certified labs** near the PA/VA/DE lines — MDE's 10/1/2026 PDF lists 53 out-of-state labs (e.g. PA and VA labs with Micro + Inorganics). Could be a second section on /labs/maryland/; verify each from the same PDF.
@@ -63,8 +63,8 @@ Still open:
 - **PA DOH PFAS and private wells fact sheet (Sept 2025)**, possibly a "PFAS in Pennsylvania wells" guide. It cites treatment cost ranges, which must be quoted with attribution only.
 
 ## New ideas (found while building the Ohio where-to-test guide, 2026-10-29)
-- **Re-verify /labs/ohio/ against Ohio EPA's October 2026 Combined-Lab-List.pdf.** That page was built from the 2026-10-26 pull. Several labs on OSU's 2021 list are no longer on it: Brookside, Advanced Analytics, Archbold, Con-Test, Perry, Heidelberg NCWQR and Alloway Mansfield (now Eurofins).
-- **CWM Environmental lineage:** its old address and phone now appear under "Eurofins Environment Testing North Central (formerly Metiri)". Confirm this from Eurofins' or Ohio EPA's own page before listing it as CWM.
+- **DONE 2026-11-11 (now November 2026 list, full 75-lab listing).** ~~Re-verify /labs/ohio/ against Ohio EPA's October 2026 Combined-Lab-List.pdf.~~ That page was built from the 2026-10-26 pull. Several labs on OSU's 2021 list are no longer on it: Brookside, Advanced Analytics, Archbold, Con-Test, Perry, Heidelberg NCWQR and Alloway Mansfield (now Eurofins).
+- **Moot as of 2026-11-11** (Eurofins North Central dropped off the November 2026 list). **CWM Environmental lineage:** its old address and phone now appear under "Eurofins Environment Testing North Central (formerly Metiri)". Confirm this from Eurofins' or Ohio EPA's own page before listing it as CWM.
 - **More Ohio county health districts:** add rows to the guide's fee table one at a time, each from the district's own page or fee schedule. So far it has Wayne, Mercer, Logan and Highland.
 - **Highland County adopted 2026 fees:** the guide cites a PDF titled "Proposed 2026". Re-check for the adopted schedule.
 - **ODH nitrate and arsenic fact sheets + OSU water-test interpretation resources:** could become an Ohio "reading your results" guide (ties to evergreen #15).
@@ -130,7 +130,7 @@ Still open:
 - **TCEQ approved-bleach list** (www.tceq.texas.gov/goto/bleach, cited in GI-432). Not fetched. Check before naming any brands.
 - **"Bacteria came back after chlorinating" guide**: CSU covers biofilm, well cap/casing/seal repair and septic causes. Pair it with a state well-inspection or contractor-licensing page.
 - **Iron bacteria in wells**: CSU covers detection and prevention. Could be a short evergreen guide; it needs a second extension source.
-- **Re-verification**: NH done 2026-11-05. Still due: Ohio, NY/Westchester, MD (pages built 2026-10-26).
+- **Re-verification**: NH done 2026-11-05. Ohio done 2026-11-11. Still due: NY/Westchester, MD (pages built 2026-10-26).
 
 ## New ideas (found while building the home-buyer guide, 2026-11-03)
 - **State sale-testing rules page**: Oregon (ORS 448.271, verified 2026-11-03) requires seller testing for arsenic, nitrate, coliform; NJ PWTA (dep.nj.gov/privatewells/pwta/ blocked WebFetch with Incapsula tonight; try browser); Rhode Island reportedly requires testing at sale (unverified). Build a per-state table only from each state's own page.
@@ -197,3 +197,9 @@ Still open:
 - **Colorado alternative:** CDPHE's Looker Studio "Safe Water Info Finder" may allow CSV export in a browser; coloradowellwater.com (not a primary source, do not cite) mentions a separate CDPHE list of labs confirmed to test private wells. Look for that list on a CDPHE page before building Colorado.
 - **Re-verification still due:** Ohio Combined-Lab-List.pdf (new 2026-10-30 file vs our 2026-09-30 copy) not re-diffed tonight; NY/Westchester and MD (built 2026-10-26) never re-verified. Next run should do Ohio first.
 
+
+## New ideas (found while expanding Ohio labs, 2026-11-11)
+- **Ohio PFAS testing page**: only two Ohio labs are on Ohio EPA's list for PFAS (Alliance Technical Group, Cuyahoga Falls; Microbac Marietta); pair with Ohio EPA/ODH PFAS guidance for private wells, if a primary source for private-well PFAS advice exists. Verify each lab's homeowner policy from its own site; no prices unless published.
+- **Fix done**: state pages double-escaped apostrophes in <title>/meta description (`&amp;#39;`); fixed in src/labs/state.njk with `| safe` on 2026-11-11. state-guide.njk had no such issue in the build output, but recheck if new state-guide titles use quotes.
+- **Monthly Ohio diff**: Ohio EPA re-issues the list roughly monthly (Sept 30, Oct 30). Re-run `curl` + `pdftotext -layout` + `scripts/parse_oh.py` + `scripts/build_oh.py` around the start of each month; parser aborts on any unknown column token.
+- **Ohio guide table** (/guides/ohio-where-to-get-well-water-tested/) still labels its address column "Ohio EPA, Oct 2026"; all 18 rows were unchanged in the November list. Relabel on the next guide edit.
