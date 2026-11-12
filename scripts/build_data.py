@@ -1,5 +1,5 @@
-"""Assembles src/_data/labs/{pennsylvania,ohio,new-hampshire,new-york}.json.
-PA: /tmp/pa_labs.json from scripts/build_pa.py. OH: parsed from Ohio EPA list text (oh_all.json, cleaned below).
+"""Assembles src/_data/labs/{pennsylvania,new-hampshire,new-york}.json (Ohio: scripts/build_oh.py).
+PA: /tmp/pa_labs.json from scripts/build_pa.py.
 NH and NY: hand-entered from the primary sources named in each file. Every listing carries source_url + last_verified."""
 import json,re
 V='2026-10-26'
@@ -42,33 +42,7 @@ json.dump(dict(state='Pennsylvania',slug='pennsylvania',abbr='PA',
      report_urls=PA_SRC,report_date='June 2024 (reports dated 2024-06-11 and 2024-06-13)'),
   last_verified=V_PA,labs=out),open('src/_data/labs/pennsylvania.json','w'),indent=1)
 print('PA',len(out),{g:sum(1 for x in out if x['group']==g) for g in('main','public','limited')})
-# ---------- OH
-OH_SRC='https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf'
-raw=json.load(open('/workspace/src/oh_all.json'))
-oh=[]
-for r in raw:
-    addr=re.sub(r'\s+qPCR\s*$','',r['address']).strip()
-    name=r['name'];
-    if name.startswith('Eurofins Environment Testing North Central'):
-        name='Eurofins Environment Testing North Central (formerly Metiri Analytical Group, Inc.)'
-        addr='4450 Johnston Parkway, Suite B, Cleveland, OH 44128'
-    if name.startswith('Kleinfelder'):
-        name='Kleinfelder Water Technologies Laboratory (formerly Industrial Fluid Management, Inc.)'
-        addr='2926 U.S. Highway 6, McClure, OH 43534'
-    if not re.search(r', OH \d{5}',addr) or not (r['micro'] or r['chem']): continue
-    if 'Metiri' in name and '|' in name: continue
-    m=re.search(r',\s*([^,]+),\s*OH',addr); city=m.group(1) if m else ''
-    chem=r['chem'];micro=r['micro']
-    acc=[]
-    if micro: acc.append('Total coliform / E. coli ('+', '.join(micro)+')')
-    if chem: acc.append('Chemistry: '+', '.join(chem))
-    pub=bool(re.search(r'WTP|Water Plant|Water Department|Water Laboratory|Water Company|Water Resources|Sanitary|NEORSD|Health|Department of|Water Compliance|Water Quality|Water Technologies' ,name)) and 'Kleinfelder' not in name
-    oh.append(dict(name=name,address=addr,city=city,phone=r['phone'],micro=micro,chemistry=chem,accredited_for=acc,
-        group='public' if pub else 'main',source_name='Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (dated October 2026)',
-        source_url=OH_SRC,source_date='2026-10',last_verified=V))
-oh.sort(key=lambda r:({'main':0,'public':1}[r['group']],r['city'].lower(),r['name'].lower()))
-json.dump(dict(state='Ohio',slug='ohio',abbr='OH',list_source=dict(name='Ohio EPA Division of Drinking and Ground Waters — Combined Lab List (public drinking water)',page_url=OH_SRC,report_date='October 2026'),last_verified=V,labs=oh),open('src/_data/labs/ohio.json','w'),indent=1)
-print('OH',len(oh),sum(1 for x in oh if x['group']=='public'))
+# ---------- OH: moved to scripts/parse_oh.py + scripts/build_oh.py (November 2026 list, re-verified 2026-11-11)
 # ---------- NH
 NH_SRC='https://www.des.nh.gov/sites/g/files/ehbemt341/files/documents/labs-private-wells.pdf'
 def nh(name,addr,city,phone,drop,web,extra=None):

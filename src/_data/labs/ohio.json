@@ -3,17 +3,26 @@
  "slug": "ohio",
  "abbr": "OH",
  "list_source": {
-  "name": "Ohio EPA Division of Drinking and Ground Waters \u2014 Combined Lab List (public drinking water)",
+  "name": "Ohio EPA Division of Drinking and Ground Waters — Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water",
   "page_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
-  "report_date": "October 2026"
+  "program_url": "https://epa.ohio.gov/divisions-and-offices/drinking-and-ground-waters/ddgw-programs/laboratory-certification",
+  "report_date": "November 2026 (PDF created 2026-10-30)"
  },
- "last_verified": "2026-10-26",
+ "last_verified": "2026-11-11",
  "labs": [
   {
    "name": "American Analytical Laboratories, Inc.",
    "address": "840 South Main Street, Akron, OH 44311",
    "city": "Akron",
    "phone": "(330) 535-1300",
+   "accredited_for": [
+    "Bacteria: total coliform / E. coli (MMO-MUG)",
+    "Standard Chemistry (Ohio EPA key includes nitrate, nitrite, fluoride, chloride, sulfate, hardness, pH, TDS)",
+    "Trace Metals (key includes arsenic, lead, copper, iron, manganese, sodium, barium, mercury)"
+   ],
+   "group": "main",
+   "detail": "Columns as printed on the Ohio EPA list: Microbiological: MMO-MUG; Chemistry: Standard Chemistry, Trace Metals.",
+   "habs": [],
    "micro": [
     "MMO-MUG"
    ],
@@ -21,21 +30,25 @@
     "Standard Chemistry",
     "Trace Metals"
    ],
-   "accredited_for": [
-    "Total coliform / E. coli (MMO-MUG)",
-    "Chemistry: Standard Chemistry, Trace Metals"
-   ],
-   "group": "main",
-   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (dated October 2026)",
+   "other": [],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
    "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
-   "source_date": "2026-10",
-   "last_verified": "2026-10-26"
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11"
   },
   {
    "name": "Eurofins Cleveland",
    "address": "180 S. Van Buren Street, Barberton, OH 44203",
    "city": "Barberton",
    "phone": "(330) 497-9396",
+   "accredited_for": [
+    "Bacteria: total coliform / E. coli (MMO-MUG, Quanti-Tray)",
+    "Standard Chemistry (Ohio EPA key includes nitrate, nitrite, fluoride, chloride, sulfate, hardness, pH, TDS)",
+    "Trace Metals (key includes arsenic, lead, copper, iron, manganese, sodium, barium, mercury)"
+   ],
+   "group": "main",
+   "detail": "Columns as printed on the Ohio EPA list: Microbiological: MMO-MUG, Quanti-Tray; Chemistry: Standard Chemistry, Trace Metals.",
+   "habs": [],
    "micro": [
     "MMO-MUG",
     "Quanti-Tray"
@@ -44,21 +57,25 @@
     "Standard Chemistry",
     "Trace Metals"
    ],
-   "accredited_for": [
-    "Total coliform / E. coli (MMO-MUG, Quanti-Tray)",
-    "Chemistry: Standard Chemistry, Trace Metals"
-   ],
-   "group": "main",
-   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (dated October 2026)",
+   "other": [],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
    "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
-   "source_date": "2026-10",
-   "last_verified": "2026-10-26"
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11"
   },
   {
    "name": "Biosolutions, LLC",
    "address": "10180 Queens Way, Suite 6, Chagrin Falls, OH 44023",
    "city": "Chagrin Falls",
    "phone": "(440) 708-2999",
+   "accredited_for": [
+    "Bacteria: total coliform / E. coli (MMO-MUG, Quanti-Tray)",
+    "Standard Chemistry (Ohio EPA key includes nitrate, nitrite, fluoride, chloride, sulfate, hardness, pH, TDS)",
+    "Trace Metals (key includes arsenic, lead, copper, iron, manganese, sodium, barium, mercury)"
+   ],
+   "group": "main",
+   "detail": "Columns as printed on the Ohio EPA list: Microbiological: MMO-MUG, Quanti-Tray; Chemistry: Standard Chemistry, Trace Metals.",
+   "habs": [],
    "micro": [
     "MMO-MUG",
     "Quanti-Tray"
@@ -67,101 +84,95 @@
     "Standard Chemistry",
     "Trace Metals"
    ],
-   "accredited_for": [
-    "Total coliform / E. coli (MMO-MUG, Quanti-Tray)",
-    "Chemistry: Standard Chemistry, Trace Metals"
-   ],
-   "group": "main",
-   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (dated October 2026)",
+   "other": [],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
    "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
-   "source_date": "2026-10",
-   "last_verified": "2026-10-26"
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11"
   },
   {
    "name": "ALS Environmental - Cincinnati",
    "address": "4388 Glendale-Milford Road, Cincinnati, OH 45242",
    "city": "Cincinnati",
    "phone": "(513) 733-5336",
+   "accredited_for": [
+    "Trace Metals (key includes arsenic, lead, copper, iron, manganese, sodium, barium, mercury)",
+    "Asbestos"
+   ],
+   "group": "main",
+   "detail": "Columns as printed on the Ohio EPA list: Chemistry: Trace Metals; Other: Asbestos.",
+   "habs": [],
    "micro": [],
    "chemistry": [
     "Trace Metals"
    ],
-   "accredited_for": [
-    "Chemistry: Trace Metals"
+   "other": [
+    "Asbestos"
    ],
-   "group": "main",
-   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (dated October 2026)",
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
    "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
-   "source_date": "2026-10",
-   "last_verified": "2026-10-26"
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11"
   },
   {
    "name": "Q Laboratories",
    "address": "1911 Radcliff Drive, Cincinnati, OH 45204",
    "city": "Cincinnati",
    "phone": "(513) 471-1300",
+   "accredited_for": [
+    "Bacteria: total coliform / E. coli (MMO-MUG)",
+    "Nitrate and nitrite only"
+   ],
+   "group": "main",
+   "detail": "Columns as printed on the Ohio EPA list: Microbiological: MMO-MUG; Chemistry: Nitrate, Nitrite.",
+   "habs": [],
    "micro": [
     "MMO-MUG"
    ],
    "chemistry": [
     "Nitrate, Nitrite"
    ],
-   "accredited_for": [
-    "Total coliform / E. coli (MMO-MUG)",
-    "Chemistry: Nitrate, Nitrite"
-   ],
-   "group": "main",
-   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (dated October 2026)",
+   "other": [],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
    "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
-   "source_date": "2026-10",
-   "last_verified": "2026-10-26"
-  },
-  {
-   "name": "Eurofins Environment Testing North Central (formerly Metiri Analytical Group, Inc.)",
-   "address": "4450 Johnston Parkway, Suite B, Cleveland, OH 44128",
-   "city": "Cleveland",
-   "phone": "(216) 663-0808",
-   "micro": [
-    "MMO-MUG"
-   ],
-   "chemistry": [
-    "Standard Chemistry",
-    "Trace Metals",
-    "Volatile Organic Compounds"
-   ],
-   "accredited_for": [
-    "Total coliform / E. coli (MMO-MUG)",
-    "Chemistry: Standard Chemistry, Trace Metals, Volatile Organic Compounds"
-   ],
-   "group": "main",
-   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (dated October 2026)",
-   "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
-   "source_date": "2026-10",
-   "last_verified": "2026-10-26"
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11"
   },
   {
    "name": "Benchmark Environmental Labs, Inc.",
    "address": "4319 Indianola Avenue, Columbus, OH 43214",
    "city": "Columbus",
    "phone": "(614) 267-4588",
+   "accredited_for": [
+    "Bacteria: total coliform / E. coli (MMO-MUG)"
+   ],
+   "group": "main",
+   "detail": "Columns as printed on the Ohio EPA list: Microbiological: MMO-MUG.",
+   "habs": [],
    "micro": [
     "MMO-MUG"
    ],
    "chemistry": [],
-   "accredited_for": [
-    "Total coliform / E. coli (MMO-MUG)"
-   ],
-   "group": "main",
-   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (dated October 2026)",
+   "other": [],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
    "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
-   "source_date": "2026-10",
-   "last_verified": "2026-10-26"
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11"
   },
   {
    "name": "Coshocton Environmental Testing, LLC",
    "address": "709 Main Street, Coshocton, OH 43812",
    "city": "Coshocton",
    "phone": "(740) 622-3328 or (800) 870-6570",
+   "accredited_for": [
+    "Bacteria: total coliform / E. coli (MMO-MUG, Quanti-Tray)",
+    "Standard Chemistry (Ohio EPA key includes nitrate, nitrite, fluoride, chloride, sulfate, hardness, pH, TDS)",
+    "Trace Metals (key includes arsenic, lead, copper, iron, manganese, sodium, barium, mercury)",
+    "Volatile organic compounds (regulated VOCs, vinyl chloride, TTHM, HAAs)"
+   ],
+   "group": "main",
+   "detail": "Columns as printed on the Ohio EPA list: Microbiological: MMO-MUG, Quanti-Tray; Chemistry: Standard Chemistry, Trace Metals, Volatile Organic Compounds.",
+   "habs": [],
    "micro": [
     "MMO-MUG",
     "Quanti-Tray"
@@ -171,43 +182,58 @@
     "Trace Metals",
     "Volatile Organic Compounds"
    ],
-   "accredited_for": [
-    "Total coliform / E. coli (MMO-MUG, Quanti-Tray)",
-    "Chemistry: Standard Chemistry, Trace Metals, Volatile Organic Compounds"
-   ],
-   "group": "main",
-   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (dated October 2026)",
+   "other": [],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
    "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
-   "source_date": "2026-10",
-   "last_verified": "2026-10-26"
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11"
   },
   {
    "name": "Alliance Technical Group, LLC-Akron (formerly Summit Env. Tech.)",
    "address": "3310 Win Street, Cuyahoga Falls, OH 44223",
    "city": "Cuyahoga Falls",
    "phone": "(330) 253-8211",
+   "accredited_for": [
+    "Standard Chemistry (Ohio EPA key includes nitrate, nitrite, fluoride, chloride, sulfate, hardness, pH, TDS)",
+    "Trace Metals (key includes arsenic, lead, copper, iron, manganese, sodium, barium, mercury)",
+    "Volatile organic compounds (regulated VOCs, vinyl chloride, TTHM, HAAs)",
+    "Pesticides / SOCs (key includes atrazine, glyphosate, 2,4-D, EDB, 1,2,3-TCP, PCBs)",
+    "Radiochemistry (key includes gross alpha, gross beta, radium-226/228, uranium)",
+    "PFAS (regulated compounds)"
+   ],
+   "group": "main",
+   "detail": "Columns as printed on the Ohio EPA list: Chemistry: Standard Chemistry, Trace Metals, Volatile Organic Compounds, Pesticide - SOC, Radiochemistry; Other: PFAS.",
+   "habs": [],
    "micro": [],
    "chemistry": [
     "Standard Chemistry",
     "Trace Metals",
     "Volatile Organic Compounds",
-    "Pesticide \u2013 SOC",
+    "Pesticide - SOC",
     "Radiochemistry"
    ],
-   "accredited_for": [
-    "Chemistry: Standard Chemistry, Trace Metals, Volatile Organic Compounds, Pesticide \u2013 SOC, Radiochemistry"
+   "other": [
+    "PFAS"
    ],
-   "group": "main",
-   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (dated October 2026)",
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
    "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
-   "source_date": "2026-10",
-   "last_verified": "2026-10-26"
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11"
   },
   {
    "name": "Ream & Haager Laboratories, Inc.",
    "address": "179 West Broadway Street, Dover, OH 44622",
    "city": "Dover",
    "phone": "(330) 343-3711",
+   "accredited_for": [
+    "Bacteria: total coliform / E. coli (MMO-MUG, Quanti-Tray)",
+    "Standard Chemistry (Ohio EPA key includes nitrate, nitrite, fluoride, chloride, sulfate, hardness, pH, TDS)",
+    "Trace Metals (key includes arsenic, lead, copper, iron, manganese, sodium, barium, mercury)",
+    "Volatile organic compounds (regulated VOCs, vinyl chloride, TTHM, HAAs)"
+   ],
+   "group": "main",
+   "detail": "Columns as printed on the Ohio EPA list: Microbiological: MMO-MUG, Quanti-Tray; Chemistry: Standard Chemistry, Trace Metals, Volatile Organic Compounds.",
+   "habs": [],
    "micro": [
     "MMO-MUG",
     "Quanti-Tray"
@@ -217,118 +243,147 @@
     "Trace Metals",
     "Volatile Organic Compounds"
    ],
-   "accredited_for": [
-    "Total coliform / E. coli (MMO-MUG, Quanti-Tray)",
-    "Chemistry: Standard Chemistry, Trace Metals, Volatile Organic Compounds"
-   ],
-   "group": "main",
-   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (dated October 2026)",
+   "other": [],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
    "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
-   "source_date": "2026-10",
-   "last_verified": "2026-10-26"
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11"
   },
   {
    "name": "Pace Analytical Services, LLC - Dayton",
    "address": "25 Holiday Drive, Englewood, OH 45322",
    "city": "Englewood",
    "phone": "(800) 723-5227",
+   "accredited_for": [
+    "Bacteria: total coliform / E. coli (MMO-MUG)",
+    "Standard Chemistry (Ohio EPA key includes nitrate, nitrite, fluoride, chloride, sulfate, hardness, pH, TDS)"
+   ],
+   "group": "main",
+   "detail": "Columns as printed on the Ohio EPA list: Microbiological: MMO-MUG; Chemistry: Standard Chemistry.",
+   "habs": [],
    "micro": [
     "MMO-MUG"
    ],
    "chemistry": [
     "Standard Chemistry"
    ],
-   "accredited_for": [
-    "Total coliform / E. coli (MMO-MUG)",
-    "Chemistry: Standard Chemistry"
-   ],
-   "group": "main",
-   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (dated October 2026)",
+   "other": [],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
    "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
-   "source_date": "2026-10",
-   "last_verified": "2026-10-26"
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11"
   },
   {
    "name": "BoJhun Environmental Services",
    "address": "222 S. Main Street, Fostoria, OH 44830",
    "city": "Fostoria",
    "phone": "(419) 436-7066",
+   "accredited_for": [
+    "Bacteria: total coliform / E. coli (MMO-MUG, Quanti-Tray)"
+   ],
+   "group": "main",
+   "detail": "Columns as printed on the Ohio EPA list: Microbiological: MMO-MUG, Quanti-Tray.",
+   "habs": [],
    "micro": [
     "MMO-MUG",
     "Quanti-Tray"
    ],
    "chemistry": [],
-   "accredited_for": [
-    "Total coliform / E. coli (MMO-MUG, Quanti-Tray)"
-   ],
-   "group": "main",
-   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (dated October 2026)",
+   "other": [],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
    "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
-   "source_date": "2026-10",
-   "last_verified": "2026-10-26"
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11"
   },
   {
    "name": "Superior Laboratories",
    "address": "1075 Amity Road, Galloway, OH 43119",
    "city": "Galloway",
    "phone": "(614) 870-6826",
+   "accredited_for": [
+    "Bacteria: total coliform / E. coli (MMO-MUG, Quanti-Tray)"
+   ],
+   "group": "main",
+   "detail": "Columns as printed on the Ohio EPA list: Microbiological: MMO-MUG, Quanti-Tray.",
+   "habs": [],
    "micro": [
     "MMO-MUG",
     "Quanti-Tray"
    ],
    "chemistry": [],
-   "accredited_for": [
-    "Total coliform / E. coli (MMO-MUG, Quanti-Tray)"
-   ],
-   "group": "main",
-   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (dated October 2026)",
+   "other": [],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
    "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
-   "source_date": "2026-10",
-   "last_verified": "2026-10-26"
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11"
   },
   {
    "name": "Eurofins DW and WW Central - Lima (formerly Alloway Lima)",
    "address": "1101 North Cole Street, Lima, OH 45805",
    "city": "Lima",
    "phone": "(419) 223-1362 or (800) 436-1243",
+   "accredited_for": [
+    "Bacteria: total coliform / E. coli (MMO-MUG, Quanti-Tray)"
+   ],
+   "group": "main",
+   "detail": "Columns as printed on the Ohio EPA list: Microbiological: MMO-MUG, Quanti-Tray.",
+   "habs": [],
    "micro": [
     "MMO-MUG",
     "Quanti-Tray"
    ],
    "chemistry": [],
-   "accredited_for": [
-    "Total coliform / E. coli (MMO-MUG, Quanti-Tray)"
-   ],
-   "group": "main",
-   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (dated October 2026)",
+   "other": [],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
    "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
-   "source_date": "2026-10",
-   "last_verified": "2026-10-26"
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11"
   },
   {
-   "name": "Microbac Laboratories, Inc. \u2013 Marietta Division",
+   "name": "Microbac Laboratories, Inc. – Marietta Division",
    "address": "158 Starlight Drive, Marietta, OH 45750",
    "city": "Marietta",
    "phone": "(740) 373-4071",
+   "accredited_for": [
+    "Standard Chemistry (Ohio EPA key includes nitrate, nitrite, fluoride, chloride, sulfate, hardness, pH, TDS)",
+    "Trace Metals (key includes arsenic, lead, copper, iron, manganese, sodium, barium, mercury)",
+    "PFAS (regulated compounds)"
+   ],
+   "group": "main",
+   "detail": "Columns as printed on the Ohio EPA list: Chemistry: Standard Chemistry, Trace Metals; Other: PFAS.",
+   "habs": [],
    "micro": [],
    "chemistry": [
     "Standard Chemistry",
     "Trace Metals"
    ],
-   "accredited_for": [
-    "Chemistry: Standard Chemistry, Trace Metals"
+   "other": [
+    "PFAS"
    ],
-   "group": "main",
-   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (dated October 2026)",
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
    "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
-   "source_date": "2026-10",
-   "last_verified": "2026-10-26"
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11"
   },
   {
    "name": "Eurofins DW and WW Central - Marion (formerly Alloway Marion)",
    "address": "1776 Marion-Waldo Road, Marion, OH 43302",
    "city": "Marion",
    "phone": "(740) 389-5991 or (800) 873-2835",
+   "accredited_for": [
+    "Bacteria: total coliform / E. coli (MMO-MUG, Quanti-Tray)",
+    "Standard Chemistry (Ohio EPA key includes nitrate, nitrite, fluoride, chloride, sulfate, hardness, pH, TDS)",
+    "Trace Metals (key includes arsenic, lead, copper, iron, manganese, sodium, barium, mercury)",
+    "Volatile organic compounds (regulated VOCs, vinyl chloride, TTHM, HAAs)",
+    "Pesticides / SOCs (key includes atrazine, glyphosate, 2,4-D, EDB, 1,2,3-TCP, PCBs)",
+    "Algal toxins / cyanobacteria (ELISA, qPCR; for surface water)"
+   ],
+   "group": "main",
+   "detail": "Columns as printed on the Ohio EPA list: HABs: ELISA, qPCR; Microbiological: MMO-MUG, Quanti-Tray; Chemistry: Standard Chemistry, Trace Metals, Volatile Organic Compounds, Pesticide - SOC.",
+   "habs": [
+    "ELISA",
+    "qPCR"
+   ],
    "micro": [
     "MMO-MUG",
     "Quanti-Tray"
@@ -339,136 +394,166 @@
     "Volatile Organic Compounds",
     "Pesticide - SOC"
    ],
-   "accredited_for": [
-    "Total coliform / E. coli (MMO-MUG, Quanti-Tray)",
-    "Chemistry: Standard Chemistry, Trace Metals, Volatile Organic Compounds, Pesticide - SOC"
-   ],
-   "group": "main",
-   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (dated October 2026)",
+   "other": [],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
    "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
-   "source_date": "2026-10",
-   "last_verified": "2026-10-26"
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11"
   },
   {
    "name": "Kleinfelder Water Technologies Laboratory (formerly Industrial Fluid Management, Inc.)",
    "address": "2926 U.S. Highway 6, McClure, OH 43534",
    "city": "McClure",
    "phone": "(419) 748-7438",
+   "accredited_for": [
+    "Bacteria: total coliform / E. coli (MMO-MUG)"
+   ],
+   "group": "main",
+   "detail": "Columns as printed on the Ohio EPA list: Microbiological: MMO-MUG.",
+   "habs": [],
    "micro": [
     "MMO-MUG"
    ],
    "chemistry": [],
-   "accredited_for": [
-    "Total coliform / E. coli (MMO-MUG)"
-   ],
-   "group": "main",
-   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (dated October 2026)",
+   "other": [],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
    "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
-   "source_date": "2026-10",
-   "last_verified": "2026-10-26"
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11"
   },
   {
    "name": "SafeSource Water Analytics LLC",
    "address": "31 S. Kennebec Avenue, McConnelsville, OH 43756",
    "city": "McConnelsville",
    "phone": "(740) 292-2002",
+   "accredited_for": [
+    "Bacteria: total coliform / E. coli (MMO-MUG)",
+    "Nitrate only"
+   ],
+   "group": "main",
+   "detail": "Columns as printed on the Ohio EPA list: Microbiological: MMO-MUG; Chemistry: Nitrate.",
+   "habs": [],
    "micro": [
     "MMO-MUG"
    ],
    "chemistry": [
     "Nitrate"
    ],
-   "accredited_for": [
-    "Total coliform / E. coli (MMO-MUG)",
-    "Chemistry: Nitrate"
-   ],
-   "group": "main",
-   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (dated October 2026)",
+   "other": [],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
    "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
-   "source_date": "2026-10",
-   "last_verified": "2026-10-26"
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11"
   },
   {
    "name": "Eastern Lab Services, Ltd.",
    "address": "1035 Medina Road, Suite 500, Medina, OH 44254",
    "city": "Medina",
    "phone": "(330) 670-7920 or (877) 357-5227",
+   "accredited_for": [
+    "Bacteria: total coliform / E. coli (MMO-MUG, Quanti-Tray)"
+   ],
+   "group": "main",
+   "detail": "Columns as printed on the Ohio EPA list: Microbiological: MMO-MUG, Quanti-Tray.",
+   "habs": [],
    "micro": [
     "MMO-MUG",
     "Quanti-Tray"
    ],
    "chemistry": [],
-   "accredited_for": [
-    "Total coliform / E. coli (MMO-MUG, Quanti-Tray)"
-   ],
-   "group": "main",
-   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (dated October 2026)",
+   "other": [],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
    "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
-   "source_date": "2026-10",
-   "last_verified": "2026-10-26"
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11"
   },
   {
    "name": "CETEC Cleveland Environmental Technology, Inc.",
    "address": "19250 Bagley Road, #103, Middleburg Heights, OH 44130",
    "city": "Middleburg Heights",
    "phone": "(216) 856-2898",
+   "accredited_for": [
+    "Bacteria: total coliform / E. coli (Quanti-Tray)"
+   ],
+   "group": "main",
+   "detail": "Columns as printed on the Ohio EPA list: Microbiological: Quanti-Tray.",
+   "habs": [],
    "micro": [
     "Quanti-Tray"
    ],
    "chemistry": [],
-   "accredited_for": [
-    "Total coliform / E. coli (Quanti-Tray)"
-   ],
-   "group": "main",
-   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (dated October 2026)",
+   "other": [],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
    "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
-   "source_date": "2026-10",
-   "last_verified": "2026-10-26"
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11"
   },
   {
    "name": "Edenridge Laboratory, Ltd. (formerly Holmes Laboratory, Inc.)",
    "address": "3559 U.S. Highway 62, Millersburg, OH 44654",
    "city": "Millersburg",
    "phone": "(330) 893-2933",
+   "accredited_for": [
+    "Bacteria: total coliform / E. coli (MMO-MUG, Quanti-Tray)"
+   ],
+   "group": "main",
+   "detail": "Columns as printed on the Ohio EPA list: Microbiological: MMO-MUG, Quanti-Tray.",
+   "habs": [],
    "micro": [
     "MMO-MUG",
     "Quanti-Tray"
    ],
    "chemistry": [],
-   "accredited_for": [
-    "Total coliform / E. coli (MMO-MUG, Quanti-Tray)"
-   ],
-   "group": "main",
-   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (dated October 2026)",
+   "other": [],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
    "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
-   "source_date": "2026-10",
-   "last_verified": "2026-10-26"
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11"
   },
   {
    "name": "Jones & Henry Laboratories",
    "address": "2567 Tracy Road, Northwood, OH 43619",
    "city": "Northwood",
    "phone": "(419) 666-0411",
+   "accredited_for": [
+    "Standard Chemistry (Ohio EPA key includes nitrate, nitrite, fluoride, chloride, sulfate, hardness, pH, TDS)",
+    "Trace Metals (key includes arsenic, lead, copper, iron, manganese, sodium, barium, mercury)",
+    "Volatile organic compounds (regulated VOCs, vinyl chloride, TTHM, HAAs)"
+   ],
+   "group": "main",
+   "detail": "Columns as printed on the Ohio EPA list: Chemistry: Standard Chemistry, Trace Metals, Volatile Organic Compounds.",
+   "habs": [],
    "micro": [],
    "chemistry": [
     "Standard Chemistry",
     "Trace Metals",
     "Volatile Organic Compounds"
    ],
-   "accredited_for": [
-    "Chemistry: Standard Chemistry, Trace Metals, Volatile Organic Compounds"
-   ],
-   "group": "main",
-   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (dated October 2026)",
+   "other": [],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
    "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
-   "source_date": "2026-10",
-   "last_verified": "2026-10-26"
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11"
   },
   {
    "name": "MASI Laboratory",
    "address": "8235 Estates Parkway, Plain City, OH 43064",
    "city": "Plain City",
    "phone": "(614) 873-4654",
+   "accredited_for": [
+    "Bacteria: total coliform / E. coli (MMO-MUG, Quanti-Tray, Membrane Filtration)",
+    "Standard Chemistry (Ohio EPA key includes nitrate, nitrite, fluoride, chloride, sulfate, hardness, pH, TDS)",
+    "Trace Metals (key includes arsenic, lead, copper, iron, manganese, sodium, barium, mercury)",
+    "Volatile organic compounds (regulated VOCs, vinyl chloride, TTHM, HAAs)",
+    "Pesticides / SOCs (key includes atrazine, glyphosate, 2,4-D, EDB, 1,2,3-TCP, PCBs)",
+    "Algal toxins / cyanobacteria (ELISA, qPCR; for surface water)"
+   ],
+   "group": "main",
+   "detail": "Columns as printed on the Ohio EPA list: HABs: ELISA, qPCR; Microbiological: MMO-MUG, Quanti-Tray, Membrane Filtration; Chemistry: Standard Chemistry, Trace Metals, Volatile Organic Compounds, Pesticide - SOC.",
+   "habs": [
+    "ELISA",
+    "qPCR"
+   ],
    "micro": [
     "MMO-MUG",
     "Quanti-Tray",
@@ -480,21 +565,26 @@
     "Volatile Organic Compounds",
     "Pesticide - SOC"
    ],
-   "accredited_for": [
-    "Total coliform / E. coli (MMO-MUG, Quanti-Tray, Membrane Filtration)",
-    "Chemistry: Standard Chemistry, Trace Metals, Volatile Organic Compounds, Pesticide - SOC"
-   ],
-   "group": "main",
-   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (dated October 2026)",
+   "other": [],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
    "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
-   "source_date": "2026-10",
-   "last_verified": "2026-10-26"
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11"
   },
   {
    "name": "Cardinal Environmental Lab, LLC",
    "address": "2870 Salt Springs Road, Youngstown, OH 44509",
    "city": "Youngstown",
    "phone": "(330) 797-8844 or (800) 523-0347",
+   "accredited_for": [
+    "Bacteria: total coliform / E. coli (MMO-MUG, Quanti-Tray)",
+    "Standard Chemistry (Ohio EPA key includes nitrate, nitrite, fluoride, chloride, sulfate, hardness, pH, TDS)",
+    "Trace Metals (key includes arsenic, lead, copper, iron, manganese, sodium, barium, mercury)",
+    "Volatile organic compounds (regulated VOCs, vinyl chloride, TTHM, HAAs)"
+   ],
+   "group": "main",
+   "detail": "Columns as printed on the Ohio EPA list: Microbiological: MMO-MUG, Quanti-Tray; Chemistry: Standard Chemistry, Trace Metals, Volatile Organic Compounds.",
+   "habs": [],
    "micro": [
     "MMO-MUG",
     "Quanti-Tray"
@@ -504,21 +594,24 @@
     "Trace Metals",
     "Volatile Organic Compounds"
    ],
-   "accredited_for": [
-    "Total coliform / E. coli (MMO-MUG, Quanti-Tray)",
-    "Chemistry: Standard Chemistry, Trace Metals, Volatile Organic Compounds"
-   ],
-   "group": "main",
-   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (dated October 2026)",
+   "other": [],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
    "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
-   "source_date": "2026-10",
-   "last_verified": "2026-10-26"
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11"
   },
   {
    "name": "Greene County Sanitary Engineering Laboratory",
    "address": "422 Factory Road, Beavercreek, OH 45434-6214",
    "city": "Beavercreek",
    "phone": "(937) 562-7450",
+   "accredited_for": [
+    "Bacteria: total coliform / E. coli (MMO-MUG, Quanti-Tray)",
+    "Standard Chemistry (Ohio EPA key includes nitrate, nitrite, fluoride, chloride, sulfate, hardness, pH, TDS)"
+   ],
+   "group": "public",
+   "detail": "Columns as printed on the Ohio EPA list: Microbiological: MMO-MUG, Quanti-Tray; Chemistry: Standard Chemistry.",
+   "habs": [],
    "micro": [
     "MMO-MUG",
     "Quanti-Tray"
@@ -526,139 +619,163 @@
    "chemistry": [
     "Standard Chemistry"
    ],
-   "accredited_for": [
-    "Total coliform / E. coli (MMO-MUG, Quanti-Tray)",
-    "Chemistry: Standard Chemistry"
-   ],
-   "group": "public",
-   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (dated October 2026)",
+   "other": [],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
    "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
-   "source_date": "2026-10",
-   "last_verified": "2026-10-26"
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11"
   },
   {
    "name": "Logan County Health District Laboratory",
    "address": "310 South Main Street, Bellefontaine, OH 43311",
    "city": "Bellefontaine",
    "phone": "(937) 592-9040",
+   "accredited_for": [
+    "Bacteria: total coliform / E. coli (MMO-MUG, Quanti-Tray)"
+   ],
+   "group": "public",
+   "detail": "Columns as printed on the Ohio EPA list: Microbiological: MMO-MUG, Quanti-Tray.",
+   "habs": [],
    "micro": [
     "MMO-MUG",
     "Quanti-Tray"
    ],
    "chemistry": [],
-   "accredited_for": [
-    "Total coliform / E. coli (MMO-MUG, Quanti-Tray)"
-   ],
-   "group": "public",
-   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (dated October 2026)",
+   "other": [],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
    "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
-   "source_date": "2026-10",
-   "last_verified": "2026-10-26"
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11"
   },
   {
    "name": "Sebring Water Department Laboratory",
    "address": "1191 Knox School Road, Beloit, OH 44609",
    "city": "Beloit",
    "phone": "(330) 821-7020 or (330) 938-9340",
+   "accredited_for": [
+    "Bacteria: total coliform / E. coli (MMO-MUG)",
+    "Standard Chemistry (Ohio EPA key includes nitrate, nitrite, fluoride, chloride, sulfate, hardness, pH, TDS)"
+   ],
+   "group": "public",
+   "detail": "Columns as printed on the Ohio EPA list: Microbiological: MMO-MUG; Chemistry: Standard Chemistry.",
+   "habs": [],
    "micro": [
     "MMO-MUG"
    ],
    "chemistry": [
     "Standard Chemistry"
    ],
-   "accredited_for": [
-    "Total coliform / E. coli (MMO-MUG)",
-    "Chemistry: Standard Chemistry"
-   ],
-   "group": "public",
-   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (dated October 2026)",
+   "other": [],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
    "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
-   "source_date": "2026-10",
-   "last_verified": "2026-10-26"
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11"
   },
   {
    "name": "Bryan Water Plant Laboratory",
    "address": "841 East Edgerton Street, Bryan, OH 43506",
    "city": "Bryan",
    "phone": "(419) 633-6160",
+   "accredited_for": [
+    "Bacteria: total coliform / E. coli (MMO-MUG, Quanti-Tray)"
+   ],
+   "group": "public",
+   "detail": "Columns as printed on the Ohio EPA list: Microbiological: MMO-MUG, Quanti-Tray.",
+   "habs": [],
    "micro": [
     "MMO-MUG",
     "Quanti-Tray"
    ],
    "chemistry": [],
-   "accredited_for": [
-    "Total coliform / E. coli (MMO-MUG, Quanti-Tray)"
-   ],
-   "group": "public",
-   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (dated October 2026)",
+   "other": [],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
    "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
-   "source_date": "2026-10",
-   "last_verified": "2026-10-26"
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11"
   },
   {
    "name": "Canton City Health Department",
    "address": "420 North Market Avenue, Canton, OH 44702",
    "city": "Canton",
    "phone": "(330) 489-3231",
+   "accredited_for": [
+    "Bacteria: total coliform / E. coli (MMO-MUG, Quanti-Tray)"
+   ],
+   "group": "public",
+   "detail": "Columns as printed on the Ohio EPA list: Microbiological: MMO-MUG, Quanti-Tray.",
+   "habs": [],
    "micro": [
     "MMO-MUG",
     "Quanti-Tray"
    ],
    "chemistry": [],
-   "accredited_for": [
-    "Total coliform / E. coli (MMO-MUG, Quanti-Tray)"
-   ],
-   "group": "public",
-   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (dated October 2026)",
+   "other": [],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
    "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
-   "source_date": "2026-10",
-   "last_verified": "2026-10-26"
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11"
   },
   {
    "name": "Canton Water Laboratory",
    "address": "2664 Harrisburg Road NE, Canton, OH 44705",
    "city": "Canton",
    "phone": "(330) 489-3035",
+   "accredited_for": [
+    "Bacteria: total coliform / E. coli (MMO-MUG)",
+    "Standard Chemistry (Ohio EPA key includes nitrate, nitrite, fluoride, chloride, sulfate, hardness, pH, TDS)"
+   ],
+   "group": "public",
+   "detail": "Columns as printed on the Ohio EPA list: Microbiological: MMO-MUG; Chemistry: Standard Chemistry.",
+   "habs": [],
    "micro": [
     "MMO-MUG"
    ],
    "chemistry": [
     "Standard Chemistry"
    ],
-   "accredited_for": [
-    "Total coliform / E. coli (MMO-MUG)",
-    "Chemistry: Standard Chemistry"
-   ],
-   "group": "public",
-   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (dated October 2026)",
+   "other": [],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
    "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
-   "source_date": "2026-10",
-   "last_verified": "2026-10-26"
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11"
   },
   {
    "name": "Celina Water Department Laboratory",
    "address": "714 South Sugar Street, Celina, OH 45822",
    "city": "Celina",
    "phone": "(419) 586-2270",
+   "accredited_for": [
+    "Bacteria: total coliform / E. coli (MMO-MUG, Quanti-Tray)",
+    "Algal toxins / cyanobacteria (ELISA; for surface water)"
+   ],
+   "group": "public",
+   "detail": "Columns as printed on the Ohio EPA list: HABs: ELISA; Microbiological: MMO-MUG, Quanti-Tray.",
+   "habs": [
+    "ELISA"
+   ],
    "micro": [
     "MMO-MUG",
     "Quanti-Tray"
    ],
    "chemistry": [],
-   "accredited_for": [
-    "Total coliform / E. coli (MMO-MUG, Quanti-Tray)"
-   ],
-   "group": "public",
-   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (dated October 2026)",
+   "other": [],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
    "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
-   "source_date": "2026-10",
-   "last_verified": "2026-10-26"
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11"
   },
   {
    "name": "Geauga County Department of Water Resources",
    "address": "470 Center Street, Building 3, Chardon, OH 44024",
    "city": "Chardon",
    "phone": "(440) 285-2603",
+   "accredited_for": [
+    "Bacteria: total coliform / E. coli (MMO-MUG, Quanti-Tray)",
+    "Standard Chemistry (Ohio EPA key includes nitrate, nitrite, fluoride, chloride, sulfate, hardness, pH, TDS)"
+   ],
+   "group": "public",
+   "detail": "Columns as printed on the Ohio EPA list: Microbiological: MMO-MUG, Quanti-Tray; Chemistry: Standard Chemistry.",
+   "habs": [],
    "micro": [
     "MMO-MUG",
     "Quanti-Tray"
@@ -666,79 +783,98 @@
    "chemistry": [
     "Standard Chemistry"
    ],
-   "accredited_for": [
-    "Total coliform / E. coli (MMO-MUG, Quanti-Tray)",
-    "Chemistry: Standard Chemistry"
-   ],
-   "group": "public",
-   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (dated October 2026)",
+   "other": [],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
    "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
-   "source_date": "2026-10",
-   "last_verified": "2026-10-26"
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11"
   },
   {
    "name": "Cincinnati Miller WTP Laboratory",
    "address": "5651 Kellogg Avenue, Cincinnati, OH 45230",
    "city": "Cincinnati",
    "phone": "(513) 624-5600",
+   "accredited_for": [
+    "Bacteria: total coliform / E. coli (MMO-MUG, Quanti-Tray)"
+   ],
+   "group": "public",
+   "detail": "Columns as printed on the Ohio EPA list: Microbiological: MMO-MUG, Quanti-Tray.",
+   "habs": [],
    "micro": [
     "MMO-MUG",
     "Quanti-Tray"
    ],
    "chemistry": [],
-   "accredited_for": [
-    "Total coliform / E. coli (MMO-MUG, Quanti-Tray)"
-   ],
-   "group": "public",
-   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (dated October 2026)",
+   "other": [],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
    "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
-   "source_date": "2026-10",
-   "last_verified": "2026-10-26"
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11"
   },
   {
    "name": "Circleville WTP Laboratory",
    "address": "663 Island Road, Circleville, OH 43113",
    "city": "Circleville",
-   "phone": "(740) 477-8242",
+   "phone": "(740) 477-8242 x 1",
+   "accredited_for": [
+    "Bacteria: total coliform / E. coli (MMO-MUG)",
+    "Limited Chemistry (as printed; not defined in the key)"
+   ],
+   "group": "public",
+   "detail": "Columns as printed on the Ohio EPA list: Microbiological: MMO-MUG; Chemistry: Limited Chemistry.",
+   "habs": [],
    "micro": [
     "MMO-MUG"
    ],
    "chemistry": [
     "Limited Chemistry"
    ],
-   "accredited_for": [
-    "Total coliform / E. coli (MMO-MUG)",
-    "Chemistry: Limited Chemistry"
-   ],
-   "group": "public",
-   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (dated October 2026)",
+   "other": [],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
    "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
-   "source_date": "2026-10",
-   "last_verified": "2026-10-26"
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11"
   },
   {
    "name": "Cleveland Water Compliance Laboratory",
    "address": "1245 West 45th Street, Cleveland, OH 44102",
    "city": "Cleveland",
    "phone": "(216) 664-3171",
+   "accredited_for": [
+    "Bacteria: total coliform / E. coli (MMO-MUG)",
+    "Algal toxins / cyanobacteria (ELISA; for surface water)"
+   ],
+   "group": "public",
+   "detail": "Columns as printed on the Ohio EPA list: HABs: ELISA; Microbiological: MMO-MUG.",
+   "habs": [
+    "ELISA"
+   ],
    "micro": [
     "MMO-MUG"
    ],
    "chemistry": [],
-   "accredited_for": [
-    "Total coliform / E. coli (MMO-MUG)"
-   ],
-   "group": "public",
-   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (dated October 2026)",
+   "other": [],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
    "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
-   "source_date": "2026-10",
-   "last_verified": "2026-10-26"
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11"
   },
   {
    "name": "NEORSD Analytical Services",
    "address": "4747 East 49th Street, Cuyahoga Heights, OH 44125",
    "city": "Cuyahoga Heights",
    "phone": "(216) 641-6000",
+   "accredited_for": [
+    "Bacteria: total coliform / E. coli (MMO-MUG, Quanti-Tray)",
+    "Standard Chemistry (Ohio EPA key includes nitrate, nitrite, fluoride, chloride, sulfate, hardness, pH, TDS)",
+    "Trace Metals (key includes arsenic, lead, copper, iron, manganese, sodium, barium, mercury)",
+    "Algal toxins / cyanobacteria (ELISA; for surface water)"
+   ],
+   "group": "public",
+   "detail": "Columns as printed on the Ohio EPA list: HABs: ELISA; Microbiological: MMO-MUG, Quanti-Tray; Chemistry: Standard Chemistry, Trace Metals.",
+   "habs": [
+    "ELISA"
+   ],
    "micro": [
     "MMO-MUG",
     "Quanti-Tray"
@@ -747,21 +883,26 @@
     "Standard Chemistry",
     "Trace Metals"
    ],
-   "accredited_for": [
-    "Total coliform / E. coli (MMO-MUG, Quanti-Tray)",
-    "Chemistry: Standard Chemistry, Trace Metals"
-   ],
-   "group": "public",
-   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (dated October 2026)",
+   "other": [],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
    "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
-   "source_date": "2026-10",
-   "last_verified": "2026-10-26"
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11"
   },
   {
    "name": "Dayton Central Water Quality Laboratory",
    "address": "3210 Chuck Wagner Lane, Dayton, OH 45414",
    "city": "Dayton",
    "phone": "(937) 333-6093",
+   "accredited_for": [
+    "Bacteria: total coliform / E. coli (MMO-MUG, Quanti-Tray, Membrane Filtration)",
+    "Standard Chemistry (Ohio EPA key includes nitrate, nitrite, fluoride, chloride, sulfate, hardness, pH, TDS)",
+    "Trace Metals (key includes arsenic, lead, copper, iron, manganese, sodium, barium, mercury)",
+    "Volatile organic compounds (regulated VOCs, vinyl chloride, TTHM, HAAs)"
+   ],
+   "group": "public",
+   "detail": "Columns as printed on the Ohio EPA list: Microbiological: MMO-MUG, Quanti-Tray, Membrane Filtration; Chemistry: Standard Chemistry, Trace Metals, Volatile Organic Compounds.",
+   "habs": [],
    "micro": [
     "MMO-MUG",
     "Quanti-Tray",
@@ -772,58 +913,67 @@
     "Trace Metals",
     "Volatile Organic Compounds"
    ],
-   "accredited_for": [
-    "Total coliform / E. coli (MMO-MUG, Quanti-Tray, Membrane Filtration)",
-    "Chemistry: Standard Chemistry, Trace Metals, Volatile Organic Compounds"
-   ],
-   "group": "public",
-   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (dated October 2026)",
+   "other": [],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
    "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
-   "source_date": "2026-10",
-   "last_verified": "2026-10-26"
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11"
   },
   {
    "name": "Jackson County Water Company Laboratory",
    "address": "124 West Huron Street, Jackson, OH 45640",
    "city": "Jackson",
    "phone": "(740) 288-4815",
+   "accredited_for": [
+    "Bacteria: total coliform / E. coli (MMO-MUG)"
+   ],
+   "group": "public",
+   "detail": "Columns as printed on the Ohio EPA list: Microbiological: MMO-MUG.",
+   "habs": [],
    "micro": [
     "MMO-MUG"
    ],
    "chemistry": [],
-   "accredited_for": [
-    "Total coliform / E. coli (MMO-MUG)"
-   ],
-   "group": "public",
-   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (dated October 2026)",
+   "other": [],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
    "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
-   "source_date": "2026-10",
-   "last_verified": "2026-10-26"
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11"
   },
   {
    "name": "Leetonia WTP Laboratory",
-   "address": "1 Saint Peter\u2019s Street, Leetonia, OH 44431",
+   "address": "1 Saint Peter’s Street, Leetonia, OH 44431",
    "city": "Leetonia",
    "phone": "(330) 427-8087",
+   "accredited_for": [
+    "Bacteria: total coliform / E. coli (MMO-MUG, Quanti-Tray)"
+   ],
+   "group": "public",
+   "detail": "Columns as printed on the Ohio EPA list: Microbiological: MMO-MUG, Quanti-Tray.",
+   "habs": [],
    "micro": [
     "MMO-MUG",
     "Quanti-Tray"
    ],
    "chemistry": [],
-   "accredited_for": [
-    "Total coliform / E. coli (MMO-MUG, Quanti-Tray)"
-   ],
-   "group": "public",
-   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (dated October 2026)",
+   "other": [],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
    "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
-   "source_date": "2026-10",
-   "last_verified": "2026-10-26"
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11"
   },
   {
    "name": "Portage County Water Resources",
    "address": "8116 Infirmary Road, Ravenna, OH 44266",
    "city": "Ravenna",
    "phone": "(330) 297-3685",
+   "accredited_for": [
+    "Bacteria: total coliform / E. coli (MMO-MUG, Quanti-Tray)",
+    "Standard Chemistry (Ohio EPA key includes nitrate, nitrite, fluoride, chloride, sulfate, hardness, pH, TDS)"
+   ],
+   "group": "public",
+   "detail": "Columns as printed on the Ohio EPA list: Microbiological: MMO-MUG, Quanti-Tray; Chemistry: Standard Chemistry.",
+   "habs": [],
    "micro": [
     "MMO-MUG",
     "Quanti-Tray"
@@ -831,107 +981,815 @@
    "chemistry": [
     "Standard Chemistry"
    ],
-   "accredited_for": [
-    "Total coliform / E. coli (MMO-MUG, Quanti-Tray)",
-    "Chemistry: Standard Chemistry"
-   ],
-   "group": "public",
-   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (dated October 2026)",
+   "other": [],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
    "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
-   "source_date": "2026-10",
-   "last_verified": "2026-10-26"
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11"
   },
   {
    "name": "Ohio Department of Agriculture Consumer Protection Laboratory",
    "address": "8995 East Main Street, Reynoldsburg, OH 43068",
    "city": "Reynoldsburg",
    "phone": "(614) 728-6230",
+   "accredited_for": [
+    "Bacteria: total coliform / E. coli (MMO-MUG)"
+   ],
+   "group": "public",
+   "detail": "Columns as printed on the Ohio EPA list: Microbiological: MMO-MUG.",
+   "habs": [],
    "micro": [
     "MMO-MUG"
    ],
    "chemistry": [],
-   "accredited_for": [
-    "Total coliform / E. coli (MMO-MUG)"
-   ],
-   "group": "public",
-   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (dated October 2026)",
+   "other": [],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
    "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
-   "source_date": "2026-10",
-   "last_verified": "2026-10-26"
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11"
   },
   {
    "name": "Erie County Health Department Laboratory",
    "address": "420 Superior Street, Sandusky, OH 44870",
    "city": "Sandusky",
    "phone": "(419) 626-5623",
+   "accredited_for": [
+    "Bacteria: total coliform / E. coli (MMO-MUG, Quanti-Tray)",
+    "Algal toxins / cyanobacteria (ELISA; for surface water)"
+   ],
+   "group": "public",
+   "detail": "Columns as printed on the Ohio EPA list: HABs: ELISA; Microbiological: MMO-MUG, Quanti-Tray.",
+   "habs": [
+    "ELISA"
+   ],
    "micro": [
     "MMO-MUG",
     "Quanti-Tray"
    ],
    "chemistry": [],
-   "accredited_for": [
-    "Total coliform / E. coli (MMO-MUG, Quanti-Tray)"
-   ],
-   "group": "public",
-   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (dated October 2026)",
+   "other": [],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
    "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
-   "source_date": "2026-10",
-   "last_verified": "2026-10-26"
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11"
   },
   {
    "name": "Troy Water Plant Laboratory",
    "address": "300 E Staunton Rd., Troy, OH 45373",
    "city": "Troy",
    "phone": "(937) 339-4826",
+   "accredited_for": [
+    "Bacteria: total coliform / E. coli (MMO-MUG)"
+   ],
+   "group": "public",
+   "detail": "Columns as printed on the Ohio EPA list: Microbiological: MMO-MUG.",
+   "habs": [],
    "micro": [
     "MMO-MUG"
    ],
    "chemistry": [],
-   "accredited_for": [
-    "Total coliform / E. coli (MMO-MUG)"
-   ],
-   "group": "public",
-   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (dated October 2026)",
+   "other": [],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
    "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
-   "source_date": "2026-10",
-   "last_verified": "2026-10-26"
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11"
   },
   {
    "name": "Twin City Water Plant Laboratory",
    "address": "4194 Indian Hill Road, Uhrichsville, OH 44683",
    "city": "Uhrichsville",
    "phone": "(740) 922-2082",
+   "accredited_for": [
+    "Bacteria: total coliform / E. coli (MMO-MUG)"
+   ],
+   "group": "public",
+   "detail": "Columns as printed on the Ohio EPA list: Microbiological: MMO-MUG.",
+   "habs": [],
    "micro": [
     "MMO-MUG"
    ],
    "chemistry": [],
-   "accredited_for": [
-    "Total coliform / E. coli (MMO-MUG)"
-   ],
-   "group": "public",
-   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (dated October 2026)",
+   "other": [],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
    "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
-   "source_date": "2026-10",
-   "last_verified": "2026-10-26"
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11"
   },
   {
    "name": "Mahoning County Board of Health",
    "address": "50 Westchester Drive, Youngstown, OH 44515",
    "city": "Youngstown",
    "phone": "(330) 270-2855",
+   "accredited_for": [
+    "Bacteria: total coliform / E. coli (MMO-MUG, Quanti-Tray)"
+   ],
+   "group": "public",
+   "detail": "Columns as printed on the Ohio EPA list: Microbiological: MMO-MUG, Quanti-Tray.",
+   "habs": [],
    "micro": [
     "MMO-MUG",
     "Quanti-Tray"
    ],
    "chemistry": [],
-   "accredited_for": [
-    "Total coliform / E. coli (MMO-MUG, Quanti-Tray)"
-   ],
-   "group": "public",
-   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (dated October 2026)",
+   "other": [],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
    "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
-   "source_date": "2026-10",
-   "last_verified": "2026-10-26"
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11"
+  },
+  {
+   "name": "Akron WTP Laboratory",
+   "address": "1570 Ravenna Road, Akron, OH 44240",
+   "city": "Akron",
+   "phone": "(330) 678-0077",
+   "accredited_for": [
+    "Algal toxins / cyanobacteria (qPCR; for surface water)"
+   ],
+   "group": "limited",
+   "detail": "Columns as printed on the Ohio EPA list: HABs: qPCR.",
+   "habs": [
+    "qPCR"
+   ],
+   "micro": [],
+   "chemistry": [],
+   "other": [],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
+   "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11"
+  },
+  {
+   "name": "BSA Environmental Services, Inc.",
+   "address": "23400 Mercantile Road, Suite 8, Beachwood, OH 44122",
+   "city": "Beachwood",
+   "phone": "(216) 765-0582",
+   "accredited_for": [
+    "Algal toxins / cyanobacteria (ELISA; for surface water)"
+   ],
+   "group": "limited",
+   "detail": "Columns as printed on the Ohio EPA list: HABs: ELISA.",
+   "habs": [
+    "ELISA"
+   ],
+   "micro": [],
+   "chemistry": [],
+   "other": [],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
+   "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11"
+  },
+  {
+   "name": "Aqua Pennsylvania, Inc. – Bryn Mawr",
+   "address": "762 W. Lancaster Avenue, Bryn Mawr, PA 19010",
+   "city": "Bryn Mawr",
+   "phone": "",
+   "accredited_for": [
+    "Standard Chemistry (Ohio EPA key includes nitrate, nitrite, fluoride, chloride, sulfate, hardness, pH, TDS)",
+    "Trace Metals (key includes arsenic, lead, copper, iron, manganese, sodium, barium, mercury)",
+    "Volatile organic compounds (regulated VOCs, vinyl chloride, TTHM, HAAs)",
+    "PFAS (regulated compounds)"
+   ],
+   "group": "limited",
+   "detail": "Columns as printed on the Ohio EPA list: Chemistry: Standard Chemistry, Trace Metals, Volatile Organic Compounds; Other: PFAS.",
+   "habs": [],
+   "micro": [],
+   "chemistry": [
+    "Standard Chemistry",
+    "Trace Metals",
+    "Volatile Organic Compounds"
+   ],
+   "other": [
+    "PFAS"
+   ],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
+   "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11",
+   "note": "No phone number is printed on the Ohio EPA list for this lab. Out-of-state lab accepted by Ohio EPA. Ask about shipping and hold times before you collect."
+  },
+  {
+   "name": "Eurofins Built Environment Testing East – Cary NC (formerly Eurofins CEI)",
+   "address": "730 SE Maynard Road, Cary, NC 27511",
+   "city": "Cary",
+   "phone": "(919) 481-1413",
+   "accredited_for": [
+    "Asbestos"
+   ],
+   "group": "limited",
+   "detail": "Columns as printed on the Ohio EPA list: Other: Asbestos.",
+   "habs": [],
+   "micro": [],
+   "chemistry": [],
+   "other": [
+    "Asbestos"
+   ],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
+   "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11",
+   "note": "Out-of-state lab accepted by Ohio EPA. Ask about shipping and hold times before you collect."
+  },
+  {
+   "name": "Eurofins Built Environment Testing East - NJ (formerly International Asbestos Testing Lab)",
+   "address": "1006 Astoria Blvd., Cherry Hill, NJ 08003",
+   "city": "Cherry Hill",
+   "phone": "(856) 231-9449",
+   "accredited_for": [
+    "Asbestos"
+   ],
+   "group": "limited",
+   "detail": "Columns as printed on the Ohio EPA list: Other: Asbestos.",
+   "habs": [],
+   "micro": [],
+   "chemistry": [],
+   "other": [
+    "Asbestos"
+   ],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
+   "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11",
+   "note": "Out-of-state lab accepted by Ohio EPA. Ask about shipping and hold times before you collect."
+  },
+  {
+   "name": "EMSL Analytical, Inc.",
+   "address": "200 Route 130 North, Cinnaminson, NJ 08077",
+   "city": "Cinnaminson",
+   "phone": "(800) 220-3675",
+   "accredited_for": [
+    "Cryptosporidium"
+   ],
+   "group": "limited",
+   "detail": "Columns as printed on the Ohio EPA list: Other: Cryptosporidium.",
+   "habs": [],
+   "micro": [],
+   "chemistry": [],
+   "other": [
+    "Cryptosporidium"
+   ],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
+   "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11",
+   "note": "Out-of-state lab accepted by Ohio EPA. Ask about shipping and hold times before you collect."
+  },
+  {
+   "name": "Pace Analytical Services, LLC – East Longmeadow",
+   "address": "39 Spruce Street, East Longmeadow, MA 01028",
+   "city": "East Longmeadow",
+   "phone": "(413) 525-2332",
+   "accredited_for": [
+    "PFAS (regulated compounds)"
+   ],
+   "group": "limited",
+   "detail": "Columns as printed on the Ohio EPA list: Other: PFAS.",
+   "habs": [],
+   "micro": [],
+   "chemistry": [],
+   "other": [
+    "PFAS"
+   ],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
+   "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11",
+   "note": "Out-of-state lab accepted by Ohio EPA. Ask about shipping and hold times before you collect."
+  },
+  {
+   "name": "Onterris Laboratories LLC - El Dorado Hills (formerly Enthalpy)",
+   "address": "1104 Windfield Way, El Dorado Hills, CA 95762",
+   "city": "El Dorado Hills",
+   "phone": "(916) 673-1520",
+   "accredited_for": [
+    "PFAS (regulated compounds)"
+   ],
+   "group": "limited",
+   "detail": "Columns as printed on the Ohio EPA list: Other: PFAS.",
+   "habs": [],
+   "micro": [],
+   "chemistry": [],
+   "other": [
+    "PFAS"
+   ],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
+   "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11",
+   "note": "Out-of-state lab accepted by Ohio EPA. Ask about shipping and hold times before you collect."
+  },
+  {
+   "name": "Pace Analytical Services, LLC – Greensburg",
+   "address": "1638 Roseytown Road, Suites 2,3 and 4, Greensburg, PA 15601",
+   "city": "Greensburg",
+   "phone": "(724) 850-5600",
+   "accredited_for": [
+    "Radiochemistry (key includes gross alpha, gross beta, radium-226/228, uranium)"
+   ],
+   "group": "limited",
+   "detail": "Columns as printed on the Ohio EPA list: Chemistry: Radiochemistry.",
+   "habs": [],
+   "micro": [],
+   "chemistry": [
+    "Radiochemistry"
+   ],
+   "other": [],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
+   "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11",
+   "note": "Out-of-state lab accepted by Ohio EPA. Ask about shipping and hold times before you collect."
+  },
+  {
+   "name": "ALS Environmental – Holland",
+   "address": "3352 128th Avenue, Holland, MI 49424",
+   "city": "Holland",
+   "phone": "(616) 399-6070",
+   "accredited_for": [
+    "PFAS (regulated compounds)"
+   ],
+   "group": "limited",
+   "detail": "Columns as printed on the Ohio EPA list: Other: PFAS.",
+   "habs": [],
+   "micro": [],
+   "chemistry": [],
+   "other": [
+    "PFAS"
+   ],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
+   "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11",
+   "note": "Out-of-state lab accepted by Ohio EPA. Ask about shipping and hold times before you collect."
+  },
+  {
+   "name": "Metiri – Holt",
+   "address": "1914 Holloway Drive, Holt, MI 48842",
+   "city": "Holt",
+   "phone": "(517) 699-0345",
+   "accredited_for": [
+    "PFAS (regulated compounds)"
+   ],
+   "group": "limited",
+   "detail": "Columns as printed on the Ohio EPA list: Other: PFAS.",
+   "habs": [],
+   "micro": [],
+   "chemistry": [],
+   "other": [
+    "PFAS"
+   ],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
+   "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11",
+   "note": "Out-of-state lab accepted by Ohio EPA. Ask about shipping and hold times before you collect."
+  },
+  {
+   "name": "ALS Environmental - Kelso",
+   "address": "1317 South 13th Avenue, Kelso, WA 98626",
+   "city": "Kelso",
+   "phone": "(800) 695-7222",
+   "accredited_for": [
+    "PFAS (regulated compounds)"
+   ],
+   "group": "limited",
+   "detail": "Columns as printed on the Ohio EPA list: Other: PFAS.",
+   "habs": [],
+   "micro": [],
+   "chemistry": [],
+   "other": [
+    "PFAS"
+   ],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
+   "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11",
+   "note": "Out-of-state lab accepted by Ohio EPA. Ask about shipping and hold times before you collect."
+  },
+  {
+   "name": "Eurofins Lancaster",
+   "address": "2425 New Holland Pike, Lancaster, PA 17601",
+   "city": "Lancaster",
+   "phone": "(717) 656-2300",
+   "accredited_for": [
+    "Dioxin (2,3,7,8-TCDD) only",
+    "PFAS (regulated compounds)"
+   ],
+   "group": "limited",
+   "detail": "Columns as printed on the Ohio EPA list: Chemistry: 2,3,7,8-TCDD (Dioxin); Other: PFAS.",
+   "habs": [],
+   "micro": [],
+   "chemistry": [
+    "2,3,7,8-TCDD (Dioxin)"
+   ],
+   "other": [
+    "PFAS"
+   ],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
+   "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11",
+   "note": "Out-of-state lab accepted by Ohio EPA. Ask about shipping and hold times before you collect."
+  },
+  {
+   "name": "Elyria Water Works Laboratory",
+   "address": "3628 West Erie Avenue, Lorain, OH 44053",
+   "city": "Lorain",
+   "phone": "(440) 244-4310",
+   "accredited_for": [
+    "Algal toxins / cyanobacteria (ELISA; for surface water)"
+   ],
+   "group": "limited",
+   "detail": "Columns as printed on the Ohio EPA list: HABs: ELISA.",
+   "habs": [
+    "ELISA"
+   ],
+   "micro": [],
+   "chemistry": [],
+   "other": [],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
+   "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11"
+  },
+  {
+   "name": "Pace Analytical Services, LLC - Madisonville",
+   "address": "825 Industrial Road, Madisonville, KY 42431",
+   "city": "Madisonville",
+   "phone": "(270) 821-7375",
+   "accredited_for": [
+    "Cryptosporidium"
+   ],
+   "group": "limited",
+   "detail": "Columns as printed on the Ohio EPA list: Other: Cryptosporidium.",
+   "habs": [],
+   "micro": [],
+   "chemistry": [],
+   "other": [
+    "Cryptosporidium"
+   ],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
+   "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11",
+   "note": "Out-of-state lab accepted by Ohio EPA. Ask about shipping and hold times before you collect."
+  },
+  {
+   "name": "Pace Analytical Services, LLC – Mansfield (formerly Alpha Analytical)",
+   "address": "320 Forbes Boulevard, Mansfield, MA 02048",
+   "city": "Mansfield",
+   "phone": "(508) 898-9220",
+   "accredited_for": [
+    "PFAS (regulated compounds)"
+   ],
+   "group": "limited",
+   "detail": "Columns as printed on the Ohio EPA list: Other: PFAS.",
+   "habs": [],
+   "micro": [],
+   "chemistry": [],
+   "other": [
+    "PFAS"
+   ],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
+   "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11",
+   "note": "Out-of-state lab accepted by Ohio EPA. Ask about shipping and hold times before you collect."
+  },
+  {
+   "name": "Pace Analytical Services, LLC – Minneapolis",
+   "address": "1700 Elm Street SE, Suite 200, Minneapolis, MN 55414",
+   "city": "Minneapolis",
+   "phone": "(612) 607-6352",
+   "accredited_for": [
+    "Dioxin (2,3,7,8-TCDD) only"
+   ],
+   "group": "limited",
+   "detail": "Columns as printed on the Ohio EPA list: Chemistry: 2,3,7,8-TCDD (Dioxin).",
+   "habs": [],
+   "micro": [],
+   "chemistry": [
+    "2,3,7,8-TCDD (Dioxin)"
+   ],
+   "other": [],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
+   "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11",
+   "note": "Out-of-state lab accepted by Ohio EPA. Ask about shipping and hold times before you collect."
+  },
+  {
+   "name": "Maine Laboratories LLC (dba PFAS Laboratories)",
+   "address": "25 Main Street, Norridgewock, ME 04957",
+   "city": "Norridgewock",
+   "phone": "(207) 518-8030",
+   "accredited_for": [
+    "PFAS (regulated compounds)"
+   ],
+   "group": "limited",
+   "detail": "Columns as printed on the Ohio EPA list: Other: PFAS.",
+   "habs": [],
+   "micro": [],
+   "chemistry": [],
+   "other": [
+    "PFAS"
+   ],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
+   "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11",
+   "note": "Out-of-state lab accepted by Ohio EPA. Ask about shipping and hold times before you collect."
+  },
+  {
+   "name": "Battelle Analytical Chemistry Services",
+   "address": "141 Longwater Drive, Suite 202, Norwell, MA 02061",
+   "city": "Norwell",
+   "phone": "(781) 681-5535",
+   "accredited_for": [
+    "PFAS (regulated compounds)"
+   ],
+   "group": "limited",
+   "detail": "Columns as printed on the Ohio EPA list: Other: PFAS.",
+   "habs": [],
+   "micro": [],
+   "chemistry": [],
+   "other": [
+    "PFAS"
+   ],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
+   "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11",
+   "note": "Out-of-state lab accepted by Ohio EPA. Ask about shipping and hold times before you collect."
+  },
+  {
+   "name": "Eberline Analytical Corporation",
+   "address": "601A Scarboro Road, Oak Ridge, TN 37830",
+   "city": "Oak Ridge",
+   "phone": "(865) 481-0683",
+   "accredited_for": [
+    "Radiochemistry (key includes gross alpha, gross beta, radium-226/228, uranium)"
+   ],
+   "group": "limited",
+   "detail": "Columns as printed on the Ohio EPA list: Chemistry: Radiochemistry.",
+   "habs": [],
+   "micro": [],
+   "chemistry": [
+    "Radiochemistry"
+   ],
+   "other": [],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
+   "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11",
+   "note": "Out-of-state lab accepted by Ohio EPA. Ask about shipping and hold times before you collect."
+  },
+  {
+   "name": "SGS North America Inc. - Orlando",
+   "address": "4405 Vineland Road, Suite C-15, Orlando, FL 32811",
+   "city": "Orlando",
+   "phone": "(407) 425-6700",
+   "accredited_for": [
+    "PFAS (regulated compounds)"
+   ],
+   "group": "limited",
+   "detail": "Columns as printed on the Ohio EPA list: Other: PFAS.",
+   "habs": [],
+   "micro": [],
+   "chemistry": [],
+   "other": [
+    "PFAS"
+   ],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
+   "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11",
+   "note": "Out-of-state lab accepted by Ohio EPA. Ask about shipping and hold times before you collect."
+  },
+  {
+   "name": "Pace Analytical Services, LLC – Ormond Beach",
+   "address": "8 East Tower Circle, Ormond Beach, FL 32174",
+   "city": "Ormond Beach",
+   "phone": "(386) 672-5668",
+   "accredited_for": [
+    "PFAS (regulated compounds)"
+   ],
+   "group": "limited",
+   "detail": "Columns as printed on the Ohio EPA list: Other: PFAS.",
+   "habs": [],
+   "micro": [],
+   "chemistry": [],
+   "other": [
+    "PFAS"
+   ],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
+   "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11",
+   "note": "Out-of-state lab accepted by Ohio EPA. Ask about shipping and hold times before you collect."
+  },
+  {
+   "name": "Eurofins Pomona",
+   "address": "941 Corporate Center Drive, Pomona, CA 91768",
+   "city": "Pomona",
+   "phone": "(626) 386-1100",
+   "accredited_for": [
+    "PFAS (regulated compounds)"
+   ],
+   "group": "limited",
+   "detail": "Columns as printed on the Ohio EPA list: Other: PFAS.",
+   "habs": [],
+   "micro": [],
+   "chemistry": [],
+   "other": [
+    "PFAS"
+   ],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
+   "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11",
+   "note": "Out-of-state lab accepted by Ohio EPA. Ask about shipping and hold times before you collect."
+  },
+  {
+   "name": "The Ohio State University Stone Laboratory",
+   "address": "878 Bayview Drive, Put-in-Bay, OH 43456",
+   "city": "Put-in-Bay",
+   "phone": "(419) 285-1845",
+   "accredited_for": [
+    "Algal toxins / cyanobacteria (ELISA; for surface water)"
+   ],
+   "group": "limited",
+   "detail": "Columns as printed on the Ohio EPA list: HABs: ELISA.",
+   "habs": [
+    "ELISA"
+   ],
+   "micro": [],
+   "chemistry": [],
+   "other": [],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
+   "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11"
+  },
+  {
+   "name": "Eurofins Sacramento",
+   "address": "880 Riverside Parkway, Sacramento, CA 95605",
+   "city": "Sacramento",
+   "phone": "(916) 374-4308",
+   "accredited_for": [
+    "PFAS (regulated compounds)"
+   ],
+   "group": "limited",
+   "detail": "Columns as printed on the Ohio EPA list: Other: PFAS.",
+   "habs": [],
+   "micro": [],
+   "chemistry": [],
+   "other": [
+    "PFAS"
+   ],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
+   "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11",
+   "note": "Out-of-state lab accepted by Ohio EPA. Ask about shipping and hold times before you collect."
+  },
+  {
+   "name": "Eurofins South Bend",
+   "address": "110 South Hill Street, South Bend, IN 46617",
+   "city": "South Bend",
+   "phone": "(800) 332-4345 or (574) 472-5523",
+   "accredited_for": [
+    "Bacteria: total coliform / E. coli (Quanti-Tray)",
+    "Radiochemistry (key includes gross alpha, gross beta, radium-226/228, uranium)",
+    "Cryptosporidium",
+    "PFAS (regulated compounds)"
+   ],
+   "group": "limited",
+   "detail": "Columns as printed on the Ohio EPA list: Microbiological: Quanti-Tray; Chemistry: Radiochemistry; Other: Cryptosporidium, PFAS.",
+   "habs": [],
+   "micro": [
+    "Quanti-Tray"
+   ],
+   "chemistry": [
+    "Radiochemistry"
+   ],
+   "other": [
+    "Cryptosporidium",
+    "PFAS"
+   ],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
+   "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11",
+   "note": "Out-of-state lab accepted by Ohio EPA. Ask about shipping and hold times before you collect."
+  },
+  {
+   "name": "EnviroScience",
+   "address": "5070 Stow Road, Stow, OH 44224",
+   "city": "Stow",
+   "phone": "(330) 688-0111",
+   "accredited_for": [
+    "Algal toxins / cyanobacteria (ELISA; for surface water)"
+   ],
+   "group": "limited",
+   "detail": "Columns as printed on the Ohio EPA list: HABs: ELISA.",
+   "habs": [
+    "ELISA"
+   ],
+   "micro": [],
+   "chemistry": [],
+   "other": [],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
+   "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11"
+  },
+  {
+   "name": "Willard Water Plant Laboratory",
+   "address": "540 Central Ave., Willard, OH 44890",
+   "city": "Willard",
+   "phone": "(419) 933-4001",
+   "accredited_for": [
+    "Algal toxins / cyanobacteria (ELISA; for surface water)"
+   ],
+   "group": "limited",
+   "detail": "Columns as printed on the Ohio EPA list: HABs: ELISA.",
+   "habs": [
+    "ELISA"
+   ],
+   "micro": [],
+   "chemistry": [],
+   "other": [],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
+   "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11"
+  },
+  {
+   "name": "Analytical Services, Inc.",
+   "address": "130 Allen Brook Lane, Williston, VT 05495",
+   "city": "Williston",
+   "phone": "(800) 723-4432",
+   "accredited_for": [
+    "Cryptosporidium"
+   ],
+   "group": "limited",
+   "detail": "Columns as printed on the Ohio EPA list: Other: Cryptosporidium.",
+   "habs": [],
+   "micro": [],
+   "chemistry": [],
+   "other": [
+    "Cryptosporidium"
+   ],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
+   "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11",
+   "note": "Out-of-state lab accepted by Ohio EPA. Ask about shipping and hold times before you collect."
+  },
+  {
+   "name": "Onterris Laboratories LLC – Wilmington (formerly Enthalpy)",
+   "address": "2714 Exchange Drive, Wilmington, NC 28405",
+   "city": "Wilmington",
+   "phone": "(910) 212-5856",
+   "accredited_for": [
+    "PFAS (regulated compounds)"
+   ],
+   "group": "limited",
+   "detail": "Columns as printed on the Ohio EPA list: Other: PFAS.",
+   "habs": [],
+   "micro": [],
+   "chemistry": [],
+   "other": [
+    "PFAS"
+   ],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
+   "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11",
+   "note": "Out-of-state lab accepted by Ohio EPA. Ask about shipping and hold times before you collect."
+  },
+  {
+   "name": "SGS North America Inc. – Wilmington",
+   "address": "5500 Business Drive, Wilmington, NC 28405",
+   "city": "Wilmington",
+   "phone": "(910) 350-1903",
+   "accredited_for": [
+    "PFAS (regulated compounds)"
+   ],
+   "group": "limited",
+   "detail": "Columns as printed on the Ohio EPA list: Other: PFAS.",
+   "habs": [],
+   "micro": [],
+   "chemistry": [],
+   "other": [
+    "PFAS"
+   ],
+   "source_name": "Ohio EPA, Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (November 2026)",
+   "source_url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf",
+   "source_date": "2026-11 (file created 2026-10-30)",
+   "last_verified": "2026-11-11",
+   "note": "Out-of-state lab accepted by Ohio EPA. Ask about shipping and hold times before you collect."
   }
  ]
 }

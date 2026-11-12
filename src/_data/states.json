@@ -31,21 +31,34 @@
  "ohio": {
   "name": "Ohio",
   "abbr": "OH",
-  "title": "Ohio labs certified for drinking-water analysis (Ohio EPA list)",
-  "description": "Ohio-based labs on Ohio EPA's October 2026 list of laboratories certified or accepted to test drinking water for microbiology and chemistry, with source and verification date on every listing.",
+  "title": "Ohio certified drinking-water labs: all 75 on Ohio EPA's November 2026 list",
+  "description": "Every lab on Ohio EPA's November 2026 list of labs certified or accepted for drinking-water testing: 44 Ohio labs for bacteria or chemistry, plus PFAS, radiochemistry and other specialty labs, with what each category covers.",
   "intro": [
-   "Ohio EPA publishes a combined list of laboratories certified or accepted to run drinking-water analyses. We took the Ohio-address labs on that list that are approved for microbiology (total coliform and E. coli) or chemistry.",
-   "In Ohio's list, \"Standard Chemistry\" and \"Trace Metals\" are Ohio EPA's own category names. We show them as written and have not expanded them into a list of individual analytes."
+   "Ohio EPA's Division of Drinking and Ground Waters publishes one PDF of every laboratory it has certified or accepted to test drinking water. The current edition is headed \"November 2026\" (the file was created October 30, 2026). We downloaded it fresh on November 11, 2026 and list all 75 labs on it below, with the categories exactly as Ohio EPA prints them.",
+   "Compared with the September 30, 2026 file this page was first built from, one lab was removed: Eurofins Environment Testing North Central (formerly Metiri Analytical Group, Inc.), 4450 Johnston Parkway, Cleveland, is no longer on the list. All other rows were checked line by line and are unchanged. The list does not say why a lab was removed.",
+   "What the categories mean: the first page of the PDF has a key. \"Standard Chemistry\" covers tests including nitrate, nitrite, fluoride, chloride, sulfate, hardness, pH and TDS. \"Trace Metals\" covers primary metals including arsenic, lead, barium and mercury, and secondary metals including iron, manganese and sodium. \"Radiochemistry\" includes gross alpha, gross beta, radium-226/228 and uranium. Ohio EPA adds: \"Please contact individual lab(s) for detailed information about the analyses offered.\" A category on the list does not mean a lab runs every test in it.",
+   "For a typical private-well check (bacteria, nitrate, arsenic), look for a lab with both a bacteria entry and Standard Chemistry plus Trace Metals. Looking for PFAS? Two Ohio labs are on the list for PFAS: Alliance Technical Group in Cuyahoga Falls and Microbac Laboratories' Marietta Division. The rest of the PFAS labs are out of state (last group).",
+   "Before you call a lab, check with your local health district. Ohio EPA and the Ohio Department of Health both point private-well owners there first. See our guide to where to get well water tested in Ohio."
   ],
   "caveats": [
-   "Ohio EPA titles this list \"Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water\". It is a compliance list for public water systems. It does not say which labs take samples from homeowners with private wells. Every lab here needs a phone call first.",
-   "Labs whose names show they are a water utility, county health district or other public agency are in a separate group. They often serve their own system or jurisdiction.",
-   "We left out labs on the list with an out-of-state address and labs listed only for specialty tests such as PFAS, cyanotoxins or Cryptosporidium. Ohio's list is dated October 2026."
+   "Ohio EPA titles this list \"Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water\". It is a compliance list for public water systems. It does not say which labs take samples from homeowners, what they charge or how fast they report. Call first.",
+   "Ohio EPA's own disclaimer: the list \"should not be construed as an endorsement\", and \"Other laboratories may hold acceptance for these parameters and may not appear here\". Questions about a lab's status go to Ohio EPA Laboratory Certification, dwlabcert@epa.ohio.gov or (614) 644-2752.",
+   "The grouping is ours. Group 1: Ohio labs with a bacteria or chemistry entry whose names do not show a public agency. Group 2: Ohio water-utility, county and state-agency labs, which often serve only their own system. Group 3: out-of-state labs, and Ohio labs listed only for algal toxins (a surface-water test), any category.",
+   "The short descriptions on each chip (such as \"includes nitrate\") are abridged from the key on page 1 of the same PDF. The exact columns as printed are under each listing.",
+   "We did not verify prices, turnaround times, websites or whether any lab accepts walk-in samples, so none are shown."
   ],
   "resources": [
    {
-    "label": "Ohio EPA combined certified-lab list (PDF)",
+    "label": "Ohio EPA: Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water (PDF, November 2026)",
     "url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/28/documents/labcert/Combined-Lab-List.pdf"
+   },
+   {
+    "label": "Ohio EPA: Laboratory Certification program page (updated January 7, 2026; links the list)",
+    "url": "https://epa.ohio.gov/divisions-and-offices/drinking-and-ground-waters/ddgw-programs/laboratory-certification"
+   },
+   {
+    "label": "Ohio Department of Health: Find Local Health Departments",
+    "url": "https://odh.ohio.gov/find-local-health-districts"
    },
    {
     "label": "EPA: certification programs and certified laboratories, by state",
@@ -55,7 +68,13 @@
     "label": "Our guide: where to get your well water tested in Ohio",
     "url": "/guides/ohio-where-to-get-well-water-tested/"
    }
-  ]
+  ],
+  "main_heading": "Ohio labs certified for bacteria or chemistry",
+  "public_heading": "Ohio water-utility, county and state-agency labs on the same list",
+  "public_note": "These are run by a water system, sewer district, health department or state agency. Some local health districts offer homeowner well testing for their own residents (see our Ohio guide), but this list does not say which. Call first.",
+  "limited_heading": "Out-of-state labs and specialty-only labs (PFAS, radiochemistry, dioxin, asbestos, Cryptosporidium, algal toxins)",
+  "limited_note": "Out-of-state labs are accepted by Ohio EPA, mostly for one specialty test such as PFAS. The six Ohio labs here are listed only for algal toxins (cyanotoxins and cyanobacteria), which matter for lakes and rivers, not wells. Ask any out-of-state lab about bottles, shipping and hold times before you collect.",
+  "chips_label": "On Ohio EPA's November 2026 list for:"
  },
  "new-hampshire": {
   "name": "New Hampshire",

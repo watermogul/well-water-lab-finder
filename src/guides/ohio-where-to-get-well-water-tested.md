@@ -42,7 +42,7 @@ Sources: each district's page and fee schedule, last verified 2026-10-29. If you
 
 ## Step 2: if your health district can't do the test, use an Ohio EPA–certified lab
 
-ODH requires samples taken for new, altered or repaired wells to go to a lab certified by ODH or Ohio EPA. For everything else it says: "The department recommends that all water samples collected from private water systems for real estate transactions, or consumer information also be analyzed at a certified laboratory." Ohio EPA publishes the certified-lab list as a PDF. The **October 2026** edition is the current one.
+ODH requires samples taken for new, altered or repaired wells to go to a lab certified by ODH or Ohio EPA. For everything else it says: "The department recommends that all water samples collected from private water systems for real estate transactions, or consumer information also be analyzed at a certified laboratory." Ohio EPA publishes the certified-lab list as a PDF. When we re-checked on 2026-11-11, the current edition was headed **November 2026**; our [full Ohio lab listing](/labs/ohio/) shows every lab on it.
 
 The catch: Ohio EPA's list is for **public** water systems. It doesn't say which labs take samples from homeowners. Our [Ohio lab page](/labs/ohio/) lists every Ohio-address lab on it, but you have to call around.
 
@@ -80,7 +80,7 @@ Sources: Ohio EPA combined lab list (October 2026) and OSU Extension AEX-315 (20
 - In Ohio EPA's list, **"Standard Chemistry" includes nitrate**, and **"Trace Metals" includes arsenic and lead**. A lab with micro only can do the bacteria test but not nitrate or arsenic.
 - We have no prices for these labs. None is printed on the Ohio EPA list or in AEX-315.
 
-**On the 2021 OSU list but not found on Ohio EPA's October 2026 list** (by name or address): Brookside Lab (New Bremen), Advanced Analytics Laboratories (Columbus), Archbold Water Plant Laboratory, Con-Test Analytical Laboratory (Englewood), Perry Environmental Laboratory (New Lexington), the National Center for Water Quality Research at Heidelberg University (Tiffin), and Alloway's Mansfield lab. That doesn't mean they've closed. It only means they don't appear on Ohio EPA's drinking-water list tonight. CWM Environmental's 2021 address and phone (4450 Johnston Parkway, Cleveland, (216) 663-0808) now appear on Ohio EPA's list under "Eurofins Environment Testing North Central (formerly Metiri Analytical Group, Inc.)". We haven't confirmed that business history, so that lab isn't in the table above.
+**On the 2021 OSU list but not found on Ohio EPA's October 2026 list** (by name or address): Brookside Lab (New Bremen), Advanced Analytics Laboratories (Columbus), Archbold Water Plant Laboratory, Con-Test Analytical Laboratory (Englewood), Perry Environmental Laboratory (New Lexington), the National Center for Water Quality Research at Heidelberg University (Tiffin), and Alloway's Mansfield lab. That doesn't mean they've closed. It only means they don't appear on Ohio EPA's drinking-water list tonight. CWM Environmental's 2021 address and phone (4450 Johnston Parkway, Cleveland, (216) 663-0808) now appear on Ohio EPA's list under "Eurofins Environment Testing North Central (formerly Metiri Analytical Group, Inc.)". We haven't confirmed that business history, so that lab isn't in the table above. *Update 2026-11-11:* that Eurofins North Central entry is not on Ohio EPA's November 2026 list. The 18 labs in the table above are all still on it, unchanged.
 
 ## What to ask the lab (or health district) to test
 
