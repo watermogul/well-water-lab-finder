@@ -7,8 +7,8 @@ pagination:
   addAllPagesToCollections: true
 permalink: "labs/{{ stkey }}/index.html"
 eleventyComputed:
-  title: "{{ states[stkey].title }}"
-  description: "{{ states[stkey].description }}"
+  title: "{{ states[stkey].title | safe }}"
+  description: "{{ states[stkey].description | safe }}"
 ---
 {% from "lab.njk" import labCard %}
 {% set d = labs[stkey] %}
