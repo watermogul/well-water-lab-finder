@@ -371,34 +371,6 @@
     ],
     "last_verified": "2026-11-02"
   },
-  "montana": {
-    "name": "Montana",
-    "abbr": "MT",
-    "list_type": "downloadable list (not yet transcribed here)",
-    "resources": [
-      {
-        "label": "MSU Extension: Certified Montana drinking water labs",
-        "url": "https://waterquality.montana.edu/well-ed/testing/certifiedlabs.html",
-        "kind": "lab list",
-        "checked": "loaded"
-      },
-      {
-        "label": "Montana DPHHS State Environmental Laboratory",
-        "url": "https://dphhs.mt.gov/publichealth/laboratoryservices/environmentallaboratory/index",
-        "kind": "program",
-        "checked": "blocked"
-      }
-    ],
-    "facts": [
-      "Montana State University Extension keeps a list of certified drinking-water labs for well owners; the DPHHS state environmental lab also takes private well samples."
-    ],
-    "fees": [],
-    "unverified": [
-      "The DPHHS lab page returned a server error to our checker on 2026-11-02.",
-      "MSU's list not yet transcribed; queued."
-    ],
-    "last_verified": "2026-11-02"
-  },
   "nebraska": {
     "name": "Nebraska",
     "abbr": "NE",

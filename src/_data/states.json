@@ -857,5 +857,65 @@
   ],
   "name": "Idaho",
   "abbr": "ID"
+ },
+ "montana": {
+  "title": "Montana certified drinking-water labs for private well testing (DPHHS list, Nov 2026)",
+  "description": "All 36 labs on Montana DPHHS's certified drinking-water lab list (15 in Montana), what each is certified for, which are on MSU Extension's well-owner list, and the state lab's published private-well prices.",
+  "intro": [
+   "The Montana Department of Public Health and Human Services (DPHHS) runs the Water Laboratory Certification Program. Its web page lists every lab certified to analyze Montana public drinking water, in five categories: asbestos, chemistry (inorganic and organic), chemistry (inorganic only), radiologic only, and microbiology (bacteria). We transcribed that page on November 12, 2026. It lists 36 labs: 15 in Montana and 21 out of state. The page has no printed date; the server reported it was last changed on June 5, 2026.",
+   "DPHHS says certification \"authorizes laboratories to analyze public water supplies in Montana.\" The list does not say which labs take samples from private-well owners. MSU Extension Water Quality keeps a separate list for well owners (last updated February 2023) and advises calling a lab first \"to get the most up to date information on analyses, costs, and hold times.\" Each listing below says whether the lab is also on MSU's list.",
+   "The state lab tests private wells. The DPHHS State Environmental Laboratory in Helena says it serves \"the general public\" and publishes private-well forms with prices. Its chemistry form (July 2025) lists a $55 Basic Screen (coliform/E. coli, nitrate + nitrite, conductivity) and a $135 Metals Screen that includes arsenic, lead and uranium. Its bacteria form (January 2024) lists total coliform presence/absence for $25. Both forms say \"prices subject to change\" and require payment in advance. Call (406) 444-3444 or (800) 821-7284 to check before you send a sample.",
+   "MSU Extension's Well Educated program offers test kits through participating county offices, with guidance on what to test for in each county. MSU says the program \"is not intended for real estate or legal purposes\"; for those, or if you are in a hurry, it points well owners to a certified lab directly. DPHHS also runs free well-water testing for licensed or prospective childcare facilities on wells (request form linked from the State Environmental Laboratory page)."
+  ],
+  "caveats": [
+   "Certification is not the same as taking homeowner samples. The DPHHS list is for labs that test public water supplies. Call first and ask about bottles, fees, hold times and drop-off or shipping.",
+   "The chips show only the DPHHS category a lab is listed under. \"Inorganic\" covers things like nitrate and metals, but the page does not list individual tests, so ask the lab whether it is certified for the specific test you want (for example arsenic or uranium).",
+   "Bacteria samples have short hold times. The state lab's forms say bacteria samples must reach the lab within 48 hours of collection. Out-of-state labs may be hard to reach in time.",
+   "The grouping is ours: the first group is Montana commercial labs and the state lab; the second is a city utility lab, a water plant lab, a county health department lab and the Montana Bureau of Mines and Geology; the third is labs outside Montana. Labs listed in more than one category are shown once with every category.",
+   "Where the DPHHS page and MSU Extension's 2023 list print different phone numbers or addresses, the listing notes both.",
+   "Prices are shown only for the state lab, from its own published forms. We did not verify prices, turnaround times or websites for any other lab."
+  ],
+  "main_heading": "Montana commercial labs and the state lab",
+  "public_heading": "City, county and state-agency labs on the same list",
+  "public_note": "These are run by a city utility, a water plant, the Missoula City-County Health Department or the Montana Bureau of Mines and Geology. MSU Extension lists the Great Falls and Missoula labs for well owners, but says the Bureau of Mines lab does not test homeowner samples. Call first.",
+  "limited_heading": "Out-of-state labs on the Montana list",
+  "limited_note": "These labs are outside Montana and certified for Montana public water supplies. Most are large commercial or compliance labs. Ask about shipping and hold times before you collect a sample.",
+  "chips_label": "Listed by DPHHS under:",
+  "resources": [
+   {
+    "label": "Montana DPHHS: Water Laboratory Certification Program (certified lab list)",
+    "url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram"
+   },
+   {
+    "label": "Montana DPHHS: State Environmental Laboratory (private well testing forms)",
+    "url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/EnvironmentalLaboratory/"
+   },
+   {
+    "label": "DPHHS: Chemistry testing for private wells, sample form with prices (PDF, July 2025)",
+    "url": "https://dphhs.mt.gov/assets/publichealth/Lab/EnvironmentalLabtesting/PrivateWellScreenBlueSheet1.pdf"
+   },
+   {
+    "label": "DPHHS: Bacteria testing for private wells, sample form with prices (PDF, January 2024)",
+    "url": "https://dphhs.mt.gov/assets/publichealth/Lab/EnvironmentalLabtesting/PrivateBacteria.pdf"
+   },
+   {
+    "label": "DPHHS: Environmental Laboratory testing fee schedule (PDF, effective January 1, 2024)",
+    "url": "https://dphhs.mt.gov/assets/publichealth/Lab/EnvironmentalLabtesting/EnvironmentalLaboratoryTestingFeeSchedule.pdf"
+   },
+   {
+    "label": "MSU Extension Water Quality: Certified Montana drinking water labs (updated Feb 2023)",
+    "url": "https://waterquality.montana.edu/well-ed/testing/certifiedlabs.html"
+   },
+   {
+    "label": "MSU Extension: Well Educated program, testing your well water (county test kits)",
+    "url": "https://waterquality.montana.edu/well-ed/testing/index.html"
+   },
+   {
+    "label": "DPHHS: Local (county and tribal) health departments",
+    "url": "https://dphhs.mt.gov/publichealth/EHFS/countytribalhealthdepts"
+   }
+  ],
+  "name": "Montana",
+  "abbr": "MT"
  }
 }

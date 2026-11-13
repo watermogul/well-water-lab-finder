@@ -1,0 +1,597 @@
+{
+ "state": "Montana",
+ "slug": "montana",
+ "abbr": "MT",
+ "list_source": {
+  "name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
+  "page_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
+  "program_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
+  "report_date": "Web page with no printed date (server last-modified June 5, 2026); fetched November 12, 2026"
+ },
+ "last_verified": "2026-11-12",
+ "labs": [
+  {
+   "name": "DPHHS State of Montana Environmental Laboratory",
+   "address": "1400 Broadway, Room B-206, Helena, MT 59601",
+   "city": "Helena",
+   "phone": "(406) 444-3444",
+   "accredited_for": [
+    "Chemistry: inorganic and organic",
+    "Microbiology (bacteria)"
+   ],
+   "detail": "Listed on the DPHHS page under: Chemistry: inorganic and organic; Microbiology (bacteria). Also on MSU Extension's list of certified labs for Montana well owners. MSU Extension says this lab can test for iron bacteria and sulfur-reducing bacteria.",
+   "group": "main",
+   "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
+   "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
+   "source_date": "2026-06-05",
+   "last_verified": "2026-11-12",
+   "source_url_2": "https://dphhs.mt.gov/assets/publichealth/Lab/EnvironmentalLabtesting/PrivateWellScreenBlueSheet1.pdf",
+   "source_name_2": "DPHHS private-well chemistry form (July 2025)",
+   "note": "This is the state lab, and it tests private wells. Its private-well chemistry form (dated July 2025, \"prices subject to change\") lists a Basic Screen (coliform/E. coli presence-absence, nitrate + nitrite, specific conductivity) for $55, a Metals Screen (calcium, magnesium, hardness, sodium, lead, arsenic, copper, uranium) for $135, an Anion Screen for $75, VOCs for $148, pesticides for $285 and herbicides for $206. Its private-well bacteria form (dated January 2024) lists total coliform presence/absence for $25 and a coliform count, iron bacteria or sulfur bacteria for $42 each. Both forms say samples must be paid for in advance, and bacteria samples must reach the lab within 48 hours. Mailing address on the forms: P.O. Box 4369, Helena, MT 59604; toll-free (800) 821-7284."
+  },
+  {
+   "name": "Alpine Analytical",
+   "address": "1315 Cherry Avenue, Helena, MT 59601",
+   "city": "Helena",
+   "phone": "(406) 449-6282",
+   "accredited_for": [
+    "Chemistry: inorganic only",
+    "Microbiology (bacteria)"
+   ],
+   "detail": "Listed on the DPHHS page under: Chemistry: inorganic only; Microbiology (bacteria). Also on MSU Extension's list of certified labs for Montana well owners.",
+   "group": "main",
+   "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
+   "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
+   "source_date": "2026-06-05",
+   "last_verified": "2026-11-12",
+   "source_url_2": "https://waterquality.montana.edu/well-ed/testing/certifiedlabs.html",
+   "source_name_2": "MSU Extension Water Quality: Certified Montana Drinking Water Labs (updated 23.02.15)"
+  },
+  {
+   "name": "Aqua Tech Laboratory",
+   "address": "505 West Main, Suite 320, Lewistown, MT 59457",
+   "city": "Lewistown",
+   "phone": "(406) 538-6988",
+   "accredited_for": [
+    "Microbiology (bacteria)"
+   ],
+   "detail": "Listed on the DPHHS page under: Microbiology (bacteria). Also on MSU Extension's list of certified labs for Montana well owners.",
+   "group": "main",
+   "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
+   "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
+   "source_date": "2026-06-05",
+   "last_verified": "2026-11-12",
+   "source_url_2": "https://waterquality.montana.edu/well-ed/testing/certifiedlabs.html",
+   "source_name_2": "MSU Extension Water Quality: Certified Montana Drinking Water Labs (updated 23.02.15)"
+  },
+  {
+   "name": "Bridger Analytical Laboratory",
+   "address": "7539 Pioneer Way, Suite C, Bozeman, MT 59718",
+   "city": "Bozeman",
+   "phone": "(406) 582-0822",
+   "accredited_for": [
+    "Chemistry: inorganic only",
+    "Microbiology (bacteria)"
+   ],
+   "detail": "Listed on the DPHHS page under: Chemistry: inorganic only; Microbiology (bacteria). Also on MSU Extension's list of certified labs for Montana well owners. MSU Extension says this lab can test for iron bacteria and sulfur-reducing bacteria.",
+   "group": "main",
+   "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
+   "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
+   "source_date": "2026-06-05",
+   "last_verified": "2026-11-12",
+   "source_url_2": "https://waterquality.montana.edu/well-ed/testing/certifiedlabs.html",
+   "source_name_2": "MSU Extension Water Quality: Certified Montana Drinking Water Labs (updated 23.02.15)"
+  },
+  {
+   "name": "Energy Laboratories, Inc. (Billings)",
+   "address": "1120 South 27th Street, Billings, MT 59107",
+   "city": "Billings",
+   "phone": "(800) 735-4489",
+   "accredited_for": [
+    "Chemistry: inorganic and organic",
+    "Microbiology (bacteria)"
+   ],
+   "detail": "Listed on the DPHHS page under: Chemistry: inorganic and organic; Microbiology (bacteria). Also on MSU Extension's list of certified labs for Montana well owners. MSU Extension says this lab can test for iron bacteria and sulfur-reducing bacteria.",
+   "group": "main",
+   "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
+   "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
+   "source_date": "2026-06-05",
+   "last_verified": "2026-11-12",
+   "source_url_2": "https://waterquality.montana.edu/well-ed/testing/certifiedlabs.html",
+   "source_name_2": "MSU Extension Water Quality: Certified Montana Drinking Water Labs (updated 23.02.15)"
+  },
+  {
+   "name": "Energy Laboratories, Inc. (Helena)",
+   "address": "3161 East Lyndale, Helena, MT 59604",
+   "city": "Helena",
+   "phone": "(406) 442-0711",
+   "accredited_for": [
+    "Chemistry: inorganic and organic",
+    "Microbiology (bacteria)"
+   ],
+   "detail": "Listed on the DPHHS page under: Chemistry: inorganic and organic; Microbiology (bacteria). The DPHHS page prints a different address in different categories: 3161 East Lyndale, Helena, MT 59604 / PO Box 5688, Helena, MT 59604. Also on MSU Extension's list of certified labs for Montana well owners. MSU Extension says this lab can test for iron bacteria and sulfur-reducing bacteria.",
+   "group": "main",
+   "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
+   "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
+   "source_date": "2026-06-05",
+   "last_verified": "2026-11-12",
+   "source_url_2": "https://waterquality.montana.edu/well-ed/testing/certifiedlabs.html",
+   "source_name_2": "MSU Extension Water Quality: Certified Montana Drinking Water Labs (updated 23.02.15)"
+  },
+  {
+   "name": "Mission Mountain Laboratories",
+   "address": "82892 US 93, Ravali, MT 59863",
+   "city": "Ravali",
+   "phone": "(406) 370-1089",
+   "accredited_for": [
+    "Microbiology (bacteria)"
+   ],
+   "detail": "Listed on the DPHHS page under: Microbiology (bacteria). Also on MSU Extension's list of certified labs for Montana well owners.",
+   "group": "main",
+   "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
+   "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
+   "source_date": "2026-06-05",
+   "last_verified": "2026-11-12",
+   "source_url_2": "https://waterquality.montana.edu/well-ed/testing/certifiedlabs.html",
+   "source_name_2": "MSU Extension Water Quality: Certified Montana Drinking Water Labs (updated 23.02.15)",
+   "note": "MSU Extension's list (Feb 2023) prints PO Box 606, Arlee, MT 59821, (406) 745-5227; the DPHHS page prints 82892 US 93 with the town spelled \"Ravali\" (as printed) and (406) 370-1089. Call to confirm."
+  },
+  {
+   "name": "Montana Environmental Laboratory",
+   "address": "1170 N. Meridian, Kalispell, MT 59904-4363",
+   "city": "Kalispell",
+   "phone": "(406) 755-2131",
+   "accredited_for": [
+    "Chemistry: inorganic only",
+    "Microbiology (bacteria)"
+   ],
+   "detail": "Listed on the DPHHS page under: Chemistry: inorganic only; Microbiology (bacteria). The DPHHS page prints a different address in different categories: 1170 N. Meridian, Kalispell, MT 59904-4363 / PO Box 8900, Kalispell, MT 59904. Also on MSU Extension's list of certified labs for Montana well owners. MSU Extension says this lab can test for iron bacteria and sulfur-reducing bacteria.",
+   "group": "main",
+   "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
+   "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
+   "source_date": "2026-06-05",
+   "last_verified": "2026-11-12",
+   "source_url_2": "https://waterquality.montana.edu/well-ed/testing/certifiedlabs.html",
+   "source_name_2": "MSU Extension Water Quality: Certified Montana Drinking Water Labs (updated 23.02.15)"
+  },
+  {
+   "name": "MSM Laboratory",
+   "address": "7305 Continental Dr., Butte, MT 59701",
+   "city": "Butte",
+   "phone": "(406) 491-5562",
+   "accredited_for": [
+    "Microbiology (bacteria)"
+   ],
+   "detail": "Listed on the DPHHS page under: Microbiology (bacteria).",
+   "group": "main",
+   "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
+   "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
+   "source_date": "2026-06-05",
+   "last_verified": "2026-11-12",
+   "note": "Not on MSU Extension's Feb 2023 list for well owners. The DPHHS page does not say whether it takes homeowner samples."
+  },
+  {
+   "name": "RD Water Lab, LLC",
+   "address": "PO Box 5064, Missoula, MT 59806",
+   "city": "Missoula",
+   "phone": "(406) 721-8179",
+   "accredited_for": [
+    "Microbiology (bacteria)"
+   ],
+   "detail": "Listed on the DPHHS page under: Microbiology (bacteria). Also on MSU Extension's list of certified labs for Montana well owners.",
+   "group": "main",
+   "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
+   "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
+   "source_date": "2026-06-05",
+   "last_verified": "2026-11-12",
+   "source_url_2": "https://waterquality.montana.edu/well-ed/testing/certifiedlabs.html",
+   "source_name_2": "MSU Extension Water Quality: Certified Montana Drinking Water Labs (updated 23.02.15)"
+  },
+  {
+   "name": "Water Technologies Laboratory",
+   "address": "1709 South Ave West, Missoula, MT 59801",
+   "city": "Missoula",
+   "phone": "(406) 549-8868",
+   "accredited_for": [
+    "Microbiology (bacteria)"
+   ],
+   "detail": "Listed on the DPHHS page under: Microbiology (bacteria). Also on MSU Extension's list of certified labs for Montana well owners.",
+   "group": "main",
+   "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
+   "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
+   "source_date": "2026-06-05",
+   "last_verified": "2026-11-12",
+   "source_url_2": "https://waterquality.montana.edu/well-ed/testing/certifiedlabs.html",
+   "source_name_2": "MSU Extension Water Quality: Certified Montana Drinking Water Labs (updated 23.02.15)",
+   "note": "MSU Extension's list (Feb 2023) shows \"Crisp Water Technologies\" at the same street address (1709 S Avenue W, Missoula) and the same phone number."
+  },
+  {
+   "name": "Billings Public Utilities Department",
+   "address": "City of Billings Public Works- Water Quality, 2251 Belknap, Billings, MT 59101",
+   "city": "Billings",
+   "phone": "(406) 657-8346",
+   "accredited_for": [
+    "Chemistry: inorganic only",
+    "Microbiology (bacteria)"
+   ],
+   "detail": "Listed on the DPHHS page under: Chemistry: inorganic only; Microbiology (bacteria). The DPHHS page prints a different address in different categories: City of Billings Public Works- Water Quality, 2251 Belknap, Billings, MT 59101 / 2251 Belknap, Billings, MT 59101.",
+   "group": "public",
+   "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
+   "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
+   "source_date": "2026-06-05",
+   "last_verified": "2026-11-12",
+   "note": "The DPHHS page prints a second name line for the chemistry listing: \"City of Billings Public Works- Water Quality\". This lab is not on MSU Extension's list for well owners."
+  },
+  {
+   "name": "Great Falls Water Plant Lab",
+   "address": "1301 Lower River Rd., Great Falls, MT 59403-5021",
+   "city": "Great Falls",
+   "phone": "(406) 727-1325",
+   "accredited_for": [
+    "Microbiology (bacteria)"
+   ],
+   "detail": "Listed on the DPHHS page under: Microbiology (bacteria). Also on MSU Extension's list of certified labs for Montana well owners.",
+   "group": "public",
+   "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
+   "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
+   "source_date": "2026-06-05",
+   "last_verified": "2026-11-12",
+   "source_url_2": "https://waterquality.montana.edu/well-ed/testing/certifiedlabs.html",
+   "source_name_2": "MSU Extension Water Quality: Certified Montana Drinking Water Labs (updated 23.02.15)",
+   "note": "MSU Extension's list (Feb 2023) names it \"Great Falls Water Treatment Plant Water Testing Lab\" and gives the mailing address PO Box 5021, Great Falls, MT 59403."
+  },
+  {
+   "name": "Missoula CCHD Water Lab",
+   "address": "301 West Alder, Missoula, MT 59802",
+   "city": "Missoula",
+   "phone": "(406) 523-4755",
+   "accredited_for": [
+    "Microbiology (bacteria)"
+   ],
+   "detail": "Listed on the DPHHS page under: Microbiology (bacteria). Also on MSU Extension's list of certified labs for Montana well owners.",
+   "group": "public",
+   "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
+   "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
+   "source_date": "2026-06-05",
+   "last_verified": "2026-11-12",
+   "source_url_2": "https://waterquality.montana.edu/well-ed/testing/certifiedlabs.html",
+   "source_name_2": "MSU Extension Water Quality: Certified Montana Drinking Water Labs (updated 23.02.15)",
+   "note": "MSU Extension's list (Feb 2023) names it \"Missoula City/County Health Department Water Lab\" and prints the phone as (406) 258-3386; the DPHHS page prints (406) 523-4755. Try both."
+  },
+  {
+   "name": "Montana Bureau of Mines and Geology",
+   "address": "1300 West Park, Butte, MT 59701",
+   "city": "Butte",
+   "phone": "(406) 496-4747",
+   "accredited_for": [
+    "Chemistry: inorganic only"
+   ],
+   "detail": "Listed on the DPHHS page under: Chemistry: inorganic only.",
+   "group": "public",
+   "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
+   "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
+   "source_date": "2026-06-05",
+   "last_verified": "2026-11-12",
+   "source_url_2": "https://waterquality.montana.edu/well-ed/testing/certifiedlabs.html",
+   "source_name_2": "MSU Extension Water Quality: Certified Montana Drinking Water Labs (updated 23.02.15)",
+   "note": "MSU Extension's list says this lab \"is not able to test samples from homeowners.\""
+  },
+  {
+   "name": "ALS Laboratory Group Environmental Division",
+   "address": "4388 Glendale-Milford Road, Cincinnati, OH 45242",
+   "city": "Cincinnati",
+   "phone": "(513) 733-5336",
+   "accredited_for": [
+    "Asbestos (chemistry)"
+   ],
+   "detail": "Listed on the DPHHS page under: Asbestos (chemistry). Out-of-state lab (OH) on the DPHHS list.",
+   "group": "limited",
+   "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
+   "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
+   "source_date": "2026-06-05",
+   "last_verified": "2026-11-12"
+  },
+  {
+   "name": "Anatek Labs",
+   "address": "1282 Alturas Drive, Moscow, ID 83843",
+   "city": "Moscow",
+   "phone": "(208) 823-2839",
+   "accredited_for": [
+    "Microbiology (bacteria)"
+   ],
+   "detail": "Listed on the DPHHS page under: Microbiology (bacteria). Out-of-state lab (ID) on the DPHHS list.",
+   "group": "limited",
+   "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
+   "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
+   "source_date": "2026-06-05",
+   "last_verified": "2026-11-12"
+  },
+  {
+   "name": "Anatek Labs, Inc.",
+   "address": "504 Sprague, Suite D, Spokane, WA 99202",
+   "city": "Spokane",
+   "phone": "(509) 838-3999",
+   "accredited_for": [
+    "Chemistry: inorganic and organic"
+   ],
+   "detail": "Listed on the DPHHS page under: Chemistry: inorganic and organic. Out-of-state lab (WA) on the DPHHS list.",
+   "group": "limited",
+   "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
+   "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
+   "source_date": "2026-06-05",
+   "last_verified": "2026-11-12"
+  },
+  {
+   "name": "Astro-Chem Lab Inc.",
+   "address": "PO Box 972, Williston, ND 58801",
+   "city": "Williston",
+   "phone": "(701) 572-7355",
+   "accredited_for": [
+    "Microbiology (bacteria)"
+   ],
+   "detail": "Listed on the DPHHS page under: Microbiology (bacteria). Out-of-state lab (ND) on the DPHHS list.",
+   "group": "limited",
+   "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
+   "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
+   "source_date": "2026-06-05",
+   "last_verified": "2026-11-12"
+  },
+  {
+   "name": "Culligan Analytical Laboratory",
+   "address": "9399 W Higgins Road, Suite 1100, Rosemont, IL 60018",
+   "city": "Rosemont",
+   "phone": "(847) 430-1284",
+   "accredited_for": [
+    "Chemistry: inorganic and organic",
+    "Microbiology (bacteria)"
+   ],
+   "detail": "Listed on the DPHHS page under: Chemistry: inorganic and organic; Microbiology (bacteria). The DPHHS page prints a different address in different categories: 9399 W Higgins Road, Suite 1100, Rosemont, IL 60018 / 9399 W Higgins Rd, Suite 1100, Rosemont, IL 60018. Out-of-state lab (IL) on the DPHHS list.",
+   "group": "limited",
+   "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
+   "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
+   "source_date": "2026-06-05",
+   "last_verified": "2026-11-12"
+  },
+  {
+   "name": "EMSL Analytical, Inc.",
+   "address": "200 Route 130 North, Cinnaminson, NJ 08077",
+   "city": "Cinnaminson",
+   "phone": "(800) 220-3675",
+   "accredited_for": [
+    "Chemistry: inorganic and organic"
+   ],
+   "detail": "Listed on the DPHHS page under: Chemistry: inorganic and organic. Out-of-state lab (NJ) on the DPHHS list.",
+   "group": "limited",
+   "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
+   "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
+   "source_date": "2026-06-05",
+   "last_verified": "2026-11-12"
+  },
+  {
+   "name": "Energy Laboratories, Inc. - Casper",
+   "address": "2393 Salt Creek Highway, Casper, WY 82601",
+   "city": "Casper",
+   "phone": "(307) 235-0515",
+   "accredited_for": [
+    "Chemistry: inorganic and organic"
+   ],
+   "detail": "Listed on the DPHHS page under: Chemistry: inorganic and organic. Out-of-state lab (WY) on the DPHHS list.",
+   "group": "limited",
+   "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
+   "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
+   "source_date": "2026-06-05",
+   "last_verified": "2026-11-12"
+  },
+  {
+   "name": "Eurofins Built Environmental Testing East - Cary",
+   "address": "730 SW Maynard Road, Cary, NC 27511",
+   "city": "Cary",
+   "phone": "(919) 481-1413",
+   "accredited_for": [
+    "Asbestos (chemistry)"
+   ],
+   "detail": "Listed on the DPHHS page under: Asbestos (chemistry). Out-of-state lab (NC) on the DPHHS list.",
+   "group": "limited",
+   "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
+   "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
+   "source_date": "2026-06-05",
+   "last_verified": "2026-11-12"
+  },
+  {
+   "name": "Eurofins Denver",
+   "address": "4955 Yarrow St., Arvada, CO 80002",
+   "city": "Arvada",
+   "phone": "(303) 736-0100",
+   "accredited_for": [
+    "Chemistry: inorganic and organic"
+   ],
+   "detail": "Listed on the DPHHS page under: Chemistry: inorganic and organic. Out-of-state lab (CO) on the DPHHS list.",
+   "group": "limited",
+   "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
+   "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
+   "source_date": "2026-06-05",
+   "last_verified": "2026-11-12"
+  },
+  {
+   "name": "Eurofins Eaton Analytical, Inc.",
+   "address": "941 Corporate Center Dr., Pomona, CA 91768",
+   "city": "Pomona",
+   "phone": "(626) 386-1100",
+   "accredited_for": [
+    "Chemistry: inorganic and organic"
+   ],
+   "detail": "Listed on the DPHHS page under: Chemistry: inorganic and organic. Out-of-state lab (CA) on the DPHHS list.",
+   "group": "limited",
+   "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
+   "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
+   "source_date": "2026-06-05",
+   "last_verified": "2026-11-12"
+  },
+  {
+   "name": "Eurofins Eaton Analytical, LLC- South Bend",
+   "address": "110 South Hill Street, South Bend, IN 46617",
+   "city": "South Bend",
+   "phone": "(574) 233-4777",
+   "accredited_for": [
+    "Chemistry: inorganic and organic"
+   ],
+   "detail": "Listed on the DPHHS page under: Chemistry: inorganic and organic. Out-of-state lab (IN) on the DPHHS list.",
+   "group": "limited",
+   "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
+   "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
+   "source_date": "2026-06-05",
+   "last_verified": "2026-11-12"
+  },
+  {
+   "name": "Eurofins Lancaster Laboratories Environmental, LLC",
+   "address": "2425 New Holland Pike, Lancaster, PA 17605",
+   "city": "Lancaster",
+   "phone": "(717) 656-2300",
+   "accredited_for": [
+    "Chemistry: inorganic and organic"
+   ],
+   "detail": "Listed on the DPHHS page under: Chemistry: inorganic and organic. Out-of-state lab (PA) on the DPHHS list.",
+   "group": "limited",
+   "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
+   "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
+   "source_date": "2026-06-05",
+   "last_verified": "2026-11-12"
+  },
+  {
+   "name": "NOVA Biologics, Inc.",
+   "address": "1775 East Loop 336, Suite 4, Conroe, TX 77301",
+   "city": "Conroe",
+   "phone": "(936) 756-5333",
+   "accredited_for": [
+    "Microbiology (bacteria)"
+   ],
+   "detail": "Listed on the DPHHS page under: Microbiology (bacteria). Out-of-state lab (TX) on the DPHHS list.",
+   "group": "limited",
+   "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
+   "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
+   "source_date": "2026-06-05",
+   "last_verified": "2026-11-12"
+  },
+  {
+   "name": "Pace Analytical NCT&I",
+   "address": "12065 Lebanon Road, Mt. Juliet, TN 37122",
+   "city": "Mt. Juliet",
+   "phone": "(615) 758-5858",
+   "accredited_for": [
+    "Chemistry: inorganic and organic"
+   ],
+   "detail": "Listed on the DPHHS page under: Chemistry: inorganic and organic. Out-of-state lab (TN) on the DPHHS list.",
+   "group": "limited",
+   "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
+   "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
+   "source_date": "2026-06-05",
+   "last_verified": "2026-11-12"
+  },
+  {
+   "name": "Pace Analytical Services LLC- Florida",
+   "address": "8 East Tower Circle, Ormond Beach, FL 32174",
+   "city": "Ormond Beach",
+   "phone": "(386) 672-5668",
+   "accredited_for": [
+    "Chemistry: inorganic and organic"
+   ],
+   "detail": "Listed on the DPHHS page under: Chemistry: inorganic and organic. Out-of-state lab (FL) on the DPHHS list.",
+   "group": "limited",
+   "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
+   "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
+   "source_date": "2026-06-05",
+   "last_verified": "2026-11-12"
+  },
+  {
+   "name": "Pace Analytical Services LLC- MPLS",
+   "address": "1700 Elm Street SE, Suite 200, Minneapolis, MN 55414",
+   "city": "Minneapolis",
+   "phone": "(612) 607-1700",
+   "accredited_for": [
+    "Chemistry: inorganic and organic"
+   ],
+   "detail": "Listed on the DPHHS page under: Chemistry: inorganic and organic. Out-of-state lab (MN) on the DPHHS list.",
+   "group": "limited",
+   "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
+   "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
+   "source_date": "2026-06-05",
+   "last_verified": "2026-11-12"
+  },
+  {
+   "name": "Pace Analytical Services LLC- Peoria",
+   "address": "2231 Altorfer Dr., Peoria, IL 61615",
+   "city": "Peoria",
+   "phone": "(309) 683-1775",
+   "accredited_for": [
+    "Chemistry: inorganic and organic"
+   ],
+   "detail": "Listed on the DPHHS page under: Chemistry: inorganic and organic. Out-of-state lab (IL) on the DPHHS list.",
+   "group": "limited",
+   "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
+   "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
+   "source_date": "2026-06-05",
+   "last_verified": "2026-11-12"
+  },
+  {
+   "name": "Pace Analytical Services, Inc.- Pitts",
+   "address": "1638 Roseytown Road, Suite1, Greensburgh, PA 15601",
+   "city": "Greensburgh",
+   "phone": "(724) 850-5600",
+   "accredited_for": [
+    "Radiologic (radioactivity) only"
+   ],
+   "detail": "Listed on the DPHHS page under: Radiologic (radioactivity) only. Out-of-state lab (PA) on the DPHHS list.",
+   "group": "limited",
+   "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
+   "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
+   "source_date": "2026-06-05",
+   "last_verified": "2026-11-12"
+  },
+  {
+   "name": "PACE Analytical-Sheridan",
+   "address": "1673 Terra Avenue, Sheridan, WY 82801",
+   "city": "Sheridan",
+   "phone": "(307) 672-8945",
+   "accredited_for": [
+    "Chemistry: inorganic and organic",
+    "Microbiology (bacteria)"
+   ],
+   "detail": "Listed on the DPHHS page under: Chemistry: inorganic and organic; Microbiology (bacteria). Out-of-state lab (WY) on the DPHHS list.",
+   "group": "limited",
+   "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
+   "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
+   "source_date": "2026-06-05",
+   "last_verified": "2026-11-12"
+  },
+  {
+   "name": "SGS North America, Inc.",
+   "address": "5500 Business Drive, Wilmington, NC 28405",
+   "city": "Wilmington",
+   "phone": "(910) 350-1903",
+   "accredited_for": [
+    "Chemistry: inorganic and organic"
+   ],
+   "detail": "Listed on the DPHHS page under: Chemistry: inorganic and organic. Out-of-state lab (NC) on the DPHHS list.",
+   "group": "limited",
+   "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
+   "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
+   "source_date": "2026-06-05",
+   "last_verified": "2026-11-12"
+  },
+  {
+   "name": "Weck Laboratory Inc.",
+   "address": "14859 Clark Ave., Hacienda Heights, CA 91745",
+   "city": "Hacienda Heights",
+   "phone": "(626) 336-2139",
+   "accredited_for": [
+    "Radiologic (radioactivity) only"
+   ],
+   "detail": "Listed on the DPHHS page under: Radiologic (radioactivity) only. Out-of-state lab (CA) on the DPHHS list.",
+   "group": "limited",
+   "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
+   "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
+   "source_date": "2026-06-05",
+   "last_verified": "2026-11-12"
+  }
+ ]
+}
