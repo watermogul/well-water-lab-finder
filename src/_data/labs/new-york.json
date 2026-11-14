@@ -3,117 +3,155 @@
  "slug": "new-york",
  "abbr": "NY",
  "list_source": {
-  "name": "Westchester County Dept. of Health lab list; NYS ELAP search",
+  "name": "County health department lab lists (Westchester, Rockland, Dutchess, Saratoga, Onondaga, Tompkins) + NYS DOH PFAS lab table; NYS ELAP search",
   "page_url": "https://health.westchestercountyny.gov/images/stories/PDF/List_of_Labs_for_Private_Well_2025.pdf",
-  "report_date": "2025 (file name; no printed date)",
+  "report_date": "County lists dated 2024 to June 2026 (see each listing); NYS DOH PFAS table revised August 2026; all fetched November 13, 2026",
   "search_url": "https://healthapps.health.ny.gov/pubdoh/applinks/wc/elappublicweb/"
  },
- "last_verified": "2026-10-26",
+ "last_verified": "2026-11-13",
  "labs": [
   {
    "name": "Advanced Analytical Technologies, Inc.",
    "address": "37 Ramland Rd, Orangeburg, NY 10962",
    "city": "Orangeburg",
    "phone": "(800) 259-9532",
-   "elap_id": "11713",
    "group": "main",
    "accredited_for": [
-    "NYS ELAP-certified; registered with Westchester County Dept. of Health for private-well testing results"
+    "Westchester County PWT-law list",
+    "Rockland County PWT-law list"
    ],
-   "source_name": "Westchester County Dept. of Health, \"Private Well-Water Testing Law\" lab list (file named 2025; the PDF prints no date)",
+   "detail": "Registered for private-well testing-law work in both Westchester and Rockland counties. Rockland prints a second number, (845) 494-2938, and the website aatec.com. Name in the NYS ELAP search tool's lab-name menu (fetched 2026-11-13; the search itself needs a reCAPTCHA check, so we could not pull each lab's scope): \"Advanced Analytical Technologies\".",
+   "source_name": "Westchester County Dept. of Health, \"Private Well-Water Testing Law\" registered lab list",
    "source_url": "https://health.westchestercountyny.gov/images/stories/PDF/List_of_Labs_for_Private_Well_2025.pdf",
-   "source_date": "2025 (per file name)",
-   "last_verified": "2026-10-26"
+   "source_date": "No printed date (file named 2025; PDF last modified 2026-04-07)",
+   "last_verified": "2026-11-13",
+   "elap_id": "11713",
+   "website": "https://aatec.com",
+   "source_name_2": "Rockland County Dept. of Health, Private Well Testing Law registered laboratories [Rev 6/2026]",
+   "source_url_2": "https://ny.rocklandcountyny.gov/home/showpublisheddocument/924/639184073142130000"
   },
   {
    "name": "Analytical Laboratory Service (ALS)",
    "address": "34 Dogwood Lane, Middletown, PA 17057",
    "city": "Middletown, PA",
    "phone": "(800) 794-7709",
-   "elap_id": "11759",
    "group": "main",
    "accredited_for": [
-    "NYS ELAP-certified; registered with Westchester County Dept. of Health for private-well testing results"
+    "Westchester County PWT-law list",
+    "PFAS: EPA 533 + 537.1 v2 (NYS DOH table)"
    ],
-   "source_name": "Westchester County Dept. of Health, \"Private Well-Water Testing Law\" lab list (file named 2025; the PDF prints no date)",
+   "detail": "Westchester prints ELAP 11759 and \"Ext. 3135\". The NYS DOH PFAS lab table (August 2026) lists ELAP 11759 as \"ALS Environmental - Middletown\", 301 Fulling Mill Rd., Middletown, PA 17057, 717-944-5541, accredited for EPA Methods 533 and 537.1 v2. The two sources print different street addresses; confirm with the lab.",
+   "source_name": "Westchester County Dept. of Health, \"Private Well-Water Testing Law\" registered lab list",
    "source_url": "https://health.westchestercountyny.gov/images/stories/PDF/List_of_Labs_for_Private_Well_2025.pdf",
-   "source_date": "2025 (per file name)",
-   "last_verified": "2026-10-26"
+   "source_date": "No printed date (file named 2025; PDF last modified 2026-04-07)",
+   "last_verified": "2026-11-13",
+   "elap_id": "11759",
+   "source_name_2": "NYS DOH, Private Well PFAS Pilot \"Accredited Post-Treatment Testing Laboratory List\" [Revised August 2026]",
+   "source_url_2": "https://health.ny.gov/environmental/water/drinking/privatewellspilot/labs.htm"
   },
   {
    "name": "York Analytical Lab, dba Aqua Environmental Lab",
    "address": "56 Church Hill Rd, Newtown, CT 06470",
    "city": "Newtown, CT",
    "phone": "(203) 270-9973",
-   "elap_id": "11706",
    "group": "main",
    "accredited_for": [
-    "NYS ELAP-certified; registered with Westchester County Dept. of Health for private-well testing results"
+    "Westchester County PWT-law list"
    ],
-   "source_name": "Westchester County Dept. of Health, \"Private Well-Water Testing Law\" lab list (file named 2025; the PDF prints no date)",
+   "detail": "Name as printed by Westchester. Rockland's June 2026 list shows \"ALS USA\" at the same phone number, (203) 270-9973, and the ELAP search menu has \"ALS Environmental - Newtown\" but no Aqua or York entry. That suggests a name change, but no source we read says so; ask the lab which name it reports under.",
+   "source_name": "Westchester County Dept. of Health, \"Private Well-Water Testing Law\" registered lab list",
    "source_url": "https://health.westchestercountyny.gov/images/stories/PDF/List_of_Labs_for_Private_Well_2025.pdf",
-   "source_date": "2025 (per file name)",
-   "last_verified": "2026-10-26"
+   "source_date": "No printed date (file named 2025; PDF last modified 2026-04-07)",
+   "last_verified": "2026-11-13",
+   "elap_id": "11706"
+  },
+  {
+   "name": "ALS USA (Rockland County listing)",
+   "address": "Street address not printed on the Rockland list",
+   "city": "Rockland County list",
+   "phone": "(203) 270-9973",
+   "group": "main",
+   "accredited_for": [
+    "Rockland County PWT-law list"
+   ],
+   "detail": "Rockland lists this lab with website alsglobal.com/usaenviro and a local sampling contact: Master Home Inspection, Brian Kiernan, (914) 589-9949. Same phone as the Newtown, CT lab Westchester lists as Aqua Environmental Lab (above). Name in the NYS ELAP search tool's lab-name menu (fetched 2026-11-13; the search itself needs a reCAPTCHA check, so we could not pull each lab's scope): \"ALS Environmental - Newtown\" (match by phone and town, not confirmed by Rockland).",
+   "source_name": "Rockland County Dept. of Health, Private Well Testing Law registered laboratories",
+   "source_url": "https://ny.rocklandcountyny.gov/home/showpublisheddocument/924/639184073142130000",
+   "source_date": "Rev 6/2026",
+   "last_verified": "2026-11-13",
+   "website": "https://www.alsglobal.com/usaenviro"
   },
   {
    "name": "Carnell Environmental Inspections, Inc.",
    "address": "26 Legion Dr, Valhalla, NY 10595",
    "city": "Valhalla",
    "phone": "(914) 946-4300",
-   "elap_id": "11588",
    "group": "main",
    "accredited_for": [
-    "NYS ELAP-certified; registered with Westchester County Dept. of Health for private-well testing results"
+    "Westchester County PWT-law list"
    ],
-   "source_name": "Westchester County Dept. of Health, \"Private Well-Water Testing Law\" lab list (file named 2025; the PDF prints no date)",
+   "detail": "On Westchester's list with ELAP 11588. We did not find this name in the NYS ELAP search tool's lab-name menu (fetched 2026-11-13; the search itself needs a reCAPTCHA check, so we could not pull each lab's scope). Confirm its current ELAP status before you hire it.",
+   "source_name": "Westchester County Dept. of Health, \"Private Well-Water Testing Law\" registered lab list",
    "source_url": "https://health.westchestercountyny.gov/images/stories/PDF/List_of_Labs_for_Private_Well_2025.pdf",
-   "source_date": "2025 (per file name)",
-   "last_verified": "2026-10-26"
+   "source_date": "No printed date (file named 2025; PDF last modified 2026-04-07)",
+   "last_verified": "2026-11-13",
+   "elap_id": "11588"
   },
   {
    "name": "Environmental Labworks, Inc.",
-   "address": "PO Box 733, Marlboro, NY 12542",
+   "address": "PO Box 733, Marlboro, NY 12542 (Dutchess prints 1348 Route 9W, Marlboro, NY 12542)",
    "city": "Marlboro",
    "phone": "(845) 236-7823",
-   "elap_id": "10824",
    "group": "main",
    "accredited_for": [
-    "NYS ELAP-certified; registered with Westchester County Dept. of Health for private-well testing results"
+    "Westchester County PWT-law list",
+    "Dutchess County list"
    ],
-   "source_name": "Westchester County Dept. of Health, \"Private Well-Water Testing Law\" lab list (file named 2025; the PDF prints no date)",
+   "detail": "Westchester prints ELAP 10824 and a PO box; Dutchess County prints the street address 1348 Route 9W and says the labs it lists \"accept water samples from the public for a fee\". Name in the NYS ELAP search tool's lab-name menu (fetched 2026-11-13; the search itself needs a reCAPTCHA check, so we could not pull each lab's scope): \"Environmental Labworks Inc\".",
+   "source_name": "Westchester County Dept. of Health, \"Private Well-Water Testing Law\" registered lab list",
    "source_url": "https://health.westchestercountyny.gov/images/stories/PDF/List_of_Labs_for_Private_Well_2025.pdf",
-   "source_date": "2025 (per file name)",
-   "last_verified": "2026-10-26"
+   "source_date": "No printed date (file named 2025; PDF last modified 2026-04-07)",
+   "last_verified": "2026-11-13",
+   "elap_id": "10824",
+   "source_name_2": "Dutchess County Behavioral & Community Health, \"Local Laboratories for Water Testing\" [Web page with no printed date]",
+   "source_url_2": "https://www.dutchessny.gov/Departments/DBCH/Local-Laboratories-for-Water-Testing.htm"
   },
   {
-   "name": "EnviroTest Laboratories, Inc.",
-   "address": "315 Fullerton Ave, Newburgh, NY 12250",
+   "name": "Pace Analytical Services, LLC – Newburgh (Westchester lists it as EnviroTest Laboratories, Inc.)",
+   "address": "315 Fullerton Ave, Newburgh, NY 12550",
    "city": "Newburgh",
    "phone": "(845) 562-0890",
-   "elap_id": "10142",
    "group": "main",
    "accredited_for": [
-    "NYS ELAP-certified; registered with Westchester County Dept. of Health for private-well testing results"
+    "Dutchess County list",
+    "Westchester County PWT-law list",
+    "Rockland County PWT-law list"
    ],
-   "source_name": "Westchester County Dept. of Health, \"Private Well-Water Testing Law\" lab list (file named 2025; the PDF prints no date)",
-   "source_url": "https://health.westchestercountyny.gov/images/stories/PDF/List_of_Labs_for_Private_Well_2025.pdf",
-   "source_date": "2025 (per file name)",
-   "last_verified": "2026-10-26"
+   "detail": "Dutchess lists \"Pace Analytical Services, LLC – Newburgh – ELAP ID 10142\" at 315 Fullerton Avenue, Newburgh 12550. Westchester lists the same ELAP number, street and phone as \"EnviroTest Laboratories, Inc.\" (its PDF prints ZIP 12250). Rockland lists \"Pace Analytical\" at the same phone, with website pacelabs.com and a local sampling contact, SEBI Environmental Services, Inc., (845) 789-1307. Name in the NYS ELAP search tool's lab-name menu (fetched 2026-11-13; the search itself needs a reCAPTCHA check, so we could not pull each lab's scope): \"Pace Analytical Services, LLC-Newburgh\". Also listed by: Rockland County Dept. of Health, Private Well Testing Law registered laboratories (Rev 6/2026, https://ny.rocklandcountyny.gov/home/showpublisheddocument/924/639184073142130000).",
+   "source_name": "Dutchess County Behavioral & Community Health, \"Local Laboratories for Water Testing\"",
+   "source_url": "https://www.dutchessny.gov/Departments/DBCH/Local-Laboratories-for-Water-Testing.htm",
+   "source_date": "Web page with no printed date",
+   "last_verified": "2026-11-13",
+   "elap_id": "10142",
+   "website": "https://www.pacelabs.com",
+   "source_name_2": "Westchester County Dept. of Health, \"Private Well-Water Testing Law\" registered lab list [No printed date (file named 2025; PDF last modified 2026-04-07)]",
+   "source_url_2": "https://health.westchestercountyny.gov/images/stories/PDF/List_of_Labs_for_Private_Well_2025.pdf"
   },
   {
    "name": "Phoenix Environmental Laboratories, Inc.",
    "address": "587 East Middle Turnpike, Manchester, CT 06040",
    "city": "Manchester, CT",
    "phone": "(860) 645-1102 or (860) 645-3513",
-   "elap_id": "11715",
    "group": "main",
    "accredited_for": [
-    "NYS ELAP-certified; registered with Westchester County Dept. of Health for private-well testing results"
+    "Westchester County PWT-law list"
    ],
-   "source_name": "Westchester County Dept. of Health, \"Private Well-Water Testing Law\" lab list (file named 2025; the PDF prints no date)",
+   "detail": "Name in the NYS ELAP search tool's lab-name menu (fetched 2026-11-13; the search itself needs a reCAPTCHA check, so we could not pull each lab's scope): \"Phoenix Environmental Labs\".",
+   "source_name": "Westchester County Dept. of Health, \"Private Well-Water Testing Law\" registered lab list",
    "source_url": "https://health.westchestercountyny.gov/images/stories/PDF/List_of_Labs_for_Private_Well_2025.pdf",
-   "source_date": "2025 (per file name)",
-   "last_verified": "2026-10-26",
+   "source_date": "No printed date (file named 2025; PDF last modified 2026-04-07)",
+   "last_verified": "2026-11-13",
+   "elap_id": "11715",
    "website": "https://www.phoenixlabs.com"
   },
   {
@@ -121,46 +159,937 @@
    "address": "321 Kear Street, Yorktown Heights, NY 10598",
    "city": "Yorktown Heights",
    "phone": "(914) 245-3203",
-   "elap_id": "10323",
    "group": "main",
    "accredited_for": [
-    "NYS ELAP-certified; registered with Westchester County Dept. of Health for private-well testing results"
+    "Westchester County PWT-law list"
    ],
-   "source_name": "Westchester County Dept. of Health, \"Private Well-Water Testing Law\" lab list (file named 2025; the PDF prints no date)",
+   "detail": "Name in the NYS ELAP search tool's lab-name menu (fetched 2026-11-13; the search itself needs a reCAPTCHA check, so we could not pull each lab's scope): \"Yorktown Medical Laboratory Inc\".",
+   "source_name": "Westchester County Dept. of Health, \"Private Well-Water Testing Law\" registered lab list",
    "source_url": "https://health.westchestercountyny.gov/images/stories/PDF/List_of_Labs_for_Private_Well_2025.pdf",
-   "source_date": "2025 (per file name)",
-   "last_verified": "2026-10-26"
+   "source_date": "No printed date (file named 2025; PDF last modified 2026-04-07)",
+   "last_verified": "2026-11-13",
+   "elap_id": "10323"
   },
   {
    "name": "Westchester County Laboratories and Research",
    "address": "10 Dana Road, Valhalla, NY 10595",
    "city": "Valhalla",
    "phone": "(914) 231-1781",
-   "elap_id": "10108",
    "group": "main",
    "accredited_for": [
-    "NYS ELAP-certified; registered with Westchester County Dept. of Health for private-well testing results"
+    "Westchester County PWT-law list",
+    "PFAS: EPA 537.1 v2 (NYS DOH table)"
    ],
-   "source_name": "Westchester County Dept. of Health, \"Private Well-Water Testing Law\" lab list (file named 2025; the PDF prints no date)",
+   "detail": "County-run lab. The NYS DOH PFAS lab table (August 2026) lists it (ELAP 10108, 914-231-1768) as accredited for EPA Method 537.1 v2, not 533, and links its well-water testing page: https://labs.westchestercountyny.gov/environmental-services/well-water-testing (Westchester's PDF prints the older address labs.westchestergov.com).",
+   "source_name": "Westchester County Dept. of Health, \"Private Well-Water Testing Law\" registered lab list",
    "source_url": "https://health.westchestercountyny.gov/images/stories/PDF/List_of_Labs_for_Private_Well_2025.pdf",
-   "source_date": "2025 (per file name)",
-   "last_verified": "2026-10-26",
-   "website": "http://labs.westchestergov.com/"
+   "source_date": "No printed date (file named 2025; PDF last modified 2026-04-07)",
+   "last_verified": "2026-11-13",
+   "elap_id": "10108",
+   "website": "https://labs.westchestercountyny.gov/environmental-services/well-water-testing",
+   "source_name_2": "NYS DOH, Private Well PFAS Pilot \"Accredited Post-Treatment Testing Laboratory List\" [Revised August 2026]",
+   "source_url_2": "https://health.ny.gov/environmental/water/drinking/privatewellspilot/labs.htm"
   },
   {
    "name": "Aquatek Labs",
    "address": "3 Research Drive, Woodbridge, CT 06525",
    "city": "Woodbridge, CT",
    "phone": "(203) 623-9804",
-   "elap_id": "12170",
    "group": "main",
    "accredited_for": [
-    "NYS ELAP-certified; registered with Westchester County Dept. of Health for private-well testing results"
+    "Westchester County PWT-law list"
    ],
-   "source_name": "Westchester County Dept. of Health, \"Private Well-Water Testing Law\" lab list (file named 2025; the PDF prints no date)",
+   "detail": "Name in the NYS ELAP search tool's lab-name menu (fetched 2026-11-13; the search itself needs a reCAPTCHA check, so we could not pull each lab's scope): \"Aquatek Labs\".",
+   "source_name": "Westchester County Dept. of Health, \"Private Well-Water Testing Law\" registered lab list",
    "source_url": "https://health.westchestercountyny.gov/images/stories/PDF/List_of_Labs_for_Private_Well_2025.pdf",
-   "source_date": "2025 (per file name)",
-   "last_verified": "2026-10-26"
+   "source_date": "No printed date (file named 2025; PDF last modified 2026-04-07)",
+   "last_verified": "2026-11-13",
+   "elap_id": "12170"
+  },
+  {
+   "name": "AG Environmental",
+   "address": "Street address not printed on the Rockland list",
+   "city": "Rockland County list",
+   "phone": "(845) 704-8151",
+   "group": "main",
+   "accredited_for": [
+    "Rockland County PWT-law list"
+   ],
+   "detail": "Rockland lists website agerny.com and four local sampling contacts: AG Environmental, (845) 704-8151 x416; Joel Lang Associates, (914) 419-3103; Magnificent Pump Service, Inc., (845) 371-7288; SEBI Environmental Services, Inc., (845) 789-1307. Closest name in the NYS ELAP search tool's lab-name menu (fetched 2026-11-13; the search itself needs a reCAPTCHA check, so we could not pull each lab's scope): \"AG Environmental RSC LLC dba Sullivan County Labs\" (not confirmed by Rockland).",
+   "source_name": "Rockland County Dept. of Health, Private Well Testing Law registered laboratories",
+   "source_url": "https://ny.rocklandcountyny.gov/home/showpublisheddocument/924/639184073142130000",
+   "source_date": "Rev 6/2026",
+   "last_verified": "2026-11-13",
+   "website": "https://agerny.com"
+  },
+  {
+   "name": "Kingston Water Department Lab",
+   "address": "1442 Sawkill Road, Kingston, NY 12401",
+   "city": "Kingston",
+   "phone": "(845) 679-2216",
+   "group": "main",
+   "accredited_for": [
+    "Dutchess County list"
+   ],
+   "detail": "Dutchess prints ELAP ID 10160 and says the labs it lists accept water samples from the public for a fee. Name in the NYS ELAP search tool's lab-name menu (fetched 2026-11-13; the search itself needs a reCAPTCHA check, so we could not pull each lab's scope): \"Kingston Water Department Lab\".",
+   "source_name": "Dutchess County Behavioral & Community Health, \"Local Laboratories for Water Testing\"",
+   "source_url": "https://www.dutchessny.gov/Departments/DBCH/Local-Laboratories-for-Water-Testing.htm",
+   "source_date": "Web page with no printed date",
+   "last_verified": "2026-11-13",
+   "elap_id": "10160"
+  },
+  {
+   "name": "Pace Analytical (Ballston Spa)",
+   "address": "27 Kent Street, Ballston Spa, NY 12020",
+   "city": "Ballston Spa",
+   "phone": "(518) 884-0800",
+   "group": "main",
+   "accredited_for": [
+    "Saratoga County list"
+   ],
+   "detail": "Saratoga County says it has no preference among labs as long as they are ELAP certified. The NYS ELAP search tool's lab-name menu (fetched 2026-11-13; the search itself needs a reCAPTCHA check, so we could not pull each lab's scope) has many Pace locations but none named for Ballston Spa; ask the lab which ELAP ID it reports under.",
+   "source_name": "Saratoga County Dept. of Health, \"NYSDOH ELAP Certified Laboratories for Drinking Water Analysis\"",
+   "source_url": "https://www.saratogacountyny.gov/wp/wp-content/uploads/2026/06/DoH-WaterSuppliers-LabList-20260618.pdf",
+   "source_date": "Revised 2026 (PDF dated 2026-06-18)",
+   "last_verified": "2026-11-13",
+   "website": "https://www.pacelabs.com/"
+  },
+  {
+   "name": "Capital Region Environmental Lab (satellite laboratory)",
+   "address": "7 Hemphill Place, Suite 231, Malta, NY 12020",
+   "city": "Malta",
+   "phone": "(518) 400-8014",
+   "group": "main",
+   "accredited_for": [
+    "Saratoga County list"
+   ],
+   "detail": "Name in the NYS ELAP search tool's lab-name menu (fetched 2026-11-13; the search itself needs a reCAPTCHA check, so we could not pull each lab's scope): \"Capital Region Environmental Laboratory\".",
+   "source_name": "Saratoga County Dept. of Health, \"NYSDOH ELAP Certified Laboratories for Drinking Water Analysis\"",
+   "source_url": "https://www.saratogacountyny.gov/wp/wp-content/uploads/2026/06/DoH-WaterSuppliers-LabList-20260618.pdf",
+   "source_date": "Revised 2026 (PDF dated 2026-06-18)",
+   "last_verified": "2026-11-13",
+   "website": "https://crenvlab.com/"
+  },
+  {
+   "name": "Capital Region Environmental Lab (main laboratory)",
+   "address": "137 Columbia Turnpike, Rensselaer, NY 12144",
+   "city": "Rensselaer",
+   "phone": "(518) 949-2020",
+   "group": "main",
+   "accredited_for": [
+    "Saratoga County list"
+   ],
+   "detail": "Main lab of the same company as the Malta satellite above.",
+   "source_name": "Saratoga County Dept. of Health, \"NYSDOH ELAP Certified Laboratories for Drinking Water Analysis\"",
+   "source_url": "https://www.saratogacountyny.gov/wp/wp-content/uploads/2026/06/DoH-WaterSuppliers-LabList-20260618.pdf",
+   "source_date": "Revised 2026 (PDF dated 2026-06-18)",
+   "last_verified": "2026-11-13",
+   "website": "https://crenvlab.com/"
+  },
+  {
+   "name": "Queensbury Laboratory",
+   "address": "823 Corinth Rd., Queensbury, NY 12804",
+   "city": "Queensbury",
+   "phone": "(518) 793-8866",
+   "group": "main",
+   "accredited_for": [
+    "Saratoga County list"
+   ],
+   "detail": "Saratoga gives the Town of Queensbury water department's web page as its website; call to ask whether it takes homeowner samples. Name in the NYS ELAP search tool's lab-name menu (fetched 2026-11-13; the search itself needs a reCAPTCHA check, so we could not pull each lab's scope): \"Queensbury Laboratory\".",
+   "source_name": "Saratoga County Dept. of Health, \"NYSDOH ELAP Certified Laboratories for Drinking Water Analysis\"",
+   "source_url": "https://www.saratogacountyny.gov/wp/wp-content/uploads/2026/06/DoH-WaterSuppliers-LabList-20260618.pdf",
+   "source_date": "Revised 2026 (PDF dated 2026-06-18)",
+   "last_verified": "2026-11-13",
+   "website": "https://www.queensburyny.gov/departments/water/"
+  },
+  {
+   "name": "Adirondack Environmental Services, Inc.",
+   "address": "314 North Pearl Street, Albany, NY 12207",
+   "city": "Albany",
+   "phone": "(518) 434-4546",
+   "group": "main",
+   "accredited_for": [
+    "Saratoga County list",
+    "PFAS: EPA 533 (NYS DOH table)"
+   ],
+   "detail": "Also on the NYS DOH PFAS lab table (August 2026) as ELAP 10709, accredited for EPA Method 533 (not 537.1 v2).",
+   "source_name": "Saratoga County Dept. of Health, \"NYSDOH ELAP Certified Laboratories for Drinking Water Analysis\"",
+   "source_url": "https://www.saratogacountyny.gov/wp/wp-content/uploads/2026/06/DoH-WaterSuppliers-LabList-20260618.pdf",
+   "source_date": "Revised 2026 (PDF dated 2026-06-18)",
+   "last_verified": "2026-11-13",
+   "website": "https://www.adirondackenvironmental.com/",
+   "source_name_2": "NYS DOH, Private Well PFAS Pilot \"Accredited Post-Treatment Testing Laboratory List\" [Revised August 2026]",
+   "source_url_2": "https://health.ny.gov/environmental/water/drinking/privatewellspilot/labs.htm"
+  },
+  {
+   "name": "JH Consulting Group, Inc.",
+   "address": "15 Lynwood Drive, Loudonville, NY 12211",
+   "city": "Loudonville",
+   "phone": "(518) 785-9839",
+   "group": "main",
+   "accredited_for": [
+    "Saratoga County list"
+   ],
+   "detail": "Saratoga prints no website. Name in the NYS ELAP search tool's lab-name menu (fetched 2026-11-13; the search itself needs a reCAPTCHA check, so we could not pull each lab's scope): \"JH Consulting Group, Inc\".",
+   "source_name": "Saratoga County Dept. of Health, \"NYSDOH ELAP Certified Laboratories for Drinking Water Analysis\"",
+   "source_url": "https://www.saratogacountyny.gov/wp/wp-content/uploads/2026/06/DoH-WaterSuppliers-LabList-20260618.pdf",
+   "source_date": "Revised 2026 (PDF dated 2026-06-18)",
+   "last_verified": "2026-11-13"
+  },
+  {
+   "name": "Certified Environmental Services",
+   "address": "7280 Caswell Street, North Syracuse, NY 13212",
+   "city": "North Syracuse",
+   "phone": "(315) 478-2374",
+   "group": "main",
+   "accredited_for": [
+    "Onondaga County list (also covers Cortland, Cayuga)",
+    "Bacteria + nitrate (Onondaga)"
+   ],
+   "detail": "Onondaga calls these \"approved laboratories for drinking water bacteriology and nitrates\" and recommends private-well owners test at least once a year for total coliform and nitrate. Name in the NYS ELAP search tool's lab-name menu (fetched 2026-11-13; the search itself needs a reCAPTCHA check, so we could not pull each lab's scope): \"Certified Environmental Services Inc\".",
+   "source_name": "Onondaga County Health Dept., Environmental Health \"Laboratory Information\" (labs for Onondaga, Cortland and Cayuga counties)",
+   "source_url": "https://onondaga.gov/health-env/laboratory/",
+   "source_date": "Web page, last modified 2025-06-26",
+   "last_verified": "2026-11-13"
+  },
+  {
+   "name": "Microbac New York – Cortland",
+   "address": "3821 Buck Drive, Cortland, NY 13045",
+   "city": "Cortland",
+   "phone": "(607) 753-3403",
+   "group": "main",
+   "accredited_for": [
+    "Onondaga County list (also covers Cortland, Cayuga)",
+    "Tompkins County list",
+    "Bacteria + nitrate (Onondaga)",
+    "Microbiological, inorganic, organic (Tompkins)"
+   ],
+   "detail": "Onondaga lists it for drinking-water bacteriology and nitrates; Tompkins lists it for microbiological, inorganic and organic analyses. Name in the NYS ELAP search tool's lab-name menu (fetched 2026-11-13; the search itself needs a reCAPTCHA check, so we could not pull each lab's scope): \"Microbac New York-Cortland\".",
+   "source_name": "Onondaga County Health Dept., Environmental Health \"Laboratory Information\" (labs for Onondaga, Cortland and Cayuga counties)",
+   "source_url": "https://onondaga.gov/health-env/laboratory/",
+   "source_date": "Web page, last modified 2025-06-26",
+   "last_verified": "2026-11-13",
+   "source_name_2": "Tompkins County Environmental Health Division, \"Water Testing Labs\" [Updated 3/26/2024]",
+   "source_url_2": "https://www.tompkinscountyny.gov/files/assets/county/v/1/whole-health-environmental-health/documents/water-testing-labs.pdf"
+  },
+  {
+   "name": "Panek Laboratory LLC dba JLI Environmental Laboratories",
+   "address": "42 Washington Street (#6 per Tompkins), Auburn, NY 13021",
+   "city": "Auburn",
+   "phone": "(315) 253-4433",
+   "group": "main",
+   "accredited_for": [
+    "Onondaga County list (also covers Cortland, Cayuga)",
+    "Tompkins County list",
+    "Bacteria + nitrate (Onondaga)",
+    "Microbiological, inorganic (Tompkins)"
+   ],
+   "detail": "Onondaga lists it for drinking-water bacteriology and nitrates; Tompkins lists it as \"JLI Environmental Laboratories\" for microbiological and inorganic analyses. Name in the NYS ELAP search tool's lab-name menu (fetched 2026-11-13; the search itself needs a reCAPTCHA check, so we could not pull each lab's scope): \"Panek Laboratory LLC dba JLI Environmental Laboratories\".",
+   "source_name": "Onondaga County Health Dept., Environmental Health \"Laboratory Information\" (labs for Onondaga, Cortland and Cayuga counties)",
+   "source_url": "https://onondaga.gov/health-env/laboratory/",
+   "source_date": "Web page, last modified 2025-06-26",
+   "last_verified": "2026-11-13",
+   "source_name_2": "Tompkins County Environmental Health Division, \"Water Testing Labs\" [Updated 3/26/2024]",
+   "source_url_2": "https://www.tompkinscountyny.gov/files/assets/county/v/1/whole-health-environmental-health/documents/water-testing-labs.pdf"
+  },
+  {
+   "name": "Community Science Institute (CSI)",
+   "address": "95 Brown Rd, Rm 283 Langmuir Lab, Ithaca, NY 14850",
+   "city": "Ithaca",
+   "phone": "(607) 257-6606",
+   "group": "main",
+   "accredited_for": [
+    "Tompkins County list",
+    "Microbiological, inorganic, organic (Tompkins)"
+   ],
+   "detail": "Tompkins lists it for microbiological, inorganic and organic analyses. Name in the NYS ELAP search tool's lab-name menu (fetched 2026-11-13; the search itself needs a reCAPTCHA check, so we could not pull each lab's scope): \"Community Science Institute, Inc.\".",
+   "source_name": "Tompkins County Environmental Health Division, \"Water Testing Labs\"",
+   "source_url": "https://www.tompkinscountyny.gov/files/assets/county/v/1/whole-health-environmental-health/documents/water-testing-labs.pdf",
+   "source_date": "Updated 3/26/2024",
+   "last_verified": "2026-11-13"
+  },
+  {
+   "name": "Long Island Analytical Laboratories, Inc",
+   "address": "110 Colin Dr., Holbrook, NY 11741",
+   "city": "Holbrook",
+   "phone": "631-472-3400",
+   "elap_id": "11693",
+   "elap_src": "the NYS DOH PFAS lab table",
+   "group": "limited",
+   "accredited_for": [
+    "PFAS: EPA 533 + EPA 537.1 v2",
+    "Commercial lab (as listed)"
+   ],
+   "detail": "Listed by NYS DOH as New York State accredited for EPA 533 and EPA 537.1 v2 (PFAS). New York lab. This table is for PFAS tests only; it does not say the lab takes other well-water tests or homeowner samples.",
+   "source_name": "NYS DOH, Private Well PFAS Pilot \"Accredited Post-Treatment Testing Laboratory List\"",
+   "source_url": "https://health.ny.gov/environmental/water/drinking/privatewellspilot/labs.htm",
+   "source_date": "Revised August 2026",
+   "last_verified": "2026-11-13",
+   "website": "https://www.lialinc.com/"
+  },
+  {
+   "name": "New York State Department of Health Organic Analytical Chemistry Lab",
+   "address": "Wadsworth Center, Biggs Lab at the New York State Department of Health, Empire State Plaza, ESP Room D549, Albany, NY 12237",
+   "city": "Albany",
+   "phone": "518-474-0015",
+   "elap_id": "10763",
+   "elap_src": "the NYS DOH PFAS lab table",
+   "group": "limited",
+   "accredited_for": [
+    "PFAS: EPA 533 + EPA 537.1 v2",
+    "Governmental lab (as listed)"
+   ],
+   "detail": "Listed by NYS DOH as New York State accredited for EPA 533 and EPA 537.1 v2 (PFAS). New York lab. This table is for PFAS tests only; it does not say the lab takes other well-water tests or homeowner samples.",
+   "source_name": "NYS DOH, Private Well PFAS Pilot \"Accredited Post-Treatment Testing Laboratory List\"",
+   "source_url": "https://health.ny.gov/environmental/water/drinking/privatewellspilot/labs.htm",
+   "source_date": "Revised August 2026",
+   "last_verified": "2026-11-13",
+   "website": "https://www.wadsworth.org/programs/ehs/environmental-organic-chem"
+  },
+  {
+   "name": "Suffolk County Public Environmental Health Lab",
+   "address": "725 Veterans Highway, Bldg 487, N County Complex, Hauppauge, NY 11788",
+   "city": "Hauppauge",
+   "phone": "631-853-5528",
+   "elap_id": "10528",
+   "elap_src": "the NYS DOH PFAS lab table",
+   "group": "limited",
+   "accredited_for": [
+    "PFAS: EPA 533 + EPA 537.1 v2",
+    "Governmental lab (as listed)"
+   ],
+   "detail": "Listed by NYS DOH as New York State accredited for EPA 533 and EPA 537.1 v2 (PFAS). New York lab. This table is for PFAS tests only; it does not say the lab takes other well-water tests or homeowner samples.",
+   "source_name": "NYS DOH, Private Well PFAS Pilot \"Accredited Post-Treatment Testing Laboratory List\"",
+   "source_url": "https://health.ny.gov/environmental/water/drinking/privatewellspilot/labs.htm",
+   "source_date": "Revised August 2026",
+   "last_verified": "2026-11-13",
+   "website": "https://suffolkcountyny.gov/Departments/Health-Services/Environmental-Quality/Water-Resources/Private-Well-Water-Testing-Program"
+  },
+  {
+   "name": "Suffolk County Water Authority Laboratory",
+   "address": "260 Motor Parkway, Hauppauge, NY 11788",
+   "city": "Hauppauge",
+   "phone": "631-563-0259",
+   "elap_id": "10311",
+   "elap_src": "the NYS DOH PFAS lab table",
+   "group": "limited",
+   "accredited_for": [
+    "PFAS: EPA 533 + EPA 537.1 v2",
+    "Governmental lab (as listed)"
+   ],
+   "detail": "Listed by NYS DOH as New York State accredited for EPA 533 and EPA 537.1 v2 (PFAS). New York lab. This table is for PFAS tests only; it does not say the lab takes other well-water tests or homeowner samples.",
+   "source_name": "NYS DOH, Private Well PFAS Pilot \"Accredited Post-Treatment Testing Laboratory List\"",
+   "source_url": "https://health.ny.gov/environmental/water/drinking/privatewellspilot/labs.htm",
+   "source_date": "Revised August 2026",
+   "last_verified": "2026-11-13",
+   "website": "https://www.scwa.com/"
+  },
+  {
+   "name": "Van De Water Treatment Plant",
+   "address": "3750 River Rd., Tonawanda, NY 14150",
+   "city": "Tonawanda",
+   "phone": "716-685-8262",
+   "elap_id": "11528",
+   "elap_src": "the NYS DOH PFAS lab table",
+   "group": "limited",
+   "accredited_for": [
+    "PFAS: EPA 533 + EPA 537.1 v2",
+    "Governmental lab (as listed)"
+   ],
+   "detail": "Listed by NYS DOH as New York State accredited for EPA 533 and EPA 537.1 v2 (PFAS). New York lab. This table is for PFAS tests only; it does not say the lab takes other well-water tests or homeowner samples.",
+   "source_name": "NYS DOH, Private Well PFAS Pilot \"Accredited Post-Treatment Testing Laboratory List\"",
+   "source_url": "https://health.ny.gov/environmental/water/drinking/privatewellspilot/labs.htm",
+   "source_date": "Revised August 2026",
+   "last_verified": "2026-11-13"
+  },
+  {
+   "name": "ALS Environmental - Holland, MI",
+   "address": "3352 128th Ave., Holland, MI 49424",
+   "city": "Holland",
+   "phone": "616-399-6070",
+   "elap_id": "12128",
+   "elap_src": "the NYS DOH PFAS lab table",
+   "group": "limited",
+   "accredited_for": [
+    "PFAS: EPA 533 + EPA 537.1 v2",
+    "Commercial lab (as listed)"
+   ],
+   "detail": "Listed by NYS DOH as New York State accredited for EPA 533 and EPA 537.1 v2 (PFAS). Out-of-state lab (MI). This table is for PFAS tests only; it does not say the lab takes other well-water tests or homeowner samples.",
+   "source_name": "NYS DOH, Private Well PFAS Pilot \"Accredited Post-Treatment Testing Laboratory List\"",
+   "source_url": "https://health.ny.gov/environmental/water/drinking/privatewellspilot/labs.htm",
+   "source_date": "Revised August 2026",
+   "last_verified": "2026-11-13",
+   "website": "https://www.alsglobal.com/en/water-industry/drinking-potable-water"
+  },
+  {
+   "name": "ALS Environmental - Kelso",
+   "address": "1317 S 13th Ave., Kelso, WA 98626",
+   "city": "Kelso",
+   "phone": "360-577-7222",
+   "elap_id": "12060",
+   "elap_src": "the NYS DOH PFAS lab table",
+   "group": "limited",
+   "accredited_for": [
+    "PFAS: EPA 533 + EPA 537.1 v2",
+    "Commercial lab (as listed)"
+   ],
+   "detail": "Listed by NYS DOH as New York State accredited for EPA 533 and EPA 537.1 v2 (PFAS). Out-of-state lab (WA). This table is for PFAS tests only; it does not say the lab takes other well-water tests or homeowner samples.",
+   "source_name": "NYS DOH, Private Well PFAS Pilot \"Accredited Post-Treatment Testing Laboratory List\"",
+   "source_url": "https://health.ny.gov/environmental/water/drinking/privatewellspilot/labs.htm",
+   "source_date": "Revised August 2026",
+   "last_verified": "2026-11-13",
+   "website": "https://www.alsglobal.com/en/water-industry/drinking-potable-water"
+  },
+  {
+   "name": "ALS Environmental - Toms River",
+   "address": "2161 Whitesville Rd., Toms River, NJ 08755",
+   "city": "Toms River",
+   "phone": "732-914-1515",
+   "elap_id": "12211",
+   "elap_src": "the NYS DOH PFAS lab table",
+   "group": "limited",
+   "accredited_for": [
+    "PFAS: EPA 533 + EPA 537.1 v2",
+    "Commercial lab (as listed)"
+   ],
+   "detail": "Listed by NYS DOH as New York State accredited for EPA 533 and EPA 537.1 v2 (PFAS). Out-of-state lab (NJ). This table is for PFAS tests only; it does not say the lab takes other well-water tests or homeowner samples.",
+   "source_name": "NYS DOH, Private Well PFAS Pilot \"Accredited Post-Treatment Testing Laboratory List\"",
+   "source_url": "https://health.ny.gov/environmental/water/drinking/privatewellspilot/labs.htm",
+   "source_date": "Revised August 2026",
+   "last_verified": "2026-11-13",
+   "website": "https://www.alsglobal.com/en/water-industry/drinking-potable-water"
+  },
+  {
+   "name": "Alliance Technical Group, LLC - Akron",
+   "address": "3310 Win St., Ascot Industrial Park, Cuyahoga Falls, OH 44223",
+   "city": "Cuyahoga Falls",
+   "phone": "330-253-8211",
+   "elap_id": "11777",
+   "elap_src": "the NYS DOH PFAS lab table",
+   "group": "limited",
+   "accredited_for": [
+    "PFAS: EPA 533 + EPA 537.1 v2",
+    "Commercial lab (as listed)"
+   ],
+   "detail": "Listed by NYS DOH as New York State accredited for EPA 533 and EPA 537.1 v2 (PFAS). Out-of-state lab (OH). This table is for PFAS tests only; it does not say the lab takes other well-water tests or homeowner samples.",
+   "source_name": "NYS DOH, Private Well PFAS Pilot \"Accredited Post-Treatment Testing Laboratory List\"",
+   "source_url": "https://health.ny.gov/environmental/water/drinking/privatewellspilot/labs.htm",
+   "source_date": "Revised August 2026",
+   "last_verified": "2026-11-13",
+   "website": "https://www.alliancetg.com/services/environmental-akron"
+  },
+  {
+   "name": "American Water Central Laboratory",
+   "address": "1115 S Illinois St., Belleville, IL 62220-3102",
+   "city": "Belleville",
+   "phone": "618-235-3600",
+   "elap_id": "10730",
+   "elap_src": "the NYS DOH PFAS lab table",
+   "group": "limited",
+   "accredited_for": [
+    "PFAS: EPA 533 + EPA 537.1 v2",
+    "Commercial lab (as listed)"
+   ],
+   "detail": "Listed by NYS DOH as New York State accredited for EPA 533 and EPA 537.1 v2 (PFAS). Out-of-state lab (IL). This table is for PFAS tests only; it does not say the lab takes other well-water tests or homeowner samples.",
+   "source_name": "NYS DOH, Private Well PFAS Pilot \"Accredited Post-Treatment Testing Laboratory List\"",
+   "source_url": "https://health.ny.gov/environmental/water/drinking/privatewellspilot/labs.htm",
+   "source_date": "Revised August 2026",
+   "last_verified": "2026-11-13",
+   "website": "https://amwater.com/corp/water-quality-wastewater-service/research-technology"
+  },
+  {
+   "name": "Batelle Analytical Chemistry Services",
+   "address": "141 Longwater Dr. Suite 202, Norwell, MA 02061",
+   "city": "Norwell",
+   "phone": "781-681-5400",
+   "elap_id": "12105",
+   "elap_src": "the NYS DOH PFAS lab table",
+   "group": "limited",
+   "accredited_for": [
+    "PFAS: EPA 533 + EPA 537.1 v2",
+    "Commercial lab (as listed)"
+   ],
+   "detail": "Listed by NYS DOH as New York State accredited for EPA 533 and EPA 537.1 v2 (PFAS). Out-of-state lab (MA). This table is for PFAS tests only; it does not say the lab takes other well-water tests or homeowner samples.",
+   "source_name": "NYS DOH, Private Well PFAS Pilot \"Accredited Post-Treatment Testing Laboratory List\"",
+   "source_url": "https://health.ny.gov/environmental/water/drinking/privatewellspilot/labs.htm",
+   "source_date": "Revised August 2026",
+   "last_verified": "2026-11-13",
+   "website": "https://www.battelle.org/markets/environment/pfas-and-emerging-chemicals/pfas-testing-and-analysis"
+  },
+  {
+   "name": "Bureau Veritas Canada, Inc",
+   "address": "6740 Campobello Rd., Mississauga, ON L5N 2L8",
+   "city": "Mississauga",
+   "phone": "905-817-5700",
+   "elap_id": "10756",
+   "elap_src": "the NYS DOH PFAS lab table",
+   "group": "limited",
+   "accredited_for": [
+    "PFAS: EPA 533 + EPA 537.1 v2",
+    "Commercial lab (as listed)"
+   ],
+   "detail": "Listed by NYS DOH as New York State accredited for EPA 533 and EPA 537.1 v2 (PFAS). Out-of-state lab (ON). This table is for PFAS tests only; it does not say the lab takes other well-water tests or homeowner samples.",
+   "source_name": "NYS DOH, Private Well PFAS Pilot \"Accredited Post-Treatment Testing Laboratory List\"",
+   "source_url": "https://health.ny.gov/environmental/water/drinking/privatewellspilot/labs.htm",
+   "source_date": "Revised August 2026",
+   "last_verified": "2026-11-13",
+   "website": "https://www.bvna.com/pfas-testing"
+  },
+  {
+   "name": "Clean Harbors East Corporate Laboratory",
+   "address": "1910 Russell, St., Baltimore, MD 21230",
+   "city": "Baltimore",
+   "phone": "410-244-8200",
+   "elap_id": "12140",
+   "elap_src": "the NYS DOH PFAS lab table",
+   "group": "limited",
+   "accredited_for": [
+    "PFAS: EPA 533 + EPA 537.1 v2",
+    "Commercial lab (as listed)"
+   ],
+   "detail": "Listed by NYS DOH as New York State accredited for EPA 533 and EPA 537.1 v2 (PFAS). Out-of-state lab (MD). This table is for PFAS tests only; it does not say the lab takes other well-water tests or homeowner samples.",
+   "source_name": "NYS DOH, Private Well PFAS Pilot \"Accredited Post-Treatment Testing Laboratory List\"",
+   "source_url": "https://health.ny.gov/environmental/water/drinking/privatewellspilot/labs.htm",
+   "source_date": "Revised August 2026",
+   "last_verified": "2026-11-13",
+   "website": "https://www.cleanharbors.com/pfas-sampling-and-testing"
+  },
+  {
+   "name": "Complete Environmental Testing Inc.",
+   "address": "80 Lupes Dr., Stratford, CT 06615",
+   "city": "Stratford",
+   "phone": "203-377-9984",
+   "elap_id": "11982",
+   "elap_src": "the NYS DOH PFAS lab table",
+   "group": "limited",
+   "accredited_for": [
+    "PFAS: EPA 533 + EPA 537.1 v2",
+    "Commercial lab (as listed)"
+   ],
+   "detail": "Listed by NYS DOH as New York State accredited for EPA 533 and EPA 537.1 v2 (PFAS). Out-of-state lab (CT). This table is for PFAS tests only; it does not say the lab takes other well-water tests or homeowner samples.",
+   "source_name": "NYS DOH, Private Well PFAS Pilot \"Accredited Post-Treatment Testing Laboratory List\"",
+   "source_url": "https://health.ny.gov/environmental/water/drinking/privatewellspilot/labs.htm",
+   "source_date": "Revised August 2026",
+   "last_verified": "2026-11-13",
+   "website": "https://www.cetlabs.com/"
+  },
+  {
+   "name": "EMSL Analytical Inc",
+   "address": "200 Route 130 North, Cinnamonson, NJ 08077",
+   "city": "Cinnamonson",
+   "phone": "800-220-3675",
+   "elap_id": "10872",
+   "elap_src": "the NYS DOH PFAS lab table",
+   "group": "limited",
+   "accredited_for": [
+    "PFAS: EPA 533 + EPA 537.1 v2",
+    "Commercial lab (as listed)"
+   ],
+   "detail": "Listed by NYS DOH as New York State accredited for EPA 533 and EPA 537.1 v2 (PFAS). Out-of-state lab (NJ). This table is for PFAS tests only; it does not say the lab takes other well-water tests or homeowner samples.",
+   "source_name": "NYS DOH, Private Well PFAS Pilot \"Accredited Post-Treatment Testing Laboratory List\"",
+   "source_url": "https://health.ny.gov/environmental/water/drinking/privatewellspilot/labs.htm",
+   "source_date": "Revised August 2026",
+   "last_verified": "2026-11-13",
+   "website": "https://emsl.com/Services.aspx"
+  },
+  {
+   "name": "Eurofins Denver",
+   "address": "4955 Yarrow St., Arvada, CO 80002",
+   "city": "Arvada",
+   "phone": "303-736-0100",
+   "elap_id": "11964",
+   "elap_src": "the NYS DOH PFAS lab table",
+   "group": "limited",
+   "accredited_for": [
+    "PFAS: EPA 533 + EPA 537.1 v2",
+    "Commercial lab (as listed)"
+   ],
+   "detail": "Listed by NYS DOH as New York State accredited for EPA 533 and EPA 537.1 v2 (PFAS). Out-of-state lab (CO). This table is for PFAS tests only; it does not say the lab takes other well-water tests or homeowner samples.",
+   "source_name": "NYS DOH, Private Well PFAS Pilot \"Accredited Post-Treatment Testing Laboratory List\"",
+   "source_url": "https://health.ny.gov/environmental/water/drinking/privatewellspilot/labs.htm",
+   "source_date": "Revised August 2026",
+   "last_verified": "2026-11-13",
+   "website": "https://location.eurofins.com/en/ele/eurofins-drinking-water-and-wastewater-west-llc/"
+  },
+  {
+   "name": "Eurofins Lancaster Laboratories Environment Testing",
+   "address": "2425 New Holland Pike, Lancaster, PA 17601-5994",
+   "city": "Lancaster",
+   "phone": "717-656-2300",
+   "elap_id": "10670",
+   "elap_src": "the NYS DOH PFAS lab table",
+   "group": "limited",
+   "accredited_for": [
+    "PFAS: EPA 533 + EPA 537.1 v2",
+    "Commercial lab (as listed)"
+   ],
+   "detail": "Listed by NYS DOH as New York State accredited for EPA 533 and EPA 537.1 v2 (PFAS). Out-of-state lab (PA). This table is for PFAS tests only; it does not say the lab takes other well-water tests or homeowner samples.",
+   "source_name": "NYS DOH, Private Well PFAS Pilot \"Accredited Post-Treatment Testing Laboratory List\"",
+   "source_url": "https://health.ny.gov/environmental/water/drinking/privatewellspilot/labs.htm",
+   "source_date": "Revised August 2026",
+   "last_verified": "2026-11-13",
+   "website": "https://location.eurofins.com/en/ele/eurofins-lancaster-laboratories-environment-testing-llc/"
+  },
+  {
+   "name": "Eurofins Pomona",
+   "address": "941 Corporate Center Dr., Pomona, CA 91768",
+   "city": "Pomona",
+   "phone": "626-386-1100",
+   "elap_id": "11320",
+   "elap_src": "the NYS DOH PFAS lab table",
+   "group": "limited",
+   "accredited_for": [
+    "PFAS: EPA 533 + EPA 537.1 v2",
+    "Commercial lab (as listed)"
+   ],
+   "detail": "Listed by NYS DOH as New York State accredited for EPA 533 and EPA 537.1 v2 (PFAS). Out-of-state lab (CA). This table is for PFAS tests only; it does not say the lab takes other well-water tests or homeowner samples.",
+   "source_name": "NYS DOH, Private Well PFAS Pilot \"Accredited Post-Treatment Testing Laboratory List\"",
+   "source_url": "https://health.ny.gov/environmental/water/drinking/privatewellspilot/labs.htm",
+   "source_date": "Revised August 2026",
+   "last_verified": "2026-11-13",
+   "website": "https://location.eurofins.com/en/ele/eurofins-drinking-water-and-wastewater-west-llc/"
+  },
+  {
+   "name": "Eurofins Sacramento",
+   "address": "880 Riverside Pkwy, West Sacramento, CA 95605",
+   "city": "West Sacramento",
+   "phone": "916-373-5600",
+   "elap_id": "11666",
+   "elap_src": "the NYS DOH PFAS lab table",
+   "group": "limited",
+   "accredited_for": [
+    "PFAS: EPA 533 + EPA 537.1 v2",
+    "Commercial lab (as listed)"
+   ],
+   "detail": "Listed by NYS DOH as New York State accredited for EPA 533 and EPA 537.1 v2 (PFAS). Out-of-state lab (CA). This table is for PFAS tests only; it does not say the lab takes other well-water tests or homeowner samples.",
+   "source_name": "NYS DOH, Private Well PFAS Pilot \"Accredited Post-Treatment Testing Laboratory List\"",
+   "source_url": "https://health.ny.gov/environmental/water/drinking/privatewellspilot/labs.htm",
+   "source_date": "Revised August 2026",
+   "last_verified": "2026-11-13",
+   "website": "https://location.eurofins.com/en/ele/eurofins-drinking-water-and-wastewater-west-llc/"
+  },
+  {
+   "name": "Eurofins South Bend",
+   "address": "110 South Hill St., South Bend, IN 46617",
+   "city": "South Bend",
+   "phone": "574-233-4777",
+   "elap_id": "11398",
+   "elap_src": "the NYS DOH PFAS lab table",
+   "group": "limited",
+   "accredited_for": [
+    "PFAS: EPA 533 + EPA 537.1 v2",
+    "Commercial lab (as listed)"
+   ],
+   "detail": "Listed by NYS DOH as New York State accredited for EPA 533 and EPA 537.1 v2 (PFAS). Out-of-state lab (IN). This table is for PFAS tests only; it does not say the lab takes other well-water tests or homeowner samples.",
+   "source_name": "NYS DOH, Private Well PFAS Pilot \"Accredited Post-Treatment Testing Laboratory List\"",
+   "source_url": "https://health.ny.gov/environmental/water/drinking/privatewellspilot/labs.htm",
+   "source_date": "Revised August 2026",
+   "last_verified": "2026-11-13",
+   "website": "https://location.eurofins.com/en/ele/eurofins-drinking-water-and-wastewater-central-llc/"
+  },
+  {
+   "name": "Gel Laboratories, LLC",
+   "address": "2040 Savage Rd., Charleston, SC 29407",
+   "city": "Charleston",
+   "phone": "843-556-8171",
+   "elap_id": "11501",
+   "elap_src": "the NYS DOH PFAS lab table",
+   "group": "limited",
+   "accredited_for": [
+    "PFAS: EPA 533 + EPA 537.1 v2",
+    "Commercial lab (as listed)"
+   ],
+   "detail": "Listed by NYS DOH as New York State accredited for EPA 533 and EPA 537.1 v2 (PFAS). Out-of-state lab (SC). This table is for PFAS tests only; it does not say the lab takes other well-water tests or homeowner samples.",
+   "source_name": "NYS DOH, Private Well PFAS Pilot \"Accredited Post-Treatment Testing Laboratory List\"",
+   "source_url": "https://health.ny.gov/environmental/water/drinking/privatewellspilot/labs.htm",
+   "source_date": "Revised August 2026",
+   "last_verified": "2026-11-13",
+   "website": "https://www.gel.com/laboratories/services/environmental-chemistry-gel-laboratories"
+  },
+  {
+   "name": "Merit Laboratories, Inc",
+   "address": "2680 East Lansing Dr., East Lansing, MI 48823",
+   "city": "East Lansing",
+   "phone": "517-332-0167",
+   "elap_id": "11814",
+   "elap_src": "the NYS DOH PFAS lab table",
+   "group": "limited",
+   "accredited_for": [
+    "PFAS: EPA 533 + EPA 537.1 v2",
+    "Commercial lab (as listed)"
+   ],
+   "detail": "Listed by NYS DOH as New York State accredited for EPA 533 and EPA 537.1 v2 (PFAS). Out-of-state lab (MI). This table is for PFAS tests only; it does not say the lab takes other well-water tests or homeowner samples.",
+   "source_name": "NYS DOH, Private Well PFAS Pilot \"Accredited Post-Treatment Testing Laboratory List\"",
+   "source_url": "https://health.ny.gov/environmental/water/drinking/privatewellspilot/labs.htm",
+   "source_date": "Revised August 2026",
+   "last_verified": "2026-11-13",
+   "website": "https://www.meritlabs.com/"
+  },
+  {
+   "name": "Microbac Laboratories, Inc - Marietta Division",
+   "address": "158 Starlite Dr., Marietta, OH 45750",
+   "city": "Marietta",
+   "phone": "740-373-4071",
+   "elap_id": "10861",
+   "elap_src": "the NYS DOH PFAS lab table",
+   "group": "limited",
+   "accredited_for": [
+    "PFAS: EPA 533 + EPA 537.1 v2",
+    "Commercial lab (as listed)"
+   ],
+   "detail": "Listed by NYS DOH as New York State accredited for EPA 533 and EPA 537.1 v2 (PFAS). Out-of-state lab (OH). This table is for PFAS tests only; it does not say the lab takes other well-water tests or homeowner samples.",
+   "source_name": "NYS DOH, Private Well PFAS Pilot \"Accredited Post-Treatment Testing Laboratory List\"",
+   "source_url": "https://health.ny.gov/environmental/water/drinking/privatewellspilot/labs.htm",
+   "source_date": "Revised August 2026",
+   "last_verified": "2026-11-13",
+   "website": "https://www.microbac.com/tests/environmental/"
+  },
+  {
+   "name": "Onterris Laboratories, LLC",
+   "address": "1104 Windfield Way, El Dorado Hills, CA 95762",
+   "city": "El Dorado Hills",
+   "phone": "916-673-1520",
+   "elap_id": "11411",
+   "elap_src": "the NYS DOH PFAS lab table",
+   "group": "limited",
+   "accredited_for": [
+    "PFAS: EPA 533 + EPA 537.1 v2",
+    "Commercial lab (as listed)"
+   ],
+   "detail": "Listed by NYS DOH as New York State accredited for EPA 533 and EPA 537.1 v2 (PFAS). Out-of-state lab (CA). This table is for PFAS tests only; it does not say the lab takes other well-water tests or homeowner samples.",
+   "source_name": "NYS DOH, Private Well PFAS Pilot \"Accredited Post-Treatment Testing Laboratory List\"",
+   "source_url": "https://health.ny.gov/environmental/water/drinking/privatewellspilot/labs.htm",
+   "source_date": "Revised August 2026",
+   "last_verified": "2026-11-13",
+   "website": "https://www.onterris.com/solutions/water-consulting-testing-and-treatment"
+  },
+  {
+   "name": "Onterris Laboratories, LLC - Wilmington",
+   "address": "2714 Exchange Dr., Wilmington, NC 28405",
+   "city": "Wilmington",
+   "phone": "910-212-5858",
+   "elap_id": "12087",
+   "elap_src": "the NYS DOH PFAS lab table",
+   "group": "limited",
+   "accredited_for": [
+    "PFAS: EPA 533 + EPA 537.1 v2",
+    "Commercial lab (as listed)"
+   ],
+   "detail": "Listed by NYS DOH as New York State accredited for EPA 533 and EPA 537.1 v2 (PFAS). Out-of-state lab (NC). This table is for PFAS tests only; it does not say the lab takes other well-water tests or homeowner samples.",
+   "source_name": "NYS DOH, Private Well PFAS Pilot \"Accredited Post-Treatment Testing Laboratory List\"",
+   "source_url": "https://health.ny.gov/environmental/water/drinking/privatewellspilot/labs.htm",
+   "source_date": "Revised August 2026",
+   "last_verified": "2026-11-13",
+   "website": "https://www.onterris.com/solutions/water-consulting-testing-and-treatment"
+  },
+  {
+   "name": "Pace Analytical Services, LLC - East Longmeadow, MA",
+   "address": "39 Spruce St., East Longmeadow, MA 01028",
+   "city": "East Longmeadow",
+   "phone": "413-525-2332",
+   "elap_id": "10899",
+   "elap_src": "the NYS DOH PFAS lab table",
+   "group": "limited",
+   "accredited_for": [
+    "PFAS: EPA 533 + EPA 537.1 v2",
+    "Commercial lab (as listed)"
+   ],
+   "detail": "Listed by NYS DOH as New York State accredited for EPA 533 and EPA 537.1 v2 (PFAS). Out-of-state lab (MA). This table is for PFAS tests only; it does not say the lab takes other well-water tests or homeowner samples.",
+   "source_name": "NYS DOH, Private Well PFAS Pilot \"Accredited Post-Treatment Testing Laboratory List\"",
+   "source_url": "https://health.ny.gov/environmental/water/drinking/privatewellspilot/labs.htm",
+   "source_date": "Revised August 2026",
+   "last_verified": "2026-11-13",
+   "website": "https://www.pacelabs.com/company/lab-results/east-longmeadow/"
+  },
+  {
+   "name": "Pace Analytical Services, LLC - Fairfield, NJ",
+   "address": "1275 Bloomfield Ave., Bldg 6, Fairfield, NJ 07004",
+   "city": "Fairfield",
+   "phone": "973-227-0422",
+   "elap_id": "11634",
+   "elap_src": "the NYS DOH PFAS lab table",
+   "group": "limited",
+   "accredited_for": [
+    "PFAS: EPA 537.1 v2",
+    "Commercial lab (as listed)"
+   ],
+   "detail": "Listed by NYS DOH as New York State accredited for EPA 537.1 v2 (PFAS). Out-of-state lab (NJ). This table is for PFAS tests only; it does not say the lab takes other well-water tests or homeowner samples.",
+   "source_name": "NYS DOH, Private Well PFAS Pilot \"Accredited Post-Treatment Testing Laboratory List\"",
+   "source_url": "https://health.ny.gov/environmental/water/drinking/privatewellspilot/labs.htm",
+   "source_date": "Revised August 2026",
+   "last_verified": "2026-11-13",
+   "website": "https://www.pacelabs.com/company/lab-results/fairfield-laboratory/"
+  },
+  {
+   "name": "Pace Analytical Services, LLC - Mansfield, MA (320 Forbes)",
+   "address": "320 Forbes Blvd., Mansfield, MA 02048",
+   "city": "Mansfield",
+   "phone": "508-898-9220",
+   "elap_id": "11627",
+   "elap_src": "the NYS DOH PFAS lab table",
+   "group": "limited",
+   "accredited_for": [
+    "PFAS: EPA 533 + EPA 537.1 v2",
+    "Commercial lab (as listed)"
+   ],
+   "detail": "Listed by NYS DOH as New York State accredited for EPA 533 and EPA 537.1 v2 (PFAS). Out-of-state lab (MA). This table is for PFAS tests only; it does not say the lab takes other well-water tests or homeowner samples.",
+   "source_name": "NYS DOH, Private Well PFAS Pilot \"Accredited Post-Treatment Testing Laboratory List\"",
+   "source_url": "https://health.ny.gov/environmental/water/drinking/privatewellspilot/labs.htm",
+   "source_date": "Revised August 2026",
+   "last_verified": "2026-11-13",
+   "website": "https://www.pacelabs.com/company/lab-results/mansfield-laboratory/"
+  },
+  {
+   "name": "Pace Analytical Services, LLC - Ormond Beach, FL",
+   "address": "8 East Tower Circle, Ormond Beach, FL 32174",
+   "city": "Ormond Beach",
+   "phone": "386-672-5668",
+   "elap_id": "11608",
+   "elap_src": "the NYS DOH PFAS lab table",
+   "group": "limited",
+   "accredited_for": [
+    "PFAS: EPA 533 + EPA 537.1 v2",
+    "Commercial lab (as listed)"
+   ],
+   "detail": "Listed by NYS DOH as New York State accredited for EPA 533 and EPA 537.1 v2 (PFAS). Out-of-state lab (FL). This table is for PFAS tests only; it does not say the lab takes other well-water tests or homeowner samples.",
+   "source_name": "NYS DOH, Private Well PFAS Pilot \"Accredited Post-Treatment Testing Laboratory List\"",
+   "source_url": "https://health.ny.gov/environmental/water/drinking/privatewellspilot/labs.htm",
+   "source_date": "Revised August 2026",
+   "last_verified": "2026-11-13",
+   "website": "https://www.pacelabs.com/company/lab-results/ormond-beach-laboratory/"
+  },
+  {
+   "name": "RJ Lee Group Inc",
+   "address": "800 Presque Isle Dr., Pittsburgh, PA 15239",
+   "city": "Pittsburgh",
+   "phone": "724-325-1776",
+   "elap_id": "10884",
+   "elap_src": "the NYS DOH PFAS lab table",
+   "group": "limited",
+   "accredited_for": [
+    "PFAS: EPA 533 + EPA 537.1 v2",
+    "Commercial lab (as listed)"
+   ],
+   "detail": "Listed by NYS DOH as New York State accredited for EPA 533 and EPA 537.1 v2 (PFAS). Out-of-state lab (PA). This table is for PFAS tests only; it does not say the lab takes other well-water tests or homeowner samples.",
+   "source_name": "NYS DOH, Private Well PFAS Pilot \"Accredited Post-Treatment Testing Laboratory List\"",
+   "source_url": "https://health.ny.gov/environmental/water/drinking/privatewellspilot/labs.htm",
+   "source_date": "Revised August 2026",
+   "last_verified": "2026-11-13",
+   "website": "https://www.rjleegroup.com/capabilities/pfas"
+  },
+  {
+   "name": "Regional Water Authority",
+   "address": "90 Sargent Dr., New Haven, CT 06511",
+   "city": "New Haven",
+   "phone": "203-401-2700",
+   "elap_id": "11867",
+   "elap_src": "the NYS DOH PFAS lab table",
+   "group": "limited",
+   "accredited_for": [
+    "PFAS: EPA 537.1 v2",
+    "Commercial lab (as listed)"
+   ],
+   "detail": "Listed by NYS DOH as New York State accredited for EPA 537.1 v2 (PFAS). Out-of-state lab (CT). This table is for PFAS tests only; it does not say the lab takes other well-water tests or homeowner samples.",
+   "source_name": "NYS DOH, Private Well PFAS Pilot \"Accredited Post-Treatment Testing Laboratory List\"",
+   "source_url": "https://health.ny.gov/environmental/water/drinking/privatewellspilot/labs.htm",
+   "source_date": "Revised August 2026",
+   "last_verified": "2026-11-13",
+   "website": "https://www.rwatersolutions.com/water-testing"
+  },
+  {
+   "name": "SGS North America Inc - Dayton",
+   "address": "2235 Route 130, Dayton, NJ 08810",
+   "city": "Dayton",
+   "phone": "732-329-0200",
+   "elap_id": "10983",
+   "elap_src": "the NYS DOH PFAS lab table",
+   "group": "limited",
+   "accredited_for": [
+    "PFAS: EPA 533 + EPA 537.1 v2",
+    "Commercial lab (as listed)"
+   ],
+   "detail": "Listed by NYS DOH as New York State accredited for EPA 533 and EPA 537.1 v2 (PFAS). Out-of-state lab (NJ). This table is for PFAS tests only; it does not say the lab takes other well-water tests or homeowner samples.",
+   "source_name": "NYS DOH, Private Well PFAS Pilot \"Accredited Post-Treatment Testing Laboratory List\"",
+   "source_url": "https://health.ny.gov/environmental/water/drinking/privatewellspilot/labs.htm",
+   "source_date": "Revised August 2026",
+   "last_verified": "2026-11-13",
+   "website": "https://www.sgs.com/en-us/services/drinking-water-testing"
+  },
+  {
+   "name": "SGS North America, Inc. - Orlando",
+   "address": "4405 Vineland Rd., STE C-15, Orlando, FL 32811",
+   "city": "Orlando",
+   "phone": "407-425-6700",
+   "elap_id": "12022",
+   "elap_src": "the NYS DOH PFAS lab table",
+   "group": "limited",
+   "accredited_for": [
+    "PFAS: EPA 533 + EPA 537.1 v2",
+    "Commercial lab (as listed)"
+   ],
+   "detail": "Listed by NYS DOH as New York State accredited for EPA 533 and EPA 537.1 v2 (PFAS). Out-of-state lab (FL). This table is for PFAS tests only; it does not say the lab takes other well-water tests or homeowner samples.",
+   "source_name": "NYS DOH, Private Well PFAS Pilot \"Accredited Post-Treatment Testing Laboratory List\"",
+   "source_url": "https://health.ny.gov/environmental/water/drinking/privatewellspilot/labs.htm",
+   "source_date": "Revised August 2026",
+   "last_verified": "2026-11-13",
+   "website": "https://env.sgs.com/services/environmental-testing/drinking-water/"
+  },
+  {
+   "name": "SGS North America, Inc. - Wilmington",
+   "address": "5500 Business Dr., Wilmington, NC 28405",
+   "city": "Wilmington",
+   "phone": "910-350-1903",
+   "elap_id": "11685",
+   "elap_src": "the NYS DOH PFAS lab table",
+   "group": "limited",
+   "accredited_for": [
+    "PFAS: EPA 533 + EPA 537.1 v2",
+    "Commercial lab (as listed)"
+   ],
+   "detail": "Listed by NYS DOH as New York State accredited for EPA 533 and EPA 537.1 v2 (PFAS). Out-of-state lab (NC). This table is for PFAS tests only; it does not say the lab takes other well-water tests or homeowner samples.",
+   "source_name": "NYS DOH, Private Well PFAS Pilot \"Accredited Post-Treatment Testing Laboratory List\"",
+   "source_url": "https://health.ny.gov/environmental/water/drinking/privatewellspilot/labs.htm",
+   "source_date": "Revised August 2026",
+   "last_verified": "2026-11-13",
+   "website": "https://env.sgs.com/services/environmental-testing/drinking-water/"
+  },
+  {
+   "name": "SPL - Reading",
+   "address": "1037F Macarthur Rd., Reading, PA 19605",
+   "city": "Reading",
+   "phone": "610-375-8378",
+   "elap_id": "12209",
+   "elap_src": "the NYS DOH PFAS lab table",
+   "group": "limited",
+   "accredited_for": [
+    "PFAS: EPA 533 + EPA 537.1 v2",
+    "Commercial lab (as listed)"
+   ],
+   "detail": "Listed by NYS DOH as New York State accredited for EPA 533 and EPA 537.1 v2 (PFAS). Out-of-state lab (PA). This table is for PFAS tests only; it does not say the lab takes other well-water tests or homeowner samples.",
+   "source_name": "NYS DOH, Private Well PFAS Pilot \"Accredited Post-Treatment Testing Laboratory List\"",
+   "source_url": "https://health.ny.gov/environmental/water/drinking/privatewellspilot/labs.htm",
+   "source_date": "Revised August 2026",
+   "last_verified": "2026-11-13",
+   "website": "https://spllabs.com/locations/reading-pa-environmental-lab/"
+  },
+  {
+   "name": "Sanair Technology Laboratories Inc.",
+   "address": "10501 Trade Ct., N Chesterfield, VA 23236",
+   "city": "N Chesterfield",
+   "phone": "804-897-1177",
+   "elap_id": "11983",
+   "elap_src": "the NYS DOH PFAS lab table",
+   "group": "limited",
+   "accredited_for": [
+    "PFAS: EPA 533 + EPA 537.1 v2",
+    "Commercial lab (as listed)"
+   ],
+   "detail": "Listed by NYS DOH as New York State accredited for EPA 533 and EPA 537.1 v2 (PFAS). Out-of-state lab (VA). This table is for PFAS tests only; it does not say the lab takes other well-water tests or homeowner samples.",
+   "source_name": "NYS DOH, Private Well PFAS Pilot \"Accredited Post-Treatment Testing Laboratory List\"",
+   "source_url": "https://health.ny.gov/environmental/water/drinking/privatewellspilot/labs.htm",
+   "source_date": "Revised August 2026",
+   "last_verified": "2026-11-13",
+   "website": "https://sanair.com/"
   }
  ]
 }

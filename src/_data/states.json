@@ -112,17 +112,20 @@
  "new-york": {
   "name": "New York",
   "abbr": "NY",
-  "title": "New York: finding an ELAP-certified lab for your well (Westchester list included)",
-  "description": "How to find a New York ELAP-certified drinking-water lab for a private well, plus the ten labs registered with Westchester County's private-well testing program.",
+  "title": "New York well-water labs: 23 labs named by six county health departments, plus 36 PFAS-accredited labs",
+  "description": "ELAP-certified labs that New York county health departments (Westchester, Rockland, Dutchess, Saratoga, Onondaga, Tompkins) point private-well owners to, plus NYS DOH's August 2026 list of labs accredited for PFAS methods. Each listing cites its source; re-verified November 13, 2026.",
   "intro": [
-   "New York certifies environmental labs through the Department of Health's Environmental Laboratory Approval Program (ELAP) at the Wadsworth Center. Its public search tool is the authoritative way to find a lab approved for drinking water.",
-   "The search tool is an interactive form with no downloadable list, so we have not tried to reproduce a statewide directory. What we can list from a published source is Westchester County's list of ELAP-certified labs registered for its private-well testing law."
+   "New York certifies environmental labs through the Department of Health's Environmental Laboratory Approval Program (ELAP) at the Wadsworth Center. Its public search tool is the authoritative way to check whether a lab is approved for drinking water (ELAP calls it potable water), and for which tests.",
+   "The search tool has no downloadable list and now runs a reCAPTCHA check, so we do not reproduce a statewide directory. Instead, this page lists the labs that six county health departments name for private-well owners: Westchester and Rockland (labs registered under each county's private-well testing law), Dutchess, Saratoga, Onondaga (which also covers Cortland and Cayuga) and Tompkins. Where the counties' lists overlap or disagree (a lab's name, ZIP code or street address), the listing says so.",
+   "Below those is a separate list from the NYS Department of Health: labs accredited in New York for the PFAS methods EPA 533 or EPA 537.1 version 2, published for its Private Well PFAS Testing and Mitigation Rebate Pilot. As of the program page revised October 2026, NYS DOH says it is accepting free PFAS testing applications from private-well households in Dutchess, Orange, Putnam, Suffolk, Ulster and Westchester counties, while funds last."
   ],
   "caveats": [
-   "This page does not cover New York statewide. Only the Westchester County labs below are listed, and the county's PDF prints no date (the file name says 2025).",
-   "Several labs on the Westchester list are in Connecticut or Pennsylvania. They are still ELAP-certified according to the county.",
-   "We did not verify which tests each lab runs, or what it charges. Ask the lab, and confirm its current ELAP scope in the state search.",
-   "Other New York counties publish their own lists. We have not verified them yet."
+   "Not statewide. Only labs on the county lists below are shown in the main list. If your county is not listed, ask your county health department or use the ELAP search.",
+   "County lists differ in age: Rockland's is revised June 2026, Saratoga's June 2026, Westchester's prints no date (its file was last modified April 7, 2026), Dutchess's web page prints no date, Onondaga's page was last modified June 2025 and Tompkins's list was updated March 26, 2024.",
+   "Westchester and Rockland require a lab registered with the county for testing under their private-well testing laws (for example, at a property sale). Tell the lab why you are testing. The other counties' lists are suggestions; Saratoga says any ELAP-certified lab is fine.",
+   "We could not run the ELAP search (it needs a reCAPTCHA check), so we did not confirm each lab's current scope. We did compare lab names with the search tool's lab-name menu on November 13, 2026; each listing says whether its name appears there. Carnell Environmental Inspections (Westchester list) did not appear under that name.",
+   "We did not verify prices. None of these lists publish fees.",
+   "Tompkins County's list also includes Yaws Environmental Lab, which the county marks as not ELAP certified (a drop-off service). We left it out. Putnam County's lab list is dated February 20, 2018, so we did not use it."
   ],
   "resources": [
    {
@@ -131,13 +134,45 @@
    },
    {
     "label": "NYS DOH Wadsworth Center: ELAP",
-    "url": "https://wadsworth.org/regulatory/elap"
+    "url": "https://www.wadsworth.org/regulatory/elap"
    },
    {
-    "label": "Westchester County DOH: private-well lab list (PDF)",
+    "label": "NYS DOH: Private Well PFAS Testing and Mitigation Rebate Pilot (revised October 2026)",
+    "url": "https://health.ny.gov/environmental/water/drinking/privatewellspilot/"
+   },
+   {
+    "label": "NYS DOH: PFAS-accredited lab table (revised August 2026)",
+    "url": "https://health.ny.gov/environmental/water/drinking/privatewellspilot/labs.htm"
+   },
+   {
+    "label": "Westchester County DOH: private-well testing law lab list (PDF)",
     "url": "https://health.westchestercountyny.gov/images/stories/PDF/List_of_Labs_for_Private_Well_2025.pdf"
+   },
+   {
+    "label": "Rockland County DOH: PWT law registered laboratories (PDF, rev. 6/2026)",
+    "url": "https://ny.rocklandcountyny.gov/home/showpublisheddocument/924/639184073142130000"
+   },
+   {
+    "label": "Dutchess County: Local Laboratories for Water Testing",
+    "url": "https://www.dutchessny.gov/Departments/DBCH/Local-Laboratories-for-Water-Testing.htm"
+   },
+   {
+    "label": "Saratoga County DOH: ELAP labs for drinking water (PDF, June 2026)",
+    "url": "https://www.saratogacountyny.gov/wp/wp-content/uploads/2026/06/DoH-WaterSuppliers-LabList-20260618.pdf"
+   },
+   {
+    "label": "Onondaga County Health Dept.: laboratory information",
+    "url": "https://onondaga.gov/health-env/laboratory/"
+   },
+   {
+    "label": "Tompkins County Environmental Health: Water Testing Labs (PDF, 3/26/2024)",
+    "url": "https://www.tompkinscountyny.gov/files/assets/county/v/1/whole-health-environmental-health/documents/water-testing-labs.pdf"
    }
-  ]
+  ],
+  "main_heading": "Labs named by county health departments for private wells",
+  "chips_label": "From the source lists:",
+  "limited_heading": "Labs on the NYS DOH list of labs accredited for PFAS methods (August 2026)",
+  "limited_note": "From NYS DOH's Private Well PFAS Pilot lab table (revised August 2026). Every lab here is New York accredited for EPA Method 533, EPA Method 537.1 version 2, or both. Three labs on that table (Westchester County Labs and Research, Adirondack Environmental Services and ALS Middletown) are already in the county list above with their PFAS methods noted. The table is for PFAS tests only and does not say whether a lab takes samples from homeowners; most are out-of-state commercial labs that work through contractors. Call first."
  },
  "maryland": {
   "name": "Maryland",

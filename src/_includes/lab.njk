@@ -6,7 +6,7 @@
   {% if l.drop_off %}<p><strong>Drop-off locations listed by NHDES:</strong> {{ l.drop_off }} <span class="small">(confirm with the lab)</span></p>{% endif %}
   {% if st == 'maryland' and l.lab_id %}<p class="small">MDE certification number {{ l.lab_id }} · approved tests as printed: “{{ l.tests_as_printed }}”</p>{% endif %}
   {% if l.detail %}<p class="small">{{ l.detail }}</p>{% endif %}
-  {% if l.elap_id %}<p class="small">NYS ELAP lab ID {{ l.elap_id }} (as printed on the county list)</p>{% endif %}
+  {% if l.elap_id %}<p class="small">NYS ELAP lab ID {{ l.elap_id }} (as printed on {{ l.elap_src or 'the county list' }})</p>{% endif %}
   {% if l.accredited_for and l.accredited_for.length %}
   <p class="small" style="margin-bottom:0">{% if tl %}{{ tl }}{% elif st == 'pennsylvania' %}Accredited by PA DEP for drinking water, including:{% elif st == 'ohio' %}Approved on Ohio EPA's list for:{% elif st == 'maryland' %}Certified by MDE for (MDE test code: what it covers):{% else %}Listed as:{% endif %}</p>
   <ul class="chips">{% for a in l.accredited_for %}<li>{{ a }}</li>{% endfor %}</ul>

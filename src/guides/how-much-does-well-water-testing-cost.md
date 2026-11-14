@@ -52,7 +52,7 @@ Package contents above are as the form's own testing guide describes them. Bacte
 
 ## Ohio and New York
 
-We have not verified prices for labs in Ohio or New York. Ohio EPA's list and the Westchester County list do not publish fees. We will add fee information only from a lab's own published fee schedule.
+We have not verified prices for labs in Ohio or New York. Ohio EPA's list and the New York county lab lists do not publish fees. We will add fee information only from a lab's own published fee schedule.
 
 ## Why the numbers differ so much
 

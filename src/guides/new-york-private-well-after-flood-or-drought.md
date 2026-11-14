@@ -119,7 +119,7 @@ None of the NYS DOH or DEC pages we read gives a separate water-quality testing 
 
 ## Where to get the test done
 
-Use a lab certified by NYS DOH's **ELAP** for potable water, or ask your local health department. Our [New York page](/labs/new-york/) explains the ELAP search and lists the Westchester County private-well labs. For routine testing outside an emergency, DOH says to test "at least once a year for bacteria and for other contaminants every 3-5 years." Its March 2024 release adds that "the best time to test private well water is in the late spring or early summer."
+Use a lab certified by NYS DOH's **ELAP** for potable water, or ask your local health department. Our [New York page](/labs/new-york/) explains the ELAP search and lists the labs that six county health departments name for private wells (updated 2026-11-13). For routine testing outside an emergency, DOH says to test "at least once a year for bacteria and for other contaminants every 3-5 years." Its March 2024 release adds that "the best time to test private well water is in the late spring or early summer."
 
 ## What we could not verify
 

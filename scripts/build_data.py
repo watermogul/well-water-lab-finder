@@ -1,6 +1,6 @@
-"""Assembles src/_data/labs/{pennsylvania,new-hampshire,new-york}.json (Ohio: scripts/build_oh.py).
+"""Assembles src/_data/labs/{pennsylvania,new-hampshire}.json (Ohio: scripts/build_oh.py; New York: scripts/build_ny.py).
 PA: /tmp/pa_labs.json from scripts/build_pa.py.
-NH and NY: hand-entered from the primary sources named in each file. Every listing carries source_url + last_verified."""
+NH: hand-entered from the primary sources named in each file. Every listing carries source_url + last_verified."""
 import json,re
 V='2026-10-26'
 V_PA='2026-10-30'  # PA re-verified 2026-10-30: DEP page still links the same two June 2024 reports; re-downloaded PDFs are byte-identical (md5) to the 2026-10-26 copies; Penn State AASL page re-checked
@@ -67,25 +67,5 @@ nhl=[
 nhl.sort(key=lambda r:r['city'])
 json.dump(dict(state='New Hampshire',slug='new-hampshire',abbr='NH',list_source=dict(name='NHDES private-well testing guidance',page_url=NH_SRC,report_date='April 2026 document; lab list "updated 9/20/2024"',
   search_url='https://www4.des.state.nh.us/certifiedlabs/certified-method.aspx'),last_verified=V,labs=nhl),open('src/_data/labs/new-hampshire.json','w'),indent=1)
-# ---------- NY (Westchester County registered labs only)
-WC='https://health.westchestercountyny.gov/images/stories/PDF/List_of_Labs_for_Private_Well_2025.pdf'
-def ny(name,addr,city,st,phone,elap,web=None):
-    d=dict(name=name,address=addr,city=city,phone=phone,elap_id=elap,group='main',accredited_for=['NYS ELAP-certified; registered with Westchester County Dept. of Health for private-well testing results'],
-      source_name='Westchester County Dept. of Health, "Private Well-Water Testing Law" lab list (file named 2025; the PDF prints no date)',source_url=WC,source_date='2025 (per file name)',last_verified=V)
-    if web: d['website']=web
-    return d
-nyl=[
- ny('Advanced Analytical Technologies, Inc.','37 Ramland Rd, Orangeburg, NY 10962','Orangeburg','NY','(800) 259-9532','11713'),
- ny('Analytical Laboratory Service (ALS)','34 Dogwood Lane, Middletown, PA 17057','Middletown, PA','PA','(800) 794-7709','11759'),
- ny('York Analytical Lab, dba Aqua Environmental Lab','56 Church Hill Rd, Newtown, CT 06470','Newtown, CT','CT','(203) 270-9973','11706'),
- ny('Carnell Environmental Inspections, Inc.','26 Legion Dr, Valhalla, NY 10595','Valhalla','NY','(914) 946-4300','11588'),
- ny('Environmental Labworks, Inc.','PO Box 733, Marlboro, NY 12542','Marlboro','NY','(845) 236-7823','10824'),
- ny('EnviroTest Laboratories, Inc.','315 Fullerton Ave, Newburgh, NY 12250','Newburgh','NY','(845) 562-0890','10142'),
- ny('Phoenix Environmental Laboratories, Inc.','587 East Middle Turnpike, Manchester, CT 06040','Manchester, CT','CT','(860) 645-1102 or (860) 645-3513','11715','https://www.phoenixlabs.com'),
- ny('Yorktown Medical Laboratories, Inc.','321 Kear Street, Yorktown Heights, NY 10598','Yorktown Heights','NY','(914) 245-3203','10323'),
- ny('Westchester County Laboratories and Research','10 Dana Road, Valhalla, NY 10595','Valhalla','NY','(914) 231-1781','10108','http://labs.westchestergov.com/'),
- ny('Aquatek Labs','3 Research Drive, Woodbridge, CT 06525','Woodbridge, CT','CT','(203) 623-9804','12170'),
-]
-json.dump(dict(state='New York',slug='new-york',abbr='NY',list_source=dict(name='Westchester County Dept. of Health lab list; NYS ELAP search',page_url=WC,report_date='2025 (file name; no printed date)',
-  search_url='https://healthapps.health.ny.gov/pubdoh/applinks/wc/elappublicweb/'),last_verified=V,labs=nyl),open('src/_data/labs/new-york.json','w'),indent=1)
+# NY: moved to scripts/build_ny.py (2026-11-13).
 print('done')
