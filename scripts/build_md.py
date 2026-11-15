@@ -1,10 +1,13 @@
 """Builds src/_data/labs/maryland.json from MDE's "Maryland's Certified Drinking Water Laboratories" PDF
 ("Latest Revisions: 10/1/2026"), hand-transcribed from `pdftotext -layout` output of
 https://mde.maryland.gov/programs/water/water_supply/Documents/Maryland-Certified-DW-Labs.pdf (fetched 2026-10-26).
-Only the "In State Labs" section is included. Test codes are expanded using MDE's approved-contaminant list
+In-state labs are hand-entered below. Out-of-state labs (added 2026-11-14) come from
+scripts/parse_md_oos.py -> $SRC_DIR/oos.json (default /workspace/src-md), parsed from the same PDF.
+Re-verified 2026-11-14: the PDF fetched that day is byte-identical to the 2026-10-26 copy (md5 eb55267c433d8b6e26e485de60ceb609). Test codes are expanded using MDE's approved-contaminant list
 (MD Approved Parameter List.pdf, "Revised 10/10/2024"). Self-check: every name, phone and cert number must appear in the source text."""
 import json, re, os, sys
-V = '2026-10-26'
+V = '2026-11-14'
+SRC_DIR = os.environ.get('SRC_DIR', '/workspace/src-md')
 SRC = 'https://mde.maryland.gov/programs/water/water_supply/Documents/Maryland-Certified-DW-Labs.pdf'
 PARAMS = 'https://mde.maryland.gov/programs/water/water_supply/Documents/MD%20Approved%20Parameter%20List.pdf'
 UMD = 'https://www.extension.umd.edu/programs/environment-natural-resources/program-areas/wells-septic-systems-and-water-quality/water-quality-and-testing/certified-water-testing-labs'
@@ -17,19 +20,30 @@ CODES = {
  'Metals 1': 'Metals 1: lead, copper',
  'Metals 2': 'Metals 2: antimony, arsenic, barium, beryllium, cadmium, chromium, mercury, selenium, thallium',
  'Arsenic': 'Arsenic',
+ 'Uranium': 'Uranium',
  'Inorganics 1': 'Inorganics 1: nitrate',
  'Inorganics 2': 'Inorganics 2: nitrite',
  'Inorganics 3': 'Inorganics 3: fluoride',
  'Inorganics 4': 'Inorganics 4: asbestos',
  'Inorganics 5': 'Inorganics 5: cyanide',
+ 'Inorganics 6': 'Inorganics 6: chlorite',
  'Asbestos': 'Asbestos',
- 'VOCs': 'VOCs (volatile organic chemicals)',
+ 'VOCs': 'VOCs (volatile organic chemicals, e.g. benzene, TCE, vinyl chloride)',
  'THMs': 'THMs (trihalomethanes)',
  'HAA5': 'HAA5 (haloacetic acids)',
- 'SOC 1': 'SOC 1 (synthetic organics group 1)',
+ 'SOC 1': 'SOC 1: synthetic organics (e.g. benzo(a)pyrene, atrazine, PCBs, pentachlorophenol)',
+ 'SOC 2': 'SOC 2: dioxin (2,3,7,8-TCDD)',
  'SOC 3': 'SOC 3: EDB, DBCP',
- 'Pesticides 1': 'Pesticides 1', 'Pesticides 2': 'Pesticides 2', 'Herbicides': 'Herbicides',
- 'PFAS': 'PFAS',
+ 'Pesticides 1': 'Pesticides 1: endrin, lindane, methoxychlor, toxaphene, chlordane, heptachlor and others',
+ 'Pesticides 2': 'Pesticides 2: alachlor, atrazine, simazine',
+ 'Pesticides 3': 'Pesticides 3: aldicarb, carbofuran, oxamyl',
+ 'Pesticides 4': 'Pesticides 4: PCBs',
+ 'Pesticides 5': 'Pesticides 5: diquat',
+ 'Pesticides 6': 'Pesticides 6: endothall',
+ 'Pesticides 7': 'Pesticides 7: glyphosate',
+ 'Herbicides': 'Herbicides (2,4-D, silvex, pentachlorophenol, dinoseb, dalapon, picloram)',
+ 'Radiologicals': 'Radiologicals (gross alpha/beta, radium 226/228, uranium and others)',
+ 'PFAS': 'PFAS (PFOA, PFOS, PFHxS, PFNA, HFPO-DA, PFBS)',
 }
 # name, street, city, zip, county code, phone(s), cert no., approved tests (as printed), group, note
 L = [
@@ -88,7 +102,7 @@ def expand(tests):
             out.append(CODES[part])
     return out
 
-txt = open('/workspace/src/md/labs.txt').read() if os.path.exists('/workspace/src/md/labs.txt') else None
+txt = open(f'{SRC_DIR}/labs.txt').read() if os.path.exists(f'{SRC_DIR}/labs.txt') else open('/workspace/src/md/labs.txt').read() if os.path.exists('/workspace/src/md/labs.txt') else None
 labs = []
 for name, street, city, z, cty, phone, cert, tests, grp, note in L:
     if txt:
@@ -109,10 +123,69 @@ for name, street, city, z, cty, phone, cert, tests, grp, note in L:
     if any('umd' == n.split(';')[0] for n in [note or '']): d['source_url_umd'] = UMD
     if notes: d['note'] = ' '.join(notes)
     labs.append(d)
-labs.sort(key=lambda r: ({'main': 0, 'public': 1, 'limited': 2}[r['group']], r['city'].lower(), r['name'].lower()))
+
+# ---- out-of-state labs (MDE "Out of State Labs" section), added 2026-11-14 ----
+ALIAS = {'Metal': 'Metals', 'Inorganic': 'Inorganics', 'SOCs': 'SOC', 'Radiologics': 'Radiologicals'}
+def expand2(tests):
+    t = re.sub(r'\s*\(Dioxin\)', '', tests).replace(':', ';')
+    out = []
+    for part in re.findall(r'([A-Za-z]+[A-Za-z0-9]*)((?:\s*\d\s*,?)*)', t):
+        word, nums = part
+        word = ALIAS.get(word, word)
+        ns = re.findall(r'\d', nums) if word in ('Micro', 'Metals', 'Inorganics', 'SOC', 'Pesticides') else []
+        if ns:
+            out += [CODES[f'{word} {n}'] for n in ns]
+        elif word in ('HAA', 'HAA5'):
+            out.append(CODES['HAA5'])
+        else:
+            out.append(CODES[word])
+    seen = []
+    for o in out:
+        if o not in seen: seen.append(o)
+    return seen
+KEEP = {'LLC', 'ALS', 'EMSL', 'NSF', 'GEL', 'SGS', 'HP', 'KNL', 'H2O', 'II', 'SE', 'NC', 'M.', 'J.'}
+FIX = {'Spl-Reading': 'SPL-Reading', 'Testamerica': 'TestAmerica', ' And ': ' and ', '(labs Inc)': '(LABS Inc)'}
+def tc(n):
+    out = ' '.join(w if w.strip('(),.-') in KEEP else '-'.join(x[:1].upper() + x[1:].lower() for x in w.split('-')) for w in n.split(' '))
+    for a, b in FIX.items(): out = out.replace(a, b)
+    return out
+NEAR = ['PA', 'DE', 'VA', 'WV', 'DC']
+oos = json.load(open(f'{SRC_DIR}/oos.json'))
+assert len(oos) == 53, len(oos)
+for r in oos:
+    if txt:
+        for needle in (r['phone'], r['addr_lines'][-1]):
+            if needle not in txt: sys.exit(f'not in source: {needle} ({r["name"]})')
+    city_line = r['addr_lines'][-1]
+    m = re.match(r'(.+?),\s*([A-Za-z ]+?)\s+(\d{5})$', city_line)
+    city, st_name, z = m.groups()
+    st = {'Florida': 'FL'}.get(st_name, st_name)
+    acc = expand2(r['tests'])
+    phone = r['phone'].replace('- ', '-')
+    notes = []
+    if r['former']: notes.append('MDE lists it as ' + '; '.join(r['former']) + '.')
+    if r['state_col'] != st: notes.append(f'MDE\'s state column says {r["state_col"]}, but the printed address is in {st}.')
+    if phone != r['phone']: notes.append(f'MDE prints the phone as "{r["phone"]}".')
+    if 'ENVIRONEMT' in r['name']: notes.append('Name spelled as printed by MDE ("Environemt").')
+    if city in ('Greenburg', 'Kennet Square'): notes.append(f'City spelled as printed by MDE ("{city}").')
+    bact = any(a.startswith(('Micro 1', 'Micro 2', 'Micro 4')) for a in acc)
+    nitr = any(a.startswith('Inorganics 1') for a in acc)
+    detail = ('Certified on MDE\'s list for both coliform bacteria and nitrate, two of the four yearly tests MDE recommends for private wells.' if bact and nitr
+              else 'Certified on MDE\'s list for coliform bacteria but not nitrate.' if bact
+              else 'Certified on MDE\'s list for nitrate but not coliform bacteria.' if nitr
+              else 'Not certified on MDE\'s list for coliform bacteria or nitrate; specialty tests only.')
+    d = dict(name=tc(r['name']), address=', '.join(r['addr_lines']).replace(f'{st_name} {z}', f'{st} {z}'), city=city, state=st,
+             phone=phone, lab_id=r['cert'], tests_as_printed=r['tests'].rstrip(';'), accredited_for=acc, group='outofstate',
+             basic_well_test=bact and nitr, detail=detail,
+             source_name='MDE Laboratory Certification Program, "Maryland\'s Certified Drinking Water Laboratories", Out of State Labs section (latest revisions 10/1/2026)',
+             source_url=SRC, source_date='2026-10-01', last_verified=V)
+    if notes: d['note'] = ' '.join(notes)
+    labs.append(d)
+GO = {'main': 0, 'public': 1, 'limited': 2, 'outofstate': 3}
+labs.sort(key=lambda r: (GO[r['group']], (0 if r.get('basic_well_test') else 1, 0 if r.get('state') in NEAR else 1, r.get('state', '')) if r['group'] == 'outofstate' else (), r['city'].lower(), r['name'].lower()))
 json.dump(dict(state='Maryland', slug='maryland', abbr='MD',
   list_source=dict(name="MDE Laboratory Certification Program — Maryland's Certified Drinking Water Laboratories", page_url=SRC,
     program_url='https://mde.maryland.gov/programs/water/water_supply/pages/wsp-labcert.aspx', parameter_list_url=PARAMS,
     report_date='October 1, 2026 ("Latest Revisions: 10/1/2026")'),
   last_verified=V, labs=labs), open('src/_data/labs/maryland.json', 'w'), indent=1)
-print('MD', len(labs), {g: sum(1 for x in labs if x['group'] == g) for g in ('main', 'public', 'limited')})
+print('MD', len(labs), {g: sum(1 for x in labs if x['group'] == g) for g in GO}, 'oos basic:', sum(1 for x in labs if x.get('basic_well_test')))

@@ -11,7 +11,7 @@ description: "Where to find a state-certified drinking-water lab for your privat
 <tbody>
 {% for key, d in labs %}
 <tr><td><a href="/labs/{{ key }}/">{{ states[key].name }}</a></td>
-<td>{{ (d.labs | groupFilter('main')).length }} main{% if (d.labs | groupFilter('public')).length %} + {{ (d.labs | groupFilter('public')).length }} utility/agency{% endif %}{% if (d.labs | groupFilter('limited')).length %} + {{ (d.labs | groupFilter('limited')).length }} limited{% endif %}</td>
+<td>{{ (d.labs | groupFilter('main')).length }} main{% if (d.labs | groupFilter('public')).length %} + {{ (d.labs | groupFilter('public')).length }} utility/agency{% endif %}{% if (d.labs | groupFilter('limited')).length %} + {{ (d.labs | groupFilter('limited')).length }} limited{% endif %}{% if (d.labs | groupFilter('outofstate')).length %} + {{ (d.labs | groupFilter('outofstate')).length }} out-of-state{% endif %}</td>
 <td><a href="{{ d.list_source.page_url }}" rel="noopener">{{ d.list_source.name }}</a><br><span class="small">{{ d.list_source.report_date }}</span></td>
 <td>{{ d.last_verified }}</td></tr>
 {% endfor %}
