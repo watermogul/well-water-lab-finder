@@ -371,34 +371,6 @@
     ],
     "last_verified": "2026-11-02"
   },
-  "nebraska": {
-    "name": "Nebraska",
-    "abbr": "NE",
-    "list_type": "downloadable list (not yet transcribed here)",
-    "resources": [
-      {
-        "label": "Nebraska DHHS: Certified labs (PDF)",
-        "url": "https://dhhs.ne.gov/Public%20Health%20Lab%20Documents/certified%20labs.pdf",
-        "kind": "lab list",
-        "checked": "loaded"
-      },
-      {
-        "label": "Nebraska Extension G1614: Certified water testing laboratories in Nebraska",
-        "url": "https://extensionpubs.unl.edu/publication/g1614/na/html/view",
-        "kind": "program",
-        "checked": "loaded"
-      }
-    ],
-    "facts": [
-      "Nebraska DHHS publishes its certified-lab list as a PDF."
-    ],
-    "fees": [],
-    "unverified": [
-      "Not yet transcribed; queued.",
-      "No state fee schedule collected."
-    ],
-    "last_verified": "2026-11-02"
-  },
   "kansas": {
     "name": "Kansas",
     "abbr": "KS",

@@ -958,5 +958,75 @@
   ],
   "name": "Montana",
   "abbr": "MT"
+ },
+ "nebraska": {
+  "title": "Nebraska certified labs for well water testing (DHHS list, Nov 2026)",
+  "description": "All 5 labs on Nebraska DHHS's certified drinking-water lab list plus the state lab (NPHEL), what each is certified for, published private-well test prices, and how to order a state kit.",
+  "intro": [
+   "The Nebraska Department of Health and Human Services (DHHS) certifies labs to test public drinking water under Title 179, Chapter 20. Its Laboratory Certification page links one \"Certified Labs\" PDF. We transcribed it on November 15, 2026. It lists 5 labs, all in Nebraska: three are certified only for total coliform/E. coli, one (American Agricultural Laboratory) also for nitrate/nitrite, and one (Midwest Laboratories, by reciprocity) for bacteria, nitrate, nitrite, copper, lead, VOCs and fluoride. The PDF prints no date; the file was created May 22, 2024.",
+   "The state lab is not on that PDF because DHHS runs the program. The Nebraska Public Health Environmental Laboratory (NPHEL) in Lincoln says it is certified by the U.S. EPA, and it sells kits to private well owners. The Nebraska Department of Water, Energy and Environment (DWEE) recommends testing a private well every year for bacteria and nitrate and, in a November 2024 notice, gave kit prices of $17 for bacteria and $16 for nitrate. Order kits online or call (402) 471-3935.",
+   "Private wells in Nebraska do not have to be tested by law, with some exceptions such as licensed childcare and foster homes, according to Nebraska Extension. Lenders and county health departments may require a test when a property with a well is sold. Nebraska Extension (NebGuide G1614, revised October 2022) recommends a certified lab when results may be used for a loan, legal action, or before spending a lot on treatment.",
+   "Local options: Central District Health Department in Grand Island tests private wells (coliform $27, nitrate $25 on its own page). The Southwest Nebraska Public Health Department hands out free nitrate/nitrite test strips each May and September and says to confirm any problem with a certified lab; it also says some Natural Resources Districts (NRDs) offer testing for well owners."
+  ],
+  "caveats": [
+   "Certification is per test. Most labs on the DHHS list are certified only for coliform bacteria. If you need certified results for nitrate, arsenic, uranium or anything else, ask the lab before you sample.",
+   "The DHHS list is for labs that test public water systems. It does not say which labs take homeowner samples. Where a lab's own page says it does, the listing says so and links that page.",
+   "Bacteria samples are time-limited: NPHEL will not test coliform samples more than 30 hours old, and Midwest Laboratories says 24 hours. Mail early in the week.",
+   "The DHHS PDF is from 2024 and prints no revision date. American Agricultural Laboratory changed owners on September 1, 2026, after the PDF was made. DHHS's lab certification manager can confirm the current list: (402) 471-8407.",
+   "Prices come only from each lab's or agency's own page, with the date we checked. NPHEL's posted price list is headed with a 2013-2023 pricing period, so its prices may be out of date. Confirm before you send a sample.",
+   "The grouping is ours: the first group is labs with a primary source showing they serve or list homeowners (or a commercial lab), the second is a public utility lab."
+  ],
+  "main_heading": "State lab, county health lab and commercial labs",
+  "public_heading": "Public utility lab on the same list",
+  "public_note": "Omaha's Metropolitan Utilities District lab is certified for coliform/E. coli. We found no source saying it takes samples from private-well owners. Call first.",
+  "chips_label": "Certification (DHHS list wording unless noted):",
+  "resources": [
+   {
+    "label": "Nebraska DHHS: Certified Labs (PDF)",
+    "url": "https://dhhs.ne.gov/Public%20Health%20Lab%20Documents/certified%20labs.pdf"
+   },
+   {
+    "label": "Nebraska DHHS: Laboratory Certification program page",
+    "url": "https://dhhs.ne.gov/Pages/Lab-Certification-Requirements.aspx"
+   },
+   {
+    "label": "Nebraska Public Health Environmental Laboratory (NPHEL)",
+    "url": "https://dhhs.ne.gov/Pages/Public-Health-Lab.aspx"
+   },
+   {
+    "label": "NPHEL: Private Citizen Water Test Kit Request Form",
+    "url": "https://www.nebraska.gov/dhhs/water-test-kits/private.html"
+   },
+   {
+    "label": "NPHEL: Customer Service, Analyte/Price List and kit ordering",
+    "url": "https://dhhs.ne.gov/Pages/Lab-Price-List.aspx"
+   },
+   {
+    "label": "NPHEL: Analyte/Price List (PDF, headed \"pricing effective 7/1/13 - 12/31/23\")",
+    "url": "https://dhhs.ne.gov/Public%20Health%20Lab%20Documents/AnalyteFees.pdf"
+   },
+   {
+    "label": "NPHEL: Total Water Quality (New Well) fee list (PDF)",
+    "url": "https://dhhs.ne.gov/Public%20Health%20Lab%20Documents/TOTAL%20WATER%20QUALITY%20(NEW%20WELL).pdf"
+   },
+   {
+    "label": "Nebraska DWEE: Sample private drinking water wells (Nov 18, 2024)",
+    "url": "https://dwee.nebraska.gov/news-events/press-releases/all-about-dwee-sample-private-drinking-water-wells"
+   },
+   {
+    "label": "Nebraska Extension NebGuide G1614: Certified Water Testing Laboratories in Nebraska (rev. Oct 2022)",
+    "url": "https://extensionpubs.unl.edu/publication/g1614/na/html/view"
+   },
+   {
+    "label": "UNL Water: Drinking water testing",
+    "url": "https://water.unl.edu/water-testing"
+   },
+   {
+    "label": "Southwest Nebraska Public Health Department: Private well water",
+    "url": "https://www.swhealth.ne.gov/environmentalhealth/privatewellwater"
+   }
+  ],
+  "name": "Nebraska",
+  "abbr": "NE"
  }
 }
