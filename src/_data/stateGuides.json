@@ -454,44 +454,6 @@
     ],
     "last_verified": "2026-11-02"
   },
-  "louisiana": {
-    "name": "Louisiana",
-    "abbr": "LA",
-    "list_type": "downloadable list (not yet transcribed here)",
-    "resources": [
-      {
-        "label": "LDH: Laboratory certification",
-        "url": "https://ldh.la.gov/page/laboratory-certification",
-        "kind": "lab list",
-        "checked": "loaded"
-      },
-      {
-        "label": "LDH: Private well testing information",
-        "url": "https://ldh.la.gov/page/well-testing-information",
-        "kind": "program",
-        "checked": "loaded"
-      }
-    ],
-    "facts": [
-      "LDH offers bacteriological testing of private wells; orders can be placed online or at a parish health unit (LDH well-testing page)."
-    ],
-    "fees": [
-      {
-        "test": "Bacteriological test, sanitarian-collected (includes lab analysis)",
-        "fee": "$150",
-        "source": "https://ldh.la.gov/page/well-testing-information"
-      },
-      {
-        "test": "Bacteriological test, owner-collected and dropped at parish health unit or lab",
-        "fee": "$40 per sample",
-        "source": "https://ldh.la.gov/page/well-testing-information"
-      }
-    ],
-    "unverified": [
-      "LDH's certified chemistry-lab list not yet transcribed; queued."
-    ],
-    "last_verified": "2026-11-02"
-  },
   "mississippi": {
     "name": "Mississippi",
     "abbr": "MS",

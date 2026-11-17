@@ -1028,5 +1028,68 @@
   ],
   "name": "Nebraska",
   "abbr": "NE"
+ },
+ "louisiana": {
+  "title": "Louisiana certified labs for well water testing (all 49 on LDH's lists, Nov 2026)",
+  "description": "All 49 labs on the Louisiana Department of Health's certified drinking-water lab lists (bacteria and chemistry), the five LDH state labs that test private wells for $40, and what each lab is certified for.",
+  "intro": [
+   "The Louisiana Department of Health (LDH) certifies labs that test drinking water under the Safe Drinking Water Act. Its Laboratory Certification page links two lists, which we transcribed on November 16, 2026: a microbiology (bacteria) list dated March 2026 with 18 labs, and a chemistry list \"current as of 2/12/2026\" with 32 labs. One lab (Jefferson Parish) is on both, so this page has 49 labs.",
+   "For most well owners the starting point is LDH itself. Its private well page says you can collect a bacteria sample yourself and take it to a parish health unit or LDH lab for $40 per sample, or have the parish sanitarian collect it. Orders can be placed online or in person at a parish health unit. Five LDH labs (Baton Rouge, Amite, Shreveport, Alexandria and Lake Charles) are on the bacteria list. For questions about sampling or results LDH gives 1-888-293-7020.",
+   "The only private lab on the bacteria list is Water Test, Inc. in Covington, which LDH marks \"private wells only\". No lab in Louisiana is on both lists except the Jefferson Parish water utility lab, so for nitrate, arsenic or other chemistry most certified options are out-of-state commercial labs (listed below) or one of three in-state commercial labs.",
+   "LDH's well-owner brochure recommends inspecting and testing a well every year for biological and chemical contaminants, and also after a hurricane, flood or major rainfall, when you notice a change in the water, or when a pregnant woman, infant, elderly person or someone with a weakened immune system lives in the home."
+  ],
+  "caveats": [
+   "Certification is per test. Each card shows the well-relevant tests the lab is certified for. Chemistry labs are not certified for bacteria in Louisiana unless they are also on the bacteria list.",
+   "The lists are for labs that test public water systems. \"Accepts Commercial Samples\" is printed on the chemistry list, but neither list says which labs take homeowner samples. Call first.",
+   "The bacteria list is dated March 2026, and several expiration dates on it (Water Test, Inc. August 2026; City of Marksville May 2026; LDH Rapides October 2026) have passed. LDH has not posted a newer list, so ask the lab. For questions about certification, LDH gives 225-219-5200.",
+   "LDH's two pages give different sanitarian prices: the private well page says sanitarian-collected testing is $150, while the online order page (fetched the same night) lists \"Sanitarian Services Well Testing\" at $75 and a $150 loan letter. Confirm with your parish health unit.",
+   "Bacteria samples are time-limited. Take samples to LDH Monday-Thursday before 2:00 pm, and to Water Test, Inc. Monday-Friday before 3:00 pm.",
+   "The grouping is ours: state labs, the one private bacteria lab and in-state commercial chemistry labs first; water-utility and military labs second; out-of-state chemistry labs last, sorted by whether they are certified for nitrate and arsenic."
+  ],
+  "main_heading": "LDH state labs, the private-well bacteria lab and in-state commercial labs",
+  "public_heading": "Water-utility, parish and military labs on the same lists",
+  "public_note": "These labs test water for a utility, parish or base. The LDH lists do not say whether they take samples from private-well owners, and we found no source saying they do. Call first.",
+  "oos_heading": "Out-of-state labs on LDH's chemistry list",
+  "oos_note": [
+   "LDH certifies 28 chemistry labs outside Louisiana. Most are large commercial labs that test for water utilities. Some only test for specialty items such as asbestos, dioxin, PFAS, radiologicals or disinfection byproducts; each card says which.",
+   "We list labs certified for both nitrate and arsenic first. Phone numbers come from LDH's October 2025 private-well table where it lists the lab; the February 2026 chemistry list prints only e-mail contacts. Ask each lab how to ship samples."
+  ],
+  "chips_label": "Certified by LDH for (well-relevant tests):",
+  "resources": [
+   {
+    "label": "LDH: Laboratory Certification program page",
+    "url": "https://ldh.la.gov/page/laboratory-certification"
+   },
+   {
+    "label": "LDH: Laboratories certified for chemistry tests on drinking water (current as of 2/12/2026)",
+    "url": "https://ldh-oph.qualtraxcloud.com/ShowDocument.aspx?ID=2668"
+   },
+   {
+    "label": "LDH: Laboratories certified for microbiology tests on drinking water (March 2026)",
+    "url": "https://ldh-oph.qualtraxcloud.com/ShowDocument.aspx?ID=2809"
+   },
+   {
+    "label": "LDH: Private Well Testing Information",
+    "url": "https://ldh.la.gov/page/well-testing-information"
+   },
+   {
+    "label": "LDH: Order a private well test online",
+    "url": "https://www.la.egov.com/ldh/privatewell/"
+   },
+   {
+    "label": "LDH: Sample drop-off locations (LDH labs and parish health units, PDF)",
+    "url": "https://ldh.la.gov/assets/oph/Center-EH/envepi/PWI/Documents/FINAL_Sample_Locations.pdf"
+   },
+   {
+    "label": "LDH: Certified drinking water chemistry laboratories as of 10/17/25 (private-well table, PDF)",
+    "url": "https://ldh.la.gov/assets/oph/Center-EH/envepi/PWI/Certified_Drinking_Water_Chemistry_Labs_10.25.25.pdf"
+   },
+   {
+    "label": "LDH brochure: Private Water Well Testing in Louisiana (PDF)",
+    "url": "https://ldh.la.gov/assets/oph/Center-EH/envepi/PWI/Documents/PrvtWtrWllBro_2022.pdf"
+   }
+  ],
+  "name": "Louisiana",
+  "abbr": "LA"
  }
 }
