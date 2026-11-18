@@ -1,0 +1,122 @@
+{
+ "state": "Mississippi",
+ "slug": "mississippi",
+ "abbr": "MS",
+ "list_source": {
+  "name": "MSDH: Water Supply Certification: In-State Labs",
+  "page_url": "https://msdh.ms.gov/safe-food-water-and-housing/water-supply/private-well-water-testing/water-supply-certification-labs",
+  "program_url": "https://msdh.ms.gov/safe-food-water-and-housing/water-supply/environmental-laboratory-certification-program",
+  "report_date": "web page, last updated October 10, 2026 (per MSDH's site data; the page prints no date); fetched November 17, 2026"
+ },
+ "last_verified": "2026-11-17",
+ "labs": [
+  {
+   "name": "MSDH private well bacteria sampling (Division of On-Site Wastewater; tested at the MSDH Public Health Laboratory)",
+   "address": "Statewide: an MSDH environmentalist samples your well; apply online",
+   "city": "Jackson",
+   "phone": "(855) 220-0192",
+   "accredited_for": [
+    "Not on the MSDH list (state program). Tests: total coliform; E. coli if coliform is present (per MSU Extension P3813)"
+   ],
+   "group": "main",
+   "website": "https://apps.msdh.ms.gov/WasteWaterOnlineApp/ApplicationEntry.aspx?id=pw",
+   "detail": "Not on the participating-labs list because MSDH runs the certification program. Phone is MSDH's toll-free On-Site Wastewater Call Center, which helps with the application and online payment.",
+   "note": "MSDH tests private wells for bacteria only. Its online Private Well Sample application (one well per application; not for homes on a public water system) says \"An Invoice of $10 + a processing fee will be emailed within one(1) business day.\" An MSDH environmentalist visits and takes the sample. MSU Extension publication P3813 (2025) says the Public Health Laboratory in Jackson tests for total coliform and, if positive, E. coli, reported as present or absent. For nitrate, arsenic, lead or other chemicals, MSDH says to use a private lab. After disinfecting a well, MSDH's disinfection page says samples can go to a county health department the same day for overnight shipment, or straight to the Public Health Laboratory within 28 hours of collection (8:00 to 4:00 Monday through Thursday, 8:00 to 2:00 Friday); analysis normally takes about 24 hours.",
+   "source_name": "MSDH: On-Site Wastewater online application, Private Well Sample (page prints no date; fetched 2026-11-17)",
+   "source_url": "https://apps.msdh.ms.gov/WasteWaterOnlineApp/ApplicationEntry.aspx?id=pw",
+   "source_date": "2026-11-17",
+   "source_url_2": "https://msdh.ms.gov/safe-food-water-and-housing/water-supply/private-well-water-testing",
+   "source_name_2": "MSDH: Private Well Water Testing page (updated 2026-10-10)",
+   "last_verified": "2026-11-17"
+  },
+  {
+   "name": "Micro-Methods Laboratory",
+   "address": "6500 Sunplex Drive, Ocean Springs, MS 39564",
+   "city": "Ocean Springs",
+   "phone": "(228) 875-6420",
+   "accredited_for": [
+    "Total coliform (SM 9223)",
+    "E. coli (SM 9223)",
+    "Heterotrophic plate count (SM 9215 E)",
+    "Nitrate as N (SM 4110 B)",
+    "Nitrite as N (SM 4110 B)",
+    "Lead (EPA 200.8)",
+    "Copper (EPA 200.8)"
+   ],
+   "group": "main",
+   "detail": "MSDH EPA ID MS00021; MSDH list wording: \"Chemistry, Microbiology\". The test list above is from the MSDH 2026 certificate and scopes the lab posts on its own site (certificate number MS00021, issued January 1, 2026, expires December 31, 2026; scopes dated March 6, 2026; also conductivity and pH as lead/copper support tests).",
+   "note": "Its analytical testing page says it runs total coliform and E. coli on well water, certified by MSDH, for home loan closings. Its coliform sampling sheet says: pick up a sterile container weekdays 8:00 to 4:30; drop off coliform samples Monday through Thursday, 8:00 to 4:00 (none on Friday or the day before a holiday); the sample must reach the lab within 24 hours; the written report should be ready within 48 hours; payment is due with the sample. It also says some lenders require a third-party sampler. Prices are not posted; call the office. When mailing, use the P.O. Box on its chain-of-custody form.",
+   "source_name": "MSDH: Water Supply Certification: In-State Labs",
+   "source_url": "https://msdh.ms.gov/safe-food-water-and-housing/water-supply/private-well-water-testing/water-supply-certification-labs",
+   "source_date": "2026-10-10",
+   "last_verified": "2026-11-17",
+   "website": "https://www.micromethodslab.com/",
+   "source_url_2": "https://www.micromethodslab.com/MSDH%20Drinking%20Water%202026%20Laboratory%20Scope%20of%20Accreditation%20.pdf",
+   "source_name_2": "Micro-Methods: MSDH 2026 certificate and scopes (PDF, lab-hosted)"
+  },
+  {
+   "name": "Bonner Analytical Testing, Inc.",
+   "address": "2703 Oak Grove Road, Hattiesburg, MS 39402",
+   "city": "Hattiesburg",
+   "phone": "(601) 264-2854",
+   "accredited_for": [
+    "Microbiology (MSDH list wording)"
+   ],
+   "group": "main",
+   "detail": "MSDH EPA ID MS00013; MSDH list wording: \"Microbiology\".",
+   "note": "We could not load this lab's website on 2026-11-17 (the server returned an error), so no prices, sample hours or homeowner services are shown. MSDH lists it among the private labs in its certification program. Call to ask whether it takes private-well samples and which bacteria tests it runs.",
+   "source_name": "MSDH: Water Supply Certification: In-State Labs",
+   "source_url": "https://msdh.ms.gov/safe-food-water-and-housing/water-supply/private-well-water-testing/water-supply-certification-labs",
+   "source_date": "2026-10-10",
+   "last_verified": "2026-11-17"
+  },
+  {
+   "name": "City of Meridian Fresh Water Treatment Plant",
+   "address": "P.O. Box 1430, Meridian, MS 39302",
+   "city": "Meridian",
+   "phone": "(601) 484-6836",
+   "accredited_for": [
+    "Microbiology (MSDH list wording)"
+   ],
+   "group": "public",
+   "detail": "MSDH EPA ID MS00008; MSDH list wording: \"Microbiology\". MSDH prints a P.O. Box, not a street address.",
+   "note": "A city water-plant lab. We found no source saying it accepts samples from private-well owners. Call first.",
+   "source_name": "MSDH: Water Supply Certification: In-State Labs",
+   "source_url": "https://msdh.ms.gov/safe-food-water-and-housing/water-supply/private-well-water-testing/water-supply-certification-labs",
+   "source_date": "2026-10-10",
+   "last_verified": "2026-11-17"
+  },
+  {
+   "name": "NASA Environmental Services",
+   "address": "Building 8100, Room 112C, Stennis Space Center, MS 39529",
+   "city": "Stennis Space Center",
+   "phone": "(228) 688-2053",
+   "accredited_for": [
+    "Chemistry, Microbiology (MSDH list wording)"
+   ],
+   "group": "public",
+   "detail": "MSDH EPA ID MS00903; MSDH list wording: \"Chemistry, Microbiology\". MSDH does not say which chemistry tests.",
+   "note": "A lab on a federal site (Stennis Space Center). We found no source saying it accepts samples from the public. Call first.",
+   "source_name": "MSDH: Water Supply Certification: In-State Labs",
+   "source_url": "https://msdh.ms.gov/safe-food-water-and-housing/water-supply/private-well-water-testing/water-supply-certification-labs",
+   "source_date": "2026-10-10",
+   "last_verified": "2026-11-17"
+  },
+  {
+   "name": "Huntington Ingalls, Inc",
+   "address": "1000 Access Rd, Mail Station 2030-02, Pascagoula, MS 39568-0149",
+   "city": "Pascagoula",
+   "phone": null,
+   "accredited_for": [
+    "Microbiology (MSDH list wording)"
+   ],
+   "group": "public",
+   "detail": "MSDH EPA ID MS01000; MSDH list wording: \"Microbiology\". MSDH prints no phone number for this lab.",
+   "note": "The Pascagoula shipyard's in-house lab. We found no source saying it accepts samples from the public.",
+   "source_name": "MSDH: Water Supply Certification: In-State Labs",
+   "source_url": "https://msdh.ms.gov/safe-food-water-and-housing/water-supply/private-well-water-testing/water-supply-certification-labs",
+   "source_date": "2026-10-10",
+   "last_verified": "2026-11-17"
+  }
+ ]
+}

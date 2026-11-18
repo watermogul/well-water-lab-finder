@@ -454,34 +454,6 @@
     ],
     "last_verified": "2026-11-02"
   },
-  "mississippi": {
-    "name": "Mississippi",
-    "abbr": "MS",
-    "list_type": "downloadable list (not yet transcribed here)",
-    "resources": [
-      {
-        "label": "MSDH: Labs for private well water testing",
-        "url": "https://msdh.ms.gov/safe-food-water-and-housing/water-supply/private-well-water-testing/water-supply-certification-labs",
-        "kind": "lab list",
-        "checked": "loaded"
-      },
-      {
-        "label": "MSDH: Private well water testing",
-        "url": "https://msdh.ms.gov/page/30,18658,76,762.html",
-        "kind": "program",
-        "checked": "loaded"
-      }
-    ],
-    "facts": [
-      "MSDH publishes a page of certified labs for private well testing."
-    ],
-    "fees": [],
-    "unverified": [
-      "Not yet transcribed; queued.",
-      "No fees collected."
-    ],
-    "last_verified": "2026-11-02"
-  },
   "new-mexico": {
     "name": "New Mexico",
     "abbr": "NM",

@@ -1091,5 +1091,75 @@
   ],
   "name": "Louisiana",
   "abbr": "LA"
+ },
+ "mississippi": {
+  "title": "Mississippi certified labs for well water testing (MSDH list, Nov 2026)",
+  "description": "All 5 labs on MSDH's in-state drinking-water lab list, what each is certified for, MSDH's $10 private-well bacteria sampling, and MSU Extension's free well-water screenings.",
+  "intro": [
+   "The Mississippi State Department of Health (MSDH) certifies labs to test drinking water for public water systems. Its Private Well Water Testing page links one list of \"private water testing laboratories participating in MSDH's Drinking Water Lab Certification Program.\" We transcribed it on November 17, 2026. It lists 5 labs, all in Mississippi. Two are certified for chemistry and microbiology (Micro-Methods Laboratory in Ocean Springs and NASA Environmental Services at Stennis Space Center); three for microbiology only. Only two are commercial labs. The others are a city water plant, a federal-site lab and a shipyard lab. MSDH's Environmental Laboratory Certification Program page shows the same 5 labs.",
+   "For most well owners the simplest option is MSDH itself. Apply online and an MSDH environmentalist comes to take a bacteria sample from your well. The application says you will be invoiced $10 plus a processing fee. MSDH tests private wells for bacteria only (total coliform, and E. coli if coliform is found). For nitrate, arsenic, lead or other chemicals, MSDH says to use a private lab. Call the On-Site Wastewater Call Center at 1-855-220-0192 for help applying.",
+   "Mississippi State University Extension's Mississippi Well Owner Network (MWON) holds free workshops for well owners, and well owners can have their water screened for E. coli at each program. Check the calendar on the MWON page and register ahead, or call (662) 325-1788. MWON's sample instructions say to collect the sample no more than 12 hours before dropping it off. A 2025 MSU Extension news release on a Tate County workshop also offered total coliform/E. coli screening and, for the first 21 well owners, a PFAS test. A screening is not the same as a certified lab result.",
+   "Mississippi does not require private well owners to test. MSU Extension (publication P3813, 2025) recommends testing drinking-water wells at least once a year. If E. coli is found, it says not to drink the water without boiling it first. MSDH publishes a well disinfection procedure; retest after disinfecting."
+  ],
+  "caveats": [
+   "Certification is per test. MSDH's list only says \"Chemistry\" and/or \"Microbiology\". The detailed test list on Micro-Methods' card comes from the MSDH certificate the lab posts on its own site. For any other lab, ask which tests it is certified for before you sample.",
+   "MSDH's list is for labs that test public water systems. It does not say which labs take homeowner samples. Where a lab's own page says it does, the listing says so and links that page.",
+   "Out-of-state labs: MSDH does not certify labs outside Mississippi directly. It accepts other states' certification by reciprocity, but it does not publish a list of those labs, so none are shown here. To check a lab's status, MSDH's certification office is at (601) 576-7582.",
+   "Bacteria samples are time-limited: Micro-Methods says 24 hours from sampling to the lab; MSDH's Public Health Laboratory takes direct deliveries up to 28 hours after collection.",
+   "Prices come only from each lab's or agency's own page, with the date we checked. MSDH's $10 fee is from its online application and does not include the processing fee. Micro-Methods does not post prices.",
+   "The grouping is ours. The first group is MSDH's own sampling service and the commercial labs. The second is the utility, federal-site and shipyard labs on the same list."
+  ],
+  "main_heading": "State sampling service and commercial labs",
+  "public_heading": "City water-plant, federal-site and shipyard labs on the same list",
+  "public_note": "MSDH lists these 3 labs as certified, but we found no source saying any of them takes samples from private-well owners. Call first.",
+  "chips_label": "MSDH certification (list wording unless noted):",
+  "resources": [
+   {
+    "label": "MSDH: Water Supply Certification: In-State Labs (labs for private well testing)",
+    "url": "https://msdh.ms.gov/safe-food-water-and-housing/water-supply/private-well-water-testing/water-supply-certification-labs"
+   },
+   {
+    "label": "MSDH: Private Well Water Testing",
+    "url": "https://msdh.ms.gov/safe-food-water-and-housing/water-supply/private-well-water-testing"
+   },
+   {
+    "label": "MSDH: Apply online for private well water sampling (On-Site Wastewater)",
+    "url": "https://apps.msdh.ms.gov/WasteWaterOnlineApp/ApplicationEntry.aspx?id=pw"
+   },
+   {
+    "label": "MSDH: On-Site Wastewater (Call Center 1-855-220-0192)",
+    "url": "https://msdh.ms.gov/safe-food-water-and-housing/on-site-wastewater-1"
+   },
+   {
+    "label": "MSDH: Environmental Laboratory Certification Program",
+    "url": "https://msdh.ms.gov/safe-food-water-and-housing/water-supply/environmental-laboratory-certification-program"
+   },
+   {
+    "label": "MSDH: Private Well Disinfection",
+    "url": "https://msdh.ms.gov/safe-food-water-and-housing/water-supply/private-well-disinfection"
+   },
+   {
+    "label": "MSU Extension: Mississippi Well Owner Network",
+    "url": "https://extension.msstate.edu/natural-resources/water/mississippi-well-owner-network"
+   },
+   {
+    "label": "MSU Extension: MWON well water sample instructions",
+    "url": "https://extension.msstate.edu/natural-resources/water/mississippi-well-owner-network/well-water-sample-instructions"
+   },
+   {
+    "label": "MSU Extension P3813: Testing Residential Private Well Drinking Water and Understanding Bacteriological Analyses (2025)",
+    "url": "https://extension.msstate.edu/publications/testing-residential-private-well-drinking-water-and-understanding-bacteriological-analyses"
+   },
+   {
+    "label": "MSU Extension news (2025): free water well testing and training, Tate County",
+    "url": "https://extension.msstate.edu/news/feature-story/2025/msu-extension-offers-free-water-well-testing-training"
+   },
+   {
+    "label": "Micro-Methods Laboratory: Total coliform sampling instructions (PDF)",
+    "url": "https://www.micromethodslab.com/pdfs/Coliform%20Sampling%20Instructions-web.pdf"
+   }
+  ],
+  "name": "Mississippi",
+  "abbr": "MS"
  }
 }
