@@ -454,34 +454,6 @@
     ],
     "last_verified": "2026-11-02"
   },
-  "new-mexico": {
-    "name": "New Mexico",
-    "abbr": "NM",
-    "list_type": "downloadable list (not yet transcribed here)",
-    "resources": [
-      {
-        "label": "NMED Drinking Water Bureau: Laboratory certification",
-        "url": "https://www.env.nm.gov/drinking_water/lab-certification/",
-        "kind": "lab list",
-        "checked": "loaded"
-      },
-      {
-        "label": "NMED: Private wells",
-        "url": "https://www.env.nm.gov/drinking_water/private-wells-2/",
-        "kind": "program",
-        "checked": "loaded"
-      }
-    ],
-    "facts": [
-      "NMED certifies drinking-water labs by test group; confirm a lab is certified for the tests you need and takes private samples."
-    ],
-    "fees": [],
-    "unverified": [
-      "Not yet transcribed; queued.",
-      "We have not confirmed details of any free NMED screening events."
-    ],
-    "last_verified": "2026-11-02"
-  },
   "arizona": {
     "name": "Arizona",
     "abbr": "AZ",

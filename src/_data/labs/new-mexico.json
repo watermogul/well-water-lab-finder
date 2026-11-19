@@ -1,0 +1,837 @@
+{
+ "state": "New Mexico",
+ "slug": "new-mexico",
+ "abbr": "NM",
+ "list_source": {
+  "name": "NMED Drinking Water Bureau: Laboratories Certified by NMED-DWB to Analyze Drinking Water Samples (PDF, last updated 10/26/2026)",
+  "page_url": "https://www.env.nm.gov/drinking_water/private-wells-2/",
+  "program_url": "https://www.env.nm.gov/drinking_water/lab-certification/",
+  "report_date": "PDF \"Last Updated: 10/26/2026\"; fetched November 18, 2026"
+ },
+ "last_verified": "2026-11-18",
+ "labs": [
+  {
+   "name": "NMED free well-water screening (field offices and water fairs; not a certified lab test)",
+   "address": "Statewide: drop off at an NMED field office, or bring a sample to a water fair",
+   "city": "Santa Fe",
+   "phone": "(505) 827-2900",
+   "accredited_for": [
+    "Not on the certified list (NMED screening). Field offices: nitrate, iron, fluoride",
+    "Water fairs: arsenic, electrical conductivity, fluoride, iron, nitrate, pH, sulfate"
+   ],
+   "group": "main",
+   "website": "https://www.env.nm.gov/septic/free-well-water-testing-2/",
+   "detail": "Phone is NMED's Ground Water Quality Bureau, which runs the water fairs (gwqb.general@env.nm.gov).",
+   "note": "NMED's Free Well Water Testing page says it tests private domestic wells free \"only for Nitrate, Iron and Fluoride\": collect at least one quart from the kitchen cold tap in a clean covered container, fill out the Well Testing Form, and bring both to your nearest NMED field office; results come by mail. NMED's Ground Water Quality Bureau also holds water fairs (the Private Wells page says eight a year) that test arsenic, electrical conductivity, fluoride, iron, nitrate, pH and sulfate, with results mailed in 2-4 weeks; dates are on the NMED events calendar. NMED says these are screenings only and do not replace certified lab testing. Neither tests for bacteria.",
+   "source_name": "NMED: Free Well Water Testing (page prints no date; fetched 2026-11-18)",
+   "source_url": "https://www.env.nm.gov/septic/free-well-water-testing-2/",
+   "source_date": "2026-11-18",
+   "source_url_2": "https://www.env.nm.gov/gwqb/water-fairs/",
+   "source_name_2": "NMED Ground Water Quality Bureau: Water Fairs page (fetched 2026-11-18)",
+   "last_verified": "2026-11-18"
+  },
+  {
+   "name": "BSN dba Indepth Water Testing",
+   "address": "290 Dinosaur Trail, Santa Fe, NM 87508",
+   "city": "Santa Fe",
+   "phone": "(505) 471-2023",
+   "accredited_for": [
+    "Microbiological (M)"
+   ],
+   "group": "main",
+   "detail": "NMED certification number NM9412; analyte groups as printed: \"M\"; certification expires 4/16/2028; on contract with NMED-DWB: yes.",
+   "source_name": "NMED Drinking Water Bureau: Laboratories Certified by NMED-DWB to Analyze Drinking Water Samples (PDF, last updated 10/26/2026)",
+   "source_url": "https://service.web.env.nm.gov/urls/CbGsmFug",
+   "source_date": "2026-10-26",
+   "last_verified": "2026-11-18",
+   "website": "https://indepthtest.com/",
+   "note": "Indepth's own site says it has tested water \"for public water systems and well owners in Santa Fe and northern New Mexico since 1986\" and lists \"Homeowner Wells\". Posted prices (tax not included): coliform and E. coli $80; bacteria and nitrate $130 (2-3 business days); bacteria, nitrate and lead (FHA/VA) $280 (10-14 business days); a 32-element panel that includes arsenic, fluoride, lead, manganese, nitrate and uranium $495 (14-17 business days). Bacteria samples must reach the lab within 24 hours of collection, kept cold; samples dropped off after 3:00 pm Thursday or on Friday add a $100 fee. Payment is due at drop-off; sampling visits are charged by time and mileage. Note NMED certifies this lab for microbiology only, so the chemistry in its panels is not covered by the NMED certification shown here; ask who runs those tests. The site gives (505) 473-7973 and the address above; NMED prints (505) 471-2023.",
+   "source_url_2": "https://indepthtest.com/",
+   "source_name_2": "Indepth Water Testing website (prices, fetched 2026-11-18)"
+  },
+  {
+   "name": "Environmental Testing Services Co., Inc.",
+   "address": "4501 Bogan Avenue NE, Suite B3, Albuquerque, NM 87109",
+   "city": "Albuquerque",
+   "phone": "(505) 881-0243",
+   "accredited_for": [
+    "Microbiological (M)",
+    "E. coli enumeration (E)"
+   ],
+   "group": "main",
+   "detail": "NMED certification number NM9414; analyte groups as printed: \"M, E\"; certification expires 4/26/2027; on contract with NMED-DWB: yes.",
+   "source_name": "NMED Drinking Water Bureau: Laboratories Certified by NMED-DWB to Analyze Drinking Water Samples (PDF, last updated 10/26/2026)",
+   "source_url": "https://service.web.env.nm.gov/urls/CbGsmFug",
+   "source_date": "2026-10-26",
+   "last_verified": "2026-11-18",
+   "website": "https://etsnewmexico.com/",
+   "note": "Its own site (ETS New Mexico) offers \"Private Water Testing\", says it can \"assist you with testing for almost any water quality concern\", offers sample collection services, and does well inspections for real estate transactions. No prices are posted; call.",
+   "source_url_2": "https://etsnewmexico.com/",
+   "source_name_2": "Environmental Testing Services (ETS New Mexico) website, fetched 2026-11-18"
+  },
+  {
+   "name": "Eurofins Environmental Testing South Central",
+   "address": "Albuquerque, NM (NMED lists city only)",
+   "city": "Albuquerque",
+   "phone": "(505) 345-3975",
+   "accredited_for": [
+    "Microbiological (M)",
+    "E. coli enumeration (E)",
+    "Inorganics: nitrate, fluoride, cyanide (IO)",
+    "Heavy metals (HM)",
+    "Lead and copper (Pb/Cu)",
+    "Radiologicals (RAD)",
+    "Volatile organic chemicals (VOC)",
+    "Synthetic organic chemicals (SOC)",
+    "PFAS",
+    "Secondaries (SD)",
+    "Disinfection byproducts (DBP)",
+    "Asbestos (A)",
+    "Cryptosporidium, Giardia, MPA (SUR)",
+    "Total organic carbon (TOC)",
+    "Dissolved organic carbon (DOC)",
+    "Specific UV absorbance (SUVA)"
+   ],
+   "group": "main",
+   "detail": "NMED certification number NM9425; analyte groups as printed: \"A, RAD, HM, SOC, VOC, IO, DBP, SD, Pb/Cu, PFAS, M, E, SUR, TOC, DOC, SUVA, SD\"; certification expires 2/25/2027 & 1/5/2028 (M, E); on contract with NMED-DWB: yes.",
+   "source_name": "NMED Drinking Water Bureau: Laboratories Certified by NMED-DWB to Analyze Drinking Water Samples (PDF, last updated 10/26/2026)",
+   "source_url": "https://service.web.env.nm.gov/urls/CbGsmFug",
+   "source_date": "2026-10-26",
+   "last_verified": "2026-11-18",
+   "note": "Certified for the widest range of groups of any New Mexico lab on the list, including bacteria, inorganics (nitrate and fluoride), heavy metals, radiologicals, VOCs and PFAS. NMED's older 2022 lab list showed this phone number for Hall Environmental Analysis Laboratory. We did not verify homeowner prices or services; call."
+  },
+  {
+   "name": "Cardinal Laboratories",
+   "address": "Hobbs, NM (NMED lists city only)",
+   "city": "Hobbs",
+   "phone": "(575) 393-2326",
+   "accredited_for": [
+    "Microbiological (M)",
+    "Inorganics: nitrate, fluoride, cyanide (IO)",
+    "Heavy metals (HM)",
+    "Lead and copper (Pb/Cu)",
+    "Radiologicals (RAD)",
+    "Volatile organic chemicals (VOC)",
+    "Synthetic organic chemicals (SOC)",
+    "PFAS",
+    "Disinfection byproducts (DBP)",
+    "Asbestos (A)",
+    "Dioxin (DI)",
+    "Total organic carbon (TOC)",
+    "Dissolved organic carbon (DOC)"
+   ],
+   "group": "main",
+   "detail": "NMED certification number NM00036; analyte groups as printed: \"A, M, VOC, DBP, SOC, HM, PFAS, RAD, DI, A, IO, Pb/Cu, TOC, DOC\"; certification expires 4/30/2027; on contract with NMED-DWB: yes.",
+   "source_name": "NMED Drinking Water Bureau: Laboratories Certified by NMED-DWB to Analyze Drinking Water Samples (PDF, last updated 10/26/2026)",
+   "source_url": "https://service.web.env.nm.gov/urls/CbGsmFug",
+   "source_date": "2026-10-26",
+   "last_verified": "2026-11-18",
+   "website": "https://cardinallabsnm.com/",
+   "note": "Its site says it tests soil and water \"for public and private interests\", is drinking-water certified in Colorado, New Mexico and Texas, and has a sample receiving office in Farmington. It does not post homeowner prices or say it takes walk-in well samples; call.",
+   "source_url_2": "https://cardinallabsnm.com/",
+   "source_name_2": "Cardinal Laboratories website, fetched 2026-11-18"
+  },
+  {
+   "name": "Diagnostic & Technology Center",
+   "address": "Alamogordo, NM (NMED lists city only)",
+   "city": "Alamogordo",
+   "phone": "(505) 434-4944",
+   "accredited_for": [
+    "Microbiological (M)",
+    "E. coli enumeration (E)"
+   ],
+   "group": "main",
+   "detail": "NMED certification number NM0301; analyte groups as printed: \"M, E\"; certification expires 8/15/2028; on contract with NMED-DWB: yes.",
+   "source_name": "NMED Drinking Water Bureau: Laboratories Certified by NMED-DWB to Analyze Drinking Water Samples (PDF, last updated 10/26/2026)",
+   "source_url": "https://service.web.env.nm.gov/urls/CbGsmFug",
+   "source_date": "2026-10-26",
+   "last_verified": "2026-11-18",
+   "note": "NMED's list prints (505) 434-4944. NMED's older Ground Water Quality Bureau list of labs (PDF created 2022) gives (575) 434-4944 for this lab, which matches Alamogordo's area code. Try 575 first.",
+   "source_url_2": "https://cloud.env.nm.gov/resources/_translator.php/OGNiZmMzZmNlODBjZDM5MWFlZmNiNTM0ZF82NDM2Mg~~.pdf",
+   "source_name_2": "NMED GWQB: Laboratories Providing Assistance With Water, Wastewater, and Soil Analysis (PDF created 2022-11-21)"
+  },
+  {
+   "name": "Farmington Environmental Lab",
+   "address": "Farmington, NM (NMED lists city only)",
+   "city": "Farmington",
+   "phone": "(505) 325-6953",
+   "accredited_for": [
+    "Microbiological (M)",
+    "E. coli enumeration (E)"
+   ],
+   "group": "main",
+   "detail": "NMED certification number NM9448; analyte groups as printed: \"M, E\"; certification expires 7/17/2027; on contract with NMED-DWB: yes.",
+   "source_name": "NMED Drinking Water Bureau: Laboratories Certified by NMED-DWB to Analyze Drinking Water Samples (PDF, last updated 10/26/2026)",
+   "source_url": "https://service.web.env.nm.gov/urls/CbGsmFug",
+   "source_date": "2026-10-26",
+   "last_verified": "2026-11-18"
+  },
+  {
+   "name": "NM Water Testing Laboratory",
+   "address": "Espanola, NM (NMED lists city only)",
+   "city": "Espanola",
+   "phone": "(505) 929-4545",
+   "accredited_for": [
+    "Microbiological (M)",
+    "E. coli enumeration (E)"
+   ],
+   "group": "main",
+   "detail": "NMED certification number NM9419; analyte groups as printed: \"M, E\"; certification expires 6/8/2028; on contract with NMED-DWB: yes.",
+   "source_name": "NMED Drinking Water Bureau: Laboratories Certified by NMED-DWB to Analyze Drinking Water Samples (PDF, last updated 10/26/2026)",
+   "source_url": "https://service.web.env.nm.gov/urls/CbGsmFug",
+   "source_date": "2026-10-26",
+   "last_verified": "2026-11-18"
+  },
+  {
+   "name": "Aqua Environmental Testing -Las Cruces",
+   "address": "Las Cruces, NM (NMED lists city only)",
+   "city": "Las Cruces",
+   "phone": "(575) 526-0871",
+   "accredited_for": [
+    "Microbiological (M)"
+   ],
+   "group": "main",
+   "detail": "NMED certification number NM1201; analyte groups as printed: \"M\"; certification expires 5/20/2027; on contract with NMED-DWB: yes.",
+   "source_name": "NMED Drinking Water Bureau: Laboratories Certified by NMED-DWB to Analyze Drinking Water Samples (PDF, last updated 10/26/2026)",
+   "source_url": "https://service.web.env.nm.gov/urls/CbGsmFug",
+   "source_date": "2026-10-26",
+   "last_verified": "2026-11-18",
+   "note": "NMED's older Ground Water Quality Bureau list of labs (PDF created 2022) also lists Aqua Environmental Testing Lab offices in Clovis (575) 749-2189 and Ruidoso (575) 336-1107. Only the Las Cruces lab is on the current certified list.",
+   "source_url_2": "https://cloud.env.nm.gov/resources/_translator.php/OGNiZmMzZmNlODBjZDM5MWFlZmNiNTM0ZF82NDM2Mg~~.pdf",
+   "source_name_2": "NMED GWQB: Laboratories Providing Assistance With Water, Wastewater, and Soil Analysis (PDF created 2022-11-21)"
+  },
+  {
+   "name": "Gallup Microbiology Lab",
+   "address": "Gallup, NM (NMED lists city only)",
+   "city": "Gallup",
+   "phone": "(505) 863-2001",
+   "accredited_for": [
+    "Microbiological (M)"
+   ],
+   "group": "main",
+   "detail": "NMED certification number NM0501; analyte groups as printed: \"M\"; certification expires 3/15/2029; on contract with NMED-DWB: yes.",
+   "source_name": "NMED Drinking Water Bureau: Laboratories Certified by NMED-DWB to Analyze Drinking Water Samples (PDF, last updated 10/26/2026)",
+   "source_url": "https://service.web.env.nm.gov/urls/CbGsmFug",
+   "source_date": "2026-10-26",
+   "last_verified": "2026-11-18"
+  },
+  {
+   "name": "Industrial Water Engineering",
+   "address": "Albuquerque, NM (NMED lists city only)",
+   "city": "Albuquerque",
+   "phone": "(505) 345-5055",
+   "accredited_for": [
+    "Microbiological (M)"
+   ],
+   "group": "main",
+   "detail": "NMED certification number NM2201; analyte groups as printed: \"M\"; certification expires 2/4/2028; on contract with NMED-DWB: yes.",
+   "source_name": "NMED Drinking Water Bureau: Laboratories Certified by NMED-DWB to Analyze Drinking Water Samples (PDF, last updated 10/26/2026)",
+   "source_url": "https://service.web.env.nm.gov/urls/CbGsmFug",
+   "source_date": "2026-10-26",
+   "last_verified": "2026-11-18"
+  },
+  {
+   "name": "NM Microbiology Lab",
+   "address": "Milan, NM (NMED lists city only)",
+   "city": "Milan",
+   "phone": "(505) 287-2208",
+   "accredited_for": [
+    "Microbiological (M)"
+   ],
+   "group": "main",
+   "detail": "NMED certification number NM9428; analyte groups as printed: \"M\"; certification expires 8/14/2029; on contract with NMED-DWB: yes.",
+   "source_name": "NMED Drinking Water Bureau: Laboratories Certified by NMED-DWB to Analyze Drinking Water Samples (PDF, last updated 10/26/2026)",
+   "source_url": "https://service.web.env.nm.gov/urls/CbGsmFug",
+   "source_date": "2026-10-26",
+   "last_verified": "2026-11-18"
+  },
+  {
+   "name": "ABCWUA Water Quality Lab",
+   "address": "Albuquerque, NM (NMED lists city only)",
+   "city": "Albuquerque",
+   "phone": "(505) 289-3499",
+   "accredited_for": [
+    "Microbiological (M)",
+    "Lead and copper (Pb/Cu)"
+   ],
+   "group": "public",
+   "detail": "NMED certification number NM9402; analyte groups as printed: \"M, Pb/Cu\"; certification expires 7/31/2028; on contract with NMED-DWB: yes.",
+   "source_name": "NMED Drinking Water Bureau: Laboratories Certified by NMED-DWB to Analyze Drinking Water Samples (PDF, last updated 10/26/2026)",
+   "source_url": "https://service.web.env.nm.gov/urls/CbGsmFug",
+   "source_date": "2026-10-26",
+   "last_verified": "2026-11-18"
+  },
+  {
+   "name": "City of Carlsbad",
+   "address": "Carlsbad, NM (NMED lists city only)",
+   "city": "Carlsbad",
+   "phone": "(575) 628-8176",
+   "accredited_for": [
+    "Microbiological (M)"
+   ],
+   "group": "public",
+   "detail": "NMED certification number NM9405; analyte groups as printed: \"M\"; certification expires 4/6/2027; on contract with NMED-DWB: yes.",
+   "source_name": "NMED Drinking Water Bureau: Laboratories Certified by NMED-DWB to Analyze Drinking Water Samples (PDF, last updated 10/26/2026)",
+   "source_url": "https://service.web.env.nm.gov/urls/CbGsmFug",
+   "source_date": "2026-10-26",
+   "last_verified": "2026-11-18"
+  },
+  {
+   "name": "City of Hobbs",
+   "address": "Hobbs, NM (NMED lists city only)",
+   "city": "Hobbs",
+   "phone": "(575) 397-9315",
+   "accredited_for": [
+    "Microbiological (M)"
+   ],
+   "group": "public",
+   "detail": "NMED certification number NM9411; analyte groups as printed: \"M\"; certification expires 6/8/2027; on contract with NMED-DWB: yes.",
+   "source_name": "NMED Drinking Water Bureau: Laboratories Certified by NMED-DWB to Analyze Drinking Water Samples (PDF, last updated 10/26/2026)",
+   "source_url": "https://service.web.env.nm.gov/urls/CbGsmFug",
+   "source_date": "2026-10-26",
+   "last_verified": "2026-11-18"
+  },
+  {
+   "name": "City of Las Cruces",
+   "address": "Las Cruces, NM (NMED lists city only)",
+   "city": "Las Cruces",
+   "phone": "(575) 528-3604",
+   "accredited_for": [
+    "Microbiological (M)"
+   ],
+   "group": "public",
+   "detail": "NMED certification number NM9415; analyte groups as printed: \"M\"; certification expires 10/19/2028; on contract with NMED-DWB: no.",
+   "source_name": "NMED Drinking Water Bureau: Laboratories Certified by NMED-DWB to Analyze Drinking Water Samples (PDF, last updated 10/26/2026)",
+   "source_url": "https://service.web.env.nm.gov/urls/CbGsmFug",
+   "source_date": "2026-10-26",
+   "last_verified": "2026-11-18"
+  },
+  {
+   "name": "City of Rio Rancho",
+   "address": "Rio Rancho, NM (NMED lists city only)",
+   "city": "Rio Rancho",
+   "phone": "(505) 891-5024",
+   "accredited_for": [
+    "Microbiological (M)"
+   ],
+   "group": "public",
+   "detail": "NMED certification number NM1301; analyte groups as printed: \"M\"; certification expires 3/17/2028; on contract with NMED-DWB: no.",
+   "source_name": "NMED Drinking Water Bureau: Laboratories Certified by NMED-DWB to Analyze Drinking Water Samples (PDF, last updated 10/26/2026)",
+   "source_url": "https://service.web.env.nm.gov/urls/CbGsmFug",
+   "source_date": "2026-10-26",
+   "last_verified": "2026-11-18"
+  },
+  {
+   "name": "City of Roswell",
+   "address": "Roswell, NM (NMED lists city only)",
+   "city": "Roswell",
+   "phone": "(575) 624-6752",
+   "accredited_for": [
+    "Microbiological (M)"
+   ],
+   "group": "public",
+   "detail": "NMED certification number NM9422; analyte groups as printed: \"M\"; certification expires 6/1/2028; on contract with NMED-DWB: yes.",
+   "source_name": "NMED Drinking Water Bureau: Laboratories Certified by NMED-DWB to Analyze Drinking Water Samples (PDF, last updated 10/26/2026)",
+   "source_url": "https://service.web.env.nm.gov/urls/CbGsmFug",
+   "source_date": "2026-10-26",
+   "last_verified": "2026-11-18"
+  },
+  {
+   "name": "City of Tucumcari",
+   "address": "Tucumcari, NM (NMED lists city only)",
+   "city": "Tucumcari",
+   "phone": "(575) 461-4372",
+   "accredited_for": [
+    "Microbiological (M)",
+    "E. coli enumeration (E)"
+   ],
+   "group": "public",
+   "detail": "NMED certification number NM9429; analyte groups as printed: \"M, E\"; certification expires 1/26/2027; on contract with NMED-DWB: yes.",
+   "source_name": "NMED Drinking Water Bureau: Laboratories Certified by NMED-DWB to Analyze Drinking Water Samples (PDF, last updated 10/26/2026)",
+   "source_url": "https://service.web.env.nm.gov/urls/CbGsmFug",
+   "source_date": "2026-10-26",
+   "last_verified": "2026-11-18"
+  },
+  {
+   "name": "EPCOR Water",
+   "address": "Clovis, NM (NMED lists city only)",
+   "city": "Clovis",
+   "phone": "(575) 763-5538",
+   "accredited_for": [
+    "Microbiological (M)"
+   ],
+   "group": "public",
+   "detail": "NMED certification number NM9901; analyte groups as printed: \"M\"; certification expires 3/15/2028; on contract with NMED-DWB: yes.",
+   "source_name": "NMED Drinking Water Bureau: Laboratories Certified by NMED-DWB to Analyze Drinking Water Samples (PDF, last updated 10/26/2026)",
+   "source_url": "https://service.web.env.nm.gov/urls/CbGsmFug",
+   "source_date": "2026-10-26",
+   "last_verified": "2026-11-18"
+  },
+  {
+   "name": "Raton Waste Water Laboratory",
+   "address": "Raton, NM (NMED lists city only)",
+   "city": "Raton",
+   "phone": "(575) 445-3861",
+   "accredited_for": [
+    "Microbiological (M)"
+   ],
+   "group": "public",
+   "detail": "NMED certification number NM9454; analyte groups as printed: \"M\"; certification expires 10/29/2029; on contract with NMED-DWB: yes.",
+   "source_name": "NMED Drinking Water Bureau: Laboratories Certified by NMED-DWB to Analyze Drinking Water Samples (PDF, last updated 10/26/2026)",
+   "source_url": "https://service.web.env.nm.gov/urls/CbGsmFug",
+   "source_date": "2026-10-26",
+   "last_verified": "2026-11-18"
+  },
+  {
+   "name": "Red River AWWT Laboratory",
+   "address": "Red River, NM (NMED lists city only)",
+   "city": "Red River",
+   "phone": "(575) 754-2277",
+   "accredited_for": [
+    "Microbiological (M)"
+   ],
+   "group": "public",
+   "detail": "NMED certification number NM9420; analyte groups as printed: \"M\"; certification expires 11/30/2026; on contract with NMED-DWB: yes.",
+   "source_name": "NMED Drinking Water Bureau: Laboratories Certified by NMED-DWB to Analyze Drinking Water Samples (PDF, last updated 10/26/2026)",
+   "source_url": "https://service.web.env.nm.gov/urls/CbGsmFug",
+   "source_date": "2026-10-26",
+   "last_verified": "2026-11-18",
+   "note": "NMED lists a certification expiration of 11/30/2026 for this lab. Confirm it has been renewed."
+  },
+  {
+   "name": "SLD - Scientific Laboratory Division",
+   "address": "Albuquerque, NM (NMED lists city only)",
+   "city": "Albuquerque",
+   "phone": "(505) 383-9000",
+   "accredited_for": [
+    "Microbiological (M)",
+    "E. coli enumeration (E)",
+    "Inorganics: nitrate, fluoride, cyanide (IO)",
+    "Heavy metals (HM)",
+    "Lead and copper (Pb/Cu)",
+    "Radiologicals (RAD)",
+    "Volatile organic chemicals (VOC)",
+    "Synthetic organic chemicals (SOC)",
+    "PFAS",
+    "Secondaries (SD)",
+    "Disinfection byproducts (DBP)",
+    "Total organic carbon (TOC)",
+    "Specific UV absorbance (SUVA)"
+   ],
+   "group": "public",
+   "detail": "NMED certification number NM9424/NM00 (the number is cut off in NMED's PDF); analyte groups as printed: \"HM, SOC, VOC, RAD, IO, DBP, SD, Pb/Cu, M, E, TOC, SUVA, PFAS\"; certification expires 12/30/2027; on contract with NMED-DWB: yes.",
+   "source_name": "NMED Drinking Water Bureau: Laboratories Certified by NMED-DWB to Analyze Drinking Water Samples (PDF, last updated 10/26/2026)",
+   "source_url": "https://service.web.env.nm.gov/urls/CbGsmFug",
+   "source_date": "2026-10-26",
+   "last_verified": "2026-11-18",
+   "note": "The state public health lab (NM Department of Health). NMED's lab-certification page calls it the Principal State Laboratory. Its own page says it supports \"tax-supported agencies and groups or entities administering health and environmental programs\"; we found no source saying it tests samples for individual well owners. Call first."
+  },
+  {
+   "name": "Town of Silver City",
+   "address": "Silver City, NM (NMED lists city only)",
+   "city": "Silver City",
+   "phone": "(575) 388-4981",
+   "accredited_for": [
+    "Microbiological (M)"
+   ],
+   "group": "public",
+   "detail": "NMED certification number NM9427; analyte groups as printed: \"M\"; certification expires 3/4/2027; on contract with NMED-DWB: yes.",
+   "source_name": "NMED Drinking Water Bureau: Laboratories Certified by NMED-DWB to Analyze Drinking Water Samples (PDF, last updated 10/26/2026)",
+   "source_url": "https://service.web.env.nm.gov/urls/CbGsmFug",
+   "source_date": "2026-10-26",
+   "last_verified": "2026-11-18"
+  },
+  {
+   "name": "Eurofins - South Bend",
+   "address": "South Bend, IN (NMED lists city only)",
+   "city": "South Bend",
+   "phone": "(574) 233-4777",
+   "accredited_for": [
+    "Microbiological (M)",
+    "E. coli enumeration (E)",
+    "Inorganics: nitrate, fluoride, cyanide (IO)",
+    "Heavy metals (HM)",
+    "Lead and copper (Pb/Cu)",
+    "Radiologicals (RAD)",
+    "Volatile organic chemicals (VOC)",
+    "Synthetic organic chemicals (SOC)",
+    "PFAS",
+    "Secondaries (SD)",
+    "Disinfection byproducts (DBP)",
+    "Cryptosporidium, Giardia, MPA (SUR)",
+    "Total organic carbon (TOC)",
+    "Dissolved organic carbon (DOC)",
+    "Specific UV absorbance (SUVA)"
+   ],
+   "group": "outofstate",
+   "detail": "NMED certification number IN00035; analyte groups as printed: \"HM, SOC, VOC, RAD, IO, DBP, SD, Pb/Cu, SUR, M, E, PFAS, TOC, DOC, SUVA\"; certification expires 6/30/2027; on contract with NMED-DWB: no.",
+   "source_name": "NMED Drinking Water Bureau: Laboratories Certified by NMED-DWB to Analyze Drinking Water Samples (PDF, last updated 10/26/2026)",
+   "source_url": "https://service.web.env.nm.gov/urls/CbGsmFug",
+   "source_date": "2026-10-26",
+   "last_verified": "2026-11-18"
+  },
+  {
+   "name": "Eurofins Drinking Water & Wastewater West",
+   "address": "Pomona, CA (NMED lists city only)",
+   "city": "Pomona",
+   "phone": "(626) 386-1100",
+   "accredited_for": [
+    "Microbiological (M)",
+    "E. coli enumeration (E)",
+    "Inorganics: nitrate, fluoride, cyanide (IO)",
+    "Heavy metals (HM)",
+    "Lead and copper (Pb/Cu)",
+    "Volatile organic chemicals (VOC)",
+    "Synthetic organic chemicals (SOC)",
+    "PFAS",
+    "Secondaries (SD)",
+    "Disinfection byproducts (DBP)",
+    "Dioxin (DI)",
+    "Total organic carbon (TOC)",
+    "Dissolved organic carbon (DOC)",
+    "Specific UV absorbance (SUVA)"
+   ],
+   "group": "outofstate",
+   "detail": "NMED certification number CA00006; analyte groups as printed: \"DI, VOC, DBPs, PFAS, TOC, DOC, SUVA, M, E, IO, HM, Pb/Cu, SD, SOC\"; certification expires 1/31/2027; on contract with NMED-DWB: no.",
+   "source_name": "NMED Drinking Water Bureau: Laboratories Certified by NMED-DWB to Analyze Drinking Water Samples (PDF, last updated 10/26/2026)",
+   "source_url": "https://service.web.env.nm.gov/urls/CbGsmFug",
+   "source_date": "2026-10-26",
+   "last_verified": "2026-11-18"
+  },
+  {
+   "name": "National Testing Laboratories, Ltd.",
+   "address": "Ypsilanti, MI (NMED lists city only)",
+   "city": "Ypsilanti",
+   "phone": "(734) 483-8333",
+   "accredited_for": [
+    "Microbiological (M)",
+    "E. coli enumeration (E)",
+    "Inorganics: nitrate, fluoride, cyanide (IO)",
+    "Heavy metals (HM)",
+    "Lead and copper (Pb/Cu)",
+    "Radiologicals (RAD)",
+    "Volatile organic chemicals (VOC)",
+    "Secondaries (SD)",
+    "Disinfection byproducts (DBP)",
+    "Total organic carbon (TOC)",
+    "Dissolved organic carbon (DOC)"
+   ],
+   "group": "outofstate",
+   "detail": "NMED certification number MI00044; analyte groups as printed: \"HM, VOC, RAD, IO, DBP, SD, Pb/Cu, M, E, TOC, DOC\"; certification expires 6/30/2027; on contract with NMED-DWB: no.",
+   "source_name": "NMED Drinking Water Bureau: Laboratories Certified by NMED-DWB to Analyze Drinking Water Samples (PDF, last updated 10/26/2026)",
+   "source_url": "https://service.web.env.nm.gov/urls/CbGsmFug",
+   "source_date": "2026-10-26",
+   "last_verified": "2026-11-18"
+  },
+  {
+   "name": "NELAnalytical Laboratory",
+   "address": "Winslow, ME (NMED lists city only)",
+   "city": "Winslow",
+   "phone": "(207) 873-7711",
+   "accredited_for": [
+    "Microbiological (M)",
+    "E. coli enumeration (E)"
+   ],
+   "group": "outofstate",
+   "detail": "NMED certification number ME00009; analyte groups as printed: \"M, E\"; certification expires 12/7/2026; on contract with NMED-DWB: no.",
+   "source_name": "NMED Drinking Water Bureau: Laboratories Certified by NMED-DWB to Analyze Drinking Water Samples (PDF, last updated 10/26/2026)",
+   "source_url": "https://service.web.env.nm.gov/urls/CbGsmFug",
+   "source_date": "2026-10-26",
+   "last_verified": "2026-11-18",
+   "note": "Highlighted on NMED's list as \"Certification renewal is in progress, there will be no lapse in certification.\" Its expiration date (12/7/2026) is close; confirm status."
+  },
+  {
+   "name": "Niagara Bottling, LLC",
+   "address": "Howard, PA (NMED lists city only)",
+   "city": "Howard",
+   "phone": "(814) 357-6084",
+   "accredited_for": [
+    "Microbiological (M)",
+    "E. coli enumeration (E)"
+   ],
+   "group": "outofstate",
+   "detail": "NMED certification number PA01348; analyte groups as printed: \"M, E\"; certification expires 6/30/2027; on contract with NMED-DWB: no.",
+   "source_name": "NMED Drinking Water Bureau: Laboratories Certified by NMED-DWB to Analyze Drinking Water Samples (PDF, last updated 10/26/2026)",
+   "source_url": "https://service.web.env.nm.gov/urls/CbGsmFug",
+   "source_date": "2026-10-26",
+   "last_verified": "2026-11-18"
+  },
+  {
+   "name": "Anatek Labs Inc. -Moscow",
+   "address": "Moscow, ID (NMED lists city only)",
+   "city": "Moscow",
+   "phone": "(208) 883-2839",
+   "accredited_for": [
+    "Inorganics: nitrate, fluoride, cyanide (IO)",
+    "Heavy metals (HM)",
+    "Lead and copper (Pb/Cu)",
+    "Volatile organic chemicals (VOC)",
+    "Synthetic organic chemicals (SOC)",
+    "PFAS",
+    "Secondaries (SD)",
+    "Disinfection byproducts (DBP)",
+    "Total organic carbon (TOC)",
+    "Dissolved organic carbon (DOC)"
+   ],
+   "group": "outofstate",
+   "detail": "NMED certification number ID00013; analyte groups as printed: \"HM, SOC, VOC, IO, DBP, SD, Pb/Cu, PFAS, TOC, DOC\"; certification expires 6/30/2027; on contract with NMED-DWB: no.",
+   "source_name": "NMED Drinking Water Bureau: Laboratories Certified by NMED-DWB to Analyze Drinking Water Samples (PDF, last updated 10/26/2026)",
+   "source_url": "https://service.web.env.nm.gov/urls/CbGsmFug",
+   "source_date": "2026-10-26",
+   "last_verified": "2026-11-18"
+  },
+  {
+   "name": "Eurofins Environment Testing - Orlando",
+   "address": "Altamonte Springs, FL (NMED lists city only)",
+   "city": "Altamonte Springs",
+   "phone": "(407) 339-5984",
+   "accredited_for": [
+    "Inorganics: nitrate, fluoride, cyanide (IO)",
+    "Heavy metals (HM)",
+    "Lead and copper (Pb/Cu)",
+    "Volatile organic chemicals (VOC)",
+    "Synthetic organic chemicals (SOC)",
+    "Secondaries (SD)",
+    "Total organic carbon (TOC)"
+   ],
+   "group": "outofstate",
+   "detail": "NMED certification number FL00091; analyte groups as printed: \"IO, HM, Pb/Cu, SD, VOC, SOC, TOC\"; certification expires 6/30/2027; on contract with NMED-DWB: no.",
+   "source_name": "NMED Drinking Water Bureau: Laboratories Certified by NMED-DWB to Analyze Drinking Water Samples (PDF, last updated 10/26/2026)",
+   "source_url": "https://service.web.env.nm.gov/urls/CbGsmFug",
+   "source_date": "2026-10-26",
+   "last_verified": "2026-11-18"
+  },
+  {
+   "name": "GEL Laboratories, LLC",
+   "address": "Charleston, SC (NMED lists city only)",
+   "city": "Charleston",
+   "phone": "(843) 556-8171",
+   "accredited_for": [
+    "Inorganics: nitrate, fluoride, cyanide (IO)",
+    "Heavy metals (HM)",
+    "Lead and copper (Pb/Cu)",
+    "Radiologicals (RAD)",
+    "PFAS (EPA 537.1 only)",
+    "Secondaries (SD)"
+   ],
+   "group": "outofstate",
+   "detail": "NMED certification number SC00012; analyte groups as printed: \"HM, RAD, IO, SD, Pb/Cu, PFAS (537.1 only)\"; certification expires 10/31/2027; on contract with NMED-DWB: no.",
+   "source_name": "NMED Drinking Water Bureau: Laboratories Certified by NMED-DWB to Analyze Drinking Water Samples (PDF, last updated 10/26/2026)",
+   "source_url": "https://service.web.env.nm.gov/urls/CbGsmFug",
+   "source_date": "2026-10-26",
+   "last_verified": "2026-11-18"
+  },
+  {
+   "name": "ACZ Laboratories",
+   "address": "Steamboat Springs, CO (NMED lists city only)",
+   "city": "Steamboat Springs",
+   "phone": "(970) 879-6590",
+   "accredited_for": [
+    "Inorganics: nitrate, fluoride, cyanide (IO)",
+    "Heavy metals (HM)",
+    "Lead and copper (Pb/Cu)",
+    "Secondaries (SD)"
+   ],
+   "group": "outofstate",
+   "detail": "NMED certification number CO00028; analyte groups as printed: \"HM, Pb/Cu, IO, SD\"; certification expires 7/31/2027; on contract with NMED-DWB: no.",
+   "source_name": "NMED Drinking Water Bureau: Laboratories Certified by NMED-DWB to Analyze Drinking Water Samples (PDF, last updated 10/26/2026)",
+   "source_url": "https://service.web.env.nm.gov/urls/CbGsmFug",
+   "source_date": "2026-10-26",
+   "last_verified": "2026-11-18"
+  },
+  {
+   "name": "Green Analytical",
+   "address": "Durango, CO (NMED lists city only)",
+   "city": "Durango",
+   "phone": "(970) 247-4220",
+   "accredited_for": [
+    "Inorganics: nitrate, fluoride, cyanide (IO)",
+    "Lead and copper (Pb/Cu)"
+   ],
+   "group": "outofstate",
+   "detail": "NMED certification number CO01041; analyte groups as printed: \"Pb/Cu, IO\"; certification expires 1/31/2027; on contract with NMED-DWB: no.",
+   "source_name": "NMED Drinking Water Bureau: Laboratories Certified by NMED-DWB to Analyze Drinking Water Samples (PDF, last updated 10/26/2026)",
+   "source_url": "https://service.web.env.nm.gov/urls/CbGsmFug",
+   "source_date": "2026-10-26",
+   "last_verified": "2026-11-18"
+  },
+  {
+   "name": "Pace Analytical National - TN",
+   "address": "Mt. Juliet, TN (NMED lists city only)",
+   "city": "Mt. Juliet",
+   "phone": "(615) 758-5858",
+   "accredited_for": [
+    "Heavy metals (HM)",
+    "Lead and copper (Pb/Cu)",
+    "Radiologicals (RAD)",
+    "Volatile organic chemicals (VOC)",
+    "Secondaries (SD)",
+    "Disinfection byproducts (DBP)",
+    "Total organic carbon (TOC)",
+    "Dissolved organic carbon (DOC)"
+   ],
+   "group": "outofstate",
+   "detail": "NMED certification number TN00003; analyte groups as printed: \"HM, Pb/Cu, SD, VOC, DBP, RAD, TOC, DOC\"; certification expires 7/31/2027; on contract with NMED-DWB: no.",
+   "source_name": "NMED Drinking Water Bureau: Laboratories Certified by NMED-DWB to Analyze Drinking Water Samples (PDF, last updated 10/26/2026)",
+   "source_url": "https://service.web.env.nm.gov/urls/CbGsmFug",
+   "source_date": "2026-10-26",
+   "last_verified": "2026-11-18"
+  },
+  {
+   "name": "EMSL Analytical",
+   "address": "Cinnaminson, NJ (NMED lists city only)",
+   "city": "Cinnaminson",
+   "phone": "(800) 220-3675",
+   "accredited_for": [
+    "Lead and copper (Pb/Cu)",
+    "Radiologicals (RAD)",
+    "PFAS",
+    "Cryptosporidium, Giardia, MPA (SUR)"
+   ],
+   "group": "outofstate",
+   "detail": "NMED certification number NJ00337; analyte groups as printed: \"SUR, RAD, PFAS, Pb/Cu\"; certification expires 6/30/2027; on contract with NMED-DWB: no.",
+   "source_name": "NMED Drinking Water Bureau: Laboratories Certified by NMED-DWB to Analyze Drinking Water Samples (PDF, last updated 10/26/2026)",
+   "source_url": "https://service.web.env.nm.gov/urls/CbGsmFug",
+   "source_date": "2026-10-26",
+   "last_verified": "2026-11-18"
+  },
+  {
+   "name": "Microbac Laboratories, Inc.",
+   "address": "Marietta, OH (NMED lists city only)",
+   "city": "Marietta",
+   "phone": "(740) 373-4071",
+   "accredited_for": [
+    "Heavy metals (HM)",
+    "Lead and copper (Pb/Cu)",
+    "PFAS"
+   ],
+   "group": "outofstate",
+   "detail": "NMED certification number OH00218; analyte groups as printed: \"HM, Pb/Cu, PFAS\"; certification expires 6/30/2027; on contract with NMED-DWB: no.",
+   "source_name": "NMED Drinking Water Bureau: Laboratories Certified by NMED-DWB to Analyze Drinking Water Samples (PDF, last updated 10/26/2026)",
+   "source_url": "https://service.web.env.nm.gov/urls/CbGsmFug",
+   "source_date": "2026-10-26",
+   "last_verified": "2026-11-18"
+  },
+  {
+   "name": "Eurofins Houston",
+   "address": "Stafford, TX (NMED lists city only)",
+   "city": "Stafford",
+   "phone": "(281) 240-4200",
+   "accredited_for": [
+    "Heavy metals (HM)",
+    "Lead and copper (Pb/Cu)"
+   ],
+   "group": "outofstate",
+   "detail": "NMED certification number TX00122; analyte groups as printed: \"HM, Pb/Cu\"; certification expires 6/30/2027; on contract with NMED-DWB: no.",
+   "source_name": "NMED Drinking Water Bureau: Laboratories Certified by NMED-DWB to Analyze Drinking Water Samples (PDF, last updated 10/26/2026)",
+   "source_url": "https://service.web.env.nm.gov/urls/CbGsmFug",
+   "source_date": "2026-10-26",
+   "last_verified": "2026-11-18"
+  },
+  {
+   "name": "ALS Laboratory Group - Cincinnati",
+   "address": "Cincinnati, OH (NMED lists city only)",
+   "city": "Cincinnati",
+   "phone": "(513) 733-5336",
+   "accredited_for": [
+    "Asbestos (A)"
+   ],
+   "group": "outofstate",
+   "detail": "NMED certification number OH01323; analyte groups as printed: \"A\"; certification expires 4/1/2027; on contract with NMED-DWB: no.",
+   "source_name": "NMED Drinking Water Bureau: Laboratories Certified by NMED-DWB to Analyze Drinking Water Samples (PDF, last updated 10/26/2026)",
+   "source_url": "https://service.web.env.nm.gov/urls/CbGsmFug",
+   "source_date": "2026-10-26",
+   "last_verified": "2026-11-18"
+  },
+  {
+   "name": "Battelle Analytical Chemistry Services Laboratory",
+   "address": "Norwell, MA (NMED lists city only)",
+   "city": "Norwell",
+   "phone": "(781) 681-5543",
+   "accredited_for": [
+    "PFAS"
+   ],
+   "group": "outofstate",
+   "detail": "NMED certification number MA00056; analyte groups as printed: \"PFAS\"; certification expires 6/30/2027; on contract with NMED-DWB: no.",
+   "source_name": "NMED Drinking Water Bureau: Laboratories Certified by NMED-DWB to Analyze Drinking Water Samples (PDF, last updated 10/26/2026)",
+   "source_url": "https://service.web.env.nm.gov/urls/CbGsmFug",
+   "source_date": "2026-10-26",
+   "last_verified": "2026-11-18"
+  },
+  {
+   "name": "Cape Fear Analytical",
+   "address": "Wilmington, NC (NMED lists city only)",
+   "city": "Wilmington",
+   "phone": "(910) 795-0421",
+   "accredited_for": [
+    "Dioxin (DI)"
+   ],
+   "group": "outofstate",
+   "detail": "NMED certification number NC01894; analyte groups as printed: \"DI\"; certification expires 8/31/2027; on contract with NMED-DWB: no.",
+   "source_name": "NMED Drinking Water Bureau: Laboratories Certified by NMED-DWB to Analyze Drinking Water Samples (PDF, last updated 10/26/2026)",
+   "source_url": "https://service.web.env.nm.gov/urls/CbGsmFug",
+   "source_date": "2026-10-26",
+   "last_verified": "2026-11-18"
+  },
+  {
+   "name": "Eurofins Built Environment Testing East, LLC.",
+   "address": "Cary, NC (NMED lists city only)",
+   "city": "Cary",
+   "phone": "(919) 481-1413",
+   "accredited_for": [
+    "Asbestos (A)"
+   ],
+   "group": "outofstate",
+   "detail": "NMED certification number NC02074; analyte groups as printed: \"A\"; certification expires 4/1/2027; on contract with NMED-DWB: no.",
+   "source_name": "NMED Drinking Water Bureau: Laboratories Certified by NMED-DWB to Analyze Drinking Water Samples (PDF, last updated 10/26/2026)",
+   "source_url": "https://service.web.env.nm.gov/urls/CbGsmFug",
+   "source_date": "2026-10-26",
+   "last_verified": "2026-11-18"
+  },
+  {
+   "name": "Eurofins TestAmerica - St. Louis",
+   "address": "St. Louis, MO (NMED lists city only)",
+   "city": "St. Louis",
+   "phone": "(314) 298-8566",
+   "accredited_for": [
+    "Radiologicals (RAD)"
+   ],
+   "group": "outofstate",
+   "detail": "NMED certification number MO00054; analyte groups as printed: \"RAD\"; certification expires 6/30/2027; on contract with NMED-DWB: no.",
+   "source_name": "NMED Drinking Water Bureau: Laboratories Certified by NMED-DWB to Analyze Drinking Water Samples (PDF, last updated 10/26/2026)",
+   "source_url": "https://service.web.env.nm.gov/urls/CbGsmFug",
+   "source_date": "2026-10-26",
+   "last_verified": "2026-11-18"
+  },
+  {
+   "name": "Pace Analytical Services, Inc. - PA",
+   "address": "Greensburg, PA (NMED lists city only)",
+   "city": "Greensburg",
+   "phone": "(724) 850-5600",
+   "accredited_for": [
+    "Radiologicals (RAD)"
+   ],
+   "group": "outofstate",
+   "detail": "NMED certification number PA01457; analyte groups as printed: \"RAD\"; certification expires 3/31/2027; on contract with NMED-DWB: no.",
+   "source_name": "NMED Drinking Water Bureau: Laboratories Certified by NMED-DWB to Analyze Drinking Water Samples (PDF, last updated 10/26/2026)",
+   "source_url": "https://service.web.env.nm.gov/urls/CbGsmFug",
+   "source_date": "2026-10-26",
+   "last_verified": "2026-11-18"
+  },
+  {
+   "name": "Pace Analytical Services, LLC - FL",
+   "address": "Ormond Beach, FL (NMED lists city only)",
+   "city": "Ormond Beach",
+   "phone": "(386) 672-5668",
+   "accredited_for": [
+    "PFAS"
+   ],
+   "group": "outofstate",
+   "detail": "NMED certification number FL01264; analyte groups as printed: \"PFAS\"; certification expires 6/30/2027; on contract with NMED-DWB: no.",
+   "source_name": "NMED Drinking Water Bureau: Laboratories Certified by NMED-DWB to Analyze Drinking Water Samples (PDF, last updated 10/26/2026)",
+   "source_url": "https://service.web.env.nm.gov/urls/CbGsmFug",
+   "source_date": "2026-10-26",
+   "last_verified": "2026-11-18"
+  }
+ ]
+}

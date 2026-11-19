@@ -1161,5 +1161,62 @@
   ],
   "name": "Mississippi",
   "abbr": "MS"
+ },
+ "new-mexico": {
+  "title": "New Mexico certified labs for well water testing (all 44 on NMED's list, Nov 2026)",
+  "description": "All 44 labs on NMED's certified drinking-water lab list (updated 10/26/2026), what each is certified for, NMED's free nitrate, iron and fluoride screening, free arsenic screening at water fairs, and posted Santa Fe lab prices.",
+  "intro": [
+   "The New Mexico Environment Department (NMED) Drinking Water Bureau certifies labs to test water for public water systems. Its Private Wells page links one list of \"Certified Laboratories\" and says that while NMED certifies labs for public water systems, \"many of these labs also offer services to private well owners.\" We transcribed the list on November 18, 2026. It is dated \"Last Updated: 10/26/2026\" and has 44 labs: 23 in New Mexico and 21 out of state.",
+   "NMED certifies labs by groups of tests. For a well owner the key groups are M (microbiological: coliform bacteria), IO (inorganics: nitrate, fluoride and cyanide), HM (heavy metals) and RAD (radiologicals). Most New Mexico labs on the list are certified for bacteria only. Only two in-state commercial labs are also certified for nitrate (IO) and heavy metals (HM): Eurofins Environmental Testing South Central in Albuquerque and Cardinal Laboratories in Hobbs. The state lab (SLD) is too, but we found no source saying it takes homeowner samples.",
+   "NMED does not regulate private wells. Its Private Wells page recommends testing every spring for coliform bacteria and nitrate, testing for arsenic every year because it occurs naturally in New Mexico, and testing for uranium every five years. It also says to test after a new well is drilled, when buying a home with a well, after a septic failure, wildfire, flood or prolonged drought, and when someone in the home is pregnant or nursing a baby under 6 months.",
+   "NMED offers two free screenings. NMED field offices test well water free for nitrate, iron and fluoride. NMED's water fairs test arsenic, conductivity, fluoride, iron, nitrate, pH and sulfate. NMED says both are screenings, not certified lab results, and neither checks for bacteria."
+  ],
+  "caveats": [
+   "Certification is by test group, and the list is for labs that test public water systems. It does not say which labs take homeowner samples. Where a lab's own site says it does, the card says so and links the site. Call the others first.",
+   "Bacteria-only labs (group M) cannot give you a certified nitrate, arsenic or uranium result. NMED's list does not break heavy metals (HM) or radiologicals (RAD) down by element, so ask whether arsenic and uranium are covered before you sample.",
+   "NMED lists city and phone only. Street addresses shown here come from the lab's own website, where it has one.",
+   "\"On contract\" (Y/N) on the NMED list is about whether NMED pays the lab for public water system samples. It does not affect a homeowner.",
+   "Two expiration dates are close: Red River AWWT Laboratory (11/30/2026) and NELAnalytical Laboratory (12/7/2026; NMED marks its renewal as in progress). NMED's lab-certification page also says it is not accepting new reciprocity applications for out-of-state labs until at least January 2027.",
+   "Bacteria samples are time-limited: Indepth Water Testing says 24 hours from collection to the lab, kept cold.",
+   "Prices come only from each lab's own page, with the date we checked. Only Indepth Water Testing posts prices.",
+   "The grouping is ours. The first group is NMED's free screening and the New Mexico labs whose names do not show a city, utility or state owner (we did not check who owns each one). The second is labs whose names show a city, town, water utility or the state. Out-of-state labs are last, with bacteria and nitrate labs first."
+  ],
+  "main_heading": "Free NMED screening and New Mexico commercial labs",
+  "public_heading": "City, utility and state labs on the same list",
+  "public_note": "These labs test water for a city, water utility or the state. NMED's list does not say whether they take samples from private-well owners, and we found no source saying they do. Call first.",
+  "oos_heading": "Out-of-state labs on NMED's list",
+  "oos_note": [
+   "NMED certifies these 21 labs outside New Mexico by reciprocity. Most test for water utilities, and several only do specialty tests such as asbestos, dioxin, PFAS or radiologicals; each card shows NMED's groups. Labs certified for bacteria and inorganics (nitrate) are listed first.",
+   "Bacteria samples usually must reach a lab within about a day, so out-of-state labs are mostly useful for chemistry. Ask each lab how to ship samples."
+  ],
+  "chips_label": "Certified by NMED for (analyte groups as defined in NMED's legend):",
+  "resources": [
+   {
+    "label": "NMED: Laboratories Certified by NMED-DWB to Analyze Drinking Water Samples (PDF, last updated 10/26/2026)",
+    "url": "https://service.web.env.nm.gov/urls/CbGsmFug"
+   },
+   {
+    "label": "NMED Drinking Water Bureau: Private Wells",
+    "url": "https://www.env.nm.gov/drinking_water/private-wells-2/"
+   },
+   {
+    "label": "NMED Drinking Water Bureau: Laboratory Certification",
+    "url": "https://www.env.nm.gov/drinking_water/lab-certification/"
+   },
+   {
+    "label": "NMED: Free Well Water Testing (nitrate, iron, fluoride at field offices)",
+    "url": "https://www.env.nm.gov/septic/free-well-water-testing-2/"
+   },
+   {
+    "label": "NMED Ground Water Quality Bureau: Water Fairs",
+    "url": "https://www.env.nm.gov/gwqb/water-fairs/"
+   },
+   {
+    "label": "NMED events calendar (water fair dates)",
+    "url": "https://www.env.nm.gov/events-calendar/"
+   }
+  ],
+  "name": "New Mexico",
+  "abbr": "NM"
  }
 }
