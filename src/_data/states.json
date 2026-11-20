@@ -1218,5 +1218,61 @@
   ],
   "name": "New Mexico",
   "abbr": "NM"
+ },
+ "utah": {
+  "title": "Utah certified labs for well water testing (all 63 on DDW's list, Nov 2026)",
+  "description": "All 63 labs on Utah DDW's certified drinking-water lab list, which ones take outside samples, what each is certified for, and posted well-water test prices from the state lab and six county and district health department labs.",
+  "intro": [
+   "Utah's Division of Drinking Water (DDW, part of Utah DEQ) links a \"List of certified labs\" from its Lab and sampling resources page. It is an online spreadsheet with no revision date. We downloaded it on November 19, 2026. It has 63 labs: 29 in Utah and 34 out of state. For each lab DDW shows whether it takes \"Commercial Samples\", whether it is PFAS-certified for drinking water, its phone and address, and a tick box for each certified analyte.",
+   "For most well owners the useful labs are the state lab and the local health department labs. The Utah Public Health Laboratory (UPHL) in Taylorsville posts its prices: $20.90 for coliform/E. coli, $17.60 for nitrate, $12.00 for pH and $14.03 for total dissolved solids, and $13.20 per metal such as arsenic or lead. Six local health department labs on DDW's list post well-water bacteria tests from $12 (Davis County) to $30 (Southwest Utah, Southeast Utah). Bear River and Southwest Utah also test nitrate ($30).",
+   "UPHL's Private Wells page says the EPA does not regulate private wells and that well owners should test at least every year for nitrate, pH, total dissolved solids and total coliform/E. coli. It also lists the tests each local health department requires or recommends for individual wells. Several (Salt Lake, Tooele, TriCounty, Utah County, Weber-Morgan) list arsenic and other metals; others require nothing. UPHL says official local health department information takes precedence over its table, so check with your county before a home sale or building permit.",
+   "DDW ticks nitrate for 13 of the 29 Utah labs, but only some of those take outside samples. Only two Utah labs are marked PFAS-certified for drinking water: UPHL and Chemtech-Ford."
+  ],
+  "caveats": [
+   "DDW's list is for labs that test public water systems. \"Commercial Samples?\" is DDW's column; it does not define it. Several health department labs marked \"NO\" say on their own sites that they test private-well samples, so we list them first with their posted prices.",
+   "The analyte tick boxes are DDW's and look incomplete for some labs (for example, Chemtech-Ford is not ticked for arsenic). Treat a missing tick as \"ask\", not \"no\". Chips on each card show only well-relevant analytes that DDW ticked.",
+   "Most health department labs test bacteria only. For nitrate, arsenic or a full panel, use UPHL, a lab ticked for those tests, or ask your health department which lab it uses.",
+   "Bacteria samples are time-limited: Southwest Utah requires arrival within 24 hours; Davis County rejects coliform samples older than 30 hours, and UPHL must start testing within 30 hours. Keep samples cold, and use the lab's own sterile bottle.",
+   "Prices come only from each lab's or health department's own page or fee schedule, with the date we checked. Bear River's board approved $5 increases to two lab fees on October 19, 2026; its web page still shows the old prices.",
+   "Addresses and phones are as printed by DDW unless the card says otherwise. Where a health department's own page gives a different drop-off address or phone, the card shows both.",
+   "The grouping is ours. The first group is Utah labs that DDW marks as taking commercial samples or whose own pages say they take private-well samples. The second is the other Utah labs (city, water district, sewer district, industrial and two health department labs). Out-of-state labs are last, with bacteria and nitrate labs first."
+  ],
+  "main_heading": "Utah labs that take samples from the public: state lab, health departments and commercial labs",
+  "public_heading": "Other Utah labs on DDW's list (water utilities, districts, industry)",
+  "public_note": "DDW marks all of these \"Commercial Samples? NO\". Most test water for a city, water district, sewer district or company. Two are local health department labs (Central Utah, Wasatch County) that may help residents; call first.",
+  "oos_heading": "Out-of-state labs on DDW's list",
+  "oos_note": [
+   "DDW also lists 34 labs outside Utah. Most serve water utilities or do specialty tests such as radiochemistry, PFAS or asbestos. Labs with bacteria and nitrate ticks are listed first.",
+   "Bacteria samples usually must reach a lab within about a day, so out-of-state labs are mostly useful for chemistry. Ask each lab how to ship samples."
+  ],
+  "chips_label": "Well-relevant analytes ticked on DDW's sheet:",
+  "resources": [
+   {
+    "label": "Utah DDW: Utah's Certified Laboratories - Drinking Water (online sheet)",
+    "url": "https://docs.google.com/spreadsheets/d/1gKtMq6dn5sjj2IZM-Ba1AODTjfcNBRz_MkQ31Z6j8RY/edit#gid=0"
+   },
+   {
+    "label": "Utah DEQ Division of Drinking Water: Lab and sampling resources",
+    "url": "https://deq.utah.gov/ddw/lab-sampling-resources"
+   },
+   {
+    "label": "Utah DDW: map of certified lab locations",
+    "url": "https://experience.arcgis.com/experience/4ca0332471c0456f8cc9044c962220bd"
+   },
+   {
+    "label": "Utah Public Health Laboratory: Private Wells (annual tests; tests by health department)",
+    "url": "https://uphl.utah.gov/environmental-chemistry-program/env_chem_privatewells/"
+   },
+   {
+    "label": "Utah Public Health Laboratory: Service Fee Schedule",
+    "url": "https://uphl.utah.gov/uphl-service-fee-schedule/"
+   },
+   {
+    "label": "Utah Public Health Laboratory: Test Request Forms",
+    "url": "https://uphl.utah.gov/environmental-chemistry-program/Env_Chem_TestRequestForms/"
+   }
+  ],
+  "name": "Utah",
+  "abbr": "UT"
  }
 }

@@ -503,34 +503,6 @@
     ],
     "last_verified": "2026-11-02"
   },
-  "utah": {
-    "name": "Utah",
-    "abbr": "UT",
-    "list_type": "downloadable list (not yet transcribed here)",
-    "resources": [
-      {
-        "label": "Utah DEQ Division of Drinking Water: Lab and sampling resources",
-        "url": "https://deq.utah.gov/ddw/lab-sampling-resources",
-        "kind": "lab list",
-        "checked": "loaded"
-      },
-      {
-        "label": "Utah Public Health Laboratory: Private wells",
-        "url": "https://uphl.utah.gov/environmental-chemistry-program/env_chem_privatewells/",
-        "kind": "program",
-        "checked": "loaded"
-      }
-    ],
-    "facts": [
-      "Utah's Division of Drinking Water publishes certified-lab resources; the Utah Public Health Laboratory has a private-well page."
-    ],
-    "fees": [],
-    "unverified": [
-      "Not yet transcribed; queued.",
-      "No fees collected."
-    ],
-    "last_verified": "2026-11-02"
-  },
   "wyoming": {
     "name": "Wyoming",
     "abbr": "WY",
