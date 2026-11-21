@@ -1274,5 +1274,72 @@
   ],
   "name": "Utah",
   "abbr": "UT"
+ },
+ "wyoming": {
+  "title": "Wyoming certified labs for well water testing (all 12 on EPA Region 8's list, Nov 2026)",
+  "description": "All 12 Wyoming labs EPA Region 8 certifies for drinking water (Feb 2026 list), what each is certified for, and the published private-well prices: $8 state lab bacteria test, county and town labs, and the state agriculture lab's chemistry packages.",
+  "intro": [
+   "Wyoming does not certify drinking-water labs itself. EPA Region 8 staff inspect and certify Wyoming labs for particular analytes and methods, and EPA publishes the list as a one-page PDF. We transcribed that PDF on November 20, 2026. It is headed \"Current as of February 2026\" and lists 12 labs, all in Wyoming. EPA notes that it also \"accepts reciprocal certification for laboratories certified in other states,\" so out-of-state labs certified elsewhere can be used for Wyoming public water systems, but they are not on this list.",
+   "The list is written for public water systems; it does not say which labs take homeowner samples. Wyoming DEQ's Know Your Well program keeps a separate \"Find a Laboratory\" list \"to assist homeowners,\" which includes some of these labs and some that are not on EPA's Wyoming list (Wyoming Analytical Laboratories in Laramie and Rock Springs, Intermountain Laboratory in Sheridan and Gillette, and labs in Billings, Montana). DEQ says to check prices with each lab and to get bottles and sampling instructions from the lab you choose.",
+   "What to test for: Wyoming DEQ recommends testing a private well \"for bacteria (e. coli, total coliform) and nitrates every year,\" and \"for arsenic, lead, copper, iron, manganese, sulfate, and total dissolved solids (TDS) every five years.\" It adds that uranium, radium, selenium and methane are also common in Wyoming groundwater, and that owners near oil and gas development should test for more. DEQ's well-owner helpline is 307-777-WELL (9355).",
+   "Cheapest published options we found: the Wyoming Public Health Laboratory in Cheyenne tests well water for total coliform and E. coli for $8 a sample (bacteria only). County and town labs in Jackson ($25), Rock Springs ($30 in county) and Pinedale ($35) also post bacteria-test prices. For chemistry, the Wyoming Department of Agriculture lab in Laramie posts water packages from $40 (2021 price list), and Teton Conservation District sells that lab's well kits to Teton County residents for $50 ($130 for non-residents). Only three labs on EPA's list are certified for nitrate, and one of those (Energy Laboratories, Casper) shows certification end dates that have passed."
+  ],
+  "caveats": [
+   "EPA's list is dated February 2026. Certification end dates are printed per lab; Energy Laboratories in Casper shows March 31, 2026 (microbiology) and June 30, 2026 (chemistry and radionuclides), both past. EPA's page says \"it is the responsibility of the water system to ensure that the laboratory certification is current for the analyte of interest.\" Ask the lab for its current certificate.",
+   "Chips show exactly what EPA ticked. For bacteria, \"detect\" means certified for presence/absence methods and \"count\" for counting methods. EPA has one \"METALS\" column and does not say which metals, so ask whether a lab is certified for arsenic, uranium or another specific metal.",
+   "No lab on EPA's Wyoming list is certified for VOCs, and only two (Energy Laboratories, Casper and Pace in Sheridan) are certified for uranium. For these tests you may need a lab certified in another state; Region 8 accepts reciprocal certification.",
+   "Bacteria samples have short hold times. The state lab requires samples within 30 hours of collection and does not accept them on Fridays; county and town labs take samples only on certain weekdays (listed under each lab).",
+   "The grouping is ours: the first group is labs with a primary source (their own page, the Wyoming Department of Health, or Wyoming DEQ's homeowner list) showing they serve the public; the second is the Cheyenne utility lab, the Lincoln Water Quality Lab in Afton, a National Park Service lab and a hospital lab, which may test only their own water.",
+   "Contact names and e-mail addresses on EPA's list are not shown. Where EPA prints a staff line and the lab publishes a main number, we show the main number and note both. Where addresses differ between EPA and the lab's own page, both are noted.",
+   "Prices come only from the labs' or agencies' own pages, with dates where printed. We did not verify prices for Energy Laboratories, Pace or the second-group labs, so none are shown."
+  ],
+  "main_heading": "Wyoming labs that serve the public",
+  "public_heading": "Utility, water-quality, park and hospital labs on the same list",
+  "public_note": "These labs are certified for bacteria only. EPA's list does not say whether they take homeowner samples, and we found no page saying they do. Call first.",
+  "chips_label": "Certified by EPA Region 8 for:",
+  "resources": [
+   {
+    "label": "EPA Region 8: Certified drinking water laboratories for systems in Wyoming and on tribal lands",
+    "url": "https://www.epa.gov/region8-waterops/certified-drinking-water-laboratories-systems-wyoming-and-tribal-lands-epa-region"
+   },
+   {
+    "label": "EPA Region 8: Certified drinking water labs in Wyoming (PDF, current as of February 2026)",
+    "url": "https://www.epa.gov/system/files/documents/2026-02/20260211_wy_r8ic_lablist.pdf"
+   },
+   {
+    "label": "Wyoming DEQ: Know Your Well (what to test for, Find a Laboratory, understanding results)",
+    "url": "https://deq.wyoming.gov/water-quality/groundwater/know-your-well/"
+   },
+   {
+    "label": "Wyoming Department of Health: Wyoming Public Health Laboratory water testing",
+    "url": "https://health.wyo.gov/publichealth/lab/microbiology-lab/water/"
+   },
+   {
+    "label": "Wyoming Department of Agriculture: Analytical Services Laboratory water testing",
+    "url": "https://agriculture.wy.gov/index.php?section=water-testing"
+   },
+   {
+    "label": "WDA Analytical Services Laboratory price list (PDF, effective March 1, 2021)",
+    "url": "https://agriculture.wy.gov/corecode/uploads/document6/uploaded_pdfs/corecode/labpricelist3121_1269.pdf"
+   },
+   {
+    "label": "Teton Conservation District: well test kits",
+    "url": "https://www.tetonconservation.org/well-test-kits"
+   },
+   {
+    "label": "Teton County Water Lab",
+    "url": "https://tetoncountywy.gov/1079/Water-Lab"
+   },
+   {
+    "label": "Sweetwater County Environmental Health: water lab schedule",
+    "url": "https://www.sweetwatercountywy.gov/boards/district_board_of_health/environmental_health/lab_schedule.php"
+   },
+   {
+    "label": "Town of Pinedale: Microbiology Testing Laboratory",
+    "url": "https://www.townofpinedale.us/laboratory"
+   }
+  ],
+  "name": "Wyoming",
+  "abbr": "WY"
  }
 }

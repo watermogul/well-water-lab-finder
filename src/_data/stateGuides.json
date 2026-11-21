@@ -503,34 +503,6 @@
     ],
     "last_verified": "2026-11-02"
   },
-  "wyoming": {
-    "name": "Wyoming",
-    "abbr": "WY",
-    "list_type": "downloadable list (not yet transcribed here)",
-    "resources": [
-      {
-        "label": "EPA Region 8: Certified drinking water laboratories for Wyoming",
-        "url": "https://www.epa.gov/region8-waterops/certified-drinking-water-laboratories-systems-wyoming-and-tribal-lands-epa-region",
-        "kind": "lab list",
-        "checked": "loaded"
-      },
-      {
-        "label": "Wyoming Department of Health: Water testing",
-        "url": "https://health.wyo.gov/publichealth/lab/microbiology-lab/water/",
-        "kind": "program",
-        "checked": "loaded"
-      }
-    ],
-    "facts": [
-      "In Wyoming, drinking-water lab certification is handled by EPA Region 8, which publishes the list."
-    ],
-    "fees": [],
-    "unverified": [
-      "Not yet transcribed; queued.",
-      "No fees collected."
-    ],
-    "last_verified": "2026-11-02"
-  },
   "south-dakota": {
     "name": "South Dakota",
     "abbr": "SD",

@@ -1,0 +1,264 @@
+{
+ "state": "Wyoming",
+ "slug": "wyoming",
+ "abbr": "WY",
+ "list_source": {
+  "name": "EPA Region 8: Certified Drinking Water Laboratories in Wyoming (PDF, current as of February 2026)",
+  "page_url": "https://www.epa.gov/region8-waterops/certified-drinking-water-laboratories-systems-wyoming-and-tribal-lands-epa-region",
+  "program_url": "https://www.epa.gov/region8-waterops/certified-drinking-water-laboratories-systems-wyoming-and-tribal-lands-epa-region",
+  "report_date": "PDF headed \"Current as of February 2026\" (footer 2/17/2026); fetched November 20, 2026"
+ },
+ "last_verified": "2026-11-20",
+ "labs": [
+  {
+   "name": "Wyoming Public Health Laboratory",
+   "address": "208 S. College Drive, Cheyenne, WY 82009",
+   "city": "Cheyenne",
+   "phone": "(307) 777-7431",
+   "accredited_for": [
+    "Total coliform (detect)",
+    "E. coli (detect)"
+   ],
+   "detail": "Listed by EPA as \"Wyoming Public Health Lab\". EPA certification end date printed on the list: 12/31/2026. EPA lists the lab contact's line, 307-777-6066; the phone shown is the lab's main number from the Wyoming Department of Health page.",
+   "group": "main",
+   "source_name": "EPA Region 8: Certified Drinking Water Laboratories in Wyoming (PDF, current as of February 2026)",
+   "source_url": "https://www.epa.gov/system/files/documents/2026-02/20260211_wy_r8ic_lablist.pdf",
+   "source_date": "2026-02-17",
+   "last_verified": "2026-11-20",
+   "website": "https://health.wyo.gov/publichealth/lab/microbiology-lab/water/",
+   "note": "This is the state public health lab, and it tests private wells. The Wyoming Department of Health page says WPHL \"is accepting samples from both private individuals and private businesses,\" including \"rural homeowners that would like to test their domestic wells.\" It tests total coliform and E. coli only. Its undated Water Fact Sheet says: open an account with the customer information sheet; \"Cost is $8.00 per sample\"; the lab provides the bottle, mailing container and request form (samples in any other container are rejected); samples are accepted until 4:00 PM Monday-Thursday, not on Fridays or before a holiday, and must arrive within 30 hours of collection; results are Satisfactory or Unsatisfactory after 24 hours, and the lab phones you if the result is unsatisfactory. For nitrate or metals, the fact sheet says WPHL refers you to other EPA-certified labs. Address on the WDH page: Combined Laboratories Facility, 208 South College Drive, Cheyenne, WY 82002; new accounts and testing: (307) 777-7544.",
+   "source_url_2": "https://health.wyo.gov/publichealth/lab/microbiology-lab/water/",
+   "source_name_2": "Wyoming Department of Health: Water Testing page and WPHL Water Fact Sheet (fetched 2026-11-20)"
+  },
+  {
+   "name": "Wyoming Department of Agriculture Analytical Services Laboratory",
+   "address": "1174 Snowy Range Road, Laramie, WY 82070",
+   "city": "Laramie",
+   "phone": "(307) 742-2984",
+   "accredited_for": [
+    "Copper & lead",
+    "Fluoride (only, of the cyanide/fluoride column)",
+    "Metals (one column; analytes not itemized)",
+    "Nitrate & nitrite",
+    "Total coliform (detect)",
+    "E. coli (detect + count)",
+    "Heterotrophic plate count"
+   ],
+   "detail": "Listed by EPA as \"Wyoming Dept of Agriculture Analytical Services Laboratory\". EPA certification end date printed on the list: 6/30/2027. EPA prints the street as \"Snowy Ridge Road\"; the Wyoming Department of Agriculture and Wyoming DEQ both give 1174 Snowy Range Road (shown).",
+   "group": "main",
+   "source_name": "EPA Region 8: Certified Drinking Water Laboratories in Wyoming (PDF, current as of February 2026)",
+   "source_url": "https://www.epa.gov/system/files/documents/2026-02/20260211_wy_r8ic_lablist.pdf",
+   "source_date": "2026-02-17",
+   "last_verified": "2026-11-20",
+   "website": "https://agriculture.wy.gov/index.php?section=water-testing",
+   "note": "The lab's FAQ says it will \"analyze most sample types for the general public on a fee basis,\" and asks first-time submitters to call (307) 742-2984 for a price quote, bottles and sampling instructions before collecting. The fee list linked from its Fees page is headed \"WDA ASL 2021 Price List\" (effective March 1, 2021): Property Transfer Package $40 ($55 with total coliform), Rural Health Package $70 ($85 with total coliform), Development Package $100 ($115), Comprehensive Water Package $225 ($240; its metals list includes arsenic, lead and uranium), total coliform presence/absence alone $15. The lab's FAQ calls this the \"most up to date fee schedule,\" but it is over five years old, so confirm the price when you call. EPA's list gives it one \"METALS\" tick and does not say which metals; ask whether it is certified for the specific metal you need (for example arsenic).",
+   "source_url_2": "https://agriculture.wy.gov/corecode/uploads/document6/uploaded_pdfs/corecode/labpricelist3121_1269.pdf",
+   "source_name_2": "WDA Analytical Services Laboratory FAQ, Water Testing page and price list (effective March 1, 2021; fetched 2026-11-20)"
+  },
+  {
+   "name": "Sweetwater County Health Department",
+   "address": "333 Broadway, Suite 010, Rock Springs, WY 82901",
+   "city": "Rock Springs",
+   "phone": "(307) 872-3930",
+   "accredited_for": [
+    "Total coliform (detect + count)",
+    "E. coli (detect + count)"
+   ],
+   "detail": "EPA certification end date printed on the list: 12/31/2026.",
+   "group": "main",
+   "source_name": "EPA Region 8: Certified Drinking Water Laboratories in Wyoming (PDF, current as of February 2026)",
+   "source_url": "https://www.epa.gov/system/files/documents/2026-02/20260211_wy_r8ic_lablist.pdf",
+   "source_date": "2026-02-17",
+   "last_verified": "2026-11-20",
+   "website": "https://www.sweetwatercountywy.gov/boards/district_board_of_health/environmental_health/lab_schedule.php",
+   "note": "Sweetwater County Environmental Health's fee schedule lists \"In-County Bacteriological Water Sample Analysis\" at $30 and out-of-county at $40. Its Water Lab Schedule says the lab is open Monday and Tuesday 8 am-5 pm and Wednesday 8 am-3 pm (closed Thursday and Friday); samples must be collected in its bottles; the test takes 24 hours and is started at 3 pm Monday-Wednesday. Fax (307) 872-3981. The pages do not say \"private well\" in so many words, so mention it when you call.",
+   "source_url_2": "https://www.sweetwatercountywy.gov/boards/district_board_of_health/environmental_health/fee_schedule.php",
+   "source_name_2": "Sweetwater County Environmental Health: Water Lab Schedule and Fee Schedule pages (fetched 2026-11-20)"
+  },
+  {
+   "name": "Teton County Water Laboratory",
+   "address": "460 East Pearl St, Jackson, WY 83001",
+   "city": "Jackson",
+   "phone": "(307) 733-6401",
+   "accredited_for": [
+    "Total coliform (detect)",
+    "E. coli (detect)",
+    "Heterotrophic plate count"
+   ],
+   "detail": "EPA certification end date printed on the list: 12/31/2028. EPA lists the lab contact's line, 307-732-8463; the phone shown is the number Wyoming DEQ and Teton Conservation District give for the lab. Wyoming DEQ gives 460 East Pearl Ave., PO Box 937, Jackson.",
+   "group": "main",
+   "source_name": "EPA Region 8: Certified Drinking Water Laboratories in Wyoming (PDF, current as of February 2026)",
+   "source_url": "https://www.epa.gov/system/files/documents/2026-02/20260211_wy_r8ic_lablist.pdf",
+   "source_date": "2026-02-17",
+   "last_verified": "2026-11-20",
+   "website": "https://tetoncountywy.gov/1079/Water-Lab",
+   "note": "Teton County's Water Lab page says it tests \"public/private drinking water\" for harmful bacteria. Drinking-water samples are taken every Monday and Tuesday (not county holidays) and must arrive before 2 p.m.; no drinking-water testing in weeks when a county holiday falls on a Monday, Tuesday or Wednesday. Fee: \"$25 - Drinking Water Testing.\" (Teton Conservation District's page says the bacteria test is $20; the county's own fee schedule says $25.)",
+   "source_url_2": "https://tetoncountywy.gov/1079/Water-Lab",
+   "source_name_2": "Teton County Water Lab page (fetched 2026-11-20)"
+  },
+  {
+   "name": "Town of Pinedale Microbiology Lab",
+   "address": "69 Pinedale South Road, PO Box 709, Pinedale, WY 82941",
+   "city": "Pinedale",
+   "phone": "(307) 367-2348",
+   "accredited_for": [
+    "Total coliform (detect + count)",
+    "E. coli (detect + count)",
+    "Fecal coliform (count)"
+   ],
+   "detail": "EPA certification end date printed on the list: 12/10/2028. EPA prints 69 Pinedale South Road; the town's own page and Wyoming DEQ give 55 Pinedale South Road.",
+   "group": "main",
+   "source_name": "EPA Region 8: Certified Drinking Water Laboratories in Wyoming (PDF, current as of February 2026)",
+   "source_url": "https://www.epa.gov/system/files/documents/2026-02/20260211_wy_r8ic_lablist.pdf",
+   "source_date": "2026-02-17",
+   "last_verified": "2026-11-20",
+   "website": "https://www.townofpinedale.us/laboratory",
+   "note": "The town's lab page says it is EPA certified for SM9223B and SM9222D (coliforms, E. coli, fecal coliforms) and posts fees: total coliform and E. coli presence/absence $35, enumeration $50. Payment is due before testing unless you have an account (cash, check, most cards). Receiving hours: Tuesday and Wednesday 9 AM-1 PM. Results within one work week by e-mail; the lab calls only if bacteria are detected. Its page has advice for private well owners on E. coli-positive results.",
+   "source_url_2": "https://www.townofpinedale.us/laboratory",
+   "source_name_2": "Town of Pinedale: Microbiology Testing Laboratory page (fetched 2026-11-20)"
+  },
+  {
+   "name": "Energy Laboratories Inc (Casper)",
+   "address": "2393 Salt Creek Highway, PO Box 247, Casper, WY 82601",
+   "city": "Casper",
+   "phone": "(307) 235-0515",
+   "accredited_for": [
+    "Fluoride (only, of the cyanide/fluoride column)",
+    "Nitrate & nitrite",
+    "Gross alpha",
+    "Gross beta",
+    "Radium-226",
+    "Radium-228",
+    "Uranium",
+    "Carbofuran",
+    "Diquat",
+    "Glyphosate",
+    "Oxamyl (Vydate)",
+    "Total coliform (detect + count)",
+    "E. coli (detect + count)",
+    "Heterotrophic plate count"
+   ],
+   "detail": "Listed by EPA as \"Energy Laboratories Inc\". EPA certification end date printed on the list: 6/30/2026 (chemistry and radionuclides) and 3/31/2026 (microbiology). Both certification end dates printed on EPA's February 2026 list (March 31, 2026 for microbiology and June 30, 2026 for the rest) have passed, and EPA has not posted a newer list. We could not confirm from EPA whether this lab's Wyoming certifications were renewed; ask the lab for its current certificate before relying on it for a regulatory or real-estate sample. Wyoming DEQ's Know Your Well lab list (for homeowners) includes Energy Labs Casper with a toll-free number, (888) 235-0515.",
+   "group": "main",
+   "source_name": "EPA Region 8: Certified Drinking Water Laboratories in Wyoming (PDF, current as of February 2026)",
+   "source_url": "https://www.epa.gov/system/files/documents/2026-02/20260211_wy_r8ic_lablist.pdf",
+   "source_date": "2026-02-17",
+   "last_verified": "2026-11-20",
+   "website": "https://www.energylab.com/",
+   "source_url_2": "https://deq.wyoming.gov/water-quality/groundwater/know-your-well/",
+   "source_name_2": "Wyoming DEQ Know Your Well: Find a Laboratory (fetched 2026-11-20)"
+  },
+  {
+   "name": "Energy Laboratories Inc (Gillette)",
+   "address": "400 W. Boxelder Rd., Gillette, WY 82718",
+   "city": "Gillette",
+   "phone": "(307) 686-7175",
+   "accredited_for": [
+    "Total coliform (detect)",
+    "E. coli (detect)"
+   ],
+   "detail": "Listed by EPA as \"Energy Laboratories Inc\". EPA certification end date printed on the list: 12/31/2026. Wyoming DEQ's Know Your Well lab list includes Energy Labs Gillette with ZIP 82714 and toll-free (866) 686-7175.",
+   "group": "main",
+   "source_name": "EPA Region 8: Certified Drinking Water Laboratories in Wyoming (PDF, current as of February 2026)",
+   "source_url": "https://www.epa.gov/system/files/documents/2026-02/20260211_wy_r8ic_lablist.pdf",
+   "source_date": "2026-02-17",
+   "last_verified": "2026-11-20",
+   "website": "https://www.energylab.com/",
+   "source_url_2": "https://deq.wyoming.gov/water-quality/groundwater/know-your-well/",
+   "source_name_2": "Wyoming DEQ Know Your Well: Find a Laboratory (fetched 2026-11-20)"
+  },
+  {
+   "name": "Pace Analytical Services LLC WY",
+   "address": "1673 Terra Avenue, Sheridan, WY 82801",
+   "city": "Sheridan",
+   "phone": "(307) 461-4938",
+   "accredited_for": [
+    "Copper & lead",
+    "Cyanide & fluoride",
+    "Metals (one column; analytes not itemized)",
+    "Nitrate & nitrite",
+    "Uranium",
+    "Total coliform (detect + count)",
+    "E. coli (detect + count)",
+    "Heterotrophic plate count"
+   ],
+   "detail": "EPA certification end date printed on the list: 12/31/2026. The Wyoming Department of Health water page lists \"Pace Labs (Gillette and Sheridan)\" as an additional water testing lab. Wyoming DEQ's homeowner list names Pace's Billings, Montana lab and, separately, \"Intermountain Laboratory\" at 1633 Terra Ave, Sheridan; we found no primary source tying the two Sheridan names together. EPA's list gives one \"METALS\" tick and does not say which metals.",
+   "group": "main",
+   "source_name": "EPA Region 8: Certified Drinking Water Laboratories in Wyoming (PDF, current as of February 2026)",
+   "source_url": "https://www.epa.gov/system/files/documents/2026-02/20260211_wy_r8ic_lablist.pdf",
+   "source_date": "2026-02-17",
+   "last_verified": "2026-11-20",
+   "website": "https://www.pacelabs.com/",
+   "source_url_2": "https://health.wyo.gov/publichealth/lab/microbiology-lab/water/",
+   "source_name_2": "Wyoming Department of Health: Water Testing page (fetched 2026-11-20)"
+  },
+  {
+   "name": "Cheyenne Board of Public Utilities",
+   "address": "1821 Happy Jack Road, Cheyenne, WY 82009",
+   "city": "Cheyenne",
+   "phone": "(307) 635-7693",
+   "accredited_for": [
+    "Total coliform (detect)",
+    "E. coli (detect)"
+   ],
+   "detail": "EPA certification end date printed on the list: 12/15/2027.",
+   "group": "public",
+   "source_name": "EPA Region 8: Certified Drinking Water Laboratories in Wyoming (PDF, current as of February 2026)",
+   "source_url": "https://www.epa.gov/system/files/documents/2026-02/20260211_wy_r8ic_lablist.pdf",
+   "source_date": "2026-02-17",
+   "last_verified": "2026-11-20",
+   "note": "We found no page from this lab saying it takes samples from private-well owners. Call first."
+  },
+  {
+   "name": "Lincoln Water Quality Lab",
+   "address": "416 South Washington St, PO Box 310, Afton, WY 83110-0310",
+   "city": "Afton",
+   "phone": "(307) 885-9698",
+   "accredited_for": [
+    "Total coliform (detect)",
+    "E. coli (detect)"
+   ],
+   "detail": "EPA certification end date printed on the list: 10/13/2027. The contact e-mail EPA prints is a Town of Afton (aftonwyoming.gov) address.",
+   "group": "public",
+   "source_name": "EPA Region 8: Certified Drinking Water Laboratories in Wyoming (PDF, current as of February 2026)",
+   "source_url": "https://www.epa.gov/system/files/documents/2026-02/20260211_wy_r8ic_lablist.pdf",
+   "source_date": "2026-02-17",
+   "last_verified": "2026-11-20",
+   "note": "We found no page from this lab saying it takes samples from private-well owners. Call first."
+  },
+  {
+   "name": "National Park Service Mammoth Water Quality Control Lab",
+   "address": "PO Box 168, Mammoth Hot Springs, WY 82190",
+   "city": "Mammoth Hot Springs",
+   "phone": "(307) 699-3675",
+   "accredited_for": [
+    "Total coliform (detect + count)",
+    "E. coli (detect + count)"
+   ],
+   "detail": "EPA certification end date printed on the list: 12/31/2028.",
+   "group": "public",
+   "source_name": "EPA Region 8: Certified Drinking Water Laboratories in Wyoming (PDF, current as of February 2026)",
+   "source_url": "https://www.epa.gov/system/files/documents/2026-02/20260211_wy_r8ic_lablist.pdf",
+   "source_date": "2026-02-17",
+   "last_verified": "2026-11-20",
+   "note": "We found no page from this lab saying it takes samples from private-well owners. Call first."
+  },
+  {
+   "name": "Sage West Healthcare - Lander",
+   "address": "1320 Bishop Randall Dr, Lander, WY 82520",
+   "city": "Lander",
+   "phone": "(307) 335-6246",
+   "accredited_for": [
+    "Total coliform (detect)",
+    "E. coli (detect)"
+   ],
+   "detail": "Listed by EPA as \"Sage West Healthcare - Lander (formerly Lander Regional Hospital)\". EPA certification end date printed on the list: 12/31/2026.",
+   "group": "public",
+   "source_name": "EPA Region 8: Certified Drinking Water Laboratories in Wyoming (PDF, current as of February 2026)",
+   "source_url": "https://www.epa.gov/system/files/documents/2026-02/20260211_wy_r8ic_lablist.pdf",
+   "source_date": "2026-02-17",
+   "last_verified": "2026-11-20",
+   "note": "We found no page from this lab saying it takes samples from private-well owners. Call first."
+  }
+ ]
+}
