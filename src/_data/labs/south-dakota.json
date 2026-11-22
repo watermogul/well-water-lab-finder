@@ -1,0 +1,340 @@
+{
+ "state": "South Dakota",
+ "slug": "south-dakota",
+ "abbr": "SD",
+ "list_source": {
+  "name": "SD DANR Drinking Water Program: Laboratory Certification (web page, no revision date printed)",
+  "page_url": "https://danr.sd.gov/OfficeOfWater/DrinkingWater/LaboratoryCert.aspx",
+  "program_url": "https://doh.sd.gov/laboratory/environmental-testing/test-a-private-well/",
+  "report_date": "web page, no revision date printed; fetched November 21, 2026"
+ },
+ "last_verified": "2026-11-21",
+ "labs": [
+  {
+   "name": "South Dakota Public Health Laboratory",
+   "address": "Laboratory Building, 615 East Fourth Street, Pierre, SD 57501",
+   "city": "Pierre",
+   "phone": "(605) 773-3368",
+   "accredited_for": [
+    "Inorganics",
+    "SOCs",
+    "VOCs",
+    "Chlorite",
+    "HAA5",
+    "Perchlorate",
+    "TTHMs",
+    "Microbiology",
+    "E. coli enumeration"
+   ],
+   "detail": "Certified for (as printed by DANR): \"Inorganics, SOC's, VOC's, Chlorite, HAA5, Perchlorate, TTHM's, Microbiology, E.Coli enumeration, Chlorite\". DANR lists it as \"South Dakota State Health Laboratory\"; the Department of Health now calls it the South Dakota Public Health Laboratory and gives the same street address (615 E 4th Street, Pierre). Toll-free 1-800-738-2301 (in SD only), per DOH.",
+   "group": "main",
+   "source_name": "SD DANR Drinking Water Program: Laboratory Certification (web page, no revision date printed)",
+   "source_url": "https://danr.sd.gov/OfficeOfWater/DrinkingWater/LaboratoryCert.aspx",
+   "source_date": "2026-11-21",
+   "last_verified": "2026-11-21",
+   "website": "https://doh.sd.gov/laboratory/environmental-testing/test-a-private-well/",
+   "note": "This is the state lab, and it tests private wells. The Department of Health says private persons need \"a testing kit from the Department of Health or a special location\"; its online Sample Bottle Order Form offers Bacteria/Nitrate, Lead, New Well and Other bottles, and says \"Sample bottles and instructions are also available from County Extension offices.\" DOH's Environmental Testing Fees page (content last updated September 22, 2026) lists, per test: Total Coliform $20.00, E. coli $22.00, Nitrate $18.00, Arsenic $23.00, Lead $18.50, Copper $18.50, Iron $18.00, Manganese $18.00, Sulfate $17.00, Fluoride $16.00, Chloride $16.00, pH $12.00, Conductivity $12.00, Dissolved solids $18.00, Hardness $15.00 (no charge if calcium and magnesium are ordered), Selenium $23.00, Uranium $26.00, Gross alpha/beta $55.00, Radium-226 $85.00, Radium-228 $170.00; organics (pesticides, VOCs): \"Contact the Lab\". The page does not say which of these a Bacteria/Nitrate bottle is billed as; DOH says fee information comes with the bottles. DOH also says the lab has moved into a new facility and is \"fully operational\".",
+   "source_url_2": "https://doh.sd.gov/laboratory/environmental-testing/test-a-private-well/",
+   "source_name_2": "SD Department of Health: Test a Private Well, Environmental Testing and Environmental Testing Fees pages (content last updated 2026-10-05 / 2026-09-22; fetched 2026-11-21)"
+  },
+  {
+   "name": "Sioux Falls Public Health Laboratory",
+   "address": "521 North Main, Suite 100, Sioux Falls, SD 57104",
+   "city": "Sioux Falls",
+   "phone": "(605) 367-8777",
+   "accredited_for": [
+    "Microbiology"
+   ],
+   "detail": "Certified for (as printed by DANR): \"Microbiology\".",
+   "group": "main",
+   "source_name": "SD DANR Drinking Water Program: Laboratory Certification (web page, no revision date printed)",
+   "source_url": "https://danr.sd.gov/OfficeOfWater/DrinkingWater/LaboratoryCert.aspx",
+   "source_date": "2026-11-21",
+   "last_verified": "2026-11-21",
+   "website": "https://www.siouxfalls.gov/health-safety/health-services/public-health/health-laboratory",
+   "note": "The City of Sioux Falls says its Public Health Laboratory's testing \"serves Falls Community Health, city departments, agencies, commercial businesses, private citizens, and the State of South Dakota,\" and its page links \"How to Collect Water Samples - Well and Household\" and a Water Testing Data Form. DANR lists it for microbiology only, so it is a bacteria option, not a nitrate one. The city page does not post fees or hours; call first.",
+   "source_url_2": "https://www.siouxfalls.gov/health-safety/health-services/public-health/health-laboratory",
+   "source_name_2": "City of Sioux Falls: Health Laboratory page (read 2026-11-21; returns 403 to scripted fetch)"
+  },
+  {
+   "name": "Mid Continent Testing Laboratory",
+   "address": "2381 South Plaza Drive, PO Box 3388, Rapid City, SD 57709",
+   "city": "Rapid City",
+   "phone": "(605) 348-0111",
+   "accredited_for": [
+    "Inorganics",
+    "VOCs",
+    "Cyanide",
+    "Microbiology",
+    "E. coli enumeration",
+    "TTHMs",
+    "HAA5s",
+    "SOCs (except method 548 and PCBs)",
+    "TOCs"
+   ],
+   "detail": "Certified for (as printed by DANR): \"Inorganics, VOC's, Cyanide, Microbiology, E.Coli enumeration,TTHM's, HAA5's, SOC's (except 548 and PCB's), TOCs\".",
+   "group": "main",
+   "source_name": "SD DANR Drinking Water Program: Laboratory Certification (web page, no revision date printed)",
+   "source_url": "https://danr.sd.gov/OfficeOfWater/DrinkingWater/LaboratoryCert.aspx",
+   "source_date": "2026-11-21",
+   "last_verified": "2026-11-21",
+   "website": "https://www.thechemistrylab.com/private-well-testing",
+   "note": "Mid Continent's Private Well Testing page says its staff \"is always prepared to help residential customers with well water testing,\" and explains bacteria, nitrate, sodium, sulfate, conductivity and common-ion results. It also has a New Well Sampling Program form that it says it supplies to the State with your results, to comply with the 1989 new-well testing law. No prices are posted; call 605-348-0111. The lab's site gives the mailing address as P.O. Box 3388 and fax 605-721-0265.",
+   "source_url_2": "https://www.thechemistrylab.com/private-well-testing",
+   "source_name_2": "Mid Continent Testing Labs: Private Well Testing page and New Well Sampling Program form (fetched 2026-11-21)"
+  },
+  {
+   "name": "American Engineering Testing",
+   "address": "601 East 48th Street North, Sioux Falls, SD 57104",
+   "city": "Sioux Falls",
+   "phone": "(605) 332-5371",
+   "accredited_for": [
+    "Microbiology",
+    "E. coli enumeration"
+   ],
+   "detail": "Certified for (as printed by DANR): \"Microbiology, E.Coli enumeration\".",
+   "group": "limited",
+   "source_name": "SD DANR Drinking Water Program: Laboratory Certification (web page, no revision date printed)",
+   "source_url": "https://danr.sd.gov/OfficeOfWater/DrinkingWater/LaboratoryCert.aspx",
+   "source_date": "2026-11-21",
+   "last_verified": "2026-11-21",
+   "website": "https://www.teamaet.com/locations/sioux-falls/",
+   "note": "AET is an engineering and materials-testing firm. Its Sioux Falls page mentions its environmental chemistry lab and wastewater (NPDES) testing but says nothing about private wells or homeowner samples. Call before collecting a sample.",
+   "source_url_2": "https://www.teamaet.com/locations/sioux-falls/",
+   "source_name_2": "AET: Sioux Falls location page (fetched 2026-11-21)"
+  },
+  {
+   "name": "Pace Analytical Services-Pittsburgh",
+   "address": "1638 Roseytown Rd, Suite 2, Greenburg, PA 15601",
+   "city": "Greenburg",
+   "phone": "(724) 880-5600",
+   "accredited_for": [
+    "Radiological"
+   ],
+   "detail": "Certified for (as printed by DANR): \"Radiological\".",
+   "group": "outofstate",
+   "source_name": "SD DANR Drinking Water Program: Laboratory Certification (web page, no revision date printed)",
+   "source_url": "https://danr.sd.gov/OfficeOfWater/DrinkingWater/LaboratoryCert.aspx",
+   "source_date": "2026-11-21",
+   "last_verified": "2026-11-21",
+   "note": "Out-of-state lab. DANR does not say whether it accepts homeowner samples or ships bottles to South Dakota; we did not verify prices or homeowner service."
+  },
+  {
+   "name": "Energy Laboratories Inc. (Billings)",
+   "address": "1107 South Broadway, PO Box 30916, Billings, MT 59107-0916",
+   "city": "Billings",
+   "phone": "(406) 252-6325",
+   "accredited_for": [
+    "Inorganics",
+    "SOCs (except methods 531.1, 547, 549.2)",
+    "TTHMs",
+    "Cyanide",
+    "VOCs",
+    "HAA5s",
+    "Uranium",
+    "PFAS"
+   ],
+   "detail": "Listed by DANR as \"Energy Laboratories Inc.\". Certified for (as printed by DANR): \"Inorganics, SOC's(except Method 531.1, 547, 549.2), TTHM's, Cyanide,VOC's, HAA5's, Uranium, PFAS\".",
+   "group": "outofstate",
+   "source_name": "SD DANR Drinking Water Program: Laboratory Certification (web page, no revision date printed)",
+   "source_url": "https://danr.sd.gov/OfficeOfWater/DrinkingWater/LaboratoryCert.aspx",
+   "source_date": "2026-11-21",
+   "last_verified": "2026-11-21",
+   "note": "Out-of-state lab. DANR does not say whether it accepts homeowner samples or ships bottles to South Dakota; we did not verify prices or homeowner service."
+  },
+  {
+   "name": "Energy Laboratories Inc. (Casper)",
+   "address": "2393 Salt Creek Hwy, PO Box 3258, Casper, WY 82602",
+   "city": "Casper",
+   "phone": "(307) 235-0515",
+   "accredited_for": [
+    "Some SOCs",
+    "Radiological (excluding uranium)",
+    "TOCs"
+   ],
+   "detail": "Listed by DANR as \"Energy Laboratories Inc.\". Certified for (as printed by DANR): \"Some SOC's, Radiological, excluding Uranium, TOCs\". DANR also prints a toll-free number, 888-235-0515.",
+   "group": "outofstate",
+   "source_name": "SD DANR Drinking Water Program: Laboratory Certification (web page, no revision date printed)",
+   "source_url": "https://danr.sd.gov/OfficeOfWater/DrinkingWater/LaboratoryCert.aspx",
+   "source_date": "2026-11-21",
+   "last_verified": "2026-11-21",
+   "note": "Out-of-state lab. DANR does not say whether it accepts homeowner samples or ships bottles to South Dakota; we did not verify prices or homeowner service. DANR's page prints no certification dates. On EPA Region 8's February 2026 Wyoming list, this lab's Wyoming certification end dates (3/31/2026 and 6/30/2026) had passed (see our Wyoming page); ask for a current South Dakota certificate."
+  },
+  {
+   "name": "Eurofins Eaton Analytical LLC (Pomona)",
+   "address": "931 Corporate Center Drive, Pomona, CA 91768",
+   "city": "Pomona",
+   "phone": "(866) 888-6653",
+   "accredited_for": [
+    "Inorganics",
+    "VOCs",
+    "SOCs",
+    "TTHMs",
+    "HAA5s",
+    "Bromate",
+    "Chlorite"
+   ],
+   "detail": "Listed by DANR as \"Eurofins Eaton Analytical LLC\". Certified for (as printed by DANR): \"Inorganics, VOC's, SOC's, TTHM's, HAA5's, Bromate, Chlorite\".",
+   "group": "outofstate",
+   "source_name": "SD DANR Drinking Water Program: Laboratory Certification (web page, no revision date printed)",
+   "source_url": "https://danr.sd.gov/OfficeOfWater/DrinkingWater/LaboratoryCert.aspx",
+   "source_date": "2026-11-21",
+   "last_verified": "2026-11-21",
+   "note": "Out-of-state lab. DANR does not say whether it accepts homeowner samples or ships bottles to South Dakota; we did not verify prices or homeowner service."
+  },
+  {
+   "name": "Pace Analytical (Sheridan)",
+   "address": "1673 Terra Ave, Sheridan, WY 82801",
+   "city": "Sheridan",
+   "phone": "(307) 672-8945",
+   "accredited_for": [
+    "Inorganics (excluding nickel)",
+    "Uranium"
+   ],
+   "detail": "Listed by DANR as \"Pace Analytical\". Certified for (as printed by DANR): \"Inorganics excluding Nickel, Uranium\".",
+   "group": "outofstate",
+   "source_name": "SD DANR Drinking Water Program: Laboratory Certification (web page, no revision date printed)",
+   "source_url": "https://danr.sd.gov/OfficeOfWater/DrinkingWater/LaboratoryCert.aspx",
+   "source_date": "2026-11-21",
+   "last_verified": "2026-11-21",
+   "note": "Out-of-state lab. DANR does not say whether it accepts homeowner samples or ships bottles to South Dakota; we did not verify prices or homeowner service. EPA Region 8's Wyoming list prints a different phone for this address, 307-461-4938 (see our Wyoming page)."
+  },
+  {
+   "name": "Eurofins Eaton Analytical Inc (South Bend)",
+   "address": "110 South Hill Street, South Bend, IN 46617",
+   "city": "South Bend",
+   "phone": "(574) 472-5523",
+   "accredited_for": [
+    "Inorganics",
+    "SOCs",
+    "TTHMs",
+    "Cyanide",
+    "Chlorite",
+    "HAA5",
+    "VOCs",
+    "Bromate",
+    "Radiological",
+    "Uranium"
+   ],
+   "detail": "Listed by DANR as \"Eurofins Eaton Analytical Inc\". Certified for (as printed by DANR): \"Inorganics, SOC's, TTHM's, Cyanide, Chlorite, HAA5, VOC's, Bromate, Radiological, Uranium\".",
+   "group": "outofstate",
+   "source_name": "SD DANR Drinking Water Program: Laboratory Certification (web page, no revision date printed)",
+   "source_url": "https://danr.sd.gov/OfficeOfWater/DrinkingWater/LaboratoryCert.aspx",
+   "source_date": "2026-11-21",
+   "last_verified": "2026-11-21",
+   "note": "Out-of-state lab. DANR does not say whether it accepts homeowner samples or ships bottles to South Dakota; we did not verify prices or homeowner service."
+  },
+  {
+   "name": "Minnesota Valley Testing Laboratories (Bismarck)",
+   "address": "2616 E Broadway Ave, Bismarck, ND 58501",
+   "city": "Bismarck",
+   "phone": "(701) 258-9720",
+   "accredited_for": [
+    "Inorganics",
+    "TOCs",
+    "Microbiology"
+   ],
+   "detail": "Listed by DANR as \"Minnesota Valley Testing Laboratories\". Certified for (as printed by DANR): \"Inorganics, TOC's, Microbiology\". DANR also prints 800-279-6885.",
+   "group": "outofstate",
+   "source_name": "SD DANR Drinking Water Program: Laboratory Certification (web page, no revision date printed)",
+   "source_url": "https://danr.sd.gov/OfficeOfWater/DrinkingWater/LaboratoryCert.aspx",
+   "source_date": "2026-11-21",
+   "last_verified": "2026-11-21",
+   "note": "Out-of-state lab. DANR does not say whether it accepts homeowner samples or ships bottles to South Dakota; we did not verify prices or homeowner service."
+  },
+  {
+   "name": "Element Materials Technology (Lafayette)",
+   "address": "2417 West Pinhook Rd, Lafayette, LA 70508-3344",
+   "city": "Lafayette",
+   "phone": "(888) 786-7555",
+   "accredited_for": [
+    "Lead",
+    "Copper"
+   ],
+   "detail": "Listed by DANR as \"Element Materials Technology\". Certified for (as printed by DANR): \"Lead, Copper\".",
+   "group": "outofstate",
+   "source_name": "SD DANR Drinking Water Program: Laboratory Certification (web page, no revision date printed)",
+   "source_url": "https://danr.sd.gov/OfficeOfWater/DrinkingWater/LaboratoryCert.aspx",
+   "source_date": "2026-11-21",
+   "last_verified": "2026-11-21",
+   "note": "Out-of-state lab. DANR does not say whether it accepts homeowner samples or ships bottles to South Dakota; we did not verify prices or homeowner service."
+  },
+  {
+   "name": "Element Materials Technology (Fort Wayne)",
+   "address": "328 Ley Road, Suite 100, Ft Wayne, IN 46825",
+   "city": "Fort Wayne",
+   "phone": "(260) 471-7000",
+   "accredited_for": [
+    "Lead",
+    "Copper",
+    "IOCs (inorganics)",
+    "VOCs",
+    "SOCs",
+    "TTHMs",
+    "HAA5s",
+    "Cyanide",
+    "Microbiology"
+   ],
+   "detail": "Listed by DANR as \"Element Materials Technology\". Certified for (as printed by DANR): \"Lead, Copper, IOC's, VOC's, SOC's, TTHM's, HAA5's, Cyanide, Microbiology\".",
+   "group": "outofstate",
+   "source_name": "SD DANR Drinking Water Program: Laboratory Certification (web page, no revision date printed)",
+   "source_url": "https://danr.sd.gov/OfficeOfWater/DrinkingWater/LaboratoryCert.aspx",
+   "source_date": "2026-11-21",
+   "last_verified": "2026-11-21",
+   "note": "Out-of-state lab. DANR does not say whether it accepts homeowner samples or ships bottles to South Dakota; we did not verify prices or homeowner service."
+  },
+  {
+   "name": "Foundation Analytical Laboratory",
+   "address": "723 Sleezer Road, Cherokee, IA 51012",
+   "city": "Cherokee",
+   "phone": "(712) 255-6989",
+   "accredited_for": [
+    "Inorganics (except mercury)",
+    "Lead",
+    "Copper",
+    "Cyanide"
+   ],
+   "detail": "Certified for (as printed by DANR): \"Inorganics except Mercury, Lead, Copper, Cyanide\".",
+   "group": "outofstate",
+   "source_name": "SD DANR Drinking Water Program: Laboratory Certification (web page, no revision date printed)",
+   "source_url": "https://danr.sd.gov/OfficeOfWater/DrinkingWater/LaboratoryCert.aspx",
+   "source_date": "2026-11-21",
+   "last_verified": "2026-11-21",
+   "note": "Out-of-state lab. DANR does not say whether it accepts homeowner samples or ships bottles to South Dakota; we did not verify prices or homeowner service."
+  },
+  {
+   "name": "Alliance Technical Group LLC",
+   "address": "3310 Win Street, Cuyahoga, OH 44233",
+   "city": "Cuyahoga",
+   "phone": "(330) 253-8211",
+   "accredited_for": [
+    "Inorganics (excluding mercury and fluoride)",
+    "Radiologicals",
+    "PFAS"
+   ],
+   "detail": "Certified for (as printed by DANR): \"Inorganics (Excluding: HG + F), Radiologicals, PFAS\". DANR prints the city as \"Cuyahoga, OH.\" with ZIP 44233; we did not check this against the lab's own site. \"HG + F\" on the list is read here as mercury and fluoride.",
+   "group": "outofstate",
+   "source_name": "SD DANR Drinking Water Program: Laboratory Certification (web page, no revision date printed)",
+   "source_url": "https://danr.sd.gov/OfficeOfWater/DrinkingWater/LaboratoryCert.aspx",
+   "source_date": "2026-11-21",
+   "last_verified": "2026-11-21",
+   "note": "Out-of-state lab. DANR does not say whether it accepts homeowner samples or ships bottles to South Dakota; we did not verify prices or homeowner service."
+  },
+  {
+   "name": "Symbio Laboratories",
+   "address": "8310 Mirimar Mall, San Diego, CA 92121",
+   "city": "San Diego",
+   "phone": "(858) 257-0159",
+   "accredited_for": [
+    "PFAS"
+   ],
+   "detail": "Listed by DANR as \"Symbio Labratories\". Certified for (as printed by DANR): \"PFAS\". Name and street spelled on the DANR page as \"Symbio Labratories\" and \"Mirimar Mall\".",
+   "group": "outofstate",
+   "source_name": "SD DANR Drinking Water Program: Laboratory Certification (web page, no revision date printed)",
+   "source_url": "https://danr.sd.gov/OfficeOfWater/DrinkingWater/LaboratoryCert.aspx",
+   "source_date": "2026-11-21",
+   "last_verified": "2026-11-21",
+   "note": "Out-of-state lab. DANR does not say whether it accepts homeowner samples or ships bottles to South Dakota; we did not verify prices or homeowner service."
+  }
+ ]
+}

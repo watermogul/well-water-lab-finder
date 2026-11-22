@@ -503,34 +503,6 @@
     ],
     "last_verified": "2026-11-02"
   },
-  "south-dakota": {
-    "name": "South Dakota",
-    "abbr": "SD",
-    "list_type": "downloadable list (not yet transcribed here)",
-    "resources": [
-      {
-        "label": "SD DANR: Drinking water laboratory certification",
-        "url": "https://danr.sd.gov/OfficeOfWater/DrinkingWater/LaboratoryCert.aspx",
-        "kind": "lab list",
-        "checked": "loaded"
-      },
-      {
-        "label": "SD Department of Health: Test a private well",
-        "url": "https://doh.sd.gov/laboratory/environmental-testing/test-a-private-well/",
-        "kind": "program",
-        "checked": "loaded"
-      }
-    ],
-    "facts": [
-      "The South Dakota Department of Health laboratory tests private wells; see its page for how to request bottles."
-    ],
-    "fees": [],
-    "unverified": [
-      "Not yet transcribed; queued.",
-      "No fees collected."
-    ],
-    "last_verified": "2026-11-02"
-  },
   "north-dakota": {
     "name": "North Dakota",
     "abbr": "ND",

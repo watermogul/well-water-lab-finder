@@ -1341,5 +1341,71 @@
   ],
   "name": "Wyoming",
   "abbr": "WY"
+ },
+ "south-dakota": {
+  "title": "South Dakota certified labs for well water testing (all 16 on DANR's list, Nov 2026)",
+  "description": "All 16 labs South Dakota DANR certifies for drinking water (4 in-state, 12 out-of-state), which ones take private-well samples, and the state lab's posted per-test fees: total coliform $20, E. coli $22, nitrate $18.",
+  "intro": [
+   "South Dakota certifies drinking-water labs itself, through the Department of Agriculture & Natural Resources (DANR) Drinking Water Program. DANR's Laboratory Certification page lists every certified lab: 4 in South Dakota and 12 out-of-state labs under \"Other labs certified by South Dakota\". We copied that page on November 21, 2026; it prints no revision date. DANR certifies labs to analyze \"compliance samples from public water systems,\" so the list does not say which labs take homeowner samples. We checked each in-state lab's own page for that.",
+   "For a private well, the main route is the South Dakota Public Health Laboratory in Pierre (the \"State Health Laboratory\" on DANR's list). You order sample bottles from the Department of Health online, or pick them up at a County Extension office, and mail the sample back. In Sioux Falls, the city's Public Health Laboratory says it serves private citizens and posts well-sampling instructions (bacteria only). In Rapid City, Mid Continent Testing Laboratory has a private-well testing page.",
+   "What to test for: DANR recommends retesting a well for bacteria \"at least annually,\" and after heavy rains, snowmelt or flooding to submit \"at least a bacteriological and nitrate analysis.\" Nitrate above 10 mg/L (as nitrogen) matters for infants six months and younger and for pregnant women, and boiling raises nitrate rather than removing it. If a bacteria test comes back unsafe, DANR says to boil drinking water until the well tests safe.",
+   "New wells: DANR says the Centennial Environmental Protection Act of 1989 \"requires that all new domestic wells drilled in South Dakota are tested for bacteria and several selected chemicals.\" The Department of Health's bottle order form has a \"New Well\" option, and Mid Continent has a New Well Sampling Program form.",
+   "Cheapest published prices we found: the state lab's fee page (updated September 22, 2026) lists total coliform at $20, E. coli at $22 and nitrate at $18 per test, plus arsenic $23, lead $18.50, uranium $26 and others (full list under the lab below). No other South Dakota lab posts prices. DANR also links a Midwest Assistance Program brochure (revised October 2023) offering free well assessments with water testing to South Dakota well owners \"while funding is available\"; we did not confirm the program is still funded."
+  ],
+  "caveats": [
+   "DANR's page prints no revision date and no certification end dates. Ask the lab for its current South Dakota certificate if the result is for a loan, sale or permit.",
+   "Chips show DANR's broad categories as printed, not individual tests. \"Inorganics\" (or \"IOCs\") usually covers metals and minerals such as nitrate, arsenic and lead, but DANR does not itemize them, so ask whether a lab is certified for the specific test you need. \"SOCs\" are synthetic organic chemicals such as pesticides; \"VOCs\" are volatile organic compounds such as solvents and fuel components; TTHMs, HAA5s, bromate and chlorite are disinfection byproducts that matter for chlorinated public water, not usually for wells.",
+   "In South Dakota, only the state lab and Mid Continent are certified for inorganics (which typically include nitrate). The Sioux Falls city lab and American Engineering Testing are certified for bacteria only.",
+   "The grouping is ours: the first group is in-state labs with a primary source showing they take private-well or private-citizen samples; the second is an in-state lab with no such page; the third is DANR's out-of-state list.",
+   "Contact names on DANR's list are not shown. Prices come only from the labs' or agencies' own pages; we found posted prices only for the state lab."
+  ],
+  "main_heading": "South Dakota labs that take private-well samples",
+  "limited_heading": "In-state lab with no homeowner page found",
+  "limited_note": "Certified by DANR for bacteria only. We found no page saying it takes homeowner samples. Call first.",
+  "oos_heading": "Out-of-state labs certified by South Dakota",
+  "oos_note": [
+   "DANR certifies these labs for South Dakota drinking-water work. Several are certified for tests no in-state lab outside Pierre covers, such as uranium (Energy Laboratories Billings, Pace Sheridan, Eurofins South Bend) and PFAS (Energy Laboratories Billings, Alliance Technical Group, Symbio). Whether they take homeowner samples by mail is not stated; ask about bottles, shipping and hold times before collecting."
+  ],
+  "chips_label": "Certified by SD DANR for (categories as printed):",
+  "resources": [
+   {
+    "label": "SD DANR: Laboratory Certification (list of certified drinking-water labs)",
+    "url": "https://danr.sd.gov/OfficeOfWater/DrinkingWater/LaboratoryCert.aspx"
+   },
+   {
+    "label": "SD DANR: Private Well Sampling (what your results mean)",
+    "url": "https://danr.sd.gov/OfficeOfWater/DrinkingWater/PrivateWellSampling.aspx"
+   },
+   {
+    "label": "SD DANR: New Well Sampling Program",
+    "url": "https://danr.sd.gov/OfficeOfWater/DrinkingWater/NewWellSamplingProgram.aspx"
+   },
+   {
+    "label": "SD Department of Health: Test a Private Well (sample bottle order form)",
+    "url": "https://doh.sd.gov/laboratory/environmental-testing/test-a-private-well/"
+   },
+   {
+    "label": "SD Department of Health: Environmental Testing Fees",
+    "url": "https://doh.sd.gov/laboratory/environmental-testing/environmental-testing-fees/"
+   },
+   {
+    "label": "SD Department of Health: Environmental Testing",
+    "url": "https://doh.sd.gov/laboratory/environmental-testing/"
+   },
+   {
+    "label": "Midwest Assistance Program: Private Well Assessment brochure (PDF on DANR's site, revised 10/24/2023)",
+    "url": "https://danr.sd.gov/OfficeOfWater/DrinkingWater/docs/Well%20Assessment%20Brochure%20revised%2010.24.23.pdf"
+   },
+   {
+    "label": "City of Sioux Falls: Health Laboratory",
+    "url": "https://www.siouxfalls.gov/health-safety/health-services/public-health/health-laboratory"
+   },
+   {
+    "label": "Mid Continent Testing Labs: Private Well Testing",
+    "url": "https://www.thechemistrylab.com/private-well-testing"
+   }
+  ],
+  "name": "South Dakota",
+  "abbr": "SD"
  }
 }
