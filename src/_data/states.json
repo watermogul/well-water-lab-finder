@@ -1407,5 +1407,75 @@
   ],
   "name": "South Dakota",
   "abbr": "SD"
+ },
+ "hawaii": {
+  "title": "Hawaii certified labs for well and catchment water testing (all 22 on DOH's lists, Nov 2026)",
+  "description": "All 22 labs Hawaii DOH certifies or approves for drinking water: 2 in-state commercial labs for bacteria, 7 county and DOH labs, and 13 mainland labs for chemistry. Plus DOH's $25 subsidized lead and copper test for catchment homes.",
+  "intro": [
+   "Hawaii's Department of Health certifies drinking-water labs through the State Laboratories Division (SLD). The Safe Drinking Water Branch's \"Certified / Approved Drinking Water Labs\" page now points to two SLD lists: a chemistry and radiochemistry list headed November 16, 2026 (13 labs) and a microbiology list (10 labs, file created November 18, 2026). We copied both on November 22, 2026. Eurofins in Pomona, California is on both, so there are 22 labs in all.",
+   "The short version for a private well or a rainwater catchment system: for bacteria (total coliform and E. coli), two commercial labs on Oʻahu are certified, AECOS Laboratory in Kaneohe and FQLabs in Honolulu. DOH's previous directory (November 2025) listed both as accepting private samples. For chemistry such as nitrate, arsenic or lead, every lab on the November 2026 chemistry list is on the mainland. SLD says it \"approves\" out-of-state labs for chemistry only and that Hawaii has no formal reciprocity agreements with other states.",
+   "Rainwater catchment: DOH says home catchment systems are not regulated, but recommends a screening test from a DOH-certified or approved lab, with the sample taken after all treatment (for example at the kitchen tap). To pass, DOH says the water should have turbidity of 5 NTU or less, no E. coli, lead of 0.010 mg/L or less and copper of 1.3 mg/L or less. DOH also subsidizes one lead and copper test per year for a legal dwelling on catchment: you pay shipping and $25.00, and DOH says AECOS is currently the only participating lab.",
+   "What to test a well for: DOH's Private Water Wells sheet (revised October 21, 2024) says there are no rules on private-well water quality in Hawaii, that the owner is responsible, and points to EPA's advice to test each year for total coliform bacteria and nitrates, plus pesticides, organic chemicals and heavy metals before first use. DOH suggests checking its Groundwater Contamination Viewer for known chemical contamination near you and comparing results with federal and state maximum contaminant levels."
+  ],
+  "caveats": [
+   "DOH's lists are written for public-water-system compliance testing. DOH's own wording: \"Always confirm the laboratory's current certification status with them before submitting any water samples,\" and use a lab that subcontracts only to other Hawaii-certified labs. Questions: Safe Drinking Water Branch, (808) 586-4258.",
+   "No in-state lab is on the November 2026 chemistry list. AECOS is DOH's approved lab for the subsidized catchment lead and copper test but appears only on the microbiology list; ask AECOS which chemistry tests it reports as certified before relying on a result for a loan or sale.",
+   "Bacteria samples have short hold times (our sampling guide lists them by lab), so the mainland labs are realistic for chemistry, not bacteria. SLD says it does not offer out-of-state approval for microbiology, yet its list shows Eurofins Pomona with certification type \"Reciprocity\"; we show it as printed.",
+   "Chips for mainland labs are computed from DOH's analyte matrix: a chip appears when the lab has a method printed for that analyte (for VOCs, the row \"Regulated Volatile Organic Compounds\"; for pesticides, any of the common pesticide rows; for PFAS, any PFAS row). Several printed expiration dates have passed but are marked \"extended until renewal\"; we show them as printed.",
+   "The grouping is ours. County water departments and DOH district labs are on the microbiology list but are not set up for homeowners as far as we can tell (DOH's November 2025 directory said the county labs do not accept private samples). Their addresses and phones come from that older directory or from DOH's lab pages, as cited on each card.",
+   "Prices: the only price we found from a primary source is DOH's $25 subsidized catchment lead and copper test. AECOS and FQLabs post no prices on their sites; we did not check the mainland labs' sites for prices."
+  ],
+  "main_heading": "In-state commercial labs certified for bacteria (private samples accepted per DOH's 2025 directory)",
+  "public_heading": "County water department and DOH labs on the microbiology list",
+  "public_note": "Certified for bacteria to test public water systems and for DOH programs. DOH's November 2025 directory listed the county labs as not accepting private samples. The DOH district labs' pages do not mention homeowner samples. Call first.",
+  "oos_heading": "Mainland labs approved by Hawaii DOH for chemistry",
+  "oos_note": [
+   "8 of these 13 labs have a method printed for nitrate and 8 for arsenic. Uranium, gross alpha, radium and radon are covered by only some (see the chips on each card). None of them says on DOH's list whether it takes homeowner samples by mail from Hawaii; ask about bottles, shipping and hold times before collecting."
+  ],
+  "chips_label": "Certified or approved by Hawaii DOH for (well-relevant tests, from DOH's lists):",
+  "resources": [
+   {
+    "label": "Hawaii DOH Safe Drinking Water Branch: Certified / Approved Drinking Water Labs (July 2026 pointer PDF)",
+    "url": "https://health.hawaii.gov/sdwb/files/2026/07/Certified-Labs.pdf"
+   },
+   {
+    "label": "Hawaii DOH SLD: Certified Chemistry & Radiochemistry Drinking Water Labs (November 16, 2026)",
+    "url": "https://health.hawaii.gov/statelab/files/2026/03/sld-hm-certified-labs-chem.pdf"
+   },
+   {
+    "label": "Hawaii DOH SLD: Drinking Water Microbiology Laboratories (November 2026)",
+    "url": "https://health.hawaii.gov/statelab/files/2026/03/sld-hm-certified_labs_micro.pdf"
+   },
+   {
+    "label": "Hawaii DOH SLD: Drinking Water Certification Program",
+    "url": "https://health.hawaii.gov/statelab/dwcp/"
+   },
+   {
+    "label": "Hawaii DOH Safe Drinking Water Branch: Private Water Wells (revised October 21, 2024)",
+    "url": "https://health.hawaii.gov/sdwb/files/2024/10/PrivateWaterWells_rev2024-10-21.pdf"
+   },
+   {
+    "label": "Hawaii DOH Safe Drinking Water Branch: Rainwater Catchment (screening test and subsidized lead/copper test)",
+    "url": "https://health.hawaii.gov/sdwb/raincatchment/"
+   },
+   {
+    "label": "Hawaii DOH Safe Drinking Water Branch: Groundwater Contamination Viewer",
+    "url": "https://health.hawaii.gov/sdwb/groundwater-contamination-viewer/"
+   },
+   {
+    "label": "Hawaii DOH: previous lab directory (revision November 20, 2025; superseded)",
+    "url": "https://health.hawaii.gov/sdwb/files/2025/12/Certified_Labs_202512.pdf"
+   },
+   {
+    "label": "AECOS Laboratory",
+    "url": "https://www.aecos.com/AECOS_Laboratory.html"
+   },
+   {
+    "label": "FQLabs",
+    "url": "https://fqlabs.com/"
+   }
+  ],
+  "name": "Hawaii",
+  "abbr": "HI"
  }
 }

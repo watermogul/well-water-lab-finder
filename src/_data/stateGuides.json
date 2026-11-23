@@ -563,27 +563,6 @@
     ],
     "last_verified": "2026-11-02"
   },
-  "hawaii": {
-    "name": "Hawaii",
-    "abbr": "HI",
-    "list_type": "downloadable list (not yet transcribed here)",
-    "resources": [
-      {
-        "label": "Hawaii DOH Safe Drinking Water Branch: Certified labs (Dec. 2025 PDF)",
-        "url": "https://health.hawaii.gov/sdwb/files/2025/12/Certified_Labs_202512.pdf",
-        "kind": "lab list",
-        "checked": "loaded"
-      }
-    ],
-    "facts": [
-      "Hawaii DOH's list marks which in-state labs do not accept private samples."
-    ],
-    "fees": [],
-    "unverified": [
-      "Not yet transcribed; queued."
-    ],
-    "last_verified": "2026-11-02"
-  },
   "delaware": {
     "name": "Delaware",
     "abbr": "DE",
