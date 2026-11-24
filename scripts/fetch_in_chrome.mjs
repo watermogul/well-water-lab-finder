@@ -1,0 +1,22 @@
+// fetch a public URL inside headless Chrome (mass.gov blocks plain curl) and save bytes
+import { spawn } from 'node:child_process';
+import fs from 'node:fs';
+const [,, pageUrl, fileUrl, out] = process.argv;
+const chrome = spawn('google-chrome', ['--headless=new','--no-sandbox','--disable-gpu','--remote-debugging-port=9333','--user-data-dir=/tmp/chr-ma','about:blank'], {stdio:'ignore'});
+await new Promise(r=>setTimeout(r,2500));
+const list = await (await fetch('http://127.0.0.1:9333/json')).json();
+const ws = new WebSocket(list.find(t=>t.type==='page').webSocketDebuggerUrl);
+await new Promise(r=>ws.onopen=r);
+let id=0; const pend={};
+ws.onmessage=e=>{const m=JSON.parse(e.data); if(m.id&&pend[m.id]){pend[m.id](m);delete pend[m.id];}};
+const send=(method,params={})=>new Promise(r=>{const i=++id;pend[i]=r;ws.send(JSON.stringify({id:i,method,params}));});
+await send('Page.enable');
+await send('Page.navigate',{url:pageUrl});
+await new Promise(r=>setTimeout(r,6000));
+const expr = `(async()=>{const r=await fetch(${JSON.stringify(fileUrl)});const b=new Uint8Array(await r.arrayBuffer());let s='';for(const x of b)s+=String.fromCharCode(x);return JSON.stringify({status:r.status,ct:r.headers.get('content-type'),lm:r.headers.get('last-modified'),cd:r.headers.get('content-disposition'),b64:btoa(s)});})()`;
+const res = await send('Runtime.evaluate',{expression:expr,awaitPromise:true,returnByValue:true});
+const o = JSON.parse(res.result.result.value);
+fs.writeFileSync(out, Buffer.from(o.b64,'base64'));
+console.log(o.status,o.ct,o.lm,o.cd, Buffer.from(o.b64,'base64').length);
+ws.close(); chrome.kill();
+process.exit(0);

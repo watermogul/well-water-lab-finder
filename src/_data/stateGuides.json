@@ -29,43 +29,6 @@
     ],
     "last_verified": "2026-11-02"
   },
-  "massachusetts": {
-    "name": "Massachusetts",
-    "abbr": "MA",
-    "list_type": "interactive search",
-    "resources": [
-      {
-        "label": "MassDEP: Find a certified laboratory for water testing",
-        "url": "https://www.mass.gov/how-to/find-a-certified-laboratory-for-water-testing",
-        "kind": "how-to",
-        "checked": "blocked"
-      },
-      {
-        "label": "MassDEP certified laboratory search database",
-        "url": "https://eeaonline.eea.state.ma.us/DEP/Labcert/labcert.aspx",
-        "kind": "lab list",
-        "checked": "loaded"
-      },
-      {
-        "label": "MassDEP: Private wells",
-        "url": "https://www.mass.gov/private-wells",
-        "kind": "program",
-        "checked": "blocked"
-      }
-    ],
-    "facts": [
-      "MassDEP's lab database is searchable by region, analyte and matrix; choose \"Potable (DrinkingWater)\" to limit results to drinking water.",
-      "Private wells in Massachusetts are regulated by the local board of health, which may set its own testing rules.",
-      "MassDEP says municipal treatment-plant labs generally do not take samples from private consumers other than local residents.",
-      "MassDEP's how-to page also links a spreadsheet of certified labs that offer services to private well owners."
-    ],
-    "fees": [],
-    "unverified": [
-      "mass.gov blocked our automated checker on 2026-11-02, so we have not yet transcribed MassDEP's private-well lab spreadsheet. We will add it as listings once we can verify it.",
-      "No state fee schedule; labs set their own prices."
-    ],
-    "last_verified": "2026-11-02"
-  },
   "north-carolina": {
     "name": "North Carolina",
     "abbr": "NC",
