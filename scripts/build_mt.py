@@ -10,7 +10,7 @@ from more_lib import write_state, clean_phone
 from parse_mt import parse_mt
 
 SRC_DIR = os.environ.get('SRC_DIR', '/workspace/src-mt')
-V = '2026-11-12'
+V = '2026-11-24'  # re-verified: page md5 + Last-Modified unchanged since 2026-11-12
 more_lib.V = V
 URL = 'https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram'
 SN = 'Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)'

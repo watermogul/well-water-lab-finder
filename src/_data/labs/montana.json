@@ -8,7 +8,7 @@
   "program_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
   "report_date": "Web page with no printed date (server last-modified June 5, 2026); fetched November 12, 2026"
  },
- "last_verified": "2026-11-12",
+ "last_verified": "2026-11-24",
  "labs": [
   {
    "name": "DPHHS State of Montana Environmental Laboratory",
@@ -24,7 +24,7 @@
    "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
    "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
    "source_date": "2026-06-05",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-24",
    "source_url_2": "https://dphhs.mt.gov/assets/publichealth/Lab/EnvironmentalLabtesting/PrivateWellScreenBlueSheet1.pdf",
    "source_name_2": "DPHHS private-well chemistry form (July 2025)",
    "note": "This is the state lab, and it tests private wells. Its private-well chemistry form (dated July 2025, \"prices subject to change\") lists a Basic Screen (coliform/E. coli presence-absence, nitrate + nitrite, specific conductivity) for $55, a Metals Screen (calcium, magnesium, hardness, sodium, lead, arsenic, copper, uranium) for $135, an Anion Screen for $75, VOCs for $148, pesticides for $285 and herbicides for $206. Its private-well bacteria form (dated January 2024) lists total coliform presence/absence for $25 and a coliform count, iron bacteria or sulfur bacteria for $42 each. Both forms say samples must be paid for in advance, and bacteria samples must reach the lab within 48 hours. Mailing address on the forms: P.O. Box 4369, Helena, MT 59604; toll-free (800) 821-7284."
@@ -43,7 +43,7 @@
    "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
    "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
    "source_date": "2026-06-05",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-24",
    "source_url_2": "https://waterquality.montana.edu/well-ed/testing/certifiedlabs.html",
    "source_name_2": "MSU Extension Water Quality: Certified Montana Drinking Water Labs (updated 23.02.15)"
   },
@@ -60,7 +60,7 @@
    "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
    "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
    "source_date": "2026-06-05",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-24",
    "source_url_2": "https://waterquality.montana.edu/well-ed/testing/certifiedlabs.html",
    "source_name_2": "MSU Extension Water Quality: Certified Montana Drinking Water Labs (updated 23.02.15)"
   },
@@ -78,7 +78,7 @@
    "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
    "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
    "source_date": "2026-06-05",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-24",
    "source_url_2": "https://waterquality.montana.edu/well-ed/testing/certifiedlabs.html",
    "source_name_2": "MSU Extension Water Quality: Certified Montana Drinking Water Labs (updated 23.02.15)"
   },
@@ -96,7 +96,7 @@
    "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
    "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
    "source_date": "2026-06-05",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-24",
    "source_url_2": "https://waterquality.montana.edu/well-ed/testing/certifiedlabs.html",
    "source_name_2": "MSU Extension Water Quality: Certified Montana Drinking Water Labs (updated 23.02.15)"
   },
@@ -114,7 +114,7 @@
    "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
    "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
    "source_date": "2026-06-05",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-24",
    "source_url_2": "https://waterquality.montana.edu/well-ed/testing/certifiedlabs.html",
    "source_name_2": "MSU Extension Water Quality: Certified Montana Drinking Water Labs (updated 23.02.15)"
   },
@@ -131,7 +131,7 @@
    "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
    "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
    "source_date": "2026-06-05",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-24",
    "source_url_2": "https://waterquality.montana.edu/well-ed/testing/certifiedlabs.html",
    "source_name_2": "MSU Extension Water Quality: Certified Montana Drinking Water Labs (updated 23.02.15)",
    "note": "MSU Extension's list (Feb 2023) prints PO Box 606, Arlee, MT 59821, (406) 745-5227; the DPHHS page prints 82892 US 93 with the town spelled \"Ravali\" (as printed) and (406) 370-1089. Call to confirm."
@@ -150,7 +150,7 @@
    "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
    "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
    "source_date": "2026-06-05",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-24",
    "source_url_2": "https://waterquality.montana.edu/well-ed/testing/certifiedlabs.html",
    "source_name_2": "MSU Extension Water Quality: Certified Montana Drinking Water Labs (updated 23.02.15)"
   },
@@ -167,7 +167,7 @@
    "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
    "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
    "source_date": "2026-06-05",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-24",
    "note": "Not on MSU Extension's Feb 2023 list for well owners. The DPHHS page does not say whether it takes homeowner samples."
   },
   {
@@ -183,7 +183,7 @@
    "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
    "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
    "source_date": "2026-06-05",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-24",
    "source_url_2": "https://waterquality.montana.edu/well-ed/testing/certifiedlabs.html",
    "source_name_2": "MSU Extension Water Quality: Certified Montana Drinking Water Labs (updated 23.02.15)"
   },
@@ -200,7 +200,7 @@
    "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
    "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
    "source_date": "2026-06-05",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-24",
    "source_url_2": "https://waterquality.montana.edu/well-ed/testing/certifiedlabs.html",
    "source_name_2": "MSU Extension Water Quality: Certified Montana Drinking Water Labs (updated 23.02.15)",
    "note": "MSU Extension's list (Feb 2023) shows \"Crisp Water Technologies\" at the same street address (1709 S Avenue W, Missoula) and the same phone number."
@@ -219,7 +219,7 @@
    "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
    "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
    "source_date": "2026-06-05",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-24",
    "note": "The DPHHS page prints a second name line for the chemistry listing: \"City of Billings Public Works- Water Quality\". This lab is not on MSU Extension's list for well owners."
   },
   {
@@ -235,7 +235,7 @@
    "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
    "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
    "source_date": "2026-06-05",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-24",
    "source_url_2": "https://waterquality.montana.edu/well-ed/testing/certifiedlabs.html",
    "source_name_2": "MSU Extension Water Quality: Certified Montana Drinking Water Labs (updated 23.02.15)",
    "note": "MSU Extension's list (Feb 2023) names it \"Great Falls Water Treatment Plant Water Testing Lab\" and gives the mailing address PO Box 5021, Great Falls, MT 59403."
@@ -253,7 +253,7 @@
    "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
    "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
    "source_date": "2026-06-05",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-24",
    "source_url_2": "https://waterquality.montana.edu/well-ed/testing/certifiedlabs.html",
    "source_name_2": "MSU Extension Water Quality: Certified Montana Drinking Water Labs (updated 23.02.15)",
    "note": "MSU Extension's list (Feb 2023) names it \"Missoula City/County Health Department Water Lab\" and prints the phone as (406) 258-3386; the DPHHS page prints (406) 523-4755. Try both."
@@ -271,7 +271,7 @@
    "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
    "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
    "source_date": "2026-06-05",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-24",
    "source_url_2": "https://waterquality.montana.edu/well-ed/testing/certifiedlabs.html",
    "source_name_2": "MSU Extension Water Quality: Certified Montana Drinking Water Labs (updated 23.02.15)",
    "note": "MSU Extension's list says this lab \"is not able to test samples from homeowners.\""
@@ -289,7 +289,7 @@
    "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
    "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
    "source_date": "2026-06-05",
-   "last_verified": "2026-11-12"
+   "last_verified": "2026-11-24"
   },
   {
    "name": "Anatek Labs",
@@ -304,7 +304,7 @@
    "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
    "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
    "source_date": "2026-06-05",
-   "last_verified": "2026-11-12"
+   "last_verified": "2026-11-24"
   },
   {
    "name": "Anatek Labs, Inc.",
@@ -319,7 +319,7 @@
    "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
    "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
    "source_date": "2026-06-05",
-   "last_verified": "2026-11-12"
+   "last_verified": "2026-11-24"
   },
   {
    "name": "Astro-Chem Lab Inc.",
@@ -334,7 +334,7 @@
    "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
    "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
    "source_date": "2026-06-05",
-   "last_verified": "2026-11-12"
+   "last_verified": "2026-11-24"
   },
   {
    "name": "Culligan Analytical Laboratory",
@@ -350,7 +350,7 @@
    "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
    "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
    "source_date": "2026-06-05",
-   "last_verified": "2026-11-12"
+   "last_verified": "2026-11-24"
   },
   {
    "name": "EMSL Analytical, Inc.",
@@ -365,7 +365,7 @@
    "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
    "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
    "source_date": "2026-06-05",
-   "last_verified": "2026-11-12"
+   "last_verified": "2026-11-24"
   },
   {
    "name": "Energy Laboratories, Inc. - Casper",
@@ -380,7 +380,7 @@
    "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
    "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
    "source_date": "2026-06-05",
-   "last_verified": "2026-11-12"
+   "last_verified": "2026-11-24"
   },
   {
    "name": "Eurofins Built Environmental Testing East - Cary",
@@ -395,7 +395,7 @@
    "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
    "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
    "source_date": "2026-06-05",
-   "last_verified": "2026-11-12"
+   "last_verified": "2026-11-24"
   },
   {
    "name": "Eurofins Denver",
@@ -410,7 +410,7 @@
    "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
    "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
    "source_date": "2026-06-05",
-   "last_verified": "2026-11-12"
+   "last_verified": "2026-11-24"
   },
   {
    "name": "Eurofins Eaton Analytical, Inc.",
@@ -425,7 +425,7 @@
    "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
    "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
    "source_date": "2026-06-05",
-   "last_verified": "2026-11-12"
+   "last_verified": "2026-11-24"
   },
   {
    "name": "Eurofins Eaton Analytical, LLC- South Bend",
@@ -440,7 +440,7 @@
    "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
    "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
    "source_date": "2026-06-05",
-   "last_verified": "2026-11-12"
+   "last_verified": "2026-11-24"
   },
   {
    "name": "Eurofins Lancaster Laboratories Environmental, LLC",
@@ -455,7 +455,7 @@
    "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
    "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
    "source_date": "2026-06-05",
-   "last_verified": "2026-11-12"
+   "last_verified": "2026-11-24"
   },
   {
    "name": "NOVA Biologics, Inc.",
@@ -470,7 +470,7 @@
    "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
    "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
    "source_date": "2026-06-05",
-   "last_verified": "2026-11-12"
+   "last_verified": "2026-11-24"
   },
   {
    "name": "Pace Analytical NCT&I",
@@ -485,7 +485,7 @@
    "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
    "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
    "source_date": "2026-06-05",
-   "last_verified": "2026-11-12"
+   "last_verified": "2026-11-24"
   },
   {
    "name": "Pace Analytical Services LLC- Florida",
@@ -500,7 +500,7 @@
    "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
    "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
    "source_date": "2026-06-05",
-   "last_verified": "2026-11-12"
+   "last_verified": "2026-11-24"
   },
   {
    "name": "Pace Analytical Services LLC- MPLS",
@@ -515,7 +515,7 @@
    "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
    "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
    "source_date": "2026-06-05",
-   "last_verified": "2026-11-12"
+   "last_verified": "2026-11-24"
   },
   {
    "name": "Pace Analytical Services LLC- Peoria",
@@ -530,7 +530,7 @@
    "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
    "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
    "source_date": "2026-06-05",
-   "last_verified": "2026-11-12"
+   "last_verified": "2026-11-24"
   },
   {
    "name": "Pace Analytical Services, Inc.- Pitts",
@@ -545,7 +545,7 @@
    "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
    "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
    "source_date": "2026-06-05",
-   "last_verified": "2026-11-12"
+   "last_verified": "2026-11-24"
   },
   {
    "name": "PACE Analytical-Sheridan",
@@ -561,7 +561,7 @@
    "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
    "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
    "source_date": "2026-06-05",
-   "last_verified": "2026-11-12"
+   "last_verified": "2026-11-24"
   },
   {
    "name": "SGS North America, Inc.",
@@ -576,7 +576,7 @@
    "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
    "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
    "source_date": "2026-06-05",
-   "last_verified": "2026-11-12"
+   "last_verified": "2026-11-24"
   },
   {
    "name": "Weck Laboratory Inc.",
@@ -591,7 +591,7 @@
    "source_name": "Montana DPHHS Water Laboratory Certification Program: Certified Laboratories (web page)",
    "source_url": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
    "source_date": "2026-06-05",
-   "last_verified": "2026-11-12"
+   "last_verified": "2026-11-24"
   }
  ]
 }
