@@ -525,26 +525,5 @@
       "dec.alaska.gov blocked our checker on 2026-11-02; we could not read the list."
     ],
     "last_verified": "2026-11-02"
-  },
-  "delaware": {
-    "name": "Delaware",
-    "abbr": "DE",
-    "list_type": "interactive search",
-    "resources": [
-      {
-        "label": "Delaware Office of Drinking Water: Lab certification",
-        "url": "https://www.dhss.delaware.gov/dph/hsp/dwlabcert.html",
-        "kind": "lab list",
-        "checked": "blocked"
-      }
-    ],
-    "facts": [
-      "Delaware's Office of Drinking Water lists approved labs."
-    ],
-    "fees": [],
-    "unverified": [
-      "The Delaware site blocked our checker on 2026-11-02; we could not confirm the list or any fees."
-    ],
-    "last_verified": "2026-11-02"
   }
 }

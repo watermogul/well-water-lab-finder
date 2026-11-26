@@ -1545,5 +1545,67 @@
   ],
   "name": "Massachusetts",
   "abbr": "MA"
+ },
+ "delaware": {
+  "title": "Delaware well water testing: free state kits and all 17 ODW-approved labs (Nov 2026)",
+  "description": "Delaware DPH gives private well owners free bacteria and chemistry test kits (nitrate, fluoride, sodium, iron and more). Plus all 17 labs on the Office of Drinking Water's approved list, with which ones serve homeowners.",
+  "intro": [
+   "The cheapest way to test a Delaware well is the state's own kit. The Division of Public Health (DPH) says test kits for private well owners \"are available for pickup and drop-off for testing at no charge.\" One kit has two bottles: a bacteria bottle (total coliforms and E. coli) and a chemistry bottle (nitrate, nitrite, iron, fluoride, alkalinity, pH, chloride, sulfate, sodium and hardness). The Delaware Public Health Laboratory in Smyrna tests them.",
+   "For anything else (arsenic, lead, VOCs, pesticides, PFAS, radioactivity), you need a commercial lab. DPH says the state lab \"does not test private drinking water wells for non-prescribed chemical or bacterial contaminants unless the DE Office of Drinking Water submits the sample.\" The Office of Drinking Water (ODW) publishes a list of 17 approved labs. We copied it on November 25, 2026; it prints no revision date, gives names only (no addresses or test lists), and says the labs are approved \"to perform SDWA compliance testing\" for public water systems. We checked each lab's linked website for a location and for any sign that it serves homeowners.",
+   "What and when to test: DPH says EPA and CDC both recommend annual sampling, and to test more often if someone in the home is pregnant or nursing, the water is used for infant formula, a neighbor finds a dangerous contaminant, the taste, odor, color or clarity changes, or after repairing or replacing any part of the well or plumbing. The state kit \"WILL NOT be analyzed for compounds that may be in your water due to a spill or environmental release\"; if you suspect that, DPH says to contact DNREC and consider bottled water for drinking and cooking.",
+   "Help with treatment: in August 2023 DPH announced a financial-assistance program for private well owners whose state-lab results show too much total coliform, E. coli, fluoride, nitrite or (for people on severely salt-restricted diets) sodium, with proof of enrollment in SNAP, WIC, SSI, LIHEAP or TANF. It covers a treatment system, installation and the first year of maintenance, and had a $200,000 budget \"until funds expire or additional funding is secured.\" We did not confirm it is still open; DPH lists DHSS_DPH_PrivateWell@delaware.gov and 302-744-4546 option 9."
+  ],
+  "caveats": [
+   "Price: DPH's current Private Drinking Water page (last updated April 2024), its Bacteriological Laboratory page and the August 2023 news release all say the kits are free. Two older DPH documents still show prices: the Environmental Laboratory page (last updated December 2023) says $2.00 each, and ODW's results brochure says $4 per kit. We go with \"no charge\"; confirm when you pick up.",
+   "The state kit forms say \"PRIVATE HOMEOWNER USE ONLY - NOT FOR REAL ESTATE USE.\" For a home sale or loan, use a commercial lab.",
+   "ODW's list gives names only. Where a lab has several locations and ODW does not say which is approved (Alloway, Alpha, EMSL, Eurofins), or the link was dead, we show no street address. Addresses shown come from the page ODW links to or the lab's own contact page, not from ODW.",
+   "ODW does not list which tests each lab is approved for. Ask the lab for its Delaware approval for the exact test you need (ODW: 302-741-8630).",
+   "Several of ODW's links were broken on November 25, 2026: both Eurofins pages and the Water Testing Labs of Maryland pricing page returned 404, the ALS and EMSL links returned server errors, aerobiology.net no longer showed a lab site, and the Suburban Testing Labs link redirects to SPL. We did not link the broken ones.",
+   "The grouping is ours: the first group is the state lab plus the three listed labs whose own sites say they test well water for homeowners or real estate; the rest are on ODW's list with no homeowner page found. No prices are shown for commercial labs; we did not find any posted."
+  ],
+  "main_heading": "Free state kits and ODW-approved labs that serve homeowners",
+  "limited_heading": "Other labs on ODW's approved list (no homeowner service found)",
+  "limited_note": "Approved by Delaware ODW for drinking-water compliance testing. Several are large out-of-state labs or specialty labs (microbiology, radiochemistry, PFAS). We found no page saying they take homeowner samples. Call first.",
+  "chips_label": "Tests in the free DPH kit (bacteria bottle + chemistry bottle):",
+  "resources": [
+   {
+    "label": "Delaware ODW: Laboratory Certification Program (approved labs list)",
+    "url": "https://dhss.delaware.gov/dph/homepage/about/sections/hsp/licenses-and-permits/odw/laboratory-certification-program/"
+   },
+   {
+    "label": "Delaware DPH: Private Drinking Water (free test kits for well owners)",
+    "url": "https://dhss.delaware.gov/dph/homepage/about/sections/ehdishome/labs/environmental-laboratory/private-drinking-water/"
+   },
+   {
+    "label": "Delaware DPH: Private well water sample forms and instructions (PDF, Rev 8/9/23)",
+    "url": "https://dhss.delaware.gov/wp-content/uploads/sites/12/dph/pdf/prvtwatertestforms.pdf"
+   },
+   {
+    "label": "Delaware DPH: Private Well Water Sampling Request and Consent Form (online)",
+    "url": "https://survey123.arcgis.com/share/9c4a230cbb7d4d82bad446fcb4c95f70?portalUrl=https://dnrec.maps.arcgis.com"
+   },
+   {
+    "label": "Delaware DPH: Environmental Laboratory (how to get your water tested, results)",
+    "url": "https://dhss.delaware.gov/dph/homepage/about/sections/ehdishome/labs/environmental-laboratory/"
+   },
+   {
+    "label": "Delaware DPH: Interpreting your drinking water results (PDF brochure)",
+    "url": "https://dhss.delaware.gov/wp-content/uploads/sites/12/dph/pdf/watertest.pdf"
+   },
+   {
+    "label": "Delaware DPH: Drinking water tests at the Public Health Laboratory (PDF)",
+    "url": "https://dhss.delaware.gov/wp-content/uploads/sites/12/dph/pdf/watertestperformed.pdf"
+   },
+   {
+    "label": "State of Delaware News: DPH financial aid program for private well owners, free kits (Aug 31, 2023)",
+    "url": "https://news.delaware.gov/2023/08/31/dph-launches-new-financial-aid-program-for-private-well-owners-offers-free-water-testing-kits-to-delaware-residents/"
+   },
+   {
+    "label": "Delaware Office of Drinking Water",
+    "url": "https://dhss.delaware.gov/dph/homepage/about/sections/hsp/licenses-and-permits/odw/"
+   }
+  ],
+  "name": "Delaware",
+  "abbr": "DE"
  }
 }
