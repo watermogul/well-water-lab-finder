@@ -38,6 +38,8 @@ The sources agree: disinfect, then retest. They give different timing:
 - **CSU:** retest "in one to two weeks" (its shock chlorination steps say "after one week"). When retesting a well that tested positive, sample "as close to the well as possible." If bacteria persist, "the source of the contamination must be identified and eliminated."
 - **TCEQ:** keep boiling or using other water until a lab reports "total coliform not found (absent)." If repeat tests still show coliforms, "consider adding continuous disinfection equipment."
 
+If bacteria keep coming back, see [continuous disinfection: UV light vs. chlorination](/guides/continuous-disinfection-uv-vs-chlorination-private-well/).
+
 How to disinfect: [shock chlorinating a private well](/guides/shock-chlorination-well-disinfection/).
 
 ## How often does disinfection alone fix it?
