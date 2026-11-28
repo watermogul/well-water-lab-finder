@@ -181,6 +181,7 @@ write_state('massachusetts', 'Massachusetts', 'MA', labs,
       {'label': 'MassDEP: PFAS in Private Well Drinking Water Supplies FAQ', 'url': PFAS},
       {'label': 'MassDEP: Private Well Guidelines', 'url': GUIDE},
       {'label': 'MassDEP: Private Wells (all private-well resources)', 'url': PW},
+      {'label': 'Our guide: arsenic and uranium in Massachusetts bedrock wells (USGS study, gross-alpha sequence, labs certified for each test)', 'url': '/guides/massachusetts-arsenic-uranium-bedrock-wells/'},
      ],
     })
 

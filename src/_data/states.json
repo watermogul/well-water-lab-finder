@@ -1541,6 +1541,10 @@
    {
     "label": "MassDEP: Private Wells (all private-well resources)",
     "url": "https://www.mass.gov/private-wells"
+   },
+   {
+    "label": "Our guide: arsenic and uranium in Massachusetts bedrock wells (USGS study, gross-alpha sequence, labs certified for each test)",
+    "url": "/guides/massachusetts-arsenic-uranium-bedrock-wells/"
    }
   ],
   "name": "Massachusetts",

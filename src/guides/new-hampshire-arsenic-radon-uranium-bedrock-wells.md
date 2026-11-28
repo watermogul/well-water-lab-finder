@@ -109,4 +109,4 @@ Source: NH PHL Water Test Submittal Form, last verified 2026-10-28. The form say
 - Current prices for Arsenic-III speciation and radium-226/228 at the state lab. The submittal form doesn't list them.
 - Up-to-date treatment costs. NHDES's 2021 arsenic fact sheet has ranges, but we haven't found a newer NHDES source.
 
-See also: [what to test well water for](/guides/what-to-test-well-water-for/) and [what well water testing costs](/guides/how-much-does-well-water-testing-cost/).
+See also: [arsenic and uranium in Massachusetts bedrock wells](/guides/massachusetts-arsenic-uranium-bedrock-wells/), [what to test well water for](/guides/what-to-test-well-water-for/) and [what well water testing costs](/guides/how-much-does-well-water-testing-cost/).
